@@ -5,10 +5,25 @@
     }
   },
   "rewrites": [
-    { "source": "/manifest.json", "destination": "/api/index.js" },
-    { "source": "/manifest", "destination": "/api/index.js" },
-    { "source": "/catalog/:type/:id.json", "destination": "/api/index.js" },
-    { "source": "/catalog/:type/:id", "destination": "/api/index.js" },
-    { "source": "/.*", "destination": "/api/index.js" }
+    {
+      "source": "/manifest.json",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/manifest",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/catalog/:type/:id.json",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/catalog/:type/:id",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/api/index.js"
+    }
   ]
 }
