@@ -1,6 +1,8 @@
-{"id":"57293","variant":"standard"}
 {
   "name": "movie-addon",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
