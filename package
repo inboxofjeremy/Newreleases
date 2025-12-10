@@ -1,0 +1,13 @@
+{
+  "name": "recent-movie-releases-addon",
+  "version": "1.0.0",
+  "description": "Stremio addon: Movies released in the last 30 days.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
