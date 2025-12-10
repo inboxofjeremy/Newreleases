@@ -1,13 +1,13 @@
 {
-  "version": 3,
+  "version": 2,
   "routes": [
     {
-      "src": "/catalog/movie/recent_movies.json",
+      "src": "/manifest.json",
       "dest": "/api/index.js"
     },
     {
-      "src": "/manifest.json",
-      "dest": "/manifest.json"
+      "src": "/catalog/movie/recent_movies.json",
+      "dest": "/api/index.js"
     }
   ]
 }
