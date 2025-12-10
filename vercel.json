@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "routes": [
+    { "src": "/manifest.json", "dest": "/api/index.js" },
+    { "src": "/catalog/movie/recent_movies.json", "dest": "/api/index.js" },
+    { "src": "/meta/movie/.+\\.json", "dest": "/api/index.js" }
+  ]
+}
