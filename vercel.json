@@ -1,16 +1,8 @@
 {
-  "headers": [
-    {
-      "source": "/manifest.json",
-      "headers": [
-        { "key": "Content-Encoding", "value": "identity" },
-        { "key": "Cache-Control", "value": "no-cache" }
-      ]
+  "framework": null,
+  "functions": {
+    "api/*.js": {
+      "runtime": "nodejs20.x"
     }
-  ],
-  "routes": [
-    { "src": "/manifest.json", "dest": "/api/index.js" },
-    { "src": "/catalog/(.*)", "dest": "/api/index.js" },
-    { "src": "/meta/(.*)", "dest": "/api/index.js" }
-  ]
+  }
 }
