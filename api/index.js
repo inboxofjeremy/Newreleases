@@ -1,4 +1,5 @@
-import fetch from "node-fetch";
+// ❌ REMOVE THIS:
+// import fetch from "node-fetch";
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
