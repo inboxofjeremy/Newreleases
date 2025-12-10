@@ -3,7 +3,7 @@ export const config = { runtime: "edge" };
 /* ============================================
    CONFIG
 ============================================ */
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";   // your key
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";   //
 const REGIONS = ["US", "CA", "GB"];
 const PAGES_PER_REGION = 5;         // 15 total discover pages
 const CONCURRENCY = 4;              // Ultra-stable mode
