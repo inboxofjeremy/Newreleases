@@ -1,241 +1,150 @@
-// api/index.js
-export const config = { runtime: "edge" };
-
-// ==========================
-// CONFIG
-// ==========================
-const TMDB_KEY = process.env.TMDB_KEY;
-
-const PRIORITY_REGIONS = ["US", "CA", "GB"];
-const POPULAR_PAGES = 20; // Option C
-const CORS = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers": "*",
-  "Content-Type": "application/json",
+export const config = {
+  runtime: "edge",
 };
 
-// ==========================
-// UTILS
-// ==========================
-async function fetchJSON(url) {
-  try {
-    const r = await fetch(url, { cache: "no-store" });
-    if (!r.ok) return null;
-    return await r.json();
-  } catch (_) {
-    return null;
-  }
-}
+// INSERT YOUR TMDB KEY HERE:
+const TMDB_KEY = "YOUR_TMDB_API_KEY";
 
-function cleanHTML(str) {
-  return str ? str.replace(/<[^>]+>/g, "").trim() : "";
-}
+const TMDB_BASE = "https://api.themoviedb.org/3";
+const IMDB_FALLBACK = "https://p.media-imdb.com/static-content.json"; // lightweight fallback
 
-function isForeign(m) {
-  return (m.original_language || "").toLowerCase() !== "en";
-}
-
-function isValidMovie(m) {
-  if (!m) return false;
-  if (!m.title) return false;
-  if (m.adult) return false;
-  return true;
-}
-
-function getDateRange() {
+// 90-day window
+function getDateRanges() {
   const today = new Date();
-  const start = new Date();
-  start.setDate(today.getDate() - 30);
+  const end = today.toISOString().split("T")[0];
 
+  const past = new Date();
+  past.setDate(past.getDate() - 90);
+  const start = past.toISOString().split("T")[0];
+
+  return { start, end };
+}
+
+// Build TMDB discover URL (Hollywood-weighted)
+function tmdbDiscoverURL() {
+  const { start, end } = getDateRanges();
+
+  const regions = ["US", "CA", "GB"].join(",");
+
+  const params = new URLSearchParams({
+    api_key: TMDB_KEY,
+    language: "en-US",
+    region: "US",
+    sort_by: "release_date.desc",
+    "release_date.gte": start,
+    "release_date.lte": end,
+    with_release_type: "2|3|4|6", // Hollywood-weighted
+    with_original_language: "en",  // prioritize English language films
+  });
+
+  return `${TMDB_BASE}/discover/movie?${params.toString()}`;
+}
+
+// Convert TMDB movie → Stremio meta object
+function tmdbToMeta(m) {
   return {
-    start: start.toISOString().slice(0, 10),
-    end: today.toISOString().slice(0, 10),
+    id: `tmdb:${m.id}`,
+    type: "movie",
+    name: m.title,
+    poster: m.poster_path
+      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+      : null,
+    background: m.backdrop_path
+      ? `https://image.tmdb.org/t/p/w780${m.backdrop_path}`
+      : null,
+    releaseInfo: m.release_date,
+    description: m.overview,
   };
 }
 
-// ==========================
-// GET REAL PRIORITY REGION RELEASE DATE
-// ==========================
-async function getRegionRelease(movieId) {
-  const url = `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${TMDB_KEY}`;
-  const json = await fetchJSON(url);
-  if (!json?.results) return null;
+// IMDb fallback (VERY lightweight, last resort)
+async function imdbFallbackList() {
+  try {
+    const url = `${IMDB_FALLBACK}`;
+    const res = await fetch(url);
+    if (!res.ok) return [];
 
-  for (const region of PRIORITY_REGIONS) {
-    const entry = json.results.find((x) => x.iso_3166_1 === region);
-    if (!entry || !entry.release_dates) continue;
+    const json = await res.json();
+    if (!json || !json.data) return [];
 
-    // Release types: theatrical, digital, streaming, etc.
-    const rd = entry.release_dates.find((r) =>
-      [1, 2, 3, 4, 6].includes(r.type)
-    );
-
-    if (rd?.release_date) {
-      return rd.release_date.slice(0, 10);
-    }
-  }
-  return null;
-}
-
-// ==========================
-// TMDB → IMDb
-// ==========================
-async function tmdbToImdb(id) {
-  const url = `https://api.themoviedb.org/3/movie/${id}/external_ids?api_key=${TMDB_KEY}`;
-  const json = await fetchJSON(url);
-  return json?.imdb_id || null;
-}
-
-// ==========================
-// FETCH POPULAR MOVIES
-// ==========================
-async function fetchPopularMovies() {
-  const list = [];
-
-  for (let p = 1; p <= POPULAR_PAGES; p++) {
-    const url =
-      `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_KEY}` +
-      `&language=en-US&page=${p}`;
-
-    const json = await fetchJSON(url);
-    if (!json?.results) break;
-
-    for (const m of json.results) {
-      if (isValidMovie(m) && !isForeign(m)) {
-        list.push(m);
-      }
-    }
-  }
-
-  return list;
-}
-
-// ==========================
-// MAIN BUILDER
-// ==========================
-async function buildMovies() {
-  const popular = await fetchPopularMovies();
-  const { start, end } = getDateRange();
-  const out = [];
-
-  for (const m of popular) {
-    const movieId = m.id;
-
-    // Extract real US/CA/GB release date
-    const release = await getRegionRelease(movieId);
-    if (!release) continue;
-
-    // Ensure inside last 30 days
-    if (release < start || release > end) continue;
-
-    const imdb = await tmdbToImdb(movieId);
-
-    out.push({
-      id: `tmdb:${movieId}`,
+    // Convert IMDb fallback data
+    return json.data.slice(0, 40).map((m) => ({
+      id: `imdb:${m.id}`,
       type: "movie",
       name: m.title,
-      description: cleanHTML(m.overview),
-      poster: m.poster_path
-        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-        : null,
-      background: m.backdrop_path
-        ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
-        : null,
-      release: release,
-      imdb: imdb,
-    });
+      poster: m.image,
+      background: m.image,
+      releaseInfo: m.releaseDate,
+      description: "",
+    }));
+  } catch {
+    return [];
   }
-
-  // Sort newest → oldest
-  out.sort((a, b) => new Date(b.release) - new Date(a.release));
-
-  return out;
 }
 
-// ==========================
-// ROUTER
-// ==========================
+// Main catalog handler
+async function handleCatalog() {
+  let metas = [];
+
+  try {
+    // Try TMDB first
+    const url = tmdbDiscoverURL();
+    const res = await fetch(url);
+
+    if (res.ok) {
+      const data = await res.json();
+
+      if (data.results && data.results.length > 0) {
+        metas = data.results.map(tmdbToMeta);
+      }
+    }
+  } catch (err) {
+    console.error("TMDB error:", err);
+  }
+
+  // If TMDB failed, fallback to IMDb
+  if (metas.length === 0) {
+    metas = await imdbFallbackList();
+  }
+
+  return new Response(JSON.stringify({ metas }), {
+    headers: { "Content-Type": "application/json" },
+  });
+}
+
 export default async function handler(req) {
   const url = new URL(req.url);
-  const p = url.pathname;
+  const pathname = url.pathname;
 
   // Manifest
-  if (p === "/manifest.json") {
+  if (pathname === "/manifest.json") {
     return new Response(
-      JSON.stringify(
-        {
-          id: "recent_movies",
-          version: "1.0.0",
-          name: "Hollywood Recent Movie Releases",
-          description:
-            "Hollywood theatrical/digital/streaming releases from the last 30 days (US/CA/GB). Uses TMDB + IMDb fallback.",
-          catalogs: [
-            {
-              type: "movie",
-              id: "recent_movies",
-              name: "Recent Movies",
-            },
-          ],
-          resources: ["catalog", "meta"],
-          types: ["movie"],
-          idPrefixes: ["tmdb"],
-        },
-        null,
-        2
-      ),
-      { headers: CORS }
+      JSON.stringify({
+        id: "recent_movies",
+        version: "1.0.0",
+        name: "Recent Movie Releases",
+        description: "Movies released in the last 90 days.",
+        catalog: [
+          {
+            type: "movie",
+            id: "recent_movies",
+            name: "Recent Movie Releases",
+          },
+        ],
+        resources: ["catalog"],
+        types: ["movie"],
+      }),
+      { headers: { "Content-Type": "application/json" } }
     );
   }
 
   // Catalog
-  if (p.startsWith("/catalog/movie/recent_movies")) {
-    const movies = await buildMovies();
-    return new Response(JSON.stringify({ metas: movies }, null, 2), {
-      headers: CORS,
-    });
+  if (pathname.startsWith("/catalog/movie/recent_movies")) {
+    return handleCatalog();
   }
 
-  // Meta
-  if (p.startsWith("/meta/movie/")) {
-    const id = p.split("/").pop().replace(".json", "");
-    const tmdbId = id.replace("tmdb:", "");
-
-    const m = await fetchJSON(
-      `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
-    );
-
-    if (!m) {
-      return new Response(
-        JSON.stringify({
-          meta: { id, type: "movie", name: "Unknown", videos: [] },
-        }),
-        { headers: CORS }
-      );
-    }
-
-    return new Response(
-      JSON.stringify(
-        {
-          meta: {
-            id,
-            type: "movie",
-            name: m.title,
-            description: cleanHTML(m.overview),
-            poster: m.poster_path
-              ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-              : null,
-            background: m.backdrop_path
-              ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
-              : null,
-            videos: [],
-          },
-        },
-        null,
-        2
-      ),
-      { headers: CORS }
-    );
-  }
-
-  return new Response("Not found", { status: 404, headers: CORS });
+  // Default empty
+  return new Response(JSON.stringify({ metas: [] }), {
+    headers: { "Content-Type": "application/json" },
+  });
 }
