@@ -1,28 +1,28 @@
 // api/index.js
 export const config = { runtime: "edge" };
 
-// ==========================
+// ========================================
 // CONFIG
-// ==========================
+// ========================================
 const TMDB_KEY = process.env.TMDB_KEY;
 
 const PRIORITY_REGIONS = ["US", "CA", "GB"];
-
+const MAX_CHANGED_PAGES = 3; // checks ~3000 changed movies (enough)
 const CORS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "*",
   "Content-Type": "application/json",
 };
 
-// ==========================
-// UTILS
-// ==========================
+// ========================================
+// UTILITIES
+// ========================================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url, { cache: "no-store" });
     if (!r.ok) return null;
     return await r.json();
-  } catch (_) {
+  } catch {
     return null;
   }
 }
@@ -31,17 +31,18 @@ function cleanHTML(str) {
   return str ? str.replace(/<[^>]+>/g, "").trim() : "";
 }
 
-function isForeignMovie(m) {
-  const lang = (m.original_language || "").toLowerCase();
-  return lang !== "en";
+function isForeign(m) {
+  return (m.original_language || "").toLowerCase() !== "en";
 }
 
 function isValidMovie(m) {
-  if (!m || !m.title) return false;
+  if (!m) return false;
+  if (!m.title) return false;
   if (m.adult) return false;
   return true;
 }
 
+// Last 30 days window
 function getDateRange() {
   const today = new Date();
   const start = new Date();
@@ -53,79 +54,96 @@ function getDateRange() {
   };
 }
 
-// ==========================
-// REGION LOGIC (C1 SOFT FILTER)
-// ==========================
-function passesProductionCountry(movie) {
-  if (!movie.production_countries) return false;
-  return movie.production_countries.some((c) =>
-    PRIORITY_REGIONS.includes(c.iso_3166_1)
-  );
+// ========================================
+// TMDB CHANGES → MOVIES UPDATED IN LAST 30 DAYS
+// ========================================
+async function fetchRecentlyChangedMovies() {
+  const { start, end } = getDateRange();
+  let all = [];
+
+  for (let page = 1; page <= MAX_CHANGED_PAGES; page++) {
+    const url =
+      `https://api.themoviedb.org/3/movie/changes?api_key=${TMDB_KEY}` +
+      `&start_date=${start}&end_date=${end}&page=${page}`;
+
+    const json = await fetchJSON(url);
+    if (!json?.results) break;
+
+    all.push(...json.results);
+  }
+
+  // returns array of movie IDs: [{id: 123}, …]
+  return all.map((x) => x.id);
 }
 
-async function hasRegionProvider(movieId) {
-  const url = `https://api.themoviedb.org/3/movie/${movieId}/watch/providers?api_key=${TMDB_KEY}`;
+// ========================================
+// GET REAL HOLLYWOOD RELEASE DATE
+// ========================================
+async function extractRegionRelease(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${TMDB_KEY}`;
   const json = await fetchJSON(url);
-  if (!json?.results) return false;
+  if (!json?.results) return null;
 
-  return PRIORITY_REGIONS.some((r) => json.results[r]);
+  for (const region of PRIORITY_REGIONS) {
+    const entry = json.results.find((x) => x.iso_3166_1 === region);
+    if (!entry || !entry.release_dates) continue;
+
+    // Filter release types:
+    // 1 = Premiere
+    // 2 = Theatrical (limited)
+    // 3 = Theatrical
+    // 4 = Digital
+    // 5 = Physical
+    // 6 = TV
+    const rd = entry.release_dates.find((r) =>
+      [1, 2, 3, 4, 6].includes(r.type)
+    );
+
+    if (rd?.release_date) {
+      return rd.release_date.slice(0, 10); // YYYY-MM-DD
+    }
+  }
+
+  return null;
 }
 
-// ==========================
-// TMDB → IMDb fallback
-// ==========================
-async function tmdbToImdb(movieId) {
-  const url = `https://api.themoviedb.org/3/movie/${movieId}/external_ids?api_key=${TMDB_KEY}`;
+// ========================================
+// TMDB → IMDb FALLBACK
+// ========================================
+async function tmdbToImdb(id) {
+  const url = `https://api.themoviedb.org/3/movie/${id}/external_ids?api_key=${TMDB_KEY}`;
   const json = await fetchJSON(url);
   return json?.imdb_id || null;
 }
 
-// ==========================
-// FETCH + BUILD MOVIE LIST
-// ==========================
-async function fetchTMDBMovies() {
+// ========================================
+// MAIN BUILDER
+// ========================================
+async function buildMovies() {
+  const ids = await fetchRecentlyChangedMovies();
   const { start, end } = getDateRange();
 
-  const url =
-    `https://api.themoviedb.org/3/discover/movie` +
-    `?api_key=${TMDB_KEY}` +
-    `&language=en-US` +
-    `&region=US` +
-    `&sort_by=release_date.desc` +
-    `&release_date.gte=${start}` +
-    `&release_date.lte=${end}`;
+  const list = [];
 
-  const json = await fetchJSON(url);
-  if (!json?.results) return [];
+  for (const movieId of ids) {
+    // Fetch movie details
+    const m = await fetchJSON(
+      `https://api.themoviedb.org/3/movie/${movieId}?api_key=${TMDB_KEY}&language=en-US`
+    );
+    if (!isValidMovie(m)) continue;
+    if (isForeign(m)) continue;
 
-  return json.results
-    .filter(isValidMovie)
-    .filter((m) => !isForeignMovie(m));
-}
-
-async function buildMovies() {
-  const tmdbMovies = await fetchTMDBMovies();
-  const out = [];
-
-  for (const m of tmdbMovies) {
-    const release = m.release_date || null;
+    // Real US/CA/GB release date
+    const release = await extractRegionRelease(movieId);
     if (!release) continue;
 
-    // Region pass if ANY of the soft criteria matches
-    const productionPass = passesProductionCountry(m);
-    const providerPass = await hasRegionProvider(m.id);
+    // Ensure release is within last 30 days
+    if (release < start || release > end) continue;
 
-    const regionPass = productionPass || providerPass;
+    const imdb = await tmdbToImdb(movieId);
 
-    // If still no match, allow because discover returns region=US movies already
-    const allowBecauseDiscoverRegion = true;
-
-    if (!regionPass && !allowBecauseDiscoverRegion) continue;
-
-    const imdb = await tmdbToImdb(m.id);
-
-    out.push({
-      id: `tmdb:${m.id}`,
+    list.push({
+      id: `tmdb:${movieId}`,
       type: "movie",
       name: m.title,
       description: cleanHTML(m.overview),
@@ -136,18 +154,19 @@ async function buildMovies() {
         ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
         : null,
       release: release,
-      imdb: imdb || null,
+      imdb: imdb,
     });
   }
 
-  out.sort((a, b) => new Date(b.release) - new Date(a.release));
+  // Sort newest → oldest
+  list.sort((a, b) => new Date(b.release) - new Date(a.release));
 
-  return out;
+  return list;
 }
 
-// ==========================
-// ROUTES
-// ==========================
+// ========================================
+// ROUTER
+// ========================================
 export default async function handler(req) {
   const url = new URL(req.url);
   const p = url.pathname;
@@ -159,9 +178,9 @@ export default async function handler(req) {
         {
           id: "recent_movies",
           version: "1.0.0",
-          name: "Recent Movie Releases",
+          name: "Hollywood Recent Movie Releases",
           description:
-            "Movies released in the last 30 days (English, US/CA/GB). TMDB with IMDb fallback.",
+            "Hollywood theatrical/digital/streaming releases from the last 30 days (US/CA/GB). Uses TMDB + IMDb fallback.",
           catalogs: [
             {
               type: "movie",
