@@ -9,9 +9,7 @@ const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
 
 const REGIONS = ["US", "CA", "GB"];
-const HOLLYWOOD_TYPES = [2, 3, 4, 6]; 
-// 2 – Scripted, 3 – Documentary, 4 – Animation, 6 – Reality
-// TMDB "genres" doesn't do Hollywood; release_types does
+const HOLLYWOOD_TYPES = [2, 3, 4, 6];
 
 // ----- CORS WRAPPER -----
 function cors(responseObj) {
@@ -124,17 +122,17 @@ async function fetchMovies() {
 
 // ---- ROUTER ----
 export default async function handler(req) {
-    const url = new URL(req.url);
+    // **FIXED URL CONSTRUCTION**
+    const origin = `https://${req.headers.get("host")}`;
+    const url = new URL(req.url, origin);
     const path = url.pathname;
 
     if (req.method === "OPTIONS") return cors({ ok: true });
 
-    // Manifest
     if (path === "/manifest.json" || path === "/manifest") {
         return cors(manifest);
     }
 
-    // Catalog
     if (path.startsWith("/catalog/movie/recent_movies")) {
         try {
             const movies = await fetchMovies();
@@ -144,6 +142,5 @@ export default async function handler(req) {
         }
     }
 
-    // Catch-all
     return cors({ status: "ok", message: "Movie addon online" });
 }
