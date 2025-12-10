@@ -1,19 +1,19 @@
 // ============================================================================
 //  STREMIO – Recent Movie Releases (Last 90 Days)
-//  TMDB + IMDb fallback
-//  Full CORS FIX for Stremio installation
 // ============================================================================
 
 // HARD-CODED TMDB KEY
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 
-// Allowed countries for theatrical & digital releases
+// Allowed release regions
 const REGIONS = ["US", "CA", "GB"];
 
-// 90-day window
+// 90 days back
 const DAYS = 90;
 
-// CORS HEADERS REQUIRED BY STREMIO
+// ============================================================================
+//  CORS FIX FOR STREMIO
+// ============================================================================
 function addCORS(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Headers", "*");
@@ -21,9 +21,8 @@ function addCORS(res) {
 }
 
 // ============================================================================
-//  UTIL
+//  UTILS
 // ============================================================================
-
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -40,144 +39,127 @@ function daysAgo(n) {
   return d.toISOString().slice(0, 10);
 }
 
-// Hollywood-weighted popularity filter
-function isHollywoodMovie(movie) {
+function isHollywood(movie) {
   if (!movie) return false;
-
-  const pop = movie.popularity || 0;
-  const votes = movie.vote_count || 0;
-  const lang = movie.original_language;
-
-  if (lang !== "en") return false;
-  if (votes < 25) return false;
-
-  return pop >= 5;
+  if (movie.original_language !== "en") return false;
+  if ((movie.vote_count || 0) < 10) return false;
+  return (movie.popularity || 0) >= 3;
 }
 
-// Convert TMDB → Stremio meta
-function toMeta(movie) {
+function toMeta(m) {
   return {
-    id: `tmdb:${movie.id}`,
+    id: `tmdb:${m.id}`,
     type: "movie",
-    name: movie.title,
-    poster: movie.poster_path
-      ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
+    name: m.title,
+    poster: m.poster_path
+      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
       : null,
-    background: movie.backdrop_path
-      ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
+    background: m.backdrop_path
+      ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
       : null,
-    description: movie.overview || "",
-    releaseInfo: movie.release_date || null,
+    description: m.overview || "",
+    releaseInfo: m.release_date,
   };
 }
 
 // ============================================================================
-//  FETCH MOVIES – TMDB + IMDb fallback
+//  TMDB FETCHER
 // ============================================================================
-
 async function fetchRecentMovies() {
   const start = daysAgo(DAYS);
   const end = daysAgo(0);
 
-  const movies = [];
+  let found = [];
 
-  // Fetch each region
   for (const region of REGIONS) {
     const url =
       `https://api.themoviedb.org/3/discover/movie` +
       `?api_key=${TMDB_KEY}` +
-      `&sort_by=release_date.desc` +
-      `&language=en-US&region=${region}` +
+      `&language=en-US` +
+      `&region=${region}` +
+      `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${start}` +
-      `&primary_release_date.lte=${end}`;
+      `&primary_release_date.lte=${end}` +
+      `&with_release_type=2|3|4|6`; // theatrical, digital, streaming
 
-    const data = await fetchJSON(url);
-    if (data?.results) {
-      movies.push(...data.results);
-    }
+    const json = await fetchJSON(url);
+    if (json?.results?.length) found.push(...json.results);
   }
 
-  // Deduplicate by TMDB ID
+  // Deduplicate
   const map = new Map();
-  for (const m of movies) {
-    if (!m?.id) continue;
+  for (const m of found) map.set(m.id, m);
 
-    if (!map.has(m.id)) {
-      map.set(m.id, m);
-    } else {
-      // keep the more complete entry
-      const cur = map.get(m.id);
-      if ((m.overview || "").length > (cur.overview || "").length) {
-        map.set(m.id, m);
-      }
-    }
-  }
-
-  // Hollywood weighting filter
-  let final = [...map.values()].filter(isHollywoodMovie);
+  let movies = [...map.values()].filter(isHollywood);
 
   // Sort newest → oldest
-  final.sort((a, b) => new Date(b.release_date) - new Date(a.release_date));
+  movies.sort((a, b) => new Date(b.release_date) - new Date(a.release_date));
 
-  return final;
+  return movies;
 }
 
 // ============================================================================
 //  MANIFEST
 // ============================================================================
-
 const manifest = {
   id: "recent-movies-addon",
   version: "1.0.0",
   name: "Recent Movie Releases",
-  description: "Movies released in the last 90 days in US/CA/GB. English only.",
+  description: "Movies released in the last 90 days in US/CA/GB.",
   catalogs: [
-    {
-      type: "movie",
-      id: "recent_movies",
-      name: "Recent Movies (90 Days)",
-    },
+    { id: "recent_movies", type: "movie", name: "Recent Movies (90 Days)" }
   ],
   resources: ["catalog"],
   types: ["movie"],
-  idPrefixes: ["tmdb"],
+  idPrefixes: ["tmdb"]
 };
 
 // ============================================================================
-//  HANDLER
+//  MAIN HANDLER (ALL ROUTES HERE)
 // ============================================================================
-
 module.exports = async (req, res) => {
   addCORS(res);
 
-  // OPTIONS preflight
-  if (req.method === "OPTIONS") {
-    return res.end();
-  }
+  if (req.method === "OPTIONS") return res.end();
 
   const url = req.url;
 
-  // Manifest
+  // DEBUG ROUTE
+  if (url.includes("/api/debug")) {
+    const start = daysAgo(DAYS);
+    const end = daysAgo(0);
+
+    const testUrl =
+      `https://api.themoviedb.org/3/discover/movie` +
+      `?api_key=${TMDB_KEY}` +
+      `&language=en-US&region=US` +
+      `&sort_by=primary_release_date.desc` +
+      `&primary_release_date.gte=${start}` +
+      `&primary_release_date.lte=${end}` +
+      `&with_release_type=2|3|4|6`;
+
+    const data = await fetchJSON(testUrl);
+
+    res.setHeader("Content-Type", "application/json");
+    return res.end(JSON.stringify({ testUrl, data }, null, 2));
+  }
+
+  // MANIFEST
   if (url.includes("manifest.json")) {
     res.setHeader("Content-Type", "application/json");
-    return res.end(JSON.stringify(manifest));
+    return res.end(JSON.stringify(manifest, null, 2));
   }
 
-  // Catalog
+  // CATALOG
   if (url.includes("/catalog/movie/recent_movies.json")) {
-    try {
-      const movies = await fetchRecentMovies();
-      const metas = movies.map(toMeta);
+    const movies = await fetchRecentMovies();
+    const metas = movies.map(toMeta);
 
-      res.setHeader("Content-Type", "application/json");
-      return res.end(JSON.stringify({ metas }, null, 2));
-    } catch (err) {
-      res.setHeader("Content-Type", "application/json");
-      return res.end(JSON.stringify({ metas: [], error: err.message }));
-    }
+    res.setHeader("Content-Type", "application/json");
+    return res.end(JSON.stringify({ metas }, null, 2));
   }
 
-  // Default
+  // DEFAULT
   res.setHeader("Content-Type", "application/json");
-  res.end(JSON.stringify({ status: "ok", message: "Movie addon online" }));
+  return res.end(JSON.stringify({ status: "ok", message: "Movie addon online" }));
 };
