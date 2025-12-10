@@ -3,17 +3,17 @@ export const config = { runtime: "edge" };
 /* ============================================
    CONFIG
 ============================================ */
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";   //
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; 
 const REGIONS = ["US", "CA", "GB"];
-const PAGES_PER_REGION = 5;         // 15 total discover pages
-const CONCURRENCY = 4;              // Ultra-stable mode
-const WINDOW_DAYS = 90;             // last 90 days
-const RELEASE_TYPES = "2|3|4|6";    // theatrical, digital, physical, streaming
+const PAGES_PER_REGION = 5;
+const CONCURRENCY = 4;
+const WINDOW_DAYS = 90;
+const RELEASE_TYPES = "2|3|4|6";
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "*",
-  "Content-Type": "application/json",
+  "Content-Type": "application/json"
 };
 
 /* ============================================
@@ -38,16 +38,15 @@ function daysAgo(num) {
 const DATE_TO = daysAgo(0);
 const DATE_FROM = daysAgo(WINDOW_DAYS);
 
-/* concurrency controller */
 async function pMap(list, fn, limit) {
   const results = [];
-  let idx = 0;
+  let index = 0;
 
   const workers = Array(limit)
     .fill(0)
     .map(async () => {
-      while (idx < list.length) {
-        const i = idx++;
+      while (index < list.length) {
+        const i = index++;
         try {
           results[i] = await fn(list[i], i);
         } catch {
@@ -60,23 +59,18 @@ async function pMap(list, fn, limit) {
   return results;
 }
 
-/* English-only movies */
 function isEnglishMovie(m) {
-  if (!m?.original_language) return false;
-  return m.original_language.toLowerCase() === "en";
+  return m?.original_language?.toLowerCase() === "en";
 }
 
-/* Dedup logic */
 function dedupeMovies(list) {
   const map = new Map();
   for (const m of list) {
-    if (!m) continue;
     if (!map.has(m.id)) map.set(m.id, m);
   }
   return [...map.values()];
 }
 
-/* Extract best release date */
 function extractReleaseDate(details) {
   if (!details?.release_dates?.results) return null;
 
@@ -84,12 +78,9 @@ function extractReleaseDate(details) {
 
   for (const r of details.release_dates.results) {
     for (const entry of r.release_dates) {
-      if (!entry.type) continue;
-      if (![2, 3, 4, 6].includes(entry.type)) continue;
-
-      const d = entry.release_date?.slice(0, 10);
+      if (![2,3,4,6].includes(entry.type)) continue;
+      const d = entry.release_date?.slice(0,10);
       if (!d) continue;
-
       if (!best || d > best) best = d;
     }
   }
@@ -97,43 +88,42 @@ function extractReleaseDate(details) {
 }
 
 /* ============================================
-   TMDB – Step 1: Discover Movies
+   TMDB DISCOVER
 ============================================ */
 async function discoverAll() {
   const tasks = [];
 
   for (const region of REGIONS) {
-    for (let page = 1; page <= PAGES_PER_REGION; page++) {
-      const url =
+    for (let p=1; p<=PAGES_PER_REGION; p++) {
+      tasks.push(
         `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
-        `&language=en-US&sort_by=primary_release_date.desc` +
-        `&region=${region}` +
-        `&with_release_type=${RELEASE_TYPES}` +
+        `&language=en-US&region=${region}` +
+        `&sort_by=primary_release_date.desc` +
         `&primary_release_date.gte=${DATE_FROM}` +
         `&primary_release_date.lte=${DATE_TO}` +
-        `&page=${page}`;
-
-      tasks.push(url);
+        `&with_release_type=${RELEASE_TYPES}` +
+        `&page=${p}`
+      );
     }
   }
 
-  const results = await pMap(
+  const result = await pMap(
     tasks,
-    async (url) => {
-      const json = await fetchJSON(url);
-      return json?.results || [];
-    },
+    async (url) => (await fetchJSON(url))?.results || [],
     CONCURRENCY
   );
 
-  return results.flat().filter(i => i?.id);
+  return result.flat();
 }
 
 /* ============================================
-   TMDB – Step 2: Full Details (accurate release dates)
+   TMDB DETAILS
 ============================================ */
-async function fetchMovieDetails(movie) {
-  const url = `https://api.themoviedb.org/3/movie/${movie.id}?api_key=${TMDB_KEY}&append_to_response=release_dates`;
+async function fetchMovieDetails(m) {
+  const url =
+    `https://api.themoviedb.org/3/movie/${m.id}?api_key=${TMDB_KEY}` +
+    `&append_to_response=release_dates`;
+
   const json = await fetchJSON(url);
   if (!json) return null;
 
@@ -148,21 +138,16 @@ async function fetchMovieDetails(movie) {
    BUILD MOVIES
 ============================================ */
 async function buildMovies() {
-  // Step 1 — pull discover lists
-  const raw = await discoverAll();
-  const englishOnly = raw.filter(isEnglishMovie);
+  const discovered = await discoverAll();
+  const english = discovered.filter(isEnglishMovie);
+  const unique = dedupeMovies(english);
 
-  // Step 2 — dedupe BEFORE details (saves API calls)
-  const unique = dedupeMovies(englishOnly);
-
-  // Step 3 — lookup full details with concurrency limit
   const detailed = await pMap(
     unique,
     async (m) => {
       const det = await fetchMovieDetails(m);
       if (!det) return null;
 
-      // Only keep movies released in last 90 days
       if (det._finalRelease < DATE_FROM) return null;
       if (det._finalRelease > DATE_TO) return null;
 
@@ -173,24 +158,21 @@ async function buildMovies() {
 
   const final = detailed.filter(Boolean);
 
-  // Step 4 — build Stremio metas
-  const metas = final.map((m) => ({
-    id: `tmdb:${m.id}`,
-    type: "movie",
-    name: m.title || m.original_title,
-    poster: m.poster_path
-      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-      : null,
-    background: m.backdrop_path
-      ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
-      : null,
-    description: m.overview || "",
-    releaseInfo: m._finalRelease,
-  }));
-
-  metas.sort((a, b) => (b.releaseInfo > a.releaseInfo ? 1 : -1));
-
-  return metas;
+  return final
+    .map((m) => ({
+      id: `tmdb:${m.id}`,
+      type: "movie",
+      name: m.title,
+      description: m.overview || "",
+      poster: m.poster_path
+        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+        : null,
+      background: m.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+        : null,
+      releaseInfo: m._finalRelease
+    }))
+    .sort((a, b) => (b.releaseInfo > a.releaseInfo ? 1 : -1));
 }
 
 /* ============================================
@@ -199,7 +181,8 @@ async function buildMovies() {
 export default async function handler(req) {
   const url = new URL(req.url);
 
-  if (url.pathname === "/manifest.json") {
+  // FIX: allow /manifest.json and /api/manifest.json
+  if (url.pathname.endsWith("/manifest.json")) {
     return new Response(
       JSON.stringify(
         {
@@ -207,13 +190,13 @@ export default async function handler(req) {
           version: "1.0.0",
           name: "Recent Movies (US/CA/GB)",
           description:
-            "Movies released in the last 90 days (Theatrical, VOD, Digital, Streaming). English only — High Accuracy Mode.",
+            "Movies released in the last 90 days (Theatrical, Digital, VOD, Streaming).",
           catalogs: [
-            { type: "movie", id: "recent_movies", name: "Recent Movie Releases" },
+            { type: "movie", id: "recent_movies", name: "Recent Movie Releases" }
           ],
           resources: ["catalog"],
           types: ["movie"],
-          idPrefixes: ["tmdb"],
+          idPrefixes: ["tmdb"]
         },
         null,
         2
@@ -222,10 +205,10 @@ export default async function handler(req) {
     );
   }
 
-  if (url.pathname.startsWith("/catalog/movie/recent_movies.json")) {
+  if (url.pathname.startsWith("/catalog/movie/recent_movies")) {
     const metas = await buildMovies();
     return new Response(JSON.stringify({ metas }, null, 2), {
-      headers: CORS,
+      headers: CORS
     });
   }
 
