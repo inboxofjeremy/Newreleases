@@ -4,7 +4,7 @@ export const config = { runtime: "edge" };
 // CONFIGURATION
 // ============================
 
-const TMDB_API_KEY = "YOUR_API_KEY_HERE"; // ← PUT YOUR KEY HERE
+const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc" // ← PUT YOUR KEY HERE
 
 // Acceptable release types (Hollywood category)
 // 2 = theatrical, 3 = digital, 4 = physical, 5 = TV/streaming, 6 = VOD
