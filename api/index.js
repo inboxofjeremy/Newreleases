@@ -1,34 +1,30 @@
 // ===============================
 // New Releases Movie Addon (90-day)
-// Combined TMDB Hollywood addon
-// Fully CORS-safe for Stremio
+// TMDB Hollywood Filter
+// Works in Vercel Node.js runtime
 // ===============================
 
-// ---- CONFIG ----
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
 
 const REGIONS = ["US", "CA", "GB"];
 const HOLLYWOOD_TYPES = [2, 3, 4, 6];
 
-// ----- CORS WRAPPER -----
-function cors(responseObj) {
+function cors(obj) {
     return new Response(
-        typeof responseObj === "string"
-            ? responseObj
-            : JSON.stringify(responseObj),
+        typeof obj === "string" ? obj : JSON.stringify(obj),
         {
             headers: {
                 "Content-Type": "application/json",
                 "Access-Control-Allow-Origin": "*",
                 "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
-                "Access-Control-Allow-Headers": "*"
-            }
+                "Access-Control-Allow-Headers": "*",
+            },
         }
     );
 }
 
-// ----- DATE HELPERS -----
+// Date helpers
 function daysAgo(n) {
     const d = new Date();
     d.setDate(d.getDate() - n);
@@ -38,12 +34,12 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-// ---- MANIFEST ----
+// Manifest
 const manifest = {
     id: "recent_movies",
     version: "1.0.0",
     name: "Recent Movie Releases",
-    description: "Hollywood movies released in theaters, VOD, or streaming in last 90 days",
+    description: "Hollywood movies released in theaters, VOD, streaming in the last 90 days",
     types: ["movie"],
     catalogs: [
         {
@@ -55,44 +51,45 @@ const manifest = {
     ]
 };
 
-// ---- FETCH REGIONAL RELEASE DATE ----
-async function fetchRegionalDate(movieId) {
+// Fetch region release date
+async function fetchRegionalDate(id) {
     try {
-        const url = `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${TMDB_KEY}`;
-        const res = await fetch(url);
+        const res = await fetch(
+            `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
+        );
         const json = await res.json();
         if (!json.results) return null;
 
         for (const region of REGIONS) {
             const entry = json.results.find(r => r.iso_3166_1 === region);
-            if (!entry || !entry.release_dates) continue;
+            if (!entry) continue;
 
-            const dates = entry.release_dates
-                .filter(d => HOLLYWOOD_TYPES.includes(d.type))
+            const filtered = entry.release_dates
+                .filter(r => HOLLYWOOD_TYPES.includes(r.type))
                 .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
 
-            if (dates.length > 0) {
-                return dates[0].release_date.split("T")[0];
+            if (filtered.length > 0) {
+                return filtered[0].release_date.split("T")[0];
             }
         }
-    } catch (e) {
-        console.log("region date error", e);
+    } catch (err) {
+        console.log("release date error", err);
     }
+
     return null;
 }
 
-// ---- FETCH MOVIES ----
+// Main movie fetch
 async function fetchMovies() {
-    const url =
-        `https://api.themoviedb.org/3/discover/movie?` +
-        `api_key=${TMDB_KEY}` +
+    const discoverUrl =
+        `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
         `&language=en-US` +
-        `&sort_by=release_date.desc` +
         `&with_original_language=en` +
+        `&sort_by=release_date.desc` +
         `&release_date.gte=${DATE_FROM}` +
         `&release_date.lte=${DATE_TO}`;
 
-    const res = await fetch(url);
+    const res = await fetch(discoverUrl);
     const data = await res.json();
 
     if (!data.results) return [];
@@ -100,45 +97,49 @@ async function fetchMovies() {
     const movies = [];
 
     for (const m of data.results) {
-        const regionalDate = await fetchRegionalDate(m.id);
+        const regional = await fetchRegionalDate(m.id);
 
-        if (!regionalDate) continue;
-        if (regionalDate < DATE_FROM || regionalDate > DATE_TO) continue;
+        if (!regional) continue;
+        if (regional < DATE_FROM || regional > DATE_TO) continue;
 
         movies.push({
             id: m.id.toString(),
+            type: "movie",
             name: m.title,
             poster: m.poster_path
                 ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
                 : null,
-            description: m.overview || "",
-            type: "movie",
-            releaseInfo: regionalDate
+            releaseInfo: regional,
+            description: m.overview || ""
         });
     }
 
     return movies;
 }
 
-// ---- ROUTER ----
+// -------------------------------
+// MAIN HANDLER
+// -------------------------------
 export default async function handler(req) {
-    // **FIXED URL CONSTRUCTION**
-    const origin = `https://${req.headers.get("host")}`;
+
+    // FIXED: Vercel Node.js headers
+    const host = req.headers.host || "localhost";
+    const origin = `https://${host}`;
     const url = new URL(req.url, origin);
     const path = url.pathname;
 
-    if (req.method === "OPTIONS") return cors({ ok: true });
+    if (req.method === "OPTIONS")
+        return cors({ ok: true });
 
-    if (path === "/manifest.json" || path === "/manifest") {
+    if (path === "/manifest" || path === "/manifest.json")
         return cors(manifest);
-    }
 
     if (path.startsWith("/catalog/movie/recent_movies")) {
         try {
-            const movies = await fetchMovies();
-            return cors({ metas: movies });
-        } catch (e) {
-            return cors({ metas: [], error: e.message });
+            const results = await fetchMovies();
+            return cors({ metas: results });
+        } catch (err) {
+            return cors({ metas: [], error: err.message });
         }
     }
 
