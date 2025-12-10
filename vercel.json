@@ -1,7 +1,8 @@
+{"id":"57292","variant":"standard"}
 {
   "functions": {
     "api/index.js": {
-      "runtime": "nodejs20.x"
+      "runtime": "edge"
     }
   },
   "rewrites": [
