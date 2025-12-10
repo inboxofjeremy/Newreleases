@@ -1,28 +1,19 @@
-import fetch from "node-fetch";
-
-const TMDB_KEY = process.env.TMDB_KEY || "YOUR_TMDB_KEY_HERE"; // <-- replace or keep env
-const REGIONS = ["US", "CA", "GB"]; // priority order
+const TMDB_KEY = process.env.TMDB_KEY || "YOUR_TMDB_KEY_HERE"; 
+const REGIONS = ["US", "CA", "GB"];
 const DAYS = 90;
-
-// Date helpers
-const today = new Date();
-const cutoff = new Date();
-cutoff.setDate(today.getDate() - DAYS);
 
 export default async function handler(req, res) {
     try {
         const url = new URL(req.url, `http://${req.headers.host}`);
         const pathname = url.pathname;
 
-        // -------------------------
-        // MANIFEST
-        // -------------------------
+        // -------- MANIFEST --------
         if (pathname === "/manifest.json") {
             return res.status(200).json({
                 id: "hollywood-new-releases",
                 version: "1.0.0",
                 name: "Hollywood New Releases",
-                description: "Movies released in theaters / digital in the last 90 days",
+                description: "Movies released theatrically or digitally in the last 90 days",
                 types: ["movie"],
                 catalogs: [
                     {
@@ -34,63 +25,60 @@ export default async function handler(req, res) {
             });
         }
 
-        // -------------------------
-        // CATALOG
-        // -------------------------
+        // -------- CATALOG --------
         if (pathname === "/catalog/movie/recent_movies.json") {
-            if (!TMDB_KEY || TMDB_KEY === "944017b839d3c040bdd2574083e4c1bc") {
+            if (!TMDB_KEY || TMDB_KEY === "YOUR_TMDB_KEY_HERE") {
                 return res.status(200).json({
                     metas: [],
                     error: "TMDB key missing"
                 });
             }
 
-            // 1. Fetch newest movies sorted by popularity
-            const discoverURL = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}&language=en-US&include_adult=false&sort_by=popularity.desc&with_release_type=3|2|4`;
+            const today = new Date();
+            const cutoff = new Date();
+            cutoff.setDate(today.getDate() - DAYS);
 
-            const discover = await fetch(discoverURL);
-            const discoverData = await discover.json();
+            const discoverURL =
+                `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
+                `&language=en-US&include_adult=false&sort_by=popularity.desc&with_release_type=3|2|4`;
 
-            if (!discoverData.results) {
-                return res.status(200).json({
-                    metas: [],
-                    error: "Invalid TMDB response"
-                });
-            }
+            const discoverRes = await fetch(discoverURL);
+            const discoverData = await discoverRes.json();
+
+            if (!discoverData.results)
+                return res.status(200).json({ metas: [], error: "Invalid TMDB response" });
 
             let movies = [];
 
-            // 2. For each movie, fetch regional release dates
             for (const movie of discoverData.results) {
-                const rdURL = `https://api.themoviedb.org/3/movie/${movie.id}/release_dates?api_key=${TMDB_KEY}`;
-                const rdReq = await fetch(rdURL);
-                const rdData = await rdReq.json();
+                const rdURL =
+                    `https://api.themoviedb.org/3/movie/${movie.id}/release_dates?api_key=${TMDB_KEY}`;
+                const rdRes = await fetch(rdURL);
+                const rdData = await rdRes.json();
 
                 if (!rdData.results) continue;
 
-                // Pick first available region date in priority order
                 let pickedDate = null;
 
+                // multi-region priority
                 for (const region of REGIONS) {
-                    const regionEntry = rdData.results.find(r => r.iso_3166_1 === region);
-                    if (regionEntry && regionEntry.release_dates.length > 0) {
-                        // find theatrical(3), digital(4), vod(2)
-                        const good = regionEntry.release_dates.find(r =>
-                            [2, 3, 4].includes(r.type)
-                        );
-                        if (good && good.release_date) {
-                            pickedDate = good.release_date;
-                            break;
-                        }
+                    const r = rdData.results.find(x => x.iso_3166_1 === region);
+                    if (!r) continue;
+
+                    const good = r.release_dates.find(
+                        d => [2, 3, 4].includes(d.type) && d.release_date
+                    );
+                    if (good) {
+                        pickedDate = good.release_date;
+                        break;
                     }
                 }
 
                 if (!pickedDate) continue;
 
                 const rd = new Date(pickedDate);
-                if (rd < cutoff) continue; // skip old movies
+                if (rd < cutoff) continue;
 
-                // build meta
                 movies.push({
                     id: `tmdb:${movie.id}`,
                     type: "movie",
@@ -106,15 +94,12 @@ export default async function handler(req, res) {
                 });
             }
 
-            // Sort by real release date (newest first)
             movies.sort((a, b) => new Date(b.releaseInfo) - new Date(a.releaseInfo));
 
             return res.status(200).json({ metas: movies });
         }
 
-        // -------------------------
-        // DEFAULT: NOT FOUND
-        // -------------------------
+        // -------- 404 --------
         return res.status(404).json({ error: "Not found" });
 
     } catch (err) {
