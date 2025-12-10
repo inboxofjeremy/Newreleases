@@ -4,13 +4,18 @@ export const config = { runtime: "edge" };
 // CONFIGURATION
 // ============================
 
-const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc" // ← PUT YOUR KEY HERE
+// Read TMDB API Key from Environment variable
+const TMDB_API_KEY = process.env.TMDB_API_KEY;
 
-// Acceptable release types (Hollywood category)
-// 2 = theatrical, 3 = digital, 4 = physical, 5 = TV/streaming, 6 = VOD
+// Release types to include
+// 2 = Theatrical
+// 3 = Digital
+// 4 = Physical
+// 5 = Streaming / TV premiere
+// 6 = VOD
 const ALLOWED_TYPES = new Set([2, 3, 4, 5, 6]);
 
-// Maximum pages to scan (ensures large pool)
+// How many discover pages to scan
 const TMDB_PAGES = 5;
 
 // ============================
@@ -22,12 +27,11 @@ async function fetchJSON(url) {
     const r = await fetch(url);
     if (!r.ok) return null;
     return await r.json();
-  } catch (err) {
+  } catch {
     return null;
   }
 }
 
-// YYYY-MM-DD date for X days ago
 function daysAgo(n) {
   const d = new Date();
   d.setUTCDate(d.getUTCDate() - n);
@@ -39,16 +43,15 @@ function clean(text) {
 }
 
 // ============================
-// MAIN DISCOVERY LOGIC
+// DISCOVER MOVIES
 // ============================
 
 async function discoverRecentMovies() {
-  const endDate = daysAgo(0);   // today UTC
-  const startDate = daysAgo(90); // last 90 days
+  const endDate = daysAgo(0);
+  const startDate = daysAgo(90);
 
   let movies = [];
 
-  // Pull multiple pages to ensure we don't miss anything
   for (let page = 1; page <= TMDB_PAGES; page++) {
     const url =
       `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}` +
@@ -69,35 +72,34 @@ async function discoverRecentMovies() {
 }
 
 // ============================
-// RELEASE TYPE FILTER
+// RELEASE FILTERING
 // ============================
 
 async function filterByReleaseType(movie) {
   if (!movie?.id) return null;
 
-  const data = await fetchJSON(
+  const rel = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${movie.id}/release_dates?api_key=${TMDB_API_KEY}`
   );
 
-  if (!data?.results) return null;
+  if (!rel?.results) return null;
 
-  const now = new Date();
   const cutoff = new Date(daysAgo(90));
+  const now = new Date();
 
-  for (const entry of data.results) {
-    const country = entry.iso_3166_1;
-    if (!["US", "CA", "GB"].includes(country)) continue;
+  for (const entry of rel.results) {
+    if (!["US", "CA", "GB"].includes(entry.iso_3166_1)) continue;
 
-    for (const rel of entry.release_dates) {
-      if (!ALLOWED_TYPES.has(rel.type)) continue;
+    for (const r of entry.release_dates) {
+      if (!ALLOWED_TYPES.has(r.type)) continue;
 
-      const d = rel.release_date ? new Date(rel.release_date) : null;
+      const d = r.release_date ? new Date(r.release_date) : null;
       if (!d) continue;
 
       if (d >= cutoff && d <= now) {
         return {
           ...movie,
-          finalDate: rel.release_date.slice(0, 10),
+          finalDate: r.release_date.slice(0, 10)
         };
       }
     }
@@ -106,7 +108,6 @@ async function filterByReleaseType(movie) {
   return null;
 }
 
-// Concurrency control to avoid TMDB throttling
 async function pMap(list, fn, c = 5) {
   let i = 0;
   const results = [];
@@ -121,7 +122,7 @@ async function pMap(list, fn, c = 5) {
 }
 
 // ============================
-// BUILD FINAL MOVIE LIST
+// BUILD MOVIE LIST
 // ============================
 
 async function buildMovies() {
@@ -137,15 +138,13 @@ async function buildMovies() {
     type: "movie",
     name: m.title,
     description: clean(m.overview),
-    poster:
-      m.poster_path
-        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-        : null,
-    background:
-      m.backdrop_path
-        ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
-        : null,
-    release: m.finalDate,
+    poster: m.poster_path
+      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+      : null,
+    background: m.backdrop_path
+      ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+      : null,
+    release: m.finalDate
   }));
 }
 
@@ -157,29 +156,42 @@ export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
 
-  // Manifest
+  // ----- MANIFEST -----
   if (path === "/manifest.json") {
-    return Response.json({
-      id: "recent_movies",
-      version: "1.0.0",
-      name: "Recent Movie Releases",
-      description: "Movies released in theaters, VOD, digital, or streaming in last 90 days (English only)",
-      catalogs: [
-        { type: "movie", id: "recent_movies", name: "Recent Movie Releases" }
-      ],
-      resources: ["catalog", "meta"],
-      types: ["movie"],
-      idPrefixes: ["tmdb"]
+    return new Response(
+      JSON.stringify({
+        id: "recent_movies",
+        version: "1.0.0",
+        name: "Recent Movie Releases",
+        description: "Hollywood releases in theaters, streaming, and VOD (last 90 days)",
+        catalogs: [
+          { type: "movie", id: "recent_movies", name: "Recent Movie Releases" }
+        ],
+        resources: ["catalog", "meta"],
+        types: ["movie"],
+        idPrefixes: ["tmdb"]
+      }),
+      {
+        headers: {
+          "Content-Type": "application/json",
+          "Content-Encoding": "identity"
+        }
+      }
+    );
+  }
+
+  // ----- CATALOG -----
+  if (path.startsWith("/catalog/movie/recent_movies.json")) {
+    const movies = await buildMovies();
+    return new Response(JSON.stringify({ metas: movies }), {
+      headers: {
+        "Content-Type": "application/json",
+        "Content-Encoding": "identity"
+      }
     });
   }
 
-  // Catalog
-  if (path.startsWith("/catalog/movie/recent_movies.json")) {
-    const movies = await buildMovies();
-    return Response.json({ metas: movies });
-  }
-
-  // Meta
+  // ----- META -----
   if (path.startsWith("/meta/movie/")) {
     const id = path.split("/").pop().replace(".json", "").replace("tmdb:", "");
     const m = await fetchJSON(
@@ -189,22 +201,28 @@ export default async function handler(req) {
     if (!m)
       return Response.json({ meta: { id, type: "movie", name: "Unknown" } });
 
-    return Response.json({
-      meta: {
-        id: `tmdb:${m.id}`,
-        type: "movie",
-        name: m.title,
-        description: clean(m.overview),
-        poster:
-          m.poster_path
+    return new Response(
+      JSON.stringify({
+        meta: {
+          id: `tmdb:${m.id}`,
+          type: "movie",
+          name: m.title,
+          description: clean(m.overview),
+          poster: m.poster_path
             ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
             : null,
-        background:
-          m.backdrop_path
+          background: m.backdrop_path
             ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
-            : null,
-      },
-    });
+            : null
+        }
+      }),
+      {
+        headers: {
+          "Content-Type": "application/json",
+          "Content-Encoding": "identity"
+        }
+      }
+    );
   }
 
   return new Response("Not Found", { status: 404 });
