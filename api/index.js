@@ -1,150 +1,211 @@
-export const config = {
-  runtime: "edge",
-};
+export const config = { runtime: "edge" };
 
-// INSERT YOUR TMDB KEY HERE:
-const TMDB_KEY = "YOUR_TMDB_API_KEY";
+// ============================
+// CONFIGURATION
+// ============================
 
-const TMDB_BASE = "https://api.themoviedb.org/3";
-const IMDB_FALLBACK = "https://p.media-imdb.com/static-content.json"; // lightweight fallback
+const TMDB_API_KEY = "YOUR_API_KEY_HERE"; // ← PUT YOUR KEY HERE
 
-// 90-day window
-function getDateRanges() {
-  const today = new Date();
-  const end = today.toISOString().split("T")[0];
+// Acceptable release types (Hollywood category)
+// 2 = theatrical, 3 = digital, 4 = physical, 5 = TV/streaming, 6 = VOD
+const ALLOWED_TYPES = new Set([2, 3, 4, 5, 6]);
 
-  const past = new Date();
-  past.setDate(past.getDate() - 90);
-  const start = past.toISOString().split("T")[0];
+// Maximum pages to scan (ensures large pool)
+const TMDB_PAGES = 5;
 
-  return { start, end };
+// ============================
+// UTILITIES
+// ============================
+
+async function fetchJSON(url) {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    return await r.json();
+  } catch (err) {
+    return null;
+  }
 }
 
-// Build TMDB discover URL (Hollywood-weighted)
-function tmdbDiscoverURL() {
-  const { start, end } = getDateRanges();
+// YYYY-MM-DD date for X days ago
+function daysAgo(n) {
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() - n);
+  return d.toISOString().split("T")[0];
+}
 
-  const regions = ["US", "CA", "GB"].join(",");
+function clean(text) {
+  return text ? text.replace(/<[^>]+>/g, "").trim() : "";
+}
 
-  const params = new URLSearchParams({
-    api_key: TMDB_KEY,
-    language: "en-US",
-    region: "US",
-    sort_by: "release_date.desc",
-    "release_date.gte": start,
-    "release_date.lte": end,
-    with_release_type: "2|3|4|6", // Hollywood-weighted
-    with_original_language: "en",  // prioritize English language films
+// ============================
+// MAIN DISCOVERY LOGIC
+// ============================
+
+async function discoverRecentMovies() {
+  const endDate = daysAgo(0);   // today UTC
+  const startDate = daysAgo(90); // last 90 days
+
+  let movies = [];
+
+  // Pull multiple pages to ensure we don't miss anything
+  for (let page = 1; page <= TMDB_PAGES; page++) {
+    const url =
+      `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}` +
+      `&language=en-US&with_original_language=en` +
+      `&region=US|CA|GB` +
+      `&sort_by=release_date.desc` +
+      `&primary_release_date.gte=${startDate}` +
+      `&primary_release_date.lte=${endDate}` +
+      `&page=${page}`;
+
+    const json = await fetchJSON(url);
+    if (!json?.results?.length) break;
+
+    movies.push(...json.results);
+  }
+
+  return movies;
+}
+
+// ============================
+// RELEASE TYPE FILTER
+// ============================
+
+async function filterByReleaseType(movie) {
+  if (!movie?.id) return null;
+
+  const data = await fetchJSON(
+    `https://api.themoviedb.org/3/movie/${movie.id}/release_dates?api_key=${TMDB_API_KEY}`
+  );
+
+  if (!data?.results) return null;
+
+  const now = new Date();
+  const cutoff = new Date(daysAgo(90));
+
+  for (const entry of data.results) {
+    const country = entry.iso_3166_1;
+    if (!["US", "CA", "GB"].includes(country)) continue;
+
+    for (const rel of entry.release_dates) {
+      if (!ALLOWED_TYPES.has(rel.type)) continue;
+
+      const d = rel.release_date ? new Date(rel.release_date) : null;
+      if (!d) continue;
+
+      if (d >= cutoff && d <= now) {
+        return {
+          ...movie,
+          finalDate: rel.release_date.slice(0, 10),
+        };
+      }
+    }
+  }
+
+  return null;
+}
+
+// Concurrency control to avoid TMDB throttling
+async function pMap(list, fn, c = 5) {
+  let i = 0;
+  const results = [];
+  const workers = new Array(c).fill(0).map(async () => {
+    while (i < list.length) {
+      const idx = i++;
+      results[idx] = await fn(list[idx], idx);
+    }
   });
-
-  return `${TMDB_BASE}/discover/movie?${params.toString()}`;
+  await Promise.all(workers);
+  return results;
 }
 
-// Convert TMDB movie → Stremio meta object
-function tmdbToMeta(m) {
-  return {
+// ============================
+// BUILD FINAL MOVIE LIST
+// ============================
+
+async function buildMovies() {
+  const discovered = await discoverRecentMovies();
+  if (!discovered.length) return [];
+
+  const filtered = (await pMap(discovered, filterByReleaseType, 5))
+    .filter(Boolean)
+    .sort((a, b) => new Date(b.finalDate) - new Date(a.finalDate));
+
+  return filtered.map((m) => ({
     id: `tmdb:${m.id}`,
     type: "movie",
     name: m.title,
-    poster: m.poster_path
-      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-      : null,
-    background: m.backdrop_path
-      ? `https://image.tmdb.org/t/p/w780${m.backdrop_path}`
-      : null,
-    releaseInfo: m.release_date,
-    description: m.overview,
-  };
+    description: clean(m.overview),
+    poster:
+      m.poster_path
+        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+        : null,
+    background:
+      m.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+        : null,
+    release: m.finalDate,
+  }));
 }
 
-// IMDb fallback (VERY lightweight, last resort)
-async function imdbFallbackList() {
-  try {
-    const url = `${IMDB_FALLBACK}`;
-    const res = await fetch(url);
-    if (!res.ok) return [];
-
-    const json = await res.json();
-    if (!json || !json.data) return [];
-
-    // Convert IMDb fallback data
-    return json.data.slice(0, 40).map((m) => ({
-      id: `imdb:${m.id}`,
-      type: "movie",
-      name: m.title,
-      poster: m.image,
-      background: m.image,
-      releaseInfo: m.releaseDate,
-      description: "",
-    }));
-  } catch {
-    return [];
-  }
-}
-
-// Main catalog handler
-async function handleCatalog() {
-  let metas = [];
-
-  try {
-    // Try TMDB first
-    const url = tmdbDiscoverURL();
-    const res = await fetch(url);
-
-    if (res.ok) {
-      const data = await res.json();
-
-      if (data.results && data.results.length > 0) {
-        metas = data.results.map(tmdbToMeta);
-      }
-    }
-  } catch (err) {
-    console.error("TMDB error:", err);
-  }
-
-  // If TMDB failed, fallback to IMDb
-  if (metas.length === 0) {
-    metas = await imdbFallbackList();
-  }
-
-  return new Response(JSON.stringify({ metas }), {
-    headers: { "Content-Type": "application/json" },
-  });
-}
+// ============================
+// STREMIO HANDLER
+// ============================
 
 export default async function handler(req) {
   const url = new URL(req.url);
-  const pathname = url.pathname;
+  const path = url.pathname;
 
   // Manifest
-  if (pathname === "/manifest.json") {
-    return new Response(
-      JSON.stringify({
-        id: "recent_movies",
-        version: "1.0.0",
-        name: "Recent Movie Releases",
-        description: "Movies released in the last 90 days.",
-        catalog: [
-          {
-            type: "movie",
-            id: "recent_movies",
-            name: "Recent Movie Releases",
-          },
-        ],
-        resources: ["catalog"],
-        types: ["movie"],
-      }),
-      { headers: { "Content-Type": "application/json" } }
-    );
+  if (path === "/manifest.json") {
+    return Response.json({
+      id: "recent_movies",
+      version: "1.0.0",
+      name: "Recent Movie Releases",
+      description: "Movies released in theaters, VOD, digital, or streaming in last 90 days (English only)",
+      catalogs: [
+        { type: "movie", id: "recent_movies", name: "Recent Movie Releases" }
+      ],
+      resources: ["catalog", "meta"],
+      types: ["movie"],
+      idPrefixes: ["tmdb"]
+    });
   }
 
   // Catalog
-  if (pathname.startsWith("/catalog/movie/recent_movies")) {
-    return handleCatalog();
+  if (path.startsWith("/catalog/movie/recent_movies.json")) {
+    const movies = await buildMovies();
+    return Response.json({ metas: movies });
   }
 
-  // Default empty
-  return new Response(JSON.stringify({ metas: [] }), {
-    headers: { "Content-Type": "application/json" },
-  });
+  // Meta
+  if (path.startsWith("/meta/movie/")) {
+    const id = path.split("/").pop().replace(".json", "").replace("tmdb:", "");
+    const m = await fetchJSON(
+      `https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_API_KEY}&language=en-US`
+    );
+
+    if (!m)
+      return Response.json({ meta: { id, type: "movie", name: "Unknown" } });
+
+    return Response.json({
+      meta: {
+        id: `tmdb:${m.id}`,
+        type: "movie",
+        name: m.title,
+        description: clean(m.overview),
+        poster:
+          m.poster_path
+            ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+            : null,
+        background:
+          m.backdrop_path
+            ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+            : null,
+      },
+    });
+  }
+
+  return new Response("Not Found", { status: 404 });
 }
