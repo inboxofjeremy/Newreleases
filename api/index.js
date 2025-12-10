@@ -1,28 +1,28 @@
 // api/index.js
 export const config = { runtime: "edge" };
 
-// ========================================
+// ==========================
 // CONFIG
-// ========================================
+// ==========================
 const TMDB_KEY = process.env.TMDB_KEY;
 
 const PRIORITY_REGIONS = ["US", "CA", "GB"];
-const MAX_CHANGED_PAGES = 3; // checks ~3000 changed movies (enough)
+const POPULAR_PAGES = 20; // Option C
 const CORS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "*",
   "Content-Type": "application/json",
 };
 
-// ========================================
-// UTILITIES
-// ========================================
+// ==========================
+// UTILS
+// ==========================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url, { cache: "no-store" });
     if (!r.ok) return null;
     return await r.json();
-  } catch {
+  } catch (_) {
     return null;
   }
 }
@@ -42,7 +42,6 @@ function isValidMovie(m) {
   return true;
 }
 
-// Last 30 days window
 function getDateRange() {
   const today = new Date();
   const start = new Date();
@@ -54,32 +53,10 @@ function getDateRange() {
   };
 }
 
-// ========================================
-// TMDB CHANGES → MOVIES UPDATED IN LAST 30 DAYS
-// ========================================
-async function fetchRecentlyChangedMovies() {
-  const { start, end } = getDateRange();
-  let all = [];
-
-  for (let page = 1; page <= MAX_CHANGED_PAGES; page++) {
-    const url =
-      `https://api.themoviedb.org/3/movie/changes?api_key=${TMDB_KEY}` +
-      `&start_date=${start}&end_date=${end}&page=${page}`;
-
-    const json = await fetchJSON(url);
-    if (!json?.results) break;
-
-    all.push(...json.results);
-  }
-
-  // returns array of movie IDs: [{id: 123}, …]
-  return all.map((x) => x.id);
-}
-
-// ========================================
-// GET REAL HOLLYWOOD RELEASE DATE
-// ========================================
-async function extractRegionRelease(movieId) {
+// ==========================
+// GET REAL PRIORITY REGION RELEASE DATE
+// ==========================
+async function getRegionRelease(movieId) {
   const url = `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${TMDB_KEY}`;
   const json = await fetchJSON(url);
   if (!json?.results) return null;
@@ -88,61 +65,72 @@ async function extractRegionRelease(movieId) {
     const entry = json.results.find((x) => x.iso_3166_1 === region);
     if (!entry || !entry.release_dates) continue;
 
-    // Filter release types:
-    // 1 = Premiere
-    // 2 = Theatrical (limited)
-    // 3 = Theatrical
-    // 4 = Digital
-    // 5 = Physical
-    // 6 = TV
+    // Release types: theatrical, digital, streaming, etc.
     const rd = entry.release_dates.find((r) =>
       [1, 2, 3, 4, 6].includes(r.type)
     );
 
     if (rd?.release_date) {
-      return rd.release_date.slice(0, 10); // YYYY-MM-DD
+      return rd.release_date.slice(0, 10);
     }
   }
-
   return null;
 }
 
-// ========================================
-// TMDB → IMDb FALLBACK
-// ========================================
+// ==========================
+// TMDB → IMDb
+// ==========================
 async function tmdbToImdb(id) {
   const url = `https://api.themoviedb.org/3/movie/${id}/external_ids?api_key=${TMDB_KEY}`;
   const json = await fetchJSON(url);
   return json?.imdb_id || null;
 }
 
-// ========================================
-// MAIN BUILDER
-// ========================================
-async function buildMovies() {
-  const ids = await fetchRecentlyChangedMovies();
-  const { start, end } = getDateRange();
-
+// ==========================
+// FETCH POPULAR MOVIES
+// ==========================
+async function fetchPopularMovies() {
   const list = [];
 
-  for (const movieId of ids) {
-    // Fetch movie details
-    const m = await fetchJSON(
-      `https://api.themoviedb.org/3/movie/${movieId}?api_key=${TMDB_KEY}&language=en-US`
-    );
-    if (!isValidMovie(m)) continue;
-    if (isForeign(m)) continue;
+  for (let p = 1; p <= POPULAR_PAGES; p++) {
+    const url =
+      `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_KEY}` +
+      `&language=en-US&page=${p}`;
 
-    // Real US/CA/GB release date
-    const release = await extractRegionRelease(movieId);
+    const json = await fetchJSON(url);
+    if (!json?.results) break;
+
+    for (const m of json.results) {
+      if (isValidMovie(m) && !isForeign(m)) {
+        list.push(m);
+      }
+    }
+  }
+
+  return list;
+}
+
+// ==========================
+// MAIN BUILDER
+// ==========================
+async function buildMovies() {
+  const popular = await fetchPopularMovies();
+  const { start, end } = getDateRange();
+  const out = [];
+
+  for (const m of popular) {
+    const movieId = m.id;
+
+    // Extract real US/CA/GB release date
+    const release = await getRegionRelease(movieId);
     if (!release) continue;
 
-    // Ensure release is within last 30 days
+    // Ensure inside last 30 days
     if (release < start || release > end) continue;
 
     const imdb = await tmdbToImdb(movieId);
 
-    list.push({
+    out.push({
       id: `tmdb:${movieId}`,
       type: "movie",
       name: m.title,
@@ -159,14 +147,14 @@ async function buildMovies() {
   }
 
   // Sort newest → oldest
-  list.sort((a, b) => new Date(b.release) - new Date(a.release));
+  out.sort((a, b) => new Date(b.release) - new Date(a.release));
 
-  return list;
+  return out;
 }
 
-// ========================================
+// ==========================
 // ROUTER
-// ========================================
+// ==========================
 export default async function handler(req) {
   const url = new URL(req.url);
   const p = url.pathname;
