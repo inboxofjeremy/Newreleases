@@ -1,7 +1,16 @@
 {
   "functions": {
-    "index.js": {
+    "api/index.js": {
       "runtime": "nodejs20.x"
     }
-  }
+  },
+  "rewrites": [
+    { "source": "/manifest.json", "destination": "/api/index.js" },
+    { "source": "/manifest", "destination": "/api/index.js" },
+
+    { "source": "/catalog/:type/:id.json", "destination": "/api/index.js" },
+    { "source": "/catalog/:type/:id", "destination": "/api/index.js" },
+
+    { "source": "/.*", "destination": "/api/index.js" }
+  ]
 }
