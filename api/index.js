@@ -24,7 +24,6 @@ function cors(obj) {
     );
 }
 
-// Date helpers
 function daysAgo(n) {
     const d = new Date();
     d.setDate(d.getDate() - n);
@@ -51,7 +50,7 @@ const manifest = {
     ]
 };
 
-// Fetch region release date
+// Fetch release date
 async function fetchRegionalDate(id) {
     try {
         const res = await fetch(
@@ -79,7 +78,7 @@ async function fetchRegionalDate(id) {
     return null;
 }
 
-// Main movie fetch
+// MAIN MOVIE FETCH (PARALLEL)
 async function fetchMovies() {
     const discoverUrl =
         `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
@@ -94,27 +93,27 @@ async function fetchMovies() {
 
     if (!data.results) return [];
 
-    const movies = [];
+    // PARALLEL release date requests
+    const results = await Promise.all(
+        data.results.map(async (m) => {
+            const regional = await fetchRegionalDate(m.id);
+            if (!regional) return null;
+            if (regional < DATE_FROM || regional > DATE_TO) return null;
 
-    for (const m of data.results) {
-        const regional = await fetchRegionalDate(m.id);
+            return {
+                id: m.id.toString(),
+                type: "movie",
+                name: m.title,
+                poster: m.poster_path
+                    ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+                    : null,
+                releaseInfo: regional,
+                description: m.overview || ""
+            };
+        })
+    );
 
-        if (!regional) continue;
-        if (regional < DATE_FROM || regional > DATE_TO) continue;
-
-        movies.push({
-            id: m.id.toString(),
-            type: "movie",
-            name: m.title,
-            poster: m.poster_path
-                ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-                : null,
-            releaseInfo: regional,
-            description: m.overview || ""
-        });
-    }
-
-    return movies;
+    return results.filter(Boolean);
 }
 
 // -------------------------------
@@ -122,7 +121,6 @@ async function fetchMovies() {
 // -------------------------------
 export default async function handler(req) {
 
-    // FIXED: Vercel Node.js headers
     const host = req.headers.host || "localhost";
     const origin = `https://${host}`;
     const url = new URL(req.url, origin);
