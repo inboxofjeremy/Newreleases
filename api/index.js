@@ -6,8 +6,7 @@ export const config = { runtime: "edge" };
 // ==========================
 const TMDB_KEY = process.env.TMDB_KEY;
 
-// Accepted release regions
-const REGIONS = ["US", "CA", "GB"];
+const PRIORITY_REGIONS = ["US", "CA", "GB"];
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
@@ -32,21 +31,17 @@ function cleanHTML(str) {
   return str ? str.replace(/<[^>]+>/g, "").trim() : "";
 }
 
-// English language detection
 function isForeignMovie(m) {
   const lang = (m.original_language || "").toLowerCase();
-  if (lang !== "en") return true;
-  return false;
+  return lang !== "en";
 }
 
-// Filter short films, adult, or obviously non-standard entries
 function isValidMovie(m) {
   if (!m || !m.title) return false;
   if (m.adult) return false;
   return true;
 }
 
-// Keep the last 30 days (using local date only)
 function getDateRange() {
   const today = new Date();
   const start = new Date();
@@ -59,7 +54,34 @@ function getDateRange() {
 }
 
 // ==========================
-// FETCH MOVIES FROM TMDB
+// REGION LOGIC (C1 SOFT FILTER)
+// ==========================
+function passesProductionCountry(movie) {
+  if (!movie.production_countries) return false;
+  return movie.production_countries.some((c) =>
+    PRIORITY_REGIONS.includes(c.iso_3166_1)
+  );
+}
+
+async function hasRegionProvider(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/watch/providers?api_key=${TMDB_KEY}`;
+  const json = await fetchJSON(url);
+  if (!json?.results) return false;
+
+  return PRIORITY_REGIONS.some((r) => json.results[r]);
+}
+
+// ==========================
+// TMDB → IMDb fallback
+// ==========================
+async function tmdbToImdb(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/external_ids?api_key=${TMDB_KEY}`;
+  const json = await fetchJSON(url);
+  return json?.imdb_id || null;
+}
+
+// ==========================
+// FETCH + BUILD MOVIE LIST
 // ==========================
 async function fetchTMDBMovies() {
   const { start, end } = getDateRange();
@@ -76,49 +98,31 @@ async function fetchTMDBMovies() {
   const json = await fetchJSON(url);
   if (!json?.results) return [];
 
-  return json.results.filter(isValidMovie).filter((m) => !isForeignMovie(m));
+  return json.results
+    .filter(isValidMovie)
+    .filter((m) => !isForeignMovie(m));
 }
 
-// ==========================
-// Fetch Region Watch Providers
-// ==========================
-async function fetchProviders(movieId) {
-  const url = `https://api.themoviedb.org/3/movie/${movieId}/watch/providers?api_key=${TMDB_KEY}`;
-  const json = await fetchJSON(url);
-  if (!json || !json.results) return false;
-
-  // Keep only if movie is available in US, CA, or GB
-  return REGIONS.some((r) => json.results[r]);
-}
-
-// ==========================
-// TMDB → IMDb Fallback
-// ==========================
-async function tmdbToImdb(movieId) {
-  const url = `https://api.themoviedb.org/3/movie/${movieId}/external_ids?api_key=${TMDB_KEY}`;
-  const json = await fetchJSON(url);
-  return json?.imdb_id || null;
-}
-
-// ==========================
-// BUILD MOVIES LIST
-// ==========================
 async function buildMovies() {
   const tmdbMovies = await fetchTMDBMovies();
-
   const out = [];
 
   for (const m of tmdbMovies) {
-    // Region availability filter
-    const okRegion = await fetchProviders(m.id);
-    if (!okRegion) continue;
-
-    // IMDb fallback
-    const imdb = await tmdbToImdb(m.id);
-
-    // construct clean release date
     const release = m.release_date || null;
     if (!release) continue;
+
+    // Region pass if ANY of the soft criteria matches
+    const productionPass = passesProductionCountry(m);
+    const providerPass = await hasRegionProvider(m.id);
+
+    const regionPass = productionPass || providerPass;
+
+    // If still no match, allow because discover returns region=US movies already
+    const allowBecauseDiscoverRegion = true;
+
+    if (!regionPass && !allowBecauseDiscoverRegion) continue;
+
+    const imdb = await tmdbToImdb(m.id);
 
     out.push({
       id: `tmdb:${m.id}`,
@@ -136,14 +140,13 @@ async function buildMovies() {
     });
   }
 
-  // Sort newest → oldest
   out.sort((a, b) => new Date(b.release) - new Date(a.release));
 
   return out;
 }
 
 // ==========================
-// HANDLER
+// ROUTES
 // ==========================
 export default async function handler(req) {
   const url = new URL(req.url);
@@ -158,7 +161,7 @@ export default async function handler(req) {
           version: "1.0.0",
           name: "Recent Movie Releases",
           description:
-            "Movies released in the last 30 days (US/CA/GB). TMDB with IMDb fallback.",
+            "Movies released in the last 30 days (English, US/CA/GB). TMDB with IMDb fallback.",
           catalogs: [
             {
               type: "movie",
@@ -185,7 +188,7 @@ export default async function handler(req) {
     });
   }
 
-  // Meta → Movie Details
+  // Meta
   if (p.startsWith("/meta/movie/")) {
     const id = p.split("/").pop().replace(".json", "");
     const tmdbId = id.replace("tmdb:", "");
@@ -217,7 +220,7 @@ export default async function handler(req) {
             background: m.backdrop_path
               ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
               : null,
-            videos: [], // no trailers
+            videos: [],
           },
         },
         null,
