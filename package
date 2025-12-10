@@ -1,6 +1,5 @@
 {
-  "name": "newreleases-two",
+  "name": "movie-addon",
   "version": "1.0.0",
-  "private": true,
   "type": "module"
 }
