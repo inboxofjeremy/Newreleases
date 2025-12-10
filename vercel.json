@@ -1,29 +1,18 @@
 {
+  "version": 2,
   "functions": {
     "api/index.js": {
-      "runtime": "@vercel/node@3.0.0"
+      "runtime": "nodejs20.x"
     }
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/manifest.json",
-      "destination": "/api/index.js"
+      "src": "/catalog/movie/recent_movies.json",
+      "dest": "/api/index.js"
     },
     {
-      "source": "/manifest",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/catalog/:type/:id.json",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/catalog/:type/:id",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/:path*",
-      "destination": "/api/index.js"
+      "src": "/manifest.json",
+      "dest": "/manifest.json"
     }
   ]
 }
