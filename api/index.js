@@ -1,18 +1,12 @@
 // ============================================================================
-//  STREMIO – Recent Movie Releases (Last 90 Days)
+//  STREMIO – Recent Hollywood Movie Releases (Last 90 Days)
 // ============================================================================
 
-// HARD-CODED TMDB KEY
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-
-// Allowed release regions
-const REGIONS = ["US", "CA", "GB"];
-
-// 90 days back
 const DAYS = 90;
 
 // ============================================================================
-//  CORS FIX FOR STREMIO
+//  CORS FOR STREMIO
 // ============================================================================
 function addCORS(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
@@ -20,9 +14,6 @@ function addCORS(res) {
   res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
 }
 
-// ============================================================================
-//  UTILS
-// ============================================================================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -39,6 +30,7 @@ function daysAgo(n) {
   return d.toISOString().slice(0, 10);
 }
 
+// Hollywood sanity filter
 function isHollywood(movie) {
   if (!movie) return false;
   if (movie.original_language !== "en") return false;
@@ -63,36 +55,33 @@ function toMeta(m) {
 }
 
 // ============================================================================
-//  TMDB FETCHER
+//  FIXED TMDB FETCHER
 // ============================================================================
 async function fetchRecentMovies() {
   const start = daysAgo(DAYS);
   const end = daysAgo(0);
 
-  let found = [];
+  // ⭐ Correct producing Hollywood releases
+  const url =
+    `https://api.themoviedb.org/3/discover/movie` +
+    `?api_key=${TMDB_KEY}` +
+    `&sort_by=primary_release_date.desc` +
+    `&language=en-US` +
+    `&with_original_language=en` + // only English films
+    `&region=US` + // US release calendar is reliable
+    `&primary_release_date.gte=${start}` +
+    `&primary_release_date.lte=${end}` +
+    `&release_date.gte=${start}` +
+    `&release_date.lte=${end}`;
 
-  for (const region of REGIONS) {
-    const url =
-      `https://api.themoviedb.org/3/discover/movie` +
-      `?api_key=${TMDB_KEY}` +
-      `&language=en-US` +
-      `&region=${region}` +
-      `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${start}` +
-      `&primary_release_date.lte=${end}` +
-      `&with_release_type=2|3|4|6`; // theatrical, digital, streaming
+  const json = await fetchJSON(url);
 
-    const json = await fetchJSON(url);
-    if (json?.results?.length) found.push(...json.results);
-  }
+  let movies = json?.results || [];
 
-  // Deduplicate
-  const map = new Map();
-  for (const m of found) map.set(m.id, m);
+  // Hollywood filter
+  movies = movies.filter(isHollywood);
 
-  let movies = [...map.values()].filter(isHollywood);
-
-  // Sort newest → oldest
+  // Sort by date
   movies.sort((a, b) => new Date(b.release_date) - new Date(a.release_date));
 
   return movies;
@@ -104,10 +93,14 @@ async function fetchRecentMovies() {
 const manifest = {
   id: "recent-movies-addon",
   version: "1.0.0",
-  name: "Recent Movie Releases",
-  description: "Movies released in the last 90 days in US/CA/GB.",
+  name: "Recent Hollywood Movies",
+  description: "English-language theatrical + streaming movies released in the last 90 days.",
   catalogs: [
-    { id: "recent_movies", type: "movie", name: "Recent Movies (90 Days)" }
+    {
+      id: "recent_movies",
+      type: "movie",
+      name: "Recent Movies (Hollywood 90 Days)"
+    }
   ],
   resources: ["catalog"],
   types: ["movie"],
@@ -115,51 +108,48 @@ const manifest = {
 };
 
 // ============================================================================
-//  MAIN HANDLER (ALL ROUTES HERE)
+//  ROUTER
 // ============================================================================
 module.exports = async (req, res) => {
   addCORS(res);
-
   if (req.method === "OPTIONS") return res.end();
 
-  const url = req.url;
+  const path = req.url;
 
-  // DEBUG ROUTE
-  if (url.includes("/api/debug")) {
-    const start = daysAgo(DAYS);
-    const end = daysAgo(0);
-
-    const testUrl =
-      `https://api.themoviedb.org/3/discover/movie` +
-      `?api_key=${TMDB_KEY}` +
-      `&language=en-US&region=US` +
-      `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${start}` +
-      `&primary_release_date.lte=${end}` +
-      `&with_release_type=2|3|4|6`;
-
-    const data = await fetchJSON(testUrl);
-
+  if (path.includes("manifest.json")) {
     res.setHeader("Content-Type", "application/json");
-    return res.end(JSON.stringify({ testUrl, data }, null, 2));
+    return res.end(JSON.stringify(manifest));
   }
 
-  // MANIFEST
-  if (url.includes("manifest.json")) {
-    res.setHeader("Content-Type", "application/json");
-    return res.end(JSON.stringify(manifest, null, 2));
-  }
-
-  // CATALOG
-  if (url.includes("/catalog/movie/recent_movies.json")) {
+  if (path.includes("/catalog/movie/recent_movies.json")) {
     const movies = await fetchRecentMovies();
     const metas = movies.map(toMeta);
-
     res.setHeader("Content-Type", "application/json");
     return res.end(JSON.stringify({ metas }, null, 2));
   }
 
-  // DEFAULT
+  // Debug endpoint
+  if (path.includes("/api/debug")) {
+    const start = daysAgo(DAYS);
+    const end = daysAgo(0);
+    const url =
+      `https://api.themoviedb.org/3/discover/movie` +
+      `?api_key=${TMDB_KEY}` +
+      `&sort_by=primary_release_date.desc` +
+      `&language=en-US` +
+      `&with_original_language=en` +
+      `&region=US` +
+      `&primary_release_date.gte=${start}` +
+      `&primary_release_date.lte=${end}` +
+      `&release_date.gte=${start}` +
+      `&release_date.lte=${end}`;
+
+    const data = await fetchJSON(url);
+    res.setHeader("Content-Type", "application/json");
+    return res.end(JSON.stringify({ url, data }, null, 2));
+  }
+
+  // Default
   res.setHeader("Content-Type", "application/json");
   return res.end(JSON.stringify({ status: "ok", message: "Movie addon online" }));
 };
