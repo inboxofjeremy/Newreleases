@@ -1,10 +1,4 @@
 {
-  "version": 2,
-  "functions": {
-    "api/index.js": {
-      "runtime": "edge"
-    }
-  },
   "routes": [
     { "src": "/manifest.json", "dest": "/api/index.js" },
     { "src": "/catalog/(.*)", "dest": "/api/index.js" },
