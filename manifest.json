@@ -1,1 +1,17 @@
-
+{
+  "id": "recent_movies",
+  "version": "1.0.0",
+  "name": "Recent Movie Releases",
+  "description": "Hollywood movies from the last 90 days (Theaters, VOD, Streaming)",
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "id": "recent_movies",
+      "type": "movie",
+      "name": "Recent Releases",
+      "extra": []
+    }
+  ],
+  "resources": ["catalog"],
+  "behaviorHints": { "configurable": false }
+}
