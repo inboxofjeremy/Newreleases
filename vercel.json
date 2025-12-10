@@ -1,8 +1,13 @@
 {
   "version": 2,
+  "functions": {
+    "api/index.js": {
+      "runtime": "edge"
+    }
+  },
   "routes": [
     { "src": "/manifest.json", "dest": "/api/index.js" },
-    { "src": "/catalog/movie/recent_movies.json", "dest": "/api/index.js" },
-    { "src": "/meta/movie/.*\\.json", "dest": "/api/index.js" }
+    { "src": "/catalog/(.*)", "dest": "/api/index.js" },
+    { "src": "/meta/(.*)", "dest": "/api/index.js" }
   ]
 }
