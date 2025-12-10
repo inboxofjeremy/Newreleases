@@ -1,162 +1,231 @@
-import fetch from "node-fetch";
-import { addonBuilder } from "stremio-addon-sdk";
+// api/index.js
+export const config = { runtime: "edge" };
 
+// ==========================
+// CONFIG
+// ==========================
 const TMDB_KEY = process.env.TMDB_KEY;
-const TMDB_BASE = "https://api.themoviedb.org/3";
 
-const builder = new addonBuilder({
-  id: "recent_movies",
-  version: "1.0.0",
-  name: "Recent Movie Releases",
-  catalogs: [
-    {
-      type: "movie",
-      id: "recent_movies",
-      name: "Recent Movie Releases (US/CA/GB)",
-      extra: [],
-    },
-  ],
-  resources: ["catalog", "meta"],
-  types: ["movie"],
-});
+// Accepted release regions
+const REGIONS = ["US", "CA", "GB"];
 
-// -------------------------------
-// Helper: Fetch JSON
-// -------------------------------
-async function getJSON(url) {
-  const res = await fetch(url);
-  if (!res.ok) return null;
-  return await res.json();
+const CORS = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "*",
+  "Content-Type": "application/json",
+};
+
+// ==========================
+// UTILS
+// ==========================
+async function fetchJSON(url) {
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) return null;
+    return await r.json();
+  } catch (_) {
+    return null;
+  }
 }
 
-// -------------------------------
-// Helper: US / CA / GB COUNTRY FILTER
-// -------------------------------
-function allowedCountry(movie) {
-  const allowed = ["US", "CA", "GB"];
+function cleanHTML(str) {
+  return str ? str.replace(/<[^>]+>/g, "").trim() : "";
+}
 
-  // origin_country: ["US"]
-  if (movie.origin_country && movie.origin_country.some(c => allowed.includes(c))) {
-    return true;
-  }
-
-  // production_countries: [{ iso_3166_1: "US" }]
-  if (
-    movie.production_countries &&
-    movie.production_countries.some(pc => allowed.includes(pc.iso_3166_1))
-  ) {
-    return true;
-  }
-
+// English language detection
+function isForeignMovie(m) {
+  const lang = (m.original_language || "").toLowerCase();
+  if (lang !== "en") return true;
   return false;
 }
 
-// -------------------------------
-// Helper: Clean poster path
-// -------------------------------
-function poster(path) {
-  return path ? `https://image.tmdb.org/t/p/w500${path}` : null;
+// Filter short films, adult, or obviously non-standard entries
+function isValidMovie(m) {
+  if (!m || !m.title) return false;
+  if (m.adult) return false;
+  return true;
 }
 
-// -------------------------------
-// Fetch movies released in last 30 days
-// -------------------------------
-async function getRecentMovies() {
+// Keep the last 30 days (using local date only)
+function getDateRange() {
   const today = new Date();
-  const past = new Date();
-  past.setDate(today.getDate() - 30);
-
-  const todayStr = today.toISOString().split("T")[0];
-  const pastStr = past.toISOString().split("T")[0];
-
-  const url = `${TMDB_BASE}/discover/movie?api_key=${TMDB_KEY}` +
-    `&primary_release_date.gte=${pastStr}` +
-    `&primary_release_date.lte=${todayStr}` +
-    `&include_adult=false&language=en-US&sort_by=primary_release_date.desc`;
-
-  let firstPage = await getJSON(url);
-  if (!firstPage || !firstPage.results) return [];
-
-  let results = [...firstPage.results];
-
-  const totalPages = Math.min(firstPage.total_pages || 1, 3); // fetch up to 3 pages
-
-  for (let page = 2; page <= totalPages; page++) {
-    const p = await getJSON(url + `&page=${page}`);
-    if (p && p.results) results.push(...p.results);
-  }
-
-  // Fetch full details for each movie to get production_countries
-  const detailedMovies = [];
-  for (let movie of results) {
-    const full = await getJSON(
-      `${TMDB_BASE}/movie/${movie.id}?api_key=${TMDB_KEY}&language=en-US`
-    );
-    if (!full) continue;
-
-    // Apply country filter
-    if (!allowedCountry(full)) continue;
-
-    detailedMovies.push(full);
-  }
-
-  return detailedMovies;
-}
-
-// -------------------------------
-// CATALOG HANDLER
-// -------------------------------
-builder.defineCatalogHandler(async () => {
-  const movies = await getRecentMovies();
-
-  const metas = movies.map(m => ({
-    id: "tmdb:" + m.id,
-    type: "movie",
-    name: m.title,
-    poster: poster(m.poster_path),
-    background: poster(m.backdrop_path),
-    description: m.overview || "",
-    releaseDate: m.release_date,
-  }));
-
-  return { metas };
-});
-
-// -------------------------------
-// META HANDLER
-// -------------------------------
-builder.defineMetaHandler(async ({ id }) => {
-  const tmdbId = id.split(":")[1];
-
-  const data = await getJSON(
-    `${TMDB_BASE}/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US&append_to_response=videos`
-  );
-
-  if (!data) return { meta: {} };
+  const start = new Date();
+  start.setDate(today.getDate() - 30);
 
   return {
-    meta: {
-      id,
-      type: "movie",
-      name: data.title,
-      description: data.overview,
-      poster: poster(data.poster_path),
-      background: poster(data.backdrop_path),
-      releaseInfo: data.release_date,
-      runtime: data.runtime ? `${data.runtime} min` : "Unknown",
-      videos: (data.videos?.results || [])
-        .filter(v => v.site === "YouTube")
-        .map(v => ({
-          id: v.id,
-          title: v.name,
-          thumbnail: `https://img.youtube.com/vi/${v.key}/0.jpg`,
-          stream: `https://www.youtube.com/watch?v=${v.key}`,
-        })),
-    },
+    start: start.toISOString().slice(0, 10),
+    end: today.toISOString().slice(0, 10),
   };
-});
+}
 
-// -------------------------------
-// EXPORT
-// -------------------------------
-export default builder.getInterface();
+// ==========================
+// FETCH MOVIES FROM TMDB
+// ==========================
+async function fetchTMDBMovies() {
+  const { start, end } = getDateRange();
+
+  const url =
+    `https://api.themoviedb.org/3/discover/movie` +
+    `?api_key=${TMDB_KEY}` +
+    `&language=en-US` +
+    `&region=US` +
+    `&sort_by=release_date.desc` +
+    `&release_date.gte=${start}` +
+    `&release_date.lte=${end}`;
+
+  const json = await fetchJSON(url);
+  if (!json?.results) return [];
+
+  return json.results.filter(isValidMovie).filter((m) => !isForeignMovie(m));
+}
+
+// ==========================
+// Fetch Region Watch Providers
+// ==========================
+async function fetchProviders(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/watch/providers?api_key=${TMDB_KEY}`;
+  const json = await fetchJSON(url);
+  if (!json || !json.results) return false;
+
+  // Keep only if movie is available in US, CA, or GB
+  return REGIONS.some((r) => json.results[r]);
+}
+
+// ==========================
+// TMDB → IMDb Fallback
+// ==========================
+async function tmdbToImdb(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/external_ids?api_key=${TMDB_KEY}`;
+  const json = await fetchJSON(url);
+  return json?.imdb_id || null;
+}
+
+// ==========================
+// BUILD MOVIES LIST
+// ==========================
+async function buildMovies() {
+  const tmdbMovies = await fetchTMDBMovies();
+
+  const out = [];
+
+  for (const m of tmdbMovies) {
+    // Region availability filter
+    const okRegion = await fetchProviders(m.id);
+    if (!okRegion) continue;
+
+    // IMDb fallback
+    const imdb = await tmdbToImdb(m.id);
+
+    // construct clean release date
+    const release = m.release_date || null;
+    if (!release) continue;
+
+    out.push({
+      id: `tmdb:${m.id}`,
+      type: "movie",
+      name: m.title,
+      description: cleanHTML(m.overview),
+      poster: m.poster_path
+        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+        : null,
+      background: m.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+        : null,
+      release: release,
+      imdb: imdb || null,
+    });
+  }
+
+  // Sort newest → oldest
+  out.sort((a, b) => new Date(b.release) - new Date(a.release));
+
+  return out;
+}
+
+// ==========================
+// HANDLER
+// ==========================
+export default async function handler(req) {
+  const url = new URL(req.url);
+  const p = url.pathname;
+
+  // Manifest
+  if (p === "/manifest.json") {
+    return new Response(
+      JSON.stringify(
+        {
+          id: "recent_movies",
+          version: "1.0.0",
+          name: "Recent Movie Releases",
+          description:
+            "Movies released in the last 30 days (US/CA/GB). TMDB with IMDb fallback.",
+          catalogs: [
+            {
+              type: "movie",
+              id: "recent_movies",
+              name: "Recent Movies",
+            },
+          ],
+          resources: ["catalog", "meta"],
+          types: ["movie"],
+          idPrefixes: ["tmdb"],
+        },
+        null,
+        2
+      ),
+      { headers: CORS }
+    );
+  }
+
+  // Catalog
+  if (p.startsWith("/catalog/movie/recent_movies")) {
+    const movies = await buildMovies();
+    return new Response(JSON.stringify({ metas: movies }, null, 2), {
+      headers: CORS,
+    });
+  }
+
+  // Meta → Movie Details
+  if (p.startsWith("/meta/movie/")) {
+    const id = p.split("/").pop().replace(".json", "");
+    const tmdbId = id.replace("tmdb:", "");
+
+    const m = await fetchJSON(
+      `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
+    );
+
+    if (!m) {
+      return new Response(
+        JSON.stringify({
+          meta: { id, type: "movie", name: "Unknown", videos: [] },
+        }),
+        { headers: CORS }
+      );
+    }
+
+    return new Response(
+      JSON.stringify(
+        {
+          meta: {
+            id,
+            type: "movie",
+            name: m.title,
+            description: cleanHTML(m.overview),
+            poster: m.poster_path
+              ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+              : null,
+            background: m.backdrop_path
+              ? `https://image.tmdb.org/t/p/original${m.backdrop_path}`
+              : null,
+            videos: [], // no trailers
+          },
+        },
+        null,
+        2
+      ),
+      { headers: CORS }
+    );
+  }
+
+  return new Response("Not found", { status: 404, headers: CORS });
+}
