@@ -4,7 +4,7 @@ export const config = { runtime: "edge" };
 // ==========================
 // CONFIG
 // ==========================
-const TMDB_API_KEY = "944017b839d3c040bdd324083e4c1bc";
+const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const MAX_TMDB_PAGES = 5; // fetch multiple pages for full range
 const CORS = {
   "Access-Control-Allow-Origin": "*",
