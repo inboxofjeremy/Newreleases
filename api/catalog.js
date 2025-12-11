@@ -1,13 +1,21 @@
-// api/catalog.js
-export const config = { runtime: "edge" };
+export const config = {
+  runtime: "edge"
+};
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
-const TMDB_CONCURRENCY = 5;
 
-// ==========================
-// UTILS
-// ==========================
+// CORS helper
+function cors(payload) {
+  return new Response(JSON.stringify(payload), {
+    headers: {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*"
+    }
+  });
+}
+
+// Date helpers
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -17,15 +25,7 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-function cors(payload) {
-  return new Response(JSON.stringify(payload, null, 2), {
-    headers: {
-      "Content-Type": "application/json",
-      "Access-Control-Allow-Origin": "*"
-    },
-  });
-}
-
+// Fetch JSON
 async function fetchJSON(url) {
   try {
     const r = await fetch(url, { cache: "no-store" });
@@ -36,111 +36,90 @@ async function fetchJSON(url) {
   }
 }
 
-async function pMap(list, fn, concurrency) {
-  const out = [];
-  let i = 0;
-  const workers = Array(concurrency).fill(0).map(async () => {
-    while (i < list.length) {
-      const idx = i++;
-      try {
-        out[idx] = await fn(list[idx]);
-      } catch {
-        out[idx] = null;
-      }
-    }
-  });
-  await Promise.all(workers);
-  return out.filter(Boolean);
-}
+// Scrape IMDb US release calendar
+async function fetchIMDbReleases() {
+  const url = `https://www.imdb.com/calendar/?region=US`;
+  try {
+    const res = await fetch(url, { cache: "no-store" });
+    const html = await res.text();
 
-// ==========================
-// TMDB DISCOVER → IMDB
-// ==========================
-async function fetchTMDBMovies() {
-  let movies = [];
-  for (let page = 1; page <= 10; page++) {
-    // discover by primary release date in US
-    const url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
-      `&region=US&with_original_language=en&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}&primary_release_date.lte=${DATE_TO}` +
-      `&page=${page}`;
-    const json = await fetchJSON(url);
-    if (!json?.results?.length) break;
-    movies.push(...json.results);
-    if (page >= json.total_pages) break;
+    // Parse simple regex for <a href="/title/tt1234567/">Movie Name</a>
+    const matches = [...html.matchAll(/<a href="\/title\/(tt\d+)\/">([^<]+)<\/a>/g)];
+
+    const movies = matches.map(m => ({
+      imdb_id: m[1],
+      name: m[2]
+    }));
+
+    return movies;
+  } catch {
+    return [];
   }
-  return movies;
 }
 
-async function addIMDbID(movie) {
-  if (!movie?.id) return null;
-  const ext = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${movie.id}/external_ids?api_key=${TMDB_KEY}`
+// Enrich IMDb IDs with TMDb metadata
+async function fetchTMDbData(imdbId) {
+  try {
+    const url = `https://api.themoviedb.org/3/find/${imdbId}?api_key=${TMDB_KEY}&external_source=imdb_id`;
+    const json = await fetchJSON(url);
+    if (!json || !json.movie_results || !json.movie_results.length) return null;
+
+    const m = json.movie_results[0];
+    return {
+      id: `tmdb:${m.id}`,
+      type: "movie",
+      name: m.title,
+      description: m.overview || "",
+      poster: m.poster_path ? `https://image.tmdb.org/t/p/w500${m.poster_path}` : null,
+      releaseInfo: m.release_date || null
+    };
+  } catch {
+    return null;
+  }
+}
+
+// Main fetch function
+async function fetchMovies() {
+  const imdbMovies = await fetchIMDbReleases();
+  if (!imdbMovies.length) return [];
+
+  // Limit to first 200 movies to avoid timeouts
+  const trimmed = imdbMovies.slice(0, 200);
+
+  const movies = await Promise.all(
+    trimmed.map(async (m) => {
+      const data = await fetchTMDbData(m.imdb_id);
+      return data;
+    })
   );
-  return {
-    id: `tmdb:${movie.id}`,
-    type: "movie",
-    name: movie.title,
-    description: movie.overview || "",
-    poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : null,
-    releaseInfo: movie.release_date,
-    imdb: ext?.imdb_id || null
-  };
+
+  return movies.filter(Boolean);
 }
 
-// ==========================
-// MAIN HANDLER
-// ==========================
+// Edge function handler
 export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
 
-  if (path === "/manifest.json") {
-    return cors({
-      id: "recent_us_movies",
-      version: "1.0.0",
-      name: "Recent US Releases",
-      description: "Movies released in US theaters, digital or streaming in last 180 days",
-      catalogs: [
-        { type: "movie", id: "recent_movies", name: "Recent Releases" }
-      ],
-      resources: ["catalog", "meta"],
-      types: ["movie"],
-      idPrefixes: ["tmdb"]
-    });
-  }
-
   if (path === "/catalog/movie/recent_movies.json") {
     try {
-      const list = await fetchTMDBMovies();
-      const metas = await pMap(list, addIMDbID, TMDB_CONCURRENCY);
-      return cors({ metas });
+      const list = await fetchMovies();
+      return cors({ metas: list });
     } catch (err) {
       return cors({ metas: [], error: err.message });
     }
   }
 
-  if (path.startsWith("/meta/movie/")) {
-    const id = path.split("/").pop().replace(".json", "");
-    const tmdbId = id.replace("tmdb:", "");
-    const movie = await fetchJSON(`https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}`);
-    if (!movie) return cors({ meta: { id, type: "movie", name: "Unknown", videos: [] } });
-
-    const ext = await fetchJSON(
-      `https://api.themoviedb.org/3/movie/${tmdbId}/external_ids?api_key=${TMDB_KEY}`
-    );
-
+  if (path === "/manifest.json") {
     return cors({
-      meta: {
-        id: `tmdb:${movie.id}`,
-        type: "movie",
-        name: movie.title,
-        description: movie.overview || "",
-        poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : null,
-        background: movie.backdrop_path ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}` : null,
-        imdb: ext?.imdb_id || null,
-        videos: []
-      }
+      id: "recent_us_movies",
+      version: "1.0.0",
+      name: "US Recent Movie Releases",
+      description: "Movies released in the US (theaters, streaming, VOD) in the last 180 days",
+      types: ["movie"],
+      catalogs: [
+        { id: "recent_movies", type: "movie", name: "Recent US Releases" }
+      ]
     });
   }
 
