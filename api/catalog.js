@@ -4,8 +4,9 @@ export const config = { runtime: "edge" };
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
 const REGIONS = ["US"];
+const MOVIES_PER_PAGE = 20; // TMDb default per page
 
-// Helper: CORS response
+// CORS helper
 function cors(obj) {
   return new Response(JSON.stringify(obj), {
     headers: {
@@ -17,7 +18,7 @@ function cors(obj) {
   });
 }
 
-// Helper: get date n days ago in YYYY-MM-DD
+// Helper: get date n days ago
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -27,34 +28,22 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-// Fetch TMDb pages until exhausted
-async function fetchAllTMDBMovies() {
-  let page = 1;
-  let allMovies = [];
+// Fetch a single TMDb page
+async function fetchTMDBPage(page = 1) {
+  const url =
+    `https://api.themoviedb.org/3/discover/movie?` +
+    `api_key=${TMDB_KEY}&language=en-US&with_original_language=en` +
+    `&sort_by=primary_release_date.desc` +
+    `&primary_release_date.gte=${DATE_FROM}` +
+    `&primary_release_date.lte=${DATE_TO}` +
+    `&page=${page}`;
 
-  while (true) {
-    const url =
-      `https://api.themoviedb.org/3/discover/movie?` +
-      `api_key=${TMDB_KEY}&language=en-US&with_original_language=en` +
-      `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
-      `&page=${page}`;
-
-    const res = await fetch(url);
-    const json = await res.json();
-    if (!json?.results || json.results.length === 0) break;
-
-    allMovies.push(...json.results);
-
-    if (page >= json.total_pages) break;
-    page++;
-  }
-
-  return allMovies;
+  const res = await fetch(url);
+  const json = await res.json();
+  return json;
 }
 
-// Fetch release date in US (any type)
+// Fetch US release date for a movie
 async function fetchUSRelease(id) {
   try {
     const r = await fetch(
@@ -66,12 +55,9 @@ async function fetchUSRelease(id) {
 
     for (const region of REGIONS) {
       const entry = j.results.find(r => r.iso_3166_1 === region);
-      if (!entry) continue;
-      if (!entry.release_dates || !entry.release_dates.length) continue;
+      if (!entry || !entry.release_dates.length) continue;
 
-      // Take first available release date in US
-      const date = entry.release_dates[0].release_date.split("T")[0];
-      return date;
+      return entry.release_dates[0].release_date.split("T")[0];
     }
   } catch {
     return null;
@@ -79,16 +65,15 @@ async function fetchUSRelease(id) {
   return null;
 }
 
-// Build full catalog
-async function buildCatalog() {
-  const movies = await fetchAllTMDBMovies();
+// Build a single catalog page
+async function buildPage(page = 1) {
+  const data = await fetchTMDBPage(page);
+  if (!data?.results?.length) return [];
 
   const metas = await Promise.all(
-    movies.map(async m => {
+    data.results.map(async m => {
       const releaseInfo = await fetchUSRelease(m.id);
       if (!releaseInfo) return null;
-
-      // Only include releases within last 180 days
       if (releaseInfo < DATE_FROM || releaseInfo > DATE_TO) return null;
 
       return {
@@ -105,10 +90,11 @@ async function buildCatalog() {
   return metas.filter(Boolean);
 }
 
-// Edge handler
+// Handler
 export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
+  const searchParams = url.searchParams;
 
   if (req.method === "OPTIONS") return cors({ ok: true });
 
@@ -120,14 +106,22 @@ export default async function handler(req) {
       description: `All movies released in US theatres, streaming or digital in the last ${DAYS_BACK} days.`,
       types: ["movie"],
       catalogs: [
-        { type: "movie", id: "recent_movies", name: "Recent US Movies" }
+        {
+          type: "movie",
+          id: "recent_movies",
+          name: "Recent US Movies",
+          extra: [
+            { name: "page", isRequired: false }
+          ]
+        }
       ]
     });
   }
 
   if (path === "/catalog/movie/recent_movies.json") {
     try {
-      const metas = await buildCatalog();
+      const page = parseInt(searchParams.get("page")) || 1;
+      const metas = await buildPage(page);
       return cors({ metas });
     } catch (err) {
       return cors({ metas: [], error: err.message });
