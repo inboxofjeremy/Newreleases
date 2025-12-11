@@ -5,6 +5,9 @@ export const config = {
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
 
+// ---------------------------------------------------
+// Helpers
+// ---------------------------------------------------
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -12,9 +15,8 @@ function daysAgo(n) {
 }
 
 const DATE_FROM = daysAgo(DAYS_BACK);
-const DATE_TO = daysAgo(0);
+const DATE_TO   = daysAgo(0);
 
-// CORS
 function cors(payload) {
   return new Response(JSON.stringify(payload), {
     headers: {
@@ -24,7 +26,9 @@ function cors(payload) {
   });
 }
 
-// Get release date for US theatrical/streaming/VOD
+// ---------------------------------------------------
+// Fetch US theatrical/digital/streaming release date
+// ---------------------------------------------------
 async function fetchUSRelease(id) {
   try {
     const r = await fetch(
@@ -37,49 +41,57 @@ async function fetchUSRelease(id) {
     const us = j.results.find(x => x.iso_3166_1 === "US");
     if (!us) return null;
 
-    // Valid Hollywood release types:
-    // 2 = Theatrical (limited)
-    // 3 = Theatrical (wide)
-    // 4 = Digital
-    // 6 = Streaming
-    const valid = us.release_dates.filter(r =>
-      [2, 3, 4, 6].includes(r.type)
-    );
+    // Hollywood-valid release types:
+    const TYPES = [2, 3, 4, 6];
+    const valid = us.release_dates
+      .filter(r => TYPES.includes(r.type))
+      .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
 
     if (!valid.length) return null;
 
-    const date = valid[0].release_date.split("T")[0];
-    return date;
+    return valid[0].release_date.split("T")[0];
   } catch {
     return null;
   }
 }
 
-async function fetchMovies() {
-  // Pull the top 2 pages (40 movies), newest first
-  const discURL =
+// ---------------------------------------------------
+// Discover movies (Correct TMDB search)
+// ---------------------------------------------------
+async function fetchDiscoverPage(page) {
+  const URL =
     `https://api.themoviedb.org/3/discover/movie?` +
     `api_key=${TMDB_KEY}` +
-    `&language=en-US` +
-    `&with_original_language=en` +
-    `&sort_by=primary_release_date.desc` +
-    `&primary_release_date.gte=${DATE_FROM}` +
-    `&primary_release_date.lte=${DATE_TO}` +
-    `&page=1`;
+    `&region=US` +                             // ← critical for Hollywood results
+    `&sort_by=release_date.desc` +             // ← REAL workable field
+    `&release_date.gte=${DATE_FROM}` +
+    `&release_date.lte=${DATE_TO}` +
+    `&include_adult=false` +
+    `&page=${page}`;
 
-  const r = await fetch(discURL, { cache: "no-store" });
+  const r = await fetch(URL, { cache: "no-store" });
   const j = await r.json();
-  const list = j.results || [];
+  return j.results || [];
+}
 
-  // Limit to first 40 to avoid slowdowns
-  const trimmed = list.slice(0, 40);
+// ---------------------------------------------------
+// Main fetch logic
+// ---------------------------------------------------
+async function fetchMovies() {
+  // Pull first 4 pages (~80 movies)
+  const pages = await Promise.all([
+    fetchDiscoverPage(1),
+    fetchDiscoverPage(2),
+    fetchDiscoverPage(3),
+    fetchDiscoverPage(4)
+  ]);
+
+  const flat = pages.flat();
 
   const movies = await Promise.all(
-    trimmed.map(async m => {
+    flat.map(async m => {
       const usDate = await fetchUSRelease(m.id);
       if (!usDate) return null;
-
-      // Must be within valid window
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
       return {
@@ -98,6 +110,9 @@ async function fetchMovies() {
   return movies.filter(Boolean);
 }
 
+// ---------------------------------------------------
+// Handler
+// ---------------------------------------------------
 export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
