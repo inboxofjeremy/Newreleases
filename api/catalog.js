@@ -1,12 +1,8 @@
-export const config = {
-  runtime: "edge"
-};
+export const config = { runtime: "edge" };
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const DAYS_BACK = 90;
-const MAX_PAGES = 10;     // Fetch 200 movies
-
-const VALID_US_TYPES = [2, 3, 4, 6];   // Theatrical, Digital, Streaming
+const DAYS_BACK = 180; // <-- extended from 90 to 180
+const MAX_PAGES = 10;  // fetch 10 pages (~200 movies)
 
 function daysAgo(n) {
   const d = new Date();
@@ -26,30 +22,7 @@ function cors(payload) {
   });
 }
 
-// ------------------------------
-// Fetch TMDB discover pages
-// ------------------------------
-async function fetchPage(page) {
-  const url =
-    `https://api.themoviedb.org/3/discover/movie?` +
-    `api_key=${TMDB_KEY}` +
-    `&language=en-US` +
-    `&include_adult=false` +
-    `&sort_by=popularity.desc` +   // <-- IMPORTANT: Do NOT use date filters
-    `&page=${page}`;
-
-  try {
-    const r = await fetch(url, { cache: "no-store" });
-    const j = await r.json();
-    return j.results || [];
-  } catch {
-    return [];
-  }
-}
-
-// ------------------------------
-// Get accurate U.S. release date
-// ------------------------------
+// Fetch US release date for Hollywood types
 async function fetchUSRelease(id) {
   try {
     const r = await fetch(
@@ -62,38 +35,48 @@ async function fetchUSRelease(id) {
     const us = j.results.find(x => x.iso_3166_1 === "US");
     if (!us) return null;
 
-    const rel = us.release_dates
-      .filter(r => VALID_US_TYPES.includes(r.type))
-      .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
+    const valid = us.release_dates.filter(r =>
+      [2, 3, 4, 6].includes(r.type)
+    );
 
-    if (!rel.length) return null;
+    if (!valid.length) return null;
 
-    return rel[0].release_date.split("T")[0];
+    return valid[0].release_date.split("T")[0];
   } catch {
     return null;
   }
 }
 
-// ------------------------------
-// MAIN MOVIE BUILDER
-// ------------------------------
-async function buildMovies() {
-  // 1. Load 10 discover pages = ~200 movies
-  const pagePromises = [];
-  for (let i = 1; i <= MAX_PAGES; i++) {
-    pagePromises.push(fetchPage(i));
+// Fetch multiple TMDB pages
+async function fetchMovies() {
+  let movies = [];
+
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    const url =
+      `https://api.themoviedb.org/3/discover/movie?` +
+      `api_key=${TMDB_KEY}` +
+      `&language=en-US` +
+      `&with_original_language=en` +
+      `&sort_by=primary_release_date.desc` +
+      `&primary_release_date.gte=${DATE_FROM}` +
+      `&primary_release_date.lte=${DATE_TO}` +
+      `&page=${page}`;
+
+    const res = await fetch(url, { cache: "no-store" });
+    const data = await res.json();
+    if (!data.results || !data.results.length) break;
+
+    movies.push(...data.results);
   }
 
-  const allPages = await Promise.all(pagePromises);
-  const bigList = allPages.flat();
+  // Limit to first 200 just in case
+  const trimmed = movies.slice(0, 200);
 
-  // 2. Resolve real U.S. release dates
-  const mapped = await Promise.all(
-    bigList.map(async m => {
+  // Fetch US release dates in parallel
+  const results = await Promise.all(
+    trimmed.map(async m => {
       const usDate = await fetchUSRelease(m.id);
       if (!usDate) return null;
-
-      // Must be in the last 90 days
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
       return {
@@ -109,20 +92,18 @@ async function buildMovies() {
     })
   );
 
-  return mapped.filter(Boolean);
+  return results.filter(Boolean);
 }
 
-// ------------------------------
-// HANDLER
-// ------------------------------
+// Edge handler
 export default async function handler(req) {
-  const u = new URL(req.url);
-  const p = u.pathname;
+  const url = new URL(req.url);
+  const path = url.pathname;
 
-  if (p === "/catalog/movie/recent_movies.json") {
+  if (path === "/catalog/movie/recent_movies.json") {
     try {
-      const movies = await buildMovies();
-      return cors({ metas: movies });
+      const list = await fetchMovies();
+      return cors({ metas: list });
     } catch (err) {
       return cors({ metas: [], error: err.message });
     }
