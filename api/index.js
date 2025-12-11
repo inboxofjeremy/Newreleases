@@ -9,7 +9,7 @@ const DAYS_BACK = 90;
 const REGIONS = ["US", "CA", "GB"];
 const HOLLYWOOD_TYPES = [2, 3, 4, 6];
 
-// ===============================
+// ==============================
 function cors(obj) {
     return new Response(
         typeof obj === "string" ? obj : JSON.stringify(obj),
