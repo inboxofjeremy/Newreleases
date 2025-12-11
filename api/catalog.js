@@ -4,8 +4,10 @@ export const config = {
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
+const MIN_VOTE_COUNT = 20; // remove very tiny indies
+const REGIONS = ["US"];
+const VALID_TYPES = [2, 3, 4, 5, 6, 7]; // all release types
 
-// Calculate dates
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -15,7 +17,6 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-// CORS helper
 function cors(payload) {
   return new Response(JSON.stringify(payload), {
     headers: {
@@ -25,35 +26,36 @@ function cors(payload) {
   });
 }
 
-// Get valid US release date
 async function fetchUSRelease(id) {
   try {
     const res = await fetch(
       `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`,
       { cache: "no-store" }
     );
-    const j = await res.json();
-    if (!j.results) return null;
+    const json = await res.json();
+    if (!json.results) return null;
 
-    const us = j.results.find(x => x.iso_3166_1 === "US");
-    if (!us) return null;
+    for (const region of REGIONS) {
+      const entry = json.results.find(r => r.iso_3166_1 === region);
+      if (!entry) continue;
 
-    const validTypes = [2, 3, 4, 6]; // theatrical limited/wide, digital, streaming
-    const valid = us.release_dates.filter(r => validTypes.includes(r.type));
-    if (!valid.length) return null;
+      const valid = entry.release_dates.filter(r =>
+        VALID_TYPES.includes(r.type)
+      );
 
-    return valid[0].release_date.split("T")[0];
+      if (valid.length > 0) return valid[0].release_date.split("T")[0];
+    }
   } catch {
     return null;
   }
+
+  return null;
 }
 
-// Fetch movies from TMDB
 async function fetchMovies() {
   const allMovies = [];
 
-  // Fetch multiple pages to cover all releases (TMDB usually max 500 results)
-  for (let page = 1; page <= 10; page++) {
+  for (let page = 1; page <= 10; page++) { // fetch up to ~400 movies
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${TMDB_KEY}` +
@@ -66,16 +68,17 @@ async function fetchMovies() {
       `&page=${page}`;
 
     const res = await fetch(url, { cache: "no-store" });
-    const data = await res.json();
-    if (!data.results || data.results.length === 0) break;
+    const json = await res.json();
+    if (!json.results || json.results.length === 0) break;
 
-    allMovies.push(...data.results);
-    if (page >= data.total_pages) break;
+    allMovies.push(...json.results);
+    if (page >= json.total_pages) break;
   }
 
-  // Fetch US release dates in parallel
   const results = await Promise.all(
     allMovies.map(async m => {
+      if (m.vote_count < MIN_VOTE_COUNT) return null;
+
       const usDate = await fetchUSRelease(m.id);
       if (!usDate) return null;
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
@@ -88,7 +91,9 @@ async function fetchMovies() {
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
-        releaseInfo: usDate
+        releaseInfo: usDate,
+        popularity: m.popularity,
+        voteCount: m.vote_count
       };
     })
   );
@@ -96,7 +101,6 @@ async function fetchMovies() {
   return results.filter(Boolean);
 }
 
-// Edge function handler
 export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
@@ -110,6 +114,5 @@ export default async function handler(req) {
     }
   }
 
-  // Default response
-  return cors({ status: "ok" });
+  return cors({ ok: true });
 }
