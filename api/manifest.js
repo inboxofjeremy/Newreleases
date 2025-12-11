@@ -1,26 +1,27 @@
-export const config = { runtime: "edge" };
+{
+  "id": "newreleases",
+  "version": "1.0.0",
+  "name": "New Releases (Movies)",
+  "description": "Recently released movies in theatres, VOD, or streaming (last 90 days).",
+  "logo": "https://newreleases-two.vercel.app/icon.png",
 
-export default async function handler() {
-  const manifest = {
-    id: "recent_movies",
-    version: "1.0.0",
-    name: "Recent Movie Releases",
-    description: "Hollywood movies released in the last 90 days",
-    catalogs: [
-      {
-        type: "movie",
-        id: "recent_movies",
-        name: "Recent Releases"
-      }
-    ],
-    resources: ["catalog", "meta"],
-    types: ["movie"]
-  };
-
-  return new Response(JSON.stringify(manifest, null, 2), {
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "application/json"
+  "resources": [
+    {
+      "name": "catalog",
+      "types": ["movie"],
+      "id": "recent_movies"
     }
-  });
+  ],
+
+  "types": ["movie"],
+
+  "catalogs": [
+    {
+      "id": "recent_movies",
+      "type": "movie",
+      "name": "New Movie Releases"
+    }
+  ],
+
+  "idPrefixes": ["tmdb"]
 }
