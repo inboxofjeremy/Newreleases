@@ -1,22 +1,23 @@
-// api/catalog.js
-import fetch from "node-fetch";
+// No imports needed — fetch is global in Vercel Node 18+
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-
-// 90-day release window
 const DAYS_BACK = 90;
 
-// Release types meaning:
-// 2 = Theatrical (limited)
-// 3 = Theatrical
-// 4 = Digital
-// 6 = Streaming
-const RELEASE_TYPES = "2|3|4|6";
-
-// Regions we query in order of priority
 const REGIONS = ["US", "CA", "GB"];
+const HOLLYWOOD_TYPES = [2, 3, 4, 6];
 
-// ---------- Utils ----------
+function cors(obj) {
+    return new Response(
+        typeof obj === "string" ? obj : JSON.stringify(obj),
+        {
+            headers: {
+                "Content-Type": "application/json",
+                "Access-Control-Allow-Origin": "*"
+            }
+        }
+    );
+}
+
 function daysAgo(n) {
     const d = new Date();
     d.setDate(d.getDate() - n);
@@ -26,90 +27,78 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-const CORS = {
-    "Access-Control-Allow-Origin": "*",
-    "Content-Type": "application/json",
-};
+async function fetchRegionalDate(id) {
+    try {
+        const res = await fetch(
+            `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
+        );
+        const json = await res.json();
+        if (!json.results) return null;
 
-// Filter out obvious non-Hollywood junk
-function isForeign(item) {
-    const lang = item.original_language || "";
-    const title = item.title || "";
+        for (const region of REGIONS) {
+            const entry = json.results.find(r => r.iso_3166_1 === region);
+            if (!entry) continue;
 
-    // CJK, Cyrillic, Thai, Hindi, Arabic, Korean etc
-    const NON_LATIN_REGEX =
-        /[\u4E00-\u9FFF\u3040-\u30FF\u31F0-\u31FF\u0400-\u04FF\u0E00-\u0E7F\u0600-\u06FF\u0900-\u097F\uAC00-\uD7AF]/;
+            const filtered = entry.release_dates
+                .filter(r => HOLLYWOOD_TYPES.includes(r.type))
+                .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
 
-    if (NON_LATIN_REGEX.test(title)) return true;
+            if (filtered.length > 0)
+                return filtered[0].release_date.split("T")[0];
+        }
+    } catch (e) { }
 
-    // Exclude movies from obscure non-English markets
-    if (!["en", "fr", "es"].includes(lang)) return true;
-
-    return false;
+    return null;
 }
 
-// Convert TMDB data → Stremio metas
-function buildMeta(movie, region) {
-    return {
-        id: movie.id.toString(),
-        type: "movie",
-        name: movie.title,
-        poster: movie.poster_path
-            ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
-            : null,
-        description: movie.overview || "",
-        releaseInfo: movie.primary_release_date || null,
-        region,
-    };
-}
-
-// ---------- Fetch movies ----------
-async function fetchRegion(region) {
-    const url =
-        `https://api.themoviedb.org/3/discover/movie` +
-        `?api_key=${TMDB_KEY}` +
-        `&region=${region}` +
-        `&watch_region=${region}` +
-        `&with_release_type=${RELEASE_TYPES}` +
+async function fetchMovies() {
+    const discoverUrl =
+        `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
+        `&language=en-US` +
+        `&with_original_language=en` +
         `&sort_by=primary_release_date.desc` +
         `&primary_release_date.gte=${DATE_FROM}` +
-        `&primary_release_date.lte=${DATE_TO}` +
-        `&language=en-US`;
+        `&primary_release_date.lte=${DATE_TO}`;
 
-    const res = await fetch(url);
-    const json = await res.json();
+    const res = await fetch(discoverUrl);
+    const data = await res.json();
 
-    if (!json.results) return [];
-    return json.results
-        .filter(m => m.primary_release_date)
-        .filter(m => !isForeign(m))
-        .map(m => buildMeta(m, region));
-}
+    if (!data.results) return [];
 
-async function fetchAllRegions() {
-    let all = [];
+    const results = await Promise.all(
+        data.results.map(async (m) => {
+            const release = await fetchRegionalDate(m.id);
+            if (!release) return null;
+            if (release < DATE_FROM || release > DATE_TO) return null;
 
-    for (const region of REGIONS) {
-        const part = await fetchRegion(region);
-        all.push(...part);
-    }
-
-    // Remove duplicates by movie ID
-    const map = new Map();
-    for (const m of all) map.set(m.id, m);
-
-    // Final sorted list
-    return [...map.values()].sort(
-        (a, b) => (b.releaseInfo || "").localeCompare(a.releaseInfo || "")
+            return {
+                id: m.id.toString(),
+                type: "movie",
+                name: m.title,
+                poster: m.poster_path
+                    ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+                    : null,
+                releaseInfo: release,
+                description: m.overview || ""
+            };
+        })
     );
+
+    return results.filter(Boolean);
 }
 
-// ---------- Handler ----------
-export default async function handler(req, res) {
-    try {
-        const movies = await fetchAllRegions();
-        return res.status(200).json({ metas: movies });
-    } catch (err) {
-        return res.status(200).json({ metas: [], error: err.message });
+export default async function handler(req) {
+    const url = new URL(req.url, `https://${req.headers.host}`);
+    const path = url.pathname;
+
+    if (path === "/catalog/movie/recent_movies.json") {
+        try {
+            const results = await fetchMovies();
+            return cors({ metas: results });
+        } catch (err) {
+            return cors({ metas: [], error: err.message });
+        }
     }
+
+    return cors({ status: "ok" });
 }
