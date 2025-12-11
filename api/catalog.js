@@ -1,9 +1,9 @@
-export const config = { runtime: "edge" };
+export const config = {
+  runtime: "edge"
+};
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
-const REGIONS = ["US"];
-const ALL_RELEASE_TYPES = [1,2,3,4,5,6,7,8]; // include all TMDB release types
 
 function daysAgo(n) {
   const d = new Date();
@@ -14,6 +14,7 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
+// CORS
 function cors(payload) {
   return new Response(JSON.stringify(payload), {
     headers: {
@@ -23,16 +24,21 @@ function cors(payload) {
   });
 }
 
+// Get release date for US theatrical/streaming/digital
 async function fetchUSRelease(id) {
   try {
-    const r = await fetch(`https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`, { cache: "no-store" });
+    const r = await fetch(
+      `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`,
+      { cache: "no-store" }
+    );
     const j = await r.json();
     if (!j.results) return null;
 
-    const us = j.results.find(x => REGIONS.includes(x.iso_3166_1));
+    const us = j.results.find(x => x.iso_3166_1 === "US");
     if (!us) return null;
 
-    const valid = us.release_dates.filter(r => ALL_RELEASE_TYPES.includes(r.type));
+    // Types: 2 = Limited, 3 = Wide, 4 = Digital, 6 = Streaming
+    const valid = us.release_dates.filter(r => [2, 3, 4, 6].includes(r.type));
     if (!valid.length) return null;
 
     return valid[0].release_date.split("T")[0];
@@ -43,16 +49,26 @@ async function fetchUSRelease(id) {
 
 async function fetchMovies() {
   const movies = [];
-  const MAX_PAGES = 5; // fetch multiple pages to get more movies
+  const MAX_PAGES = 5; // fetch up to 5 pages (200 movies)
   for (let page = 1; page <= MAX_PAGES; page++) {
     const r = await fetch(
-      `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}&language=en-US&with_original_language=en&sort_by=primary_release_date.desc&primary_release_date.gte=${DATE_FROM}&primary_release_date.lte=${DATE_TO}&page=${page}`,
+      `https://api.themoviedb.org/3/discover/movie?` +
+      `api_key=${TMDB_KEY}` +
+      `&language=en-US` +
+      `&with_original_language=en` +
+      `&sort_by=primary_release_date.desc` +
+      `&primary_release_date.gte=${DATE_FROM}` +
+      `&primary_release_date.lte=${DATE_TO}` +
+      `&page=${page}`,
       { cache: "no-store" }
     );
     const j = await r.json();
     if (!j.results || !j.results.length) break;
 
     const results = await Promise.all(j.results.map(async m => {
+      // Only include movies produced in US
+      if (!m.production_countries || !m.production_countries.find(c => c.iso_3166_1 === "US")) return null;
+
       const release = await fetchUSRelease(m.id);
       if (!release) return null;
       if (release < DATE_FROM || release > DATE_TO) return null;
