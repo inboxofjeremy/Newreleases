@@ -1,18 +1,15 @@
-// ===============================
-// New Releases Movie Addon (90-day)
-// TMDB Hollywood Filter
-// Vercel Node.js 20 compatible
-// ===============================
+// api/index.js
+export const config = { runtime: "edge" };
 
-// ❗ Built-in fetch works on Vercel. No node-fetch needed.
-
+// ===============================
+// CONFIG
+// ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
-
 const REGIONS = ["US", "CA", "GB"];
 const HOLLYWOOD_TYPES = [2, 3, 4, 6];
 
-// Simple CORS wrapper
+// ===============================
 function cors(obj) {
     return new Response(
         typeof obj === "string" ? obj : JSON.stringify(obj),
@@ -20,12 +17,13 @@ function cors(obj) {
             headers: {
                 "Content-Type": "application/json",
                 "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, OPTIONS",
+                "Access-Control-Allow-Headers": "*"
             }
         }
     );
 }
 
-// Date helper
 function daysAgo(n) {
     const d = new Date();
     d.setDate(d.getDate() - n);
@@ -35,7 +33,9 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-// Fetch regional release dates
+// ===============================
+// TMDB REGION DATE FETCH
+// ===============================
 async function fetchRegionalDate(id) {
     try {
         const res = await fetch(
@@ -52,18 +52,19 @@ async function fetchRegionalDate(id) {
                 .filter(r => HOLLYWOOD_TYPES.includes(r.type))
                 .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
 
-            if (filtered.length > 0) {
+            if (filtered.length > 0)
                 return filtered[0].release_date.split("T")[0];
-            }
         }
-    } catch (e) {}
+    } catch { return null; }
 
     return null;
 }
 
-// Fetch movies
+// ===============================
+// MAIN MOVIE FETCH
+// ===============================
 async function fetchMovies() {
-    const discoverUrl =
+    const url =
         `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_KEY}` +
         `&language=en-US` +
         `&with_original_language=en` +
@@ -71,13 +72,12 @@ async function fetchMovies() {
         `&primary_release_date.gte=${DATE_FROM}` +
         `&primary_release_date.lte=${DATE_TO}`;
 
-    const res = await fetch(discoverUrl);
-    const data = await res.json();
-
+    const r = await fetch(url);
+    const data = await r.json();
     if (!data.results) return [];
 
     const results = await Promise.all(
-        data.results.map(async (m) => {
+        data.results.map(async m => {
             const release = await fetchRegionalDate(m.id);
             if (!release) return null;
             if (release < DATE_FROM || release > DATE_TO) return null;
@@ -86,9 +86,7 @@ async function fetchMovies() {
                 id: m.id.toString(),
                 type: "movie",
                 name: m.title,
-                poster: m.poster_path
-                    ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-                    : null,
+                poster: m.poster_path ? `https://image.tmdb.org/t/p/w500${m.poster_path}` : null,
                 releaseInfo: release,
                 description: m.overview || ""
             };
@@ -99,35 +97,38 @@ async function fetchMovies() {
 }
 
 // ===============================
-// MAIN HANDLER
+// MANIFEST
+// ===============================
+const manifest = {
+    id: "recent_movies",
+    version: "1.0.0",
+    name: "Recent Movie Releases",
+    description: "Hollywood movies released in the last 90 days",
+    catalogs: [
+        {
+            id: "recent_movies",
+            type: "movie",
+            name: "Recent Releases",
+            extra: [{ name: "skip", isRequired: false }]
+        }
+    ],
+    resources: ["catalog"],
+    types: ["movie"]
+};
+
+// ===============================
+// HANDLER
 // ===============================
 export default async function handler(req) {
-
-    const url = new URL(req.url, `https://${req.headers.host}`);
+    const url = new URL(req.url);
     const path = url.pathname;
 
-    // Manifest for Stremio
-    if (path === "/manifest.json") {
-        return cors({
-            id: "newreleases",
-            version: "1.0.0",
-            name: "New Releases Addon",
-            description: "Movies released in the past 90 days",
-            types: ["movie"],
-            resources: ["catalog"],
-            catalogs: [
-                {
-                    type: "movie",
-                    id: "recent_movies",
-                    name: "Recently Released Movies",
-                    extra: []
-                }
-            ]
-        });
-    }
+    // Manifest
+    if (path === "/manifest.json")
+        return cors(manifest);
 
-    // Catalog endpoint
-    if (path === "/catalog/movie/recent_movies.json") {
+    // Catalog — must accept ANY query string
+    if (path.startsWith("/catalog/movie/recent_movies")) {
         try {
             const results = await fetchMovies();
             return cors({ metas: results });
@@ -136,6 +137,5 @@ export default async function handler(req) {
         }
     }
 
-    // Default response
     return cors({ status: "ok" });
 }
