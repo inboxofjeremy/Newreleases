@@ -1,9 +1,11 @@
-export const config = { runtime: "edge" };
+export const config = {
+  runtime: "edge"
+};
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const DAYS_BACK = 180; // <-- extended from 90 to 180
-const MAX_PAGES = 10;  // fetch 10 pages (~200 movies)
+const DAYS_BACK = 180;
 
+// Calculate dates
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -13,6 +15,7 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
+// CORS helper
 function cors(payload) {
   return new Response(JSON.stringify(payload), {
     headers: {
@@ -22,23 +25,21 @@ function cors(payload) {
   });
 }
 
-// Fetch US release date for Hollywood types
+// Get valid US release date
 async function fetchUSRelease(id) {
   try {
-    const r = await fetch(
+    const res = await fetch(
       `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`,
       { cache: "no-store" }
     );
-    const j = await r.json();
+    const j = await res.json();
     if (!j.results) return null;
 
     const us = j.results.find(x => x.iso_3166_1 === "US");
     if (!us) return null;
 
-    const valid = us.release_dates.filter(r =>
-      [2, 3, 4, 6].includes(r.type)
-    );
-
+    const validTypes = [2, 3, 4, 6]; // theatrical limited/wide, digital, streaming
+    const valid = us.release_dates.filter(r => validTypes.includes(r.type));
     if (!valid.length) return null;
 
     return valid[0].release_date.split("T")[0];
@@ -47,16 +48,18 @@ async function fetchUSRelease(id) {
   }
 }
 
-// Fetch multiple TMDB pages
+// Fetch movies from TMDB
 async function fetchMovies() {
-  let movies = [];
+  const allMovies = [];
 
-  for (let page = 1; page <= MAX_PAGES; page++) {
+  // Fetch multiple pages to cover all releases (TMDB usually max 500 results)
+  for (let page = 1; page <= 10; page++) {
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${TMDB_KEY}` +
       `&language=en-US` +
       `&with_original_language=en` +
+      `&with_origin_country=US` +
       `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${DATE_FROM}` +
       `&primary_release_date.lte=${DATE_TO}` +
@@ -64,17 +67,15 @@ async function fetchMovies() {
 
     const res = await fetch(url, { cache: "no-store" });
     const data = await res.json();
-    if (!data.results || !data.results.length) break;
+    if (!data.results || data.results.length === 0) break;
 
-    movies.push(...data.results);
+    allMovies.push(...data.results);
+    if (page >= data.total_pages) break;
   }
-
-  // Limit to first 200 just in case
-  const trimmed = movies.slice(0, 200);
 
   // Fetch US release dates in parallel
   const results = await Promise.all(
-    trimmed.map(async m => {
+    allMovies.map(async m => {
       const usDate = await fetchUSRelease(m.id);
       if (!usDate) return null;
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
@@ -95,19 +96,20 @@ async function fetchMovies() {
   return results.filter(Boolean);
 }
 
-// Edge handler
+// Edge function handler
 export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
 
   if (path === "/catalog/movie/recent_movies.json") {
     try {
-      const list = await fetchMovies();
-      return cors({ metas: list });
+      const movies = await fetchMovies();
+      return cors({ metas: movies });
     } catch (err) {
       return cors({ metas: [], error: err.message });
     }
   }
 
-  return cors({ ok: true });
+  // Default response
+  return cors({ status: "ok" });
 }
