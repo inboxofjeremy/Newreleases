@@ -1,12 +1,6 @@
 {
   "rewrites": [
-    {
-      "source": "/manifest.json",
-      "destination": "/api/manifest"
-    },
-    {
-      "source": "/catalog/movie/recent_movies.json",
-      "destination": "/api/catalog"
-    }
+    { "source": "/manifest.json", "destination": "/api/manifest" },
+    { "source": "/catalog/movie/recent_movies.json", "destination": "/api/catalog" }
   ]
 }
