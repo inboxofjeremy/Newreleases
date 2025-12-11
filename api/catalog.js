@@ -3,9 +3,9 @@ export const config = { runtime: "edge" };
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
-const MAX_PAGES = 10;        // same as before
-const TMDB_CONCURRENCY = 5;  // moderate concurrency for release checks
-const MIN_VOTE_COUNT = 20;   // exclude extremely low-profile items
+const MAX_PAGES = 20;        // increased to gather more candidates
+const TMDB_CONCURRENCY = 8;  // moderate concurrency for release checks
+const MIN_VOTE_COUNT = 5;    // lower so comedy specials / limited releases aren't excluded
 
 function daysAgo(n) {
   const d = new Date();
@@ -50,7 +50,7 @@ async function fetchUSReleaseDate(id) {
 }
 
 // concurrency-limited mapper
-async function pMap(list, fn, concurrency = 5) {
+async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
   let i = 0;
   const workers = Array(concurrency).fill(0).map(async () => {
@@ -67,15 +67,16 @@ async function pMap(list, fn, concurrency = 5) {
 async function fetchMovies() {
   const all = [];
 
-  // Discover: filter by origin country US, english original language, vote_count threshold
+  // Discover: region=US to bias toward movies released in the US
+  // remove with_origin_country so productions from other countries that release in US are included
   for (let page = 1; page <= MAX_PAGES; page++) {
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${TMDB_KEY}` +
       `&language=en-US` +
-      `&with_original_language=en` +
-      `&with_origin_country=US` +               // only US productions
-      `&vote_count.gte=${MIN_VOTE_COUNT}` +     // filter out very tiny releases
+      `&with_original_language=en` +            // keep English originals
+      `&region=US` +                            // bias to US-released items
+      `&vote_count.gte=${MIN_VOTE_COUNT}` +     // still filter extreme noise
       `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${DATE_FROM}` +
       `&primary_release_date.lte=${DATE_TO}` +
@@ -92,9 +93,7 @@ async function fetchMovies() {
   const mapped = await pMap(all, async (m) => {
     if (!m?.id) return null;
 
-    // quick guard: drop items with extremely short runtime if present (optional)
-    // if (m.runtime && m.runtime < 20) return null; // can't rely on runtime here
-
+    // fetch confirmed US release date
     const usDate = await fetchUSReleaseDate(m.id);
     if (!usDate) return null;
     if (usDate < DATE_FROM || usDate > DATE_TO) return null;
@@ -109,7 +108,17 @@ async function fetchMovies() {
     };
   }, TMDB_CONCURRENCY);
 
-  return mapped.filter(Boolean);
+  // dedupe by id (just in case) and return
+  const seen = new Set();
+  const out = [];
+  for (const item of mapped) {
+    if (!item) continue;
+    if (seen.has(item.id)) continue;
+    seen.add(item.id);
+    out.push(item);
+  }
+
+  return out;
 }
 
 export default async function handler(req) {
