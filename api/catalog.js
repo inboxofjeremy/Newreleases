@@ -4,9 +4,9 @@ export const config = {
 
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 90;
-const PAGES = 10;   // Fetch 200 movies
+const MAX_PAGES = 10;     // Fetch 200 movies
 
-const VALID_US_TYPES = [2, 3, 4, 6];
+const VALID_US_TYPES = [2, 3, 4, 6];   // Theatrical, Digital, Streaming
 
 function daysAgo(n) {
   const d = new Date();
@@ -26,16 +26,16 @@ function cors(payload) {
   });
 }
 
-// --------------------------------------------------
-// Fetch a single discover page (broad search)
-// --------------------------------------------------
-async function fetchDiscoverPage(page) {
+// ------------------------------
+// Fetch TMDB discover pages
+// ------------------------------
+async function fetchPage(page) {
   const url =
     `https://api.themoviedb.org/3/discover/movie?` +
     `api_key=${TMDB_KEY}` +
     `&language=en-US` +
-    `&sort_by=release_date.desc` +
     `&include_adult=false` +
+    `&sort_by=popularity.desc` +   // <-- IMPORTANT: Do NOT use date filters
     `&page=${page}`;
 
   try {
@@ -47,10 +47,10 @@ async function fetchDiscoverPage(page) {
   }
 }
 
-// --------------------------------------------------
-// Fetch reliable U.S. release date (the REAL one)
-// --------------------------------------------------
-async function fetchUSReleaseDate(id) {
+// ------------------------------
+// Get accurate U.S. release date
+// ------------------------------
+async function fetchUSRelease(id) {
   try {
     const r = await fetch(
       `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`,
@@ -62,37 +62,38 @@ async function fetchUSReleaseDate(id) {
     const us = j.results.find(x => x.iso_3166_1 === "US");
     if (!us) return null;
 
-    const valid = us.release_dates
+    const rel = us.release_dates
       .filter(r => VALID_US_TYPES.includes(r.type))
       .sort((a, b) => new Date(a.release_date) - new Date(b.release_date));
 
-    if (!valid.length) return null;
+    if (!rel.length) return null;
 
-    return valid[0].release_date.split("T")[0];
+    return rel[0].release_date.split("T")[0];
   } catch {
     return null;
   }
 }
 
-// --------------------------------------------------
-// Main Movie Fetcher
-// --------------------------------------------------
-async function fetchMovies() {
-  // Fetch 10 pages (200 movies)
+// ------------------------------
+// MAIN MOVIE BUILDER
+// ------------------------------
+async function buildMovies() {
+  // 1. Load 10 discover pages = ~200 movies
   const pagePromises = [];
-  for (let page = 1; page <= PAGES; page++) {
-    pagePromises.push(fetchDiscoverPage(page));
+  for (let i = 1; i <= MAX_PAGES; i++) {
+    pagePromises.push(fetchPage(i));
   }
 
-  const pages = await Promise.all(pagePromises);
-  const allMovies = pages.flat();
+  const allPages = await Promise.all(pagePromises);
+  const bigList = allPages.flat();
 
-  // Now check U.S. release for each one
-  const finalList = await Promise.all(
-    allMovies.map(async m => {
-      const usDate = await fetchUSReleaseDate(m.id);
+  // 2. Resolve real U.S. release dates
+  const mapped = await Promise.all(
+    bigList.map(async m => {
+      const usDate = await fetchUSRelease(m.id);
       if (!usDate) return null;
 
+      // Must be in the last 90 days
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
       return {
@@ -108,19 +109,19 @@ async function fetchMovies() {
     })
   );
 
-  return finalList.filter(Boolean);
+  return mapped.filter(Boolean);
 }
 
-// --------------------------------------------------
-// Handler
-// --------------------------------------------------
+// ------------------------------
+// HANDLER
+// ------------------------------
 export default async function handler(req) {
-  const url = new URL(req.url);
-  const path = url.pathname;
+  const u = new URL(req.url);
+  const p = u.pathname;
 
-  if (path === "/catalog/movie/recent_movies.json") {
+  if (p === "/catalog/movie/recent_movies.json") {
     try {
-      const movies = await fetchMovies();
+      const movies = await buildMovies();
       return cors({ metas: movies });
     } catch (err) {
       return cors({ metas: [], error: err.message });
