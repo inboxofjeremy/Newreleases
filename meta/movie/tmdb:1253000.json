@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:1253000",
+    "type": "movie",
+    "name": "Deathstalker",
+    "description": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
+    "poster": "https://image.tmdb.org/t/p/w500/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+    "background": "https://image.tmdb.org/t/p/original/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+    "released": "2025-10-10",
+    "imdb": "tt33996087"
+  }
+}

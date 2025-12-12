@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:1062722",
+    "type": "movie",
+    "name": "Frankenstein",
+    "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "background": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "released": "2025-10-17",
+    "imdb": "tt1312221"
+  }
+}

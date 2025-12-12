@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:1423024",
+    "type": "movie",
+    "name": "The New Yorker at 100",
+    "description": "Hard-hitting journalism. Era-defining fiction. Witty cartoons. The New Yorker marks its 100th anniversary with this look at its past, present and future.  The New Yorker's centennial reveals behind-the-scenes access to editors, writers, and archives of this culturally vital magazine, one of print's last survivors.",
+    "poster": "https://image.tmdb.org/t/p/w500/4vNUHGzIFxI267gFZpq3eM8m0bl.jpg",
+    "background": "https://image.tmdb.org/t/p/original/cGWu5LJqJmHw7LgXWkuGY2qApsX.jpg",
+    "released": "2025-08-29",
+    "imdb": "tt35631328"
+  }
+}
