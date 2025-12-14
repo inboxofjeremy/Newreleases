@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:1206008",
+      "id": "tmdb:1562010",
       "type": "movie",
-      "name": "Ella McCay",
-      "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
-      "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+      "name": "Taylor Swift | The Eras Tour | The Final Show",
+      "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+      "poster": "https://image.tmdb.org/t/p/w500/zziixUT6aqMiy3WN3mnOes0SEWi.jpg",
       "releaseInfo": "2025-12-12"
     },
     {
@@ -31,6 +31,14 @@
       "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
       "poster": "https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
       "releaseInfo": "2025-12-10"
+    },
+    {
+      "id": "tmdb:1206008",
+      "type": "movie",
+      "name": "Ella McCay",
+      "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
+      "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+      "releaseInfo": "2025-12-09"
     },
     {
       "id": "tmdb:1516208",
@@ -63,6 +71,14 @@
       "description": "A couple of artists arrive at a manor once frequented by royalty with a perfect plan. He is taking the trendy pictures for her new, chic pop album. It seems to be an ideal weekend, but then more people arrive at the mansion, and the game begins – a psychological game, for example.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1566269",
+      "type": "movie",
+      "name": "The First Snow of Fraggle Rock",
+      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+      "releaseInfo": "2025-12-04"
     },
     {
       "id": "tmdb:1387382",
@@ -665,6 +681,14 @@
       "releaseInfo": "2025-10-18"
     },
     {
+      "id": "tmdb:1535223",
+      "type": "movie",
+      "name": "A Royal Montana Christmas",
+      "description": "A princess looking to decompress before the holidays heads to a Montana ranch and meets a charming guide.",
+      "poster": "https://image.tmdb.org/t/p/w500/uZAlg4qaZONhLcco7n8hFzWLBsU.jpg",
+      "releaseInfo": "2025-10-18"
+    },
+    {
       "id": "tmdb:1519317",
       "type": "movie",
       "name": "AEW WrestleDream 2025",
@@ -711,6 +735,14 @@
       "description": "Officer Sandra Perron resigns from the Canadian military after a controversial photo surfaces. Adapting to civilian life amidst an investigation, she denies abuse allegations despite evidence suggesting mistreatment within her unit.",
       "poster": "https://image.tmdb.org/t/p/w500/gQRaEoRd1fv1A3orWOA9AdSrIjz.jpg",
       "releaseInfo": "2025-10-16"
+    },
+    {
+      "id": "tmdb:1548017",
+      "type": "movie",
+      "name": "The Family McMullen",
+      "description": "30 years after the events of The Brothers McMullen, romantic entanglements plague a now fiftysomething Barry McMullen and his twentysomething kids, as well as his brother Patrick and widowed sister-in-law Molly, who are also facing similar unexpected hurdles.",
+      "poster": "https://image.tmdb.org/t/p/w500/foNIl77csO9GmsvCvTZ6ixt0fZf.jpg",
+      "releaseInfo": "2025-10-15"
     },
     {
       "id": "tmdb:1169210",
@@ -761,14 +793,6 @@
       "releaseInfo": "2025-10-11"
     },
     {
-      "id": "tmdb:524635",
-      "type": "movie",
-      "name": "The Chronology of Water",
-      "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/aqYIGdhDjWF1wKl2GTuRy1XtbkI.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
       "id": "tmdb:1196791",
       "type": "movie",
       "name": "Soul on Fire",
@@ -790,6 +814,14 @@
       "name": "The Woman in Cabin 10",
       "description": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
       "poster": "https://image.tmdb.org/t/p/w500/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+      "releaseInfo": "2025-10-10"
+    },
+    {
+      "id": "tmdb:524635",
+      "type": "movie",
+      "name": "The Chronology of Water",
+      "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
+      "poster": "https://image.tmdb.org/t/p/w500/aqYIGdhDjWF1wKl2GTuRy1XtbkI.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -926,6 +958,14 @@
       "name": "Orwell: 2+2=5",
       "description": "George Orwell was one of the most visionary authors of the 20th Century, whose novels, 1984 and Animal Farm, foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
       "poster": "https://image.tmdb.org/t/p/w500/qG1LjcK8ohi4mSJ9j8KHUs5svbe.jpg",
+      "releaseInfo": "2025-10-03"
+    },
+    {
+      "id": "tmdb:1556398",
+      "type": "movie",
+      "name": "Famous Last Words: Dr. Jane Goodall",
+      "description": "Dr. Jane Goodall connected humanity and nature in unprecedented ways. In this deeply personal interview, she shares her final message with the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/ypfl5VYRkeZ3HVM64HxOKriloe4.jpg",
       "releaseInfo": "2025-10-03"
     },
     {
@@ -2495,47 +2535,7 @@
       "description": "The authorized documentary celebrating the film that redefined Hollywood, 50 years after its premiere. Featuring rare archival footage and interviews with acclaimed Hollywood directors alongside Steven Spielberg, top shark scientists, and conservationists, the film uncovers the behind-the-scenes chaos and how the film launched the summer blockbuster, inspired a new wave of filmmakers, and paved the way for shark conservation that continues today.",
       "poster": "https://image.tmdb.org/t/p/w500/kCvCb548scfD0HhkCAwBMKHey5b.jpg",
       "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:1260922",
-      "type": "movie",
-      "name": "Found Footage: The Making of the Patterson Project",
-      "description": "A crew of acclaimed documentarians follow a young budding filmmaker as he attempts to create the world's greatest found footage horror film.",
-      "poster": "https://image.tmdb.org/t/p/w500/mfR5VnCIlb2jCOTzOB18FN76tXI.jpg",
-      "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:1128619",
-      "type": "movie",
-      "name": "Garden of Eden",
-      "description": "The wealthy and religious Eden family make dreams come true for people in need. But dreams can often become nightmares.",
-      "poster": "https://image.tmdb.org/t/p/w500/oQZWVRQMOgLp1WUt63VLSa6B9GR.jpg",
-      "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:1111011",
-      "type": "movie",
-      "name": "Don't Tell Larry",
-      "description": "After lying to her new eccentric coworker Larry about a company party, an ambitious corporate flunky must deal with the deadly consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/tp3gc29vrZYBhqBzqh5OR0zFQ81.jpg",
-      "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:803796",
-      "type": "movie",
-      "name": "KPop Demon Hunters",
-      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
-      "poster": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
-      "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:911430",
-      "type": "movie",
-      "name": "F1",
-      "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
-      "releaseInfo": "2025-06-16"
     }
   ],
-  "ts": 1765650134738
+  "ts": 1765675609174
 }
