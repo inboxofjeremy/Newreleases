@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Taylor Swift | The Eras Tour | The Final Show",
       "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
-      "poster": "https://image.tmdb.org/t/p/w500/zziixUT6aqMiy3WN3mnOes0SEWi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
       "releaseInfo": "2025-12-12"
     },
     {
@@ -175,6 +175,14 @@
       "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
       "poster": "https://image.tmdb.org/t/p/w500/tGidrBsBBxUkmdQpIeFI09oLL8F.jpg",
       "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1588671",
+      "type": "movie",
+      "name": "Louvre Heist: Minute by Minute",
+      "description": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
+      "poster": "https://image.tmdb.org/t/p/w500/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
+      "releaseInfo": "2025-11-27"
     },
     {
       "id": "tmdb:1550797",
@@ -2537,5 +2545,5 @@
       "releaseInfo": "2025-06-20"
     }
   ],
-  "ts": 1765693526437
+  "ts": 1765715579459
 }
