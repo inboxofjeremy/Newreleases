@@ -17,6 +17,14 @@
       "releaseInfo": "2025-12-12"
     },
     {
+      "id": "tmdb:1401778",
+      "type": "movie",
+      "name": "Turbulence",
+      "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
+      "poster": "https://image.tmdb.org/t/p/w500/6PdAODwR9amGEq5ER42FsuzV7op.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
       "id": "tmdb:1476740",
       "type": "movie",
       "name": "Influencers",
@@ -913,6 +921,14 @@
       "releaseInfo": "2025-10-06"
     },
     {
+      "id": "tmdb:1546050",
+      "type": "movie",
+      "name": "Lone Samurai",
+      "description": "A violent and reckless samurai is shipwrecked on a remote island left without an avenue for his rage. After undertaking a spiritual journey to appease his aggressive thoughts, he finds himself abducted by external demons taking the form of cannibals, putting his sense of reality and deadly talents to the test.",
+      "poster": "https://image.tmdb.org/t/p/w500/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg",
+      "releaseInfo": "2025-10-05"
+    },
+    {
       "id": "tmdb:1517758",
       "type": "movie",
       "name": "Stiller & Meara: Nothing Is Lost",
@@ -1054,6 +1070,14 @@
       "name": "Killing Faith",
       "description": "In the summer of 1859, a widowed physician reluctantly agrees to take a recently freed slave and her mysterious Caucasian daughter on a five-day journey through the bloody West to find a distant town's Faith Healer. The woman believes her daughter is possessed. The doctor believes she simply carries The Sickness. Either way the fact remains that every living thing the girl touches mysteriously dies.",
       "poster": "https://image.tmdb.org/t/p/w500/bNHlTTdpdDv8xxrXF3krVghyCcj.jpg",
+      "releaseInfo": "2025-09-26"
+    },
+    {
+      "id": "tmdb:1399457",
+      "type": "movie",
+      "name": "The Man with the Black Umbrella",
+      "description": "On January 8th, 2015, a man with a black umbrella broke into 818 Hilltop Drive at 3:38a.m., committing a double murder.  The investigation that ensued proved that some murders shouldn’t be solved.",
+      "poster": "https://image.tmdb.org/t/p/w500/inSk8zJig5cCBI0HytXY71mQNpf.jpg",
       "releaseInfo": "2025-09-26"
     },
     {
@@ -1605,7 +1629,7 @@
       "type": "movie",
       "name": "The Mastermind",
       "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
-      "poster": "https://image.tmdb.org/t/p/w500/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/w41wCJGcQM4Bdd0OeQ26UNi5o39.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2409,6 +2433,14 @@
       "releaseInfo": "2025-06-27"
     },
     {
+      "id": "tmdb:1473666",
+      "type": "movie",
+      "name": "Kombucha",
+      "description": "Trapped in a fluorescent-lit cubicle farm, an aspiring musician thinks the free break room kombucha is a perk - until it begins to change him. What starts with suspicious smiles and team-building ends in a bile-drenched metamorphosis.",
+      "poster": "https://image.tmdb.org/t/p/w500/9qcahmCtxBIeqM3pmosIF6VEwC9.jpg",
+      "releaseInfo": "2025-06-27"
+    },
+    {
       "id": "tmdb:1371151",
       "type": "movie",
       "name": "Off the Grid",
@@ -2527,23 +2559,7 @@
       "description": "Anna, grieving the sudden death of her parents, relocates from New York to a small Florida town to live with the grandmother she has never met. Isolated, vulnerable, and in need of friends, she finds brief solace in the company of two local teens. But when she becomes complicit to their unforgivable act of violence, she finds herself ensnared by Mr. Sandman – the twisted soul of a tormented child who haunts bullies’ dreams before feasting on their eyeballs when they finally wake - Anna must right her wrong before becoming a victim of this gruesome curse.",
       "poster": "https://image.tmdb.org/t/p/w500/lpepbfVziHJLhVoxTEKs8ok00iu.jpg",
       "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:1327872",
-      "type": "movie",
-      "name": "Frozen: The Hit Broadway Musical",
-      "description": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
-      "poster": "https://image.tmdb.org/t/p/w500/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg",
-      "releaseInfo": "2025-06-20"
-    },
-    {
-      "id": "tmdb:1308619",
-      "type": "movie",
-      "name": "Jaws @ 50: The Definitive Inside Story",
-      "description": "The authorized documentary celebrating the film that redefined Hollywood, 50 years after its premiere. Featuring rare archival footage and interviews with acclaimed Hollywood directors alongside Steven Spielberg, top shark scientists, and conservationists, the film uncovers the behind-the-scenes chaos and how the film launched the summer blockbuster, inspired a new wave of filmmakers, and paved the way for shark conservation that continues today.",
-      "poster": "https://image.tmdb.org/t/p/w500/kCvCb548scfD0HhkCAwBMKHey5b.jpg",
-      "releaseInfo": "2025-06-20"
     }
   ],
-  "ts": 1765736603047
+  "ts": 1765761816871
 }
