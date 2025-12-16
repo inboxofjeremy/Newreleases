@@ -13,7 +13,7 @@
       "type": "movie",
       "name": "Not Without Hope",
       "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/6NXonER0WWIq13I0nlOkivhSj8i.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
       "releaseInfo": "2025-12-12"
     },
     {
@@ -117,7 +117,7 @@
       "type": "movie",
       "name": "Five Nights at Freddy's 2",
       "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -309,7 +309,7 @@
       "type": "movie",
       "name": "Wicked: For Good",
       "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
       "releaseInfo": "2025-11-17"
     },
     {
@@ -486,14 +486,6 @@
       "name": "Sarah's Oil",
       "description": "Sarah Rector, an African-American girl born in Oklahoma Indian Territory in the early 1900s, believes there is oil beneath the barren land she’s allotted, and her faith is proven right. As greedy oil sharks close in, Sarah turns to her family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first female African-American millionaires—at eleven years old.",
       "poster": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
-      "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1316147",
-      "type": "movie",
-      "name": "Grand Prix of Europe",
-      "description": "Edda, a young mouse and the daughter of fairground operator Erwin, dreams of becoming a race car driver. Ahead of the 50th anniversary of the European Grand Prix, Edda gets the opportunity to meet her idol, racing star Ed, and to help her father save his failing business. But to do so, she'll have to get behind the wheel herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/jGGEqRaHAJ1pKJBj35WVxDyQBNw.jpg",
       "releaseInfo": "2025-11-07"
     },
     {
@@ -1009,6 +1001,14 @@
       "releaseInfo": "2025-10-01"
     },
     {
+      "id": "tmdb:1043197",
+      "type": "movie",
+      "name": "Dust Bunny",
+      "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster she believes ate her entire family. To protect her, he'll need to battle an onslaught of assassins while accepting the fact that some monsters are real.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMcT1Quf34qZWNNE1rAqep8f9DW.jpg",
+      "releaseInfo": "2025-09-30"
+    },
+    {
       "id": "tmdb:1480295",
       "type": "movie",
       "name": "Affinity",
@@ -1151,6 +1151,14 @@
       "description": "Cristela seeks joy through various experiences - outdoing her old bully, overdoing spa treatments, and taking her first family vacation - while teaching everyone to embrace life's pleasures.",
       "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
       "releaseInfo": "2025-09-23"
+    },
+    {
+      "id": "tmdb:801937",
+      "type": "movie",
+      "name": "Silent Night, Deadly Night",
+      "description": "After witnessing his parents’ brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+      "poster": "https://image.tmdb.org/t/p/w500/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+      "releaseInfo": "2025-09-21"
     },
     {
       "id": "tmdb:1314862",
@@ -2545,14 +2553,6 @@
       "releaseInfo": "2025-06-22"
     },
     {
-      "id": "tmdb:1474450",
-      "type": "movie",
-      "name": "Villa Amore",
-      "description": "Liara goes to Italy and impulsively buys the villa where her parents met. She soon learns she is in way over her head and must ask a lawyer-turned-handyman to help her renovate.",
-      "poster": "https://image.tmdb.org/t/p/w500/xEAMkFdfgfhyLfS27cTW5didwi5.jpg",
-      "releaseInfo": "2025-06-21"
-    },
-    {
       "id": "tmdb:1199869",
       "type": "movie",
       "name": "Eye for an Eye",
@@ -2561,5 +2561,5 @@
       "releaseInfo": "2025-06-20"
     }
   ],
-  "ts": 1765823251178
+  "ts": 1765848120548
 }
