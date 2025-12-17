@@ -137,6 +137,14 @@
       "releaseInfo": "2025-12-02"
     },
     {
+      "id": "tmdb:83533",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "poster": "https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+      "releaseInfo": "2025-12-01"
+    },
+    {
       "id": "tmdb:1175174",
       "type": "movie",
       "name": "Fackham Hall",
@@ -372,7 +380,7 @@
       "id": "tmdb:798645",
       "type": "movie",
       "name": "The Running Man",
-      "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+      "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
       "poster": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
       "releaseInfo": "2025-11-14"
     },
@@ -1357,7 +1365,7 @@
       "type": "movie",
       "name": "HIM",
       "description": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
-      "poster": "https://image.tmdb.org/t/p/w500/ce6wANgLoSV16Q1H3v0b6yjFOVs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
       "releaseInfo": "2025-09-17"
     },
     {
@@ -2521,14 +2529,6 @@
       "releaseInfo": "2025-06-24"
     },
     {
-      "id": "tmdb:1389255",
-      "type": "movie",
-      "name": "The Stranger in My Home",
-      "description": "A handsome stranger's claim that a couple's 15-year-old daughter was switched at birth throws their perfect family into turmoil, unearthing shattering secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg",
-      "releaseInfo": "2025-06-24"
-    },
-    {
       "id": "tmdb:1234821",
       "type": "movie",
       "name": "Jurassic World Rebirth",
@@ -2545,14 +2545,6 @@
       "releaseInfo": "2025-06-22"
     },
     {
-      "id": "tmdb:1415211",
-      "type": "movie",
-      "name": "Pie To Die For: A Hannah Swensen Mystery",
-      "description": "When Hannah's customer and Delores' theater rival is murdered, Hannah must find her killer in order to save her mother's reputation. Chad and Hannah's romance blossoms.",
-      "poster": "https://image.tmdb.org/t/p/w500/mXvx3JgsqyXYpGS3hr4Up4jflnj.jpg",
-      "releaseInfo": "2025-06-22"
-    },
-    {
       "id": "tmdb:1199869",
       "type": "movie",
       "name": "Eye for an Eye",
@@ -2561,5 +2553,5 @@
       "releaseInfo": "2025-06-20"
     }
   ],
-  "ts": 1765909632961
+  "ts": 1765934242192
 }
