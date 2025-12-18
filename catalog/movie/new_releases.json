@@ -124,7 +124,7 @@
       "id": "tmdb:1368166",
       "type": "movie",
       "name": "The Housemaid",
-      "description": "A woman with a troubled past accepts a job as a live-in maid for a wealthy, seemingly perfect family.",
+      "description": "Trying to escape her past, Millie accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "poster": "https://image.tmdb.org/t/p/w500/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
       "releaseInfo": "2025-12-02"
     },
@@ -655,6 +655,14 @@
       "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
       "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
       "releaseInfo": "2025-10-29"
+    },
+    {
+      "id": "tmdb:991494",
+      "type": "movie",
+      "name": "The SpongeBob Movie: Search for SquarePants",
+      "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "poster": "https://image.tmdb.org/t/p/w500/jxJ9FMREmSOSqz45viIjYkP7eFE.jpg",
+      "releaseInfo": "2025-10-26"
     },
     {
       "id": "tmdb:1547882",
@@ -1597,7 +1605,7 @@
       "type": "movie",
       "name": "Bugonia",
       "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/18Kbb0qeCxwzna0W6a9gEMZuizF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
       "releaseInfo": "2025-08-30"
     },
     {
@@ -2513,14 +2521,6 @@
       "releaseInfo": "2025-06-24"
     },
     {
-      "id": "tmdb:1496378",
-      "type": "movie",
-      "name": "The Jurassic Games: Extinction",
-      "description": "In this thrilling sequel to The Jurassic Games, 10 death row inmates enter a deadly VR show to battle dinosaurs for a second chance at life. But when the system malfunctions, the carnage turns real. With a new host and higher stakes, survival is no longer just a game.",
-      "poster": "https://image.tmdb.org/t/p/w500/oaspw8GHJHGJRDvVVERmt8iDb5K.jpg",
-      "releaseInfo": "2025-06-24"
-    },
-    {
       "id": "tmdb:1234821",
       "type": "movie",
       "name": "Jurassic World Rebirth",
@@ -2537,5 +2537,5 @@
       "releaseInfo": "2025-06-22"
     }
   ],
-  "ts": 1766039309091
+  "ts": 1766061419583
 }
