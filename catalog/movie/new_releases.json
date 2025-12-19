@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1597747",
+      "type": "movie",
+      "name": "Little Nightmare",
+      "description": "Trapped within a surreal and hostile world born from his own fractured psyche, a young boy named Mono is forced into an experimental machine by a desperate psychiatrist. He must navigate a treacherous dreamscape populated by grotesque, metaphorical monsters. The film blurs the line between reality and hallucination as Mono fights for survival against his own horrifying imagination.",
+      "poster": "https://image.tmdb.org/t/p/w500/iTCt1cFmvn1AHiWc31z4ITQh5Ff.jpg",
+      "releaseInfo": "2025-12-18"
+    },
+    {
       "id": "tmdb:1549234",
       "type": "movie",
       "name": "A Royal Christmas Tail",
@@ -179,9 +187,9 @@
     {
       "id": "tmdb:1545999",
       "type": "movie",
-      "name": "Christmas at the Catnip Cafe",
+      "name": "Christmas at the Catnip Café",
       "description": "When a marketing executive learns she’s short on the down payment for her dream condo, she’s informed that her great aunt left her half of a cat café in upstate New York. Hoping to sell it before the holidays, she then meets Dr. Ben Kane, the veterinarian who owns the other half, and has no intention of closing.",
-      "poster": "https://image.tmdb.org/t/p/w500/4OdcIegFxwFIflJ0N0hXUXNtV93.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nawRbGneQoEArNT4T3gcY67ewzz.jpg",
       "releaseInfo": "2025-11-30"
     },
     {
@@ -2553,5 +2561,5 @@
       "releaseInfo": "2025-06-22"
     }
   ],
-  "ts": 1766125664153
+  "ts": 1766147767402
 }
