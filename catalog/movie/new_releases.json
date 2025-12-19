@@ -185,6 +185,14 @@
       "releaseInfo": "2025-11-30"
     },
     {
+      "id": "tmdb:1547921",
+      "type": "movie",
+      "name": "An Alpine Holiday",
+      "description": "Two estranged sisters reunite as their grandmother’s last wish to travel to the French Alps for Christmas to recreate her first trip there with their grandfather. While bonding as sisters, they also make room for romance with between one sister and their French mountaineer guide.",
+      "poster": "https://image.tmdb.org/t/p/w500/8XASNGI9cBdlEO2aWGiSd68wbWT.jpg",
+      "releaseInfo": "2025-11-29"
+    },
+    {
       "id": "tmdb:1535221",
       "type": "movie",
       "name": "A Grand Ole Opry Christmas",
@@ -198,6 +206,14 @@
       "name": "Lost Horizon",
       "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
       "poster": "https://image.tmdb.org/t/p/w500/sBeKHgOtjDRNMHeF9oMR8gpx3k8.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1547920",
+      "type": "movie",
+      "name": "The Snow Must Go On",
+      "description": "Nearly a decade after appearing on Broadway, Isaiah visits his family in upstate New York for the holidays and is unexpectedly put back on stage — this time to save his niece’s Christmas show. To make things more complicated, he learns that “an influential Broadway producer’s daughter is in the school production.”",
+      "poster": "https://image.tmdb.org/t/p/w500/zixxwy8GbxnqbKdViggwnoR611R.jpg",
       "releaseInfo": "2025-11-28"
     },
     {
@@ -817,6 +833,14 @@
       "releaseInfo": "2025-10-13"
     },
     {
+      "id": "tmdb:1443940",
+      "type": "movie",
+      "name": "Truth & Treason",
+      "description": "When loyalty to country becomes loyalty to a lie, one teen risks everything to expose the truth. With the Gestapo closing in, he must decide what it really means to be a good German.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArDLn658OjT3dMThIi4GDQJRuY3.jpg",
+      "releaseInfo": "2025-10-11"
+    },
+    {
       "id": "tmdb:1477448",
       "type": "movie",
       "name": "Haul Out the Halloween",
@@ -1012,7 +1036,7 @@
       "id": "tmdb:1098534",
       "type": "movie",
       "name": "Orwell: 2+2=5",
-      "description": "George Orwell was one of the most visionary authors of the 20th Century, whose novels, 1984 and Animal Farm, foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
+      "description": "George Orwell was one of the most visionary authors of the 20th century, whose novels 1984 and Animal Farm foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
       "poster": "https://image.tmdb.org/t/p/w500/qG1LjcK8ohi4mSJ9j8KHUs5svbe.jpg",
       "releaseInfo": "2025-10-03"
     },
@@ -2249,6 +2273,14 @@
       "releaseInfo": "2025-07-19"
     },
     {
+      "id": "tmdb:1012582",
+      "type": "movie",
+      "name": "Bury Me When I'm Dead",
+      "description": "After failing to fulfill his wife's dying wish, a series of unexplainable, horrific events leads a man to believe she's returned to get revenge on him and his pregnant mistress.",
+      "poster": "https://image.tmdb.org/t/p/w500/tYBkLF4FIJDHOw8DC6HWwFNy7ut.jpg",
+      "releaseInfo": "2025-07-18"
+    },
+    {
       "id": "tmdb:1495506",
       "type": "movie",
       "name": "SpongeBob SquarePants: Order Up",
@@ -2270,14 +2302,6 @@
       "name": "Saint Clare",
       "description": "In a small town a solitary woman is haunted by voices that lead her to assassinate ill intended people and get away with it, until her last kill sucks her down a rabbit hole riddled with corruption, trafficking and visions from the beyond.",
       "poster": "https://image.tmdb.org/t/p/w500/aE0q4awk7zto3Eql4cAeJuVAns9.jpg",
-      "releaseInfo": "2025-07-18"
-    },
-    {
-      "id": "tmdb:1012582",
-      "type": "movie",
-      "name": "Bury Me When I'm Dead",
-      "description": "After failing to fulfill his wife's dying wish, a series of unexplainable, horrific events leads a man to believe she's returned to get revenge on him and his pregnant mistress.",
-      "poster": "https://image.tmdb.org/t/p/w500/tYBkLF4FIJDHOw8DC6HWwFNy7ut.jpg",
       "releaseInfo": "2025-07-18"
     },
     {
@@ -2513,14 +2537,6 @@
       "releaseInfo": "2025-06-27"
     },
     {
-      "id": "tmdb:1071585",
-      "type": "movie",
-      "name": "M3GAN 2.0",
-      "description": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
-      "poster": "https://image.tmdb.org/t/p/w500/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
-      "releaseInfo": "2025-06-24"
-    },
-    {
       "id": "tmdb:1234821",
       "type": "movie",
       "name": "Jurassic World Rebirth",
@@ -2537,5 +2553,5 @@
       "releaseInfo": "2025-06-22"
     }
   ],
-  "ts": 1766082411961
+  "ts": 1766107285257
 }
