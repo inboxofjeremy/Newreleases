@@ -265,6 +265,14 @@
       "releaseInfo": "2025-11-27"
     },
     {
+      "id": "tmdb:1499744",
+      "type": "movie",
+      "name": "A Chuck E. Cheese Christmas",
+      "description": "When Chuck E. Cheese and Friends learn that Santa Claus has never experienced a Christmas party, because he is always exhausted from working on Christmas Eve, they set out to throw a surprise Christmas celebration for Santa as a 'thank you' for all the joy he brings to the world! The party also winds up doubling as a way to save their town from the meddling of a holiday-hating evildoer.",
+      "poster": "https://image.tmdb.org/t/p/w500/5mESXfzHMvrhWdoFUBlLuOM0HFW.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
       "id": "tmdb:1429520",
       "type": "movie",
       "name": "Sidelined 2: Intercepted",
@@ -375,6 +383,14 @@
       "description": "Luke is expecting twins, Taylor is debating a life-changing job, and Stephan is planning a wedding — all while their mom is planning to put the family home up for sale.",
       "poster": "https://image.tmdb.org/t/p/w500/pThRtEIcIJQunJIJvXfwzpHQuMs.jpg",
       "releaseInfo": "2025-11-15"
+    },
+    {
+      "id": "tmdb:1426083",
+      "type": "movie",
+      "name": "Escobank",
+      "description": "A ragtag group of misfits, veterans and ex-cons embark on a perilous journey in the jungles of Colombia to find the buried barrels of cash left behind by legendary drug kingpin Pablo Escobar before his downfall.",
+      "poster": "https://image.tmdb.org/t/p/w500/5G0pPDxAKWgQy24NHBGl8LYPxIH.jpg",
+      "releaseInfo": "2025-11-14"
     },
     {
       "id": "tmdb:1310568",
@@ -1013,7 +1029,7 @@
       "type": "movie",
       "name": "Put Your Soul on Your Hand and Walk",
       "description": "An Iranian filmmaker participates in a series of video calls with a young Palestinian photojournalist who describes her life confined in Gaza during the current regional conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/xC6FfKOMCkC1KlT3GCY3H9Ev6FB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vrEDz3kBG6AZKF3aiaQJB0Qgp8a.jpg",
       "releaseInfo": "2025-10-04"
     },
     {
@@ -1318,6 +1334,14 @@
       "name": "Caleb Hearon: Model Comedian",
       "description": "​In his debut stand-up special, actor, comedian, writer, and podcaster Caleb Hearon takes us back to his roots in Kansas City...where it all started. Newly 30, Hearon deploys his generational Midwestern wisdom to solve most of the world's problems: politics, internet trolls, learning we're not that different from our parents, and more.",
       "poster": "https://image.tmdb.org/t/p/w500/cUuBlSqicvZO1wtF0yyZbqiXIlR.jpg",
+      "releaseInfo": "2025-09-19"
+    },
+    {
+      "id": "tmdb:1381066",
+      "type": "movie",
+      "name": "In Whose Name?",
+      "description": "Over six years, 18-year-old Nico Ballesteros captured an unfiltered portrait of Ye, formerly known as Kanye West, offering unprecedented access into the private and public life of one of the most controversial figures in modern culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/2snBAd7RIQucxN1Np3kRpZtRdN8.jpg",
       "releaseInfo": "2025-09-19"
     },
     {
@@ -1997,7 +2021,7 @@
       "type": "movie",
       "name": "Nobody 2",
       "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
-      "poster": "https://image.tmdb.org/t/p/w500/xGLoqM9peusKQeuwlSw2Qlhx740.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
       "releaseInfo": "2025-08-11"
     },
     {
@@ -2281,14 +2305,6 @@
       "releaseInfo": "2025-07-19"
     },
     {
-      "id": "tmdb:1012582",
-      "type": "movie",
-      "name": "Bury Me When I'm Dead",
-      "description": "After failing to fulfill his wife's dying wish, a series of unexplainable, horrific events leads a man to believe she's returned to get revenge on him and his pregnant mistress.",
-      "poster": "https://image.tmdb.org/t/p/w500/tYBkLF4FIJDHOw8DC6HWwFNy7ut.jpg",
-      "releaseInfo": "2025-07-18"
-    },
-    {
       "id": "tmdb:1495506",
       "type": "movie",
       "name": "SpongeBob SquarePants: Order Up",
@@ -2517,7 +2533,7 @@
       "type": "movie",
       "name": "Kombucha",
       "description": "Trapped in a fluorescent-lit cubicle farm, an aspiring musician thinks the free break room kombucha is a perk - until it begins to change him. What starts with suspicious smiles and team-building ends in a bile-drenched metamorphosis.",
-      "poster": "https://image.tmdb.org/t/p/w500/9qcahmCtxBIeqM3pmosIF6VEwC9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/FSAz7yRySiYvBjjOmJZuDt1gLZ.jpg",
       "releaseInfo": "2025-06-27"
     },
     {
@@ -2529,37 +2545,13 @@
       "releaseInfo": "2025-06-27"
     },
     {
-      "id": "tmdb:1362052",
-      "type": "movie",
-      "name": "The Sound",
-      "description": "A group of climbers embarks on a dangerous climb that has been off-limits for years. What initially begins as an audacious expedition transforms into a battle for survival against a force that toys with them.",
-      "poster": "https://image.tmdb.org/t/p/w500/nH26cUZns2jyCAzKsgZkEiinTri.jpg",
-      "releaseInfo": "2025-06-27"
-    },
-    {
-      "id": "tmdb:1119878",
-      "type": "movie",
-      "name": "Ice Road: Vengeance",
-      "description": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
-      "releaseInfo": "2025-06-27"
-    },
-    {
       "id": "tmdb:1234821",
       "type": "movie",
       "name": "Jurassic World Rebirth",
       "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
       "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
       "releaseInfo": "2025-06-23"
-    },
-    {
-      "id": "tmdb:1333141",
-      "type": "movie",
-      "name": "Lesbian Space Princess",
-      "description": "A space princess is thrust out of her sheltered life and into a galactic quest to save her bounty hunter ex-girlfriend from evil incel aliens.",
-      "poster": "https://image.tmdb.org/t/p/w500/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
-      "releaseInfo": "2025-06-22"
     }
   ],
-  "ts": 1766168728114
+  "ts": 1766193436753
 }
