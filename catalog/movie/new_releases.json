@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "tmdb:1597747",
+      "id": "tmdb:1584619",
       "type": "movie",
-      "name": "Little Nightmare",
-      "description": "Trapped within a surreal and hostile world born from his own fractured psyche, a young boy named Mono is forced into an experimental machine by a desperate psychiatrist. He must navigate a treacherous dreamscape populated by grotesque, metaphorical monsters. The film blurs the line between reality and hallucination as Mono fights for survival against his own horrifying imagination.",
-      "poster": "https://image.tmdb.org/t/p/w500/iTCt1cFmvn1AHiWc31z4ITQh5Ff.jpg",
-      "releaseInfo": "2025-12-18"
+      "name": "Murder in Monaco",
+      "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
+      "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+      "releaseInfo": "2025-12-17"
     },
     {
       "id": "tmdb:1549234",
@@ -132,7 +132,7 @@
       "id": "tmdb:1368166",
       "type": "movie",
       "name": "The Housemaid",
-      "description": "Trying to escape her past, Millie accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "poster": "https://image.tmdb.org/t/p/w500/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
       "releaseInfo": "2025-12-02"
     },
@@ -2553,5 +2553,5 @@
       "releaseInfo": "2025-06-23"
     }
   ],
-  "ts": 1766211961696
+  "ts": 1766233953734
 }
