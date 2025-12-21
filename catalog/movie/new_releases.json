@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "Influencers",
       "description": "In the picturesque landscapes of Southern France, a young woman's chilling fascination with murder and identity theft sends her life into a whirlwind of chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/xhIeXsIybA0rgQ6xLfy2yqFFWZf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
       "releaseInfo": "2025-12-12"
     },
     {
@@ -63,6 +63,14 @@
       "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
       "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
       "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1586820",
+      "type": "movie",
+      "name": "Elmo and Mark Rober's Merry Giftmas",
+      "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
+      "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
+      "releaseInfo": "2025-12-08"
     },
     {
       "id": "tmdb:1516208",
@@ -269,7 +277,7 @@
       "type": "movie",
       "name": "A Chuck E. Cheese Christmas",
       "description": "When Chuck E. Cheese and Friends learn that Santa Claus has never experienced a Christmas party, because he is always exhausted from working on Christmas Eve, they set out to throw a surprise Christmas celebration for Santa as a 'thank you' for all the joy he brings to the world! The party also winds up doubling as a way to save their town from the meddling of a holiday-hating evildoer.",
-      "poster": "https://image.tmdb.org/t/p/w500/5mESXfzHMvrhWdoFUBlLuOM0HFW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/osuxNst45U4d7CT02uYHBI1B9nK.jpg",
       "releaseInfo": "2025-11-27"
     },
     {
@@ -373,7 +381,7 @@
       "type": "movie",
       "name": "Wicked: For Good",
       "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/thNPqVJtVVqE6vLcCdvUpoeXdTW.jpg",
       "releaseInfo": "2025-11-17"
     },
     {
@@ -518,6 +526,14 @@
       "name": "Christmas Above the Clouds",
       "description": "When a workaholic CEO tries to skip Christmas by flying to Australia, she’s in for the flight of her life. Haunted by her past, present, and future, she’s forced to confront the choices that led to her success yet left her flying solo. With the help of three quirky spirits and a surprise reunion with her ex, she might just rediscover the magic of Christmas—and the love she thought she’d lost.",
       "poster": "https://image.tmdb.org/t/p/w500/sMHF7beWXqWzXqtclqrz6vd95xV.jpg",
+      "releaseInfo": "2025-11-08"
+    },
+    {
+      "id": "tmdb:1358042",
+      "type": "movie",
+      "name": "Scarlet Nose: The Prologue",
+      "description": "In 1973, two teens come face to face with a brutal clown masked killer that has an unlikely weakness.",
+      "poster": "https://image.tmdb.org/t/p/w500/ooow52QdmdvRgicDBisYdq5v6E6.jpg",
       "releaseInfo": "2025-11-08"
     },
     {
@@ -701,7 +717,7 @@
       "type": "movie",
       "name": "The SpongeBob Movie: Search for SquarePants",
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/jxJ9FMREmSOSqz45viIjYkP7eFE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -1031,6 +1047,14 @@
       "description": "An Iranian filmmaker participates in a series of video calls with a young Palestinian photojournalist who describes her life confined in Gaza during the current regional conflict.",
       "poster": "https://image.tmdb.org/t/p/w500/vrEDz3kBG6AZKF3aiaQJB0Qgp8a.jpg",
       "releaseInfo": "2025-10-04"
+    },
+    {
+      "id": "tmdb:1159206",
+      "type": "movie",
+      "name": "Father Mother Sister Brother",
+      "description": "Three stories concerning the relationships between adult children, their somewhat distant parent (or parents), and each other: a reclusive father visited by his grown children in the US, sisters visiting their novelist mother in Dublin, and adult twins called back to their Paris apartment to address a family tragedy.",
+      "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
+      "releaseInfo": "2025-10-03"
     },
     {
       "id": "tmdb:1259102",
@@ -1585,6 +1609,14 @@
       "releaseInfo": "2025-09-05"
     },
     {
+      "id": "tmdb:1314129",
+      "type": "movie",
+      "name": "Preparation for the Next Life",
+      "description": "Aishe, a Uyghur woman trained by her military father, migrates to New York City where she finds herself laboring in Chinatown’s underground kitchens. She fatefully encounters Skinner, a young American soldier who has just returned from three tours in the Middle East. While falling in love, they discover the possibility of a better life together than the ones they believed they were destined to live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",
+      "releaseInfo": "2025-09-05"
+    },
+    {
       "id": "tmdb:1267116",
       "type": "movie",
       "name": "Bad Man",
@@ -1740,7 +1772,7 @@
       "id": "tmdb:1272166",
       "type": "movie",
       "name": "Ballad of a Small Player",
-      "description": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
+      "description": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
       "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
       "releaseInfo": "2025-08-29"
     },
@@ -2505,53 +2537,13 @@
       "releaseInfo": "2025-06-30"
     },
     {
-      "id": "tmdb:1505898",
-      "type": "movie",
-      "name": "Jurassic World Rebirth: The Making of a New Era",
-      "description": "A behind-the-scenes look with the cast and crew, featuring thrilling locations, deadly new dinosaurs and the next evolution of the iconic franchise.",
-      "poster": "https://image.tmdb.org/t/p/w500/uJUzfTtbCUG1GXmVS24h8h0hXX3.jpg",
-      "releaseInfo": "2025-06-28"
-    },
-    {
-      "id": "tmdb:1468471",
-      "type": "movie",
-      "name": "A Machu Picchu Proposal",
-      "description": "Katie agrees to join her brother Dan and his girlfriend Luciana on a trip to Peru. Dan plans to propose to Luciana in a grand way at Machu Picchu at the end of the week and needs Katie’s Spanish speaking skills to ask Luciana’s Peruvian father for his blessing. However, when Luciana’s friend, Chef Carlos, arrives, he accidentally ruins each proposal attempt. Refusing to give up, Katie does everything in her power to make this proposal happen, until Dan calls it off. Katie must lean into Chef Carlos’ spontaneity to not only save the day and the proposal, and Carlos may just win Katie’s heart too!",
-      "poster": "https://image.tmdb.org/t/p/w500/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
-      "releaseInfo": "2025-06-28"
-    },
-    {
       "id": "tmdb:1103437",
       "type": "movie",
       "name": "Please Don't Feed the Children",
       "description": "After a viral outbreak ravaged the country’s adult population, a group of orphans heads south in search of a new life, only to find themselves at the mercy of a deranged woman harboring a dangerous secret.",
       "poster": "https://image.tmdb.org/t/p/w500/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
       "releaseInfo": "2025-06-27"
-    },
-    {
-      "id": "tmdb:1473666",
-      "type": "movie",
-      "name": "Kombucha",
-      "description": "Trapped in a fluorescent-lit cubicle farm, an aspiring musician thinks the free break room kombucha is a perk - until it begins to change him. What starts with suspicious smiles and team-building ends in a bile-drenched metamorphosis.",
-      "poster": "https://image.tmdb.org/t/p/w500/FSAz7yRySiYvBjjOmJZuDt1gLZ.jpg",
-      "releaseInfo": "2025-06-27"
-    },
-    {
-      "id": "tmdb:1371151",
-      "type": "movie",
-      "name": "Off the Grid",
-      "description": "After a morally-bankrupt company tries to weaponize a brilliant scientist's revolutionary technology, he goes off the grid to safeguard humanity. When the company sends a strike force to find him, they make their biggest mistake of all – they weaponize the man they are trying to catch.",
-      "poster": "https://image.tmdb.org/t/p/w500/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg",
-      "releaseInfo": "2025-06-27"
-    },
-    {
-      "id": "tmdb:1234821",
-      "type": "movie",
-      "name": "Jurassic World Rebirth",
-      "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-      "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
-      "releaseInfo": "2025-06-23"
     }
   ],
-  "ts": 1766254943690
+  "ts": 1766280391549
 }
