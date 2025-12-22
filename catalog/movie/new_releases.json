@@ -484,7 +484,7 @@
       "id": "tmdb:1084242",
       "type": "movie",
       "name": "Zootopia 2",
-      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
       "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "releaseInfo": "2025-11-13"
     },
@@ -2069,7 +2069,7 @@
       "type": "movie",
       "name": "Highest 2 Lowest",
       "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
-      "poster": "https://image.tmdb.org/t/p/w500/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
       "releaseInfo": "2025-08-11"
     },
     {
@@ -2553,5 +2553,5 @@
       "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766385003397
+  "ts": 1766407018745
 }
