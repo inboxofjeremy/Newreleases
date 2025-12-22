@@ -9,6 +9,22 @@
       "releaseInfo": "2025-12-21"
     },
     {
+      "id": "tmdb:1601347",
+      "type": "movie",
+      "name": "Merry Deathmas",
+      "description": "A young family is on holiday in a small village, in their grandparents' old house. But they will soon realize that this will be the last Christmas they spend together as a family.",
+      "poster": "https://image.tmdb.org/t/p/w500/7DPbUd99jKUVQry9C8xhGN1DShK.jpg",
+      "releaseInfo": "2025-12-20"
+    },
+    {
+      "id": "tmdb:1601195",
+      "type": "movie",
+      "name": "Dave Chappelle: The Unstoppable...",
+      "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
+      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
       "id": "tmdb:1584619",
       "type": "movie",
       "name": "Murder in Monaco",
@@ -2529,22 +2545,6 @@
       "releaseInfo": "2025-07-02"
     },
     {
-      "id": "tmdb:1484262",
-      "type": "movie",
-      "name": "Trainwreck: The Cult of American Apparel",
-      "description": "Featuring tell-all interviews with insiders and former staff, this exposé traces American Apparel's journey from fashion phenomenon to financial flop.",
-      "poster": "https://image.tmdb.org/t/p/w500/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg",
-      "releaseInfo": "2025-07-01"
-    },
-    {
-      "id": "tmdb:1491570",
-      "type": "movie",
-      "name": "Shark Whisperer",
-      "description": "Marine conservationist and social media activist Ocean Ramsey fearlessly swims with sharks in this documentary about her risky mission to protect them.",
-      "poster": "https://image.tmdb.org/t/p/w500/v0WEubJKWTfqYX8laBGIPI07Z7t.jpg",
-      "releaseInfo": "2025-06-30"
-    },
-    {
       "id": "tmdb:1103437",
       "type": "movie",
       "name": "Please Don't Feed the Children",
@@ -2553,5 +2553,5 @@
       "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766341419618
+  "ts": 1766366685674
 }
