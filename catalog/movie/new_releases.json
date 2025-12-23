@@ -797,7 +797,7 @@
       "type": "movie",
       "name": "Nuremberg",
       "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-      "poster": "https://image.tmdb.org/t/p/w500/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
       "releaseInfo": "2025-10-18"
     },
     {
@@ -1077,7 +1077,7 @@
       "type": "movie",
       "name": "Eternity",
       "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/iKaM4OfSf5ABkFZCo4vU4Dth7ZU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/o8pg20G67BGmQvRkXwstNre062J.jpg",
       "releaseInfo": "2025-10-03"
     },
     {
@@ -2545,5 +2545,5 @@
       "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766471338901
+  "ts": 1766493457179
 }
