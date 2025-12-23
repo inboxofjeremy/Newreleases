@@ -1,27 +1,19 @@
 {
   "metas": [
     {
-      "id": "tmdb:1601227",
-      "type": "movie",
-      "name": "Hi Simon There",
-      "description": "Alone at home for the evening, Daniel receives a mysterious call from a child who whispers a name he doesn't know.",
-      "poster": "https://image.tmdb.org/t/p/w500/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
-      "releaseInfo": "2025-12-21"
-    },
-    {
-      "id": "tmdb:1601347",
-      "type": "movie",
-      "name": "Merry Deathmas",
-      "description": "A young family is on holiday in a small village, in their grandparents' old house. But they will soon realize that this will be the last Christmas they spend together as a family.",
-      "poster": "https://image.tmdb.org/t/p/w500/7DPbUd99jKUVQry9C8xhGN1DShK.jpg",
-      "releaseInfo": "2025-12-20"
-    },
-    {
       "id": "tmdb:1601195",
       "type": "movie",
       "name": "Dave Chappelle: The Unstoppable...",
       "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
       "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
+      "id": "tmdb:1584125",
+      "type": "movie",
+      "name": "Breakdown: 1975",
+      "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+      "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
       "releaseInfo": "2025-12-19"
     },
     {
@@ -529,6 +521,14 @@
       "releaseInfo": "2025-11-11"
     },
     {
+      "id": "tmdb:1578602",
+      "type": "movie",
+      "name": "A Holiday Short: Best Christmas Ever",
+      "description": "When Santa mistakes the doodle on a girl's list for a holiday wish, she wakes up on Christmas morning to find an unusual new friend under the tree.",
+      "poster": "https://image.tmdb.org/t/p/w500/wSZmNfmpFHTxuLbDFfryThpnkJQ.jpg",
+      "releaseInfo": "2025-11-10"
+    },
+    {
       "id": "tmdb:1425122",
       "type": "movie",
       "name": "A Very Jonas Christmas Movie",
@@ -878,14 +878,6 @@
       "name": "The Mannequin",
       "description": "A stylist assistant investigates her sister's death in a historic LA building, only to face a vengeful ghost of a serial killer who dismembered victims decades ago. She must escape before she's next.",
       "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg",
-      "releaseInfo": "2025-10-14"
-    },
-    {
-      "id": "tmdb:1509968",
-      "type": "movie",
-      "name": "We, Brothers",
-      "description": "Two old fellow mobsters meet up at hideout to discuss their next job. They plunge into a conversation recollecting their past deeds together, which leads them into argument and rivalry, until one of them realizes something is quite wrong.",
-      "poster": "https://image.tmdb.org/t/p/w500/gKTL2BbEeVBqKlEJQcQRF8SLi5r.jpg",
       "releaseInfo": "2025-10-14"
     },
     {
@@ -2553,5 +2545,5 @@
       "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766427977179
+  "ts": 1766452881185
 }
