@@ -33,6 +33,14 @@
       "releaseInfo": "2025-12-14"
     },
     {
+      "id": "tmdb:1234731",
+      "type": "movie",
+      "name": "Anaconda",
+      "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "poster": "https://image.tmdb.org/t/p/w500/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+      "releaseInfo": "2025-12-13"
+    },
+    {
       "id": "tmdb:1562010",
       "type": "movie",
       "name": "Taylor Swift | The Eras Tour | The Final Show",
@@ -889,6 +897,14 @@
       "releaseInfo": "2025-10-13"
     },
     {
+      "id": "tmdb:1306400",
+      "type": "movie",
+      "name": "Merrily We Roll Along",
+      "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
+      "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+      "releaseInfo": "2025-10-12"
+    },
+    {
       "id": "tmdb:1443940",
       "type": "movie",
       "name": "Truth & Treason",
@@ -1014,6 +1030,14 @@
       "name": "Ozzy: No Escape from Now",
       "description": "Ozzy Osbourne faces his identity and mortality after his world stops. Dealing with health issues and Parkinson's, he questions if he can perform again while music remains his life's cornerstone.",
       "poster": "https://image.tmdb.org/t/p/w500/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+      "releaseInfo": "2025-10-07"
+    },
+    {
+      "id": "tmdb:1464773",
+      "type": "movie",
+      "name": "Borley Rectory: The Awakening",
+      "description": "In 1900, young Reverend Henry Bull and his sister, Kitty, are tasked with taking over the duties of their family home in Essex, a majestic Victorian mansion built on the site of an old monastery. Unaware of the sinister forces that lurk within, the pair are soon confronted by terrifying paranormal activities that threaten their loved ones. Desperate to protect themselves from the demonic intrusion, they call upon the services of a trusted family friend to investigate the origins of the vengeful ghosts which haunt their property. But these are spirits who will not rest, and Borley Rectory is doomed to gain a chilling reputation, as the most haunted house in all of Britain.",
+      "poster": "https://image.tmdb.org/t/p/w500/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
       "releaseInfo": "2025-10-07"
     },
     {
@@ -1833,6 +1857,14 @@
       "releaseInfo": "2025-08-29"
     },
     {
+      "id": "tmdb:1494409",
+      "type": "movie",
+      "name": "Imported",
+      "description": "After a lifelong dream of playing in the NBA is dashed, and on the brink of their athletic prime, three athletes discover unexpected growth and success as international ballers when they decide to play overseas. Immersing themselves in foreign cultures while discovering the intense and exhilarating global fandom for basketball, these athletes turn an unwanted detour into a transformative and fulfilling chapter in the pursuit of their dreams.",
+      "poster": "https://image.tmdb.org/t/p/w500/mWzjWop4AqqAHBmLN2kYFMYqGgW.jpg",
+      "releaseInfo": "2025-08-28"
+    },
+    {
       "id": "tmdb:744653",
       "type": "movie",
       "name": "The Thursday Murder Club",
@@ -2513,30 +2545,6 @@
       "releaseInfo": "2025-07-03"
     },
     {
-      "id": "tmdb:1507699",
-      "type": "movie",
-      "name": "Countdown: Taylor vs. Serrano",
-      "description": "Two elite boxers, Katie Taylor and Amanda Serrano, prepare for their epic trilogy finale, a live-streamed match on Netflix July 11. Uma Thurman narrates their rigorous training journey.",
-      "poster": "https://image.tmdb.org/t/p/w500/lFsLbXGuMiH9ZAYy3O22ccwDsDH.jpg",
-      "releaseInfo": "2025-07-03"
-    },
-    {
-      "id": "tmdb:1287536",
-      "type": "movie",
-      "name": "Dora and the Search for Sol Dorado",
-      "description": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
-      "poster": "https://image.tmdb.org/t/p/w500/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
-      "releaseInfo": "2025-07-02"
-    },
-    {
-      "id": "tmdb:846422",
-      "type": "movie",
-      "name": "The Old Guard 2",
-      "description": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
-      "releaseInfo": "2025-07-02"
-    },
-    {
       "id": "tmdb:1103437",
       "type": "movie",
       "name": "Please Don't Feed the Children",
@@ -2545,5 +2553,5 @@
       "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766514392572
+  "ts": 1766539234126
 }
