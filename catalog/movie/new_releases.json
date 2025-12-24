@@ -9,6 +9,14 @@
       "releaseInfo": "2025-12-19"
     },
     {
+      "id": "tmdb:1497017",
+      "type": "movie",
+      "name": "Adult Swim's The Elephant",
+      "description": "Crafted in three parts by four animation superstars, Adult Swim's The Elephant brings to life a very human journey of self-discovery in varied styles.",
+      "poster": "https://image.tmdb.org/t/p/w500/vq50QGdUSAiUNC2f0BDdgyhUQGg.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
       "id": "tmdb:1584125",
       "type": "movie",
       "name": "Breakdown: 1975",
@@ -173,7 +181,7 @@
       "type": "movie",
       "name": "Five Nights at Freddy's 2",
       "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/2LGb8KyIbPlUTG6pr6WKZnTP5yR.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -197,7 +205,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -2543,15 +2551,7 @@
       "description": "When four University of Idaho coeds are brutally stabbed to death, brilliant criminology student Bryan Kohberger is accused of their murders.",
       "poster": "https://image.tmdb.org/t/p/w500/DRi4YtSWzXwfkBcevmZPhQ6xD5.jpg",
       "releaseInfo": "2025-07-03"
-    },
-    {
-      "id": "tmdb:1103437",
-      "type": "movie",
-      "name": "Please Don't Feed the Children",
-      "description": "After a viral outbreak ravaged the country’s adult population, a group of orphans heads south in search of a new life, only to find themselves at the mercy of a deranged woman harboring a dangerous secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
-      "releaseInfo": "2025-06-27"
     }
   ],
-  "ts": 1766557747707
+  "ts": 1766579813381
 }
