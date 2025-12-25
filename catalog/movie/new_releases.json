@@ -49,6 +49,14 @@
       "releaseInfo": "2025-12-13"
     },
     {
+      "id": "tmdb:1435092",
+      "type": "movie",
+      "name": "Goodbye June",
+      "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+      "poster": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
       "id": "tmdb:1562010",
       "type": "movie",
       "name": "Taylor Swift | The Eras Tour | The Final Show",
@@ -653,7 +661,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -1047,6 +1055,14 @@
       "description": "In 1900, young Reverend Henry Bull and his sister, Kitty, are tasked with taking over the duties of their family home in Essex, a majestic Victorian mansion built on the site of an old monastery. Unaware of the sinister forces that lurk within, the pair are soon confronted by terrifying paranormal activities that threaten their loved ones. Desperate to protect themselves from the demonic intrusion, they call upon the services of a trusted family friend to investigate the origins of the vengeful ghosts which haunt their property. But these are spirits who will not rest, and Borley Rectory is doomed to gain a chilling reputation, as the most haunted house in all of Britain.",
       "poster": "https://image.tmdb.org/t/p/w500/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
       "releaseInfo": "2025-10-07"
+    },
+    {
+      "id": "tmdb:1317288",
+      "type": "movie",
+      "name": "Marty Supreme",
+      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
+      "releaseInfo": "2025-10-06"
     },
     {
       "id": "tmdb:1114967",
@@ -2535,23 +2551,7 @@
       "description": "When millions in cartel cocaine go missing off Florida's coast, the search turns savage as vicious sharks close in on anyone daring to claim the stash.",
       "poster": "https://image.tmdb.org/t/p/w500/1sZSRb0t4zXLv0NZdkghcpShYgf.jpg",
       "releaseInfo": "2025-07-04"
-    },
-    {
-      "id": "tmdb:1223690",
-      "type": "movie",
-      "name": "Pretty Thing",
-      "description": "A successful executive fights back when a scorned young lover takes his obsession too far.",
-      "poster": "https://image.tmdb.org/t/p/w500/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg",
-      "releaseInfo": "2025-07-04"
-    },
-    {
-      "id": "tmdb:1507986",
-      "type": "movie",
-      "name": "The Idaho Student Murders",
-      "description": "When four University of Idaho coeds are brutally stabbed to death, brilliant criminology student Bryan Kohberger is accused of their murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/DRi4YtSWzXwfkBcevmZPhQ6xD5.jpg",
-      "releaseInfo": "2025-07-03"
     }
   ],
-  "ts": 1766644106213
+  "ts": 1766666154384
 }
