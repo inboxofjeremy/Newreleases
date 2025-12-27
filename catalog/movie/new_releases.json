@@ -73,14 +73,6 @@
       "releaseInfo": "2025-12-12"
     },
     {
-      "id": "tmdb:339849",
-      "type": "movie",
-      "name": "Not Without Hope",
-      "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
       "id": "tmdb:1401778",
       "type": "movie",
       "name": "Turbulence",
@@ -110,6 +102,14 @@
       "name": "Ella McCay",
       "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
       "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+      "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1585476",
+      "type": "movie",
+      "name": "Kevin Costner Presents: The First Christmas",
+      "description": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
+      "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
       "releaseInfo": "2025-12-09"
     },
     {
@@ -438,6 +438,14 @@
       "name": "Wicked: For Good",
       "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
       "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "releaseInfo": "2025-11-17"
+    },
+    {
+      "id": "tmdb:1580253",
+      "type": "movie",
+      "name": "Hazbin Hotel: Live on Broadway",
+      "description": "Hosted by series lead Erika Henningsen, at New York’s historic Majestic Theater, this concert event features performances of the show's hit songs from Seasons One and Two by Erika Henningsen, Blake Roman, Amir Talai, Christian Borle, Jessica Vosk, Jeremy Jordan, and Krystina Alabado, with special appearances by Stephanie Beatriz, Kimiko Glenn, Vivienne Medrano, Sam Haft, and Richard Horvitz.",
+      "poster": "https://image.tmdb.org/t/p/w500/5GkJfdtw1aNh67Iunv8F6B3MR6K.jpg",
       "releaseInfo": "2025-11-17"
     },
     {
@@ -781,8 +789,16 @@
       "type": "movie",
       "name": "The SpongeBob Movie: Search for SquarePants",
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/iJnJ6o7tcUpSD0DqdeFC79qt41c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
       "releaseInfo": "2025-10-26"
+    },
+    {
+      "id": "tmdb:339849",
+      "type": "movie",
+      "name": "Not Without Hope",
+      "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
+      "releaseInfo": "2025-10-25"
     },
     {
       "id": "tmdb:1547882",
@@ -1076,8 +1092,8 @@
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
-      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
+      "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -1333,7 +1349,7 @@
       "type": "movie",
       "name": "Roofman",
       "description": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
-      "poster": "https://image.tmdb.org/t/p/w500/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
       "releaseInfo": "2025-09-23"
     },
     {
@@ -1854,6 +1870,14 @@
       "name": "Ballad of a Small Player",
       "description": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
       "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+      "releaseInfo": "2025-08-29"
+    },
+    {
+      "id": "tmdb:1290369",
+      "type": "movie",
+      "name": "Megadoc",
+      "description": "Presenting a behind-the-scenes account of a visionary at work. From Oscar-nominated Mike Figgis, Megadoc gives audiences an unfiltered and intimate look at the making of Francis Ford Coppola’s epic sci-fi drama Megalopolis.",
+      "poster": "https://image.tmdb.org/t/p/w500/yjiqwnvgst3ntm25L5heBHjqny9.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2529,14 +2553,6 @@
       "releaseInfo": "2025-07-08"
     },
     {
-      "id": "tmdb:1477565",
-      "type": "movie",
-      "name": "Trainwreck: The Real Project X",
-      "description": "A night of drunken chaos rocks a quiet Dutch town in this shocking documentary about a teen's birthday invite that accidentally went viral on Facebook.",
-      "poster": "https://image.tmdb.org/t/p/w500/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
-      "releaseInfo": "2025-07-08"
-    },
-    {
       "id": "tmdb:1061474",
       "type": "movie",
       "name": "Superman",
@@ -2553,5 +2569,5 @@
       "releaseInfo": "2025-07-04"
     }
   ],
-  "ts": 1766773526786
+  "ts": 1766798368786
 }
