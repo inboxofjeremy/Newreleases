@@ -1,11 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1547929",
+      "type": "movie",
+      "name": "The Christmas Baby",
+      "description": "When a baby boy shows up on their doorstep days before Christmas with a note written specially for them, Erin and Kelly must learn how to navigate their new relationship and career dynamics while unexpectedly caring for a newborn.",
+      "poster": "https://image.tmdb.org/t/p/w500/6PSxu99G31ipYwlK6cYS0CNQGv3.jpg",
+      "releaseInfo": "2025-12-21"
+    },
+    {
       "id": "tmdb:1601195",
       "type": "movie",
       "name": "Dave Chappelle: The Unstoppable...",
       "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
       "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
+      "id": "tmdb:1529419",
+      "type": "movie",
+      "name": "Kumail Nanjiani: Night Thoughts",
+      "description": "After nearly a decade away, Kumail Nanjiani returns to Chicago, where he got his start in standup, in a new special that tackles anxiety, the perils of buying drugs pre-legalization, and most importantly, cat medication.",
+      "poster": "https://image.tmdb.org/t/p/w500/xgkAYqTX38S7sDSpqbn9TjbdMbR.jpg",
       "releaseInfo": "2025-12-19"
     },
     {
@@ -341,7 +357,7 @@
       "type": "movie",
       "name": "Sidelined 2: Intercepted",
       "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
-      "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hfjzw57NlPqiuAEw6zB1WbTRBfE.jpg",
       "releaseInfo": "2025-11-27"
     },
     {
@@ -525,7 +541,7 @@
       "type": "movie",
       "name": "Zootopia 2",
       "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "releaseInfo": "2025-11-13"
     },
     {
@@ -941,7 +957,7 @@
       "type": "movie",
       "name": "The Twits",
       "description": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
-      "poster": "https://image.tmdb.org/t/p/w500/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
       "releaseInfo": "2025-10-13"
     },
     {
@@ -2437,7 +2453,7 @@
       "type": "movie",
       "name": "The Fantastic 4: First Steps",
       "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-      "poster": "https://image.tmdb.org/t/p/w500/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pZPJsaFKWheTOerVhLnpP8TPp4B.jpg",
       "releaseInfo": "2025-07-21"
     },
     {
@@ -2537,22 +2553,6 @@
       "releaseInfo": "2025-07-10"
     },
     {
-      "id": "tmdb:1504091",
-      "type": "movie",
-      "name": "Nate Jackson: Super Funny",
-      "description": "Sharp jokes meet savage roasts as Nate Jackson blends his infamous crowd work with takes on topics from judgment-free gyms to catfishing.",
-      "poster": "https://image.tmdb.org/t/p/w500/bO6nBUDE6ctqIMMGe5TeeJ5CxVN.jpg",
-      "releaseInfo": "2025-07-08"
-    },
-    {
-      "id": "tmdb:1499086",
-      "type": "movie",
-      "name": "Simple Plan: The Kids in the Crowd",
-      "description": "A captivating and nostalgic look at one of the most popular pop-punk bands of the 2000s. Packed with never-before-seen archival footage and exclusive access to their sold-out 2024 World Tour, the members of Simple Plan and a cast of punk-rock superstars recount the highs and lows of the first 25 years of their career. Stage-dive into a story of brotherhood, fans and resilience.",
-      "poster": "https://image.tmdb.org/t/p/w500/AgVgrIabxTBkFSfFpcfjMVcoqaG.jpg",
-      "releaseInfo": "2025-07-08"
-    },
-    {
       "id": "tmdb:1061474",
       "type": "movie",
       "name": "Superman",
@@ -2569,5 +2569,5 @@
       "releaseInfo": "2025-07-04"
     }
   ],
-  "ts": 1766859835330
+  "ts": 1766885969094
 }
