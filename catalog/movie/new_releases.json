@@ -129,6 +129,14 @@
       "releaseInfo": "2025-12-09"
     },
     {
+      "id": "tmdb:1167307",
+      "type": "movie",
+      "name": "David",
+      "description": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+      "releaseInfo": "2025-12-08"
+    },
+    {
       "id": "tmdb:1586820",
       "type": "movie",
       "name": "Elmo and Mark Rober's Merry Giftmas",
@@ -150,6 +158,14 @@
       "name": "Love and Wine",
       "description": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
       "poster": "https://image.tmdb.org/t/p/w500/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1354518",
+      "type": "movie",
+      "name": "100 Nights of Hero",
+      "description": "When a charming house guest arrives at a remote castle, the delicate dynamic between a neglectful husband, his innocent bride Cherry and their devoted maid Hero is thrown into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/7OYSJJFU2E9iBGPfU9C9PM56APM.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -471,6 +487,14 @@
       "description": "Luke is expecting twins, Taylor is debating a life-changing job, and Stephan is planning a wedding — all while their mom is planning to put the family home up for sale.",
       "poster": "https://image.tmdb.org/t/p/w500/pThRtEIcIJQunJIJvXfwzpHQuMs.jpg",
       "releaseInfo": "2025-11-15"
+    },
+    {
+      "id": "tmdb:1519084",
+      "type": "movie",
+      "name": "The Merchants of Joy",
+      "description": "In the city that never sleeps, five families hustle each winter to turn sidewalks into holiday outposts.",
+      "poster": "https://image.tmdb.org/t/p/w500/bMxiz9KwVminT5HCGOubkcHsK0c.jpg",
+      "releaseInfo": "2025-11-14"
     },
     {
       "id": "tmdb:1426083",
@@ -809,6 +833,14 @@
       "releaseInfo": "2025-10-26"
     },
     {
+      "id": "tmdb:1371185",
+      "type": "movie",
+      "name": "Song Sung Blue",
+      "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "releaseInfo": "2025-10-25"
+    },
+    {
       "id": "tmdb:339849",
       "type": "movie",
       "name": "Not Without Hope",
@@ -1079,6 +1111,14 @@
       "description": "Charlie, the fiercely independent owner of an all-female mechanic shop, is forced to reevaluate her future when a flashy corporate competitor moves in across the street. Seeking comfort, she turns to an anonymous online confidant - unaware she's confiding in Beau, the very rival threatening her business. As sparks fly both online and off, the truth threatens to blow everything apart.",
       "poster": "https://image.tmdb.org/t/p/w500/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",
       "releaseInfo": "2025-10-08"
+    },
+    {
+      "id": "tmdb:1319482",
+      "type": "movie",
+      "name": "Traumatika",
+      "description": "Mikey's night terrors become reality when his mother begins showing signs of demonic possession. What he's about to experience will haunt him for the rest of his life and claim countless lives across generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/jnINnXC7KHAVodspt9xIepEE9f6.jpg",
+      "releaseInfo": "2025-10-07"
     },
     {
       "id": "tmdb:1551336",
@@ -1700,7 +1740,7 @@
       "id": "tmdb:604079",
       "type": "movie",
       "name": "The Long Walk",
-      "description": "In a dystopian, alternate-America ruled by a totalitarian regime, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+      "description": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
       "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
       "releaseInfo": "2025-09-08"
     },
@@ -2529,45 +2569,13 @@
       "releaseInfo": "2025-07-11"
     },
     {
-      "id": "tmdb:1246310",
-      "type": "movie",
-      "name": "Madea's Destination Wedding",
-      "description": "Madea packs her best floral dresses and a whole lot of chaos when the Simmons family heads to the Bahamas for her grandniece's whirlwind wedding.",
-      "poster": "https://image.tmdb.org/t/p/w500/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg",
-      "releaseInfo": "2025-07-11"
-    },
-    {
       "id": "tmdb:648878",
       "type": "movie",
       "name": "Eddington",
       "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
       "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
       "releaseInfo": "2025-07-10"
-    },
-    {
-      "id": "tmdb:1243341",
-      "type": "movie",
-      "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
-      "description": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
-      "poster": "https://image.tmdb.org/t/p/w500/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
-      "releaseInfo": "2025-07-10"
-    },
-    {
-      "id": "tmdb:1061474",
-      "type": "movie",
-      "name": "Superman",
-      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-      "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-      "releaseInfo": "2025-07-07"
-    },
-    {
-      "id": "tmdb:1504635",
-      "type": "movie",
-      "name": "Great White Waters",
-      "description": "When millions in cartel cocaine go missing off Florida's coast, the search turns savage as vicious sharks close in on anyone daring to claim the stash.",
-      "poster": "https://image.tmdb.org/t/p/w500/1sZSRb0t4zXLv0NZdkghcpShYgf.jpg",
-      "releaseInfo": "2025-07-04"
     }
   ],
-  "ts": 1766946292277
+  "ts": 1766971658702
 }
