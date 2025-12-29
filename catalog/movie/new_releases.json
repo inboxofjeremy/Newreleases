@@ -1741,7 +1741,7 @@
       "type": "movie",
       "name": "The Long Walk",
       "description": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-      "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/8DujdBpmSXOJJyp9R5BgUvIhYB.jpg",
       "releaseInfo": "2025-09-08"
     },
     {
@@ -1825,6 +1825,14 @@
       "releaseInfo": "2025-09-02"
     },
     {
+      "id": "tmdb:1516391",
+      "type": "movie",
+      "name": "Cover-Up",
+      "description": "For the past six decades, Seymour Hersh has been at the front lines of political journalism in the U.S. This arresting documentary, released at a crucial moment for the freedom of the press, tells the wide-ranging story of this breakthrough reporter.",
+      "poster": "https://image.tmdb.org/t/p/w500/8FAxigDCzdlpoRcYrABeGiesqgQ.jpg",
+      "releaseInfo": "2025-08-31"
+    },
+    {
       "id": "tmdb:1525091",
       "type": "movie",
       "name": "All the Empty Rooms",
@@ -1837,7 +1845,7 @@
       "type": "movie",
       "name": "Jay Kelly",
       "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
-      "poster": "https://image.tmdb.org/t/p/w500/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
       "releaseInfo": "2025-08-30"
     },
     {
@@ -2561,14 +2569,6 @@
       "releaseInfo": "2025-07-11"
     },
     {
-      "id": "tmdb:420074",
-      "type": "movie",
-      "name": "Shark Terror",
-      "description": "After falling overboard during a cruise, a young woman washes ashore – injured, stranded, and stalked by sharks – as her desperate mother races to find her.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPRoBl2iaE2RIIFkUfwgXWSuBy9.jpg",
-      "releaseInfo": "2025-07-11"
-    },
-    {
       "id": "tmdb:648878",
       "type": "movie",
       "name": "Eddington",
@@ -2577,5 +2577,5 @@
       "releaseInfo": "2025-07-10"
     }
   ],
-  "ts": 1766989819280
+  "ts": 1767011894787
 }
