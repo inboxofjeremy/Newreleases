@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1312150",
+      "type": "movie",
+      "name": "Ricky Gervais: Mortality",
+      "description": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+      "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
       "id": "tmdb:1583500",
       "type": "movie",
       "name": "Elway",
@@ -78,6 +86,14 @@
       "name": "Anaconda",
       "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
       "poster": "https://image.tmdb.org/t/p/w500/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+      "releaseInfo": "2025-12-13"
+    },
+    {
+      "id": "tmdb:1547925",
+      "type": "movie",
+      "name": "A Suite Holiday Romance",
+      "description": "During Christmas week, Sabrina jumps at the opportunity to ghostwrite a memoir for a famous art dealer at the iconic Grand Fairbanks Hotel in New York City. The week gets complicated when she meets a handsome British visitor at the hotel bar; she thinks he’s a member of the British aristocracy, and he thinks she’s a wealthy hotel guest.",
+      "poster": "https://image.tmdb.org/t/p/w500/d8dBMhovVUjJjZO4nmC9svqIu0l.jpg",
       "releaseInfo": "2025-12-13"
     },
     {
@@ -493,7 +509,7 @@
       "type": "movie",
       "name": "Wicked: For Good",
       "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
       "releaseInfo": "2025-11-17"
     },
     {
@@ -589,7 +605,7 @@
       "type": "movie",
       "name": "Zootopia 2",
       "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6unXI876M8kUamB3XuVM4Xid7DI.jpg",
       "releaseInfo": "2025-11-13"
     },
     {
@@ -1173,7 +1189,7 @@
       "type": "movie",
       "name": "Marty Supreme",
       "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -2569,29 +2585,13 @@
       "releaseInfo": "2025-07-15"
     },
     {
-      "id": "tmdb:1477566",
-      "type": "movie",
-      "name": "Trainwreck: Balloon Boy",
-      "description": "A homemade flying saucer lifts off, and a 6-year-old boy might be inside. National panic ensues — but what truly happened? This documentary investigates.",
-      "poster": "https://image.tmdb.org/t/p/w500/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg",
-      "releaseInfo": "2025-07-15"
-    },
-    {
       "id": "tmdb:1073109",
       "type": "movie",
       "name": "Push",
       "description": "A pregnant realtor must survive a night of terror when a deranged client shows up at her open house.",
       "poster": "https://image.tmdb.org/t/p/w500/7iFScmZOT5ViMMSVErO1cyE0IOA.jpg",
       "releaseInfo": "2025-07-11"
-    },
-    {
-      "id": "tmdb:648878",
-      "type": "movie",
-      "name": "Eddington",
-      "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
-      "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
-      "releaseInfo": "2025-07-10"
     }
   ],
-  "ts": 1767119205896
+  "ts": 1767144169123
 }
