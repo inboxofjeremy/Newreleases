@@ -1900,7 +1900,7 @@
       "id": "tmdb:1516391",
       "type": "movie",
       "name": "Cover-Up",
-      "description": "For the past six decades, Seymour Hersh has been at the front lines of political journalism in the U.S. This arresting documentary, released at a crucial moment for the freedom of the press, tells the wide-ranging story of this breakthrough reporter.",
+      "description": "For the past six decades, Seymour Hersh has been at the front lines of political journalism in the U.S. This engaging documentary, released at a crucial moment for the freedom of the press, tells the wide-ranging story of this breakthrough reporter.",
       "poster": "https://image.tmdb.org/t/p/w500/tez2piKTs1mi1X99RQVm78t8y9m.jpg",
       "releaseInfo": "2025-08-31"
     },
@@ -1948,7 +1948,7 @@
       "id": "tmdb:891584",
       "type": "movie",
       "name": "The History of Sound",
-      "description": "In 1917, two young music students attending the Boston Conservatory bond over their mutual love of folk music. They reconnect a few years later, embarking on a song collecting trip in the backwaters of Maine.",
+      "description": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
       "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
       "releaseInfo": "2025-08-30"
     },
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767335336899
+  "ts": 1767357343543
 }
