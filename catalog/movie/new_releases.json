@@ -1,12 +1,28 @@
 {
   "metas": [
     {
+      "id": "tmdb:1591516",
+      "type": "movie",
+      "name": "Evil Influencer: The Jodi Hildebrandt Story",
+      "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
+      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
       "id": "tmdb:1312150",
       "type": "movie",
       "name": "Ricky Gervais: Mortality",
       "description": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
       "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
       "releaseInfo": "2025-12-30"
+    },
+    {
+      "id": "tmdb:1588965",
+      "type": "movie",
+      "name": "Tom Segura: Teacher",
+      "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
+      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+      "releaseInfo": "2025-12-24"
     },
     {
       "id": "tmdb:1583500",
@@ -209,6 +225,14 @@
       "releaseInfo": "2025-12-05"
     },
     {
+      "id": "tmdb:1593419",
+      "type": "movie",
+      "name": "The Making of Jay Kelly",
+      "description": "From the immersive opening shot to the emotional final line, go behind the scenes with director Noah Baumbach, George Clooney, Adam Sandler and more.",
+      "poster": "https://image.tmdb.org/t/p/w500/wdYWaCYcTmyAgTN2AHCrjYPi0cp.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
       "id": "tmdb:1392796",
       "type": "movie",
       "name": "Diary of a Wimpy Kid: The Last Straw",
@@ -369,6 +393,14 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1507275",
+      "type": "movie",
+      "name": "A Paw Patrol Christmas",
+      "description": "Rubble is looking forward to Santa bringing him a new laser drill, but finds that Santa has come down with a cold and can’t deliver any presents. When Mayor Humdinger decides he’s going to the North Pole to take all the gifts for himself, it’s up to the PAW Patrol to stop him.",
+      "poster": "https://image.tmdb.org/t/p/w500/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
       "id": "tmdb:1588671",
       "type": "movie",
       "name": "Louvre Heist: Minute by Minute",
@@ -470,6 +502,14 @@
       "name": "Altered",
       "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
       "poster": "https://image.tmdb.org/t/p/w500/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+      "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1480847",
+      "type": "movie",
+      "name": "Sangre del Toro",
+      "description": "Director Guillermo del Toro journeys through a labyrinth of childhood memories, cultural myths and monsters to reveal the origins of his visionary films.",
+      "poster": "https://image.tmdb.org/t/p/w500/i6gRde2TqBimsn1WTj4bgx0mnL.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
@@ -2545,52 +2585,12 @@
       "releaseInfo": "2025-07-23"
     },
     {
-      "id": "tmdb:1358210",
-      "type": "movie",
-      "name": "Bait",
-      "description": "On their way to a family get-together, the Herring family are in a bad car accident, waking in a terrifying, dark basement. Something is there with them. Caged. And it craves human flesh. With a mysterious overseer aiding the creature like a pet, the family must work together to find a way to defeat them both and make their escape.",
-      "poster": "https://image.tmdb.org/t/p/w500/rgvYPByEcOBAP3PLIFATQ3ApvaM.jpg",
-      "releaseInfo": "2025-07-22"
-    },
-    {
-      "id": "tmdb:1484267",
-      "type": "movie",
-      "name": "Trainwreck: P.I. Moms",
-      "description": "This tell-all documentary investigates an early 2000s reality show about private eye moms and the drug scandal that sabotaged the series and its stars.",
-      "poster": "https://image.tmdb.org/t/p/w500/gACBkTDNDP2GGspeFkn7AhCpiL3.jpg",
-      "releaseInfo": "2025-07-22"
-    },
-    {
       "id": "tmdb:1263256",
       "type": "movie",
       "name": "Happy Gilmore 2",
       "description": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
       "poster": "https://image.tmdb.org/t/p/w500/nRwDPfYUzzzUQarfMxvPlasxzpL.jpg",
       "releaseInfo": "2025-07-21"
-    },
-    {
-      "id": "tmdb:617126",
-      "type": "movie",
-      "name": "The Fantastic 4: First Steps",
-      "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-      "poster": "https://image.tmdb.org/t/p/w500/pZPJsaFKWheTOerVhLnpP8TPp4B.jpg",
-      "releaseInfo": "2025-07-21"
-    },
-    {
-      "id": "tmdb:1507445",
-      "type": "movie",
-      "name": "Faith in the Flames: The Nichole Jolly Story",
-      "description": "Nichole Jolly is a nurse at the town’s hospital, who begins her day as usual, only to face an unimaginable crisis when a wildfire rapidly engulfs the town. Torn between her duty to protect her patients and her desperate need to find her husband Nick, (Colin Moss) and children, Nichole discovers an unyielding strength within herself to save not only her family but countless residents from the encroaching flames. The film is a tribute to the indomitable human spirit and the unsung heroes who emerge in the face of tragedy.",
-      "poster": "https://image.tmdb.org/t/p/w500/p8hTeG5nevWI8eOnnn1sSXtvt8v.jpg",
-      "releaseInfo": "2025-07-19"
-    },
-    {
-      "id": "tmdb:1495506",
-      "type": "movie",
-      "name": "SpongeBob SquarePants: Order Up",
-      "description": "During one of his shifts at the Krusty Krab, SpongeBob amuses himself by overusing the restaurant's order up bell, much to the dismay of his grumpy co-worker and neighbor, Squidward.",
-      "poster": "https://image.tmdb.org/t/p/w500/wR5tkXHpcJLGQA9HKDZcUMpxU50.jpg",
-      "releaseInfo": "2025-07-18"
     },
     {
       "id": "tmdb:1073109",
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767378338766
+  "ts": 1767403130149
 }
