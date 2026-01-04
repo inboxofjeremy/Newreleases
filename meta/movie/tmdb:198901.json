@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:198901",
+    "type": "movie",
+    "name": "Titanic: 100 Years On",
+    "description": "The \"unsinkable\" floating palace set sail from Southampton on 10th April 1912 on her maiden voyage to New York. An iceberg ended this monumental journey 5 days later. Only 705 of the passengers and crew survived. This program features an exclusive look at the Sea City Museum Titanic Exhibit in Southampton, interviews from both survivors and the cast of the blockbuster film.",
+    "poster": "https://image.tmdb.org/t/p/w500/52nGTBogjNsjjriXcSLNo4RUHd4.jpg",
+    "background": "https://image.tmdb.org/t/p/original/82tRA7Vdf7TwdyJYILUh6FuY88L.jpg",
+    "released": "2025-12-29",
+    "imdb": "tt2169432"
+  }
+}

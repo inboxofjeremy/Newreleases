@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Evil Influencer: The Jodi Hildebrandt Story",
       "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
-      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rM3NLZgjs7vVWX3htMAWfwHypO8.jpg",
       "releaseInfo": "2025-12-30"
     },
     {
@@ -15,6 +15,22 @@
       "description": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
       "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
       "releaseInfo": "2025-12-30"
+    },
+    {
+      "id": "tmdb:213362",
+      "type": "movie",
+      "name": "Reflections on Titanic",
+      "description": "An enthralling and fast-paced four-part documentary feature that covers the making of one of the last major Hollywood epics; Titanic. Cast and crew speak on setting the sinking of the ship against a classic romance. The feature also examines casting and the young couple headlining the film, DiCaprio's and Winslet's on-set friendship and their differing acting styles, the expansive sets and filming locations, the authenticity of the recreated ship, James Cameron's work and dedication, and budgeting. And many more aspects of the film are overviewed.",
+      "poster": "https://image.tmdb.org/t/p/w500/4TxXJqt7UrsgsCuiW8H2YN51t5g.jpg",
+      "releaseInfo": "2025-12-29"
+    },
+    {
+      "id": "tmdb:198901",
+      "type": "movie",
+      "name": "Titanic: 100 Years On",
+      "description": "The \"unsinkable\" floating palace set sail from Southampton on 10th April 1912 on her maiden voyage to New York. An iceberg ended this monumental journey 5 days later. Only 705 of the passengers and crew survived. This program features an exclusive look at the Sea City Museum Titanic Exhibit in Southampton, interviews from both survivors and the cast of the blockbuster film.",
+      "poster": "https://image.tmdb.org/t/p/w500/52nGTBogjNsjjriXcSLNo4RUHd4.jpg",
+      "releaseInfo": "2025-12-29"
     },
     {
       "id": "tmdb:1588965",
@@ -2569,22 +2585,6 @@
       "releaseInfo": "2025-07-25"
     },
     {
-      "id": "tmdb:926606",
-      "type": "movie",
-      "name": "The Home",
-      "description": "A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.",
-      "poster": "https://image.tmdb.org/t/p/w500/r0NUt1M62StNgvSLmLsmJADbHpg.jpg",
-      "releaseInfo": "2025-07-25"
-    },
-    {
-      "id": "tmdb:1175942",
-      "type": "movie",
-      "name": "The Bad Guys 2",
-      "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
-      "poster": "https://image.tmdb.org/t/p/w500/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
-      "releaseInfo": "2025-07-23"
-    },
-    {
       "id": "tmdb:1263256",
       "type": "movie",
       "name": "Happy Gilmore 2",
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767508028777
+  "ts": 1767530069313
 }
