@@ -325,7 +325,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -445,7 +445,7 @@
       "type": "movie",
       "name": "A Chuck E. Cheese Christmas",
       "description": "When Chuck E. Cheese and Friends learn that Santa Claus has never experienced a Christmas party, because he is always exhausted from working on Christmas Eve, they set out to throw a surprise Christmas celebration for Santa as a 'thank you' for all the joy he brings to the world! The party also winds up doubling as a way to save their town from the meddling of a holiday-hating evildoer.",
-      "poster": "https://image.tmdb.org/t/p/w500/osuxNst45U4d7CT02uYHBI1B9nK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9t69Lpsb8IfgIwVQbn3uCRtPDSW.jpg",
       "releaseInfo": "2025-11-27"
     },
     {
@@ -1285,7 +1285,7 @@
       "type": "movie",
       "name": "Marty Supreme",
       "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -1899,7 +1899,7 @@
     {
       "id": "tmdb:1543542",
       "type": "movie",
-      "name": "Valiente: A Tracker Story",
+      "name": "Valiente: Príbeh Trackera",
       "description": "Tracker and Carlos come across a series of nocturnal animals fleeing the Shadow Jungle. Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.",
       "poster": "https://image.tmdb.org/t/p/w500/zTMxurPWbgA2w0qkCs8OqN6whN6.jpg",
       "releaseInfo": "2025-09-08"
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767594877238
+  "ts": 1767616791818
 }
