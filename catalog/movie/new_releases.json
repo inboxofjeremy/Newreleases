@@ -17,19 +17,11 @@
       "releaseInfo": "2025-12-30"
     },
     {
-      "id": "tmdb:213362",
+      "id": "tmdb:1601000",
       "type": "movie",
-      "name": "Reflections on Titanic",
-      "description": "An enthralling and fast-paced four-part documentary feature that covers the making of one of the last major Hollywood epics; Titanic. Cast and crew speak on setting the sinking of the ship against a classic romance. The feature also examines casting and the young couple headlining the film, DiCaprio's and Winslet's on-set friendship and their differing acting styles, the expansive sets and filming locations, the authenticity of the recreated ship, James Cameron's work and dedication, and budgeting. And many more aspects of the film are overviewed.",
-      "poster": "https://image.tmdb.org/t/p/w500/4TxXJqt7UrsgsCuiW8H2YN51t5g.jpg",
-      "releaseInfo": "2025-12-29"
-    },
-    {
-      "id": "tmdb:198901",
-      "type": "movie",
-      "name": "Titanic: 100 Years On",
-      "description": "The \"unsinkable\" floating palace set sail from Southampton on 10th April 1912 on her maiden voyage to New York. An iceberg ended this monumental journey 5 days later. Only 705 of the passengers and crew survived. This program features an exclusive look at the Sea City Museum Titanic Exhibit in Southampton, interviews from both survivors and the cast of the blockbuster film.",
-      "poster": "https://image.tmdb.org/t/p/w500/52nGTBogjNsjjriXcSLNo4RUHd4.jpg",
+      "name": "Critical Incident: Death at the Border",
+      "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
+      "poster": "https://image.tmdb.org/t/p/w500/bLq4GRp4InjkipnWM5Bdzbkhg2P.jpg",
       "releaseInfo": "2025-12-29"
     },
     {
@@ -505,6 +497,14 @@
       "releaseInfo": "2025-11-23"
     },
     {
+      "id": "tmdb:1485002",
+      "type": "movie",
+      "name": "Holiday Touchdown: A Bills Love Story",
+      "description": "The Quinns and DeLucas have lived next door to each other for decades in the shadow of Highmark Stadium – the home of their beloved Buffalo Bills. With their longtime friendship rooted in being proud members of Bills Mafia, the two clans have enjoyed cherished traditions that revolve around cheering for their favorite team – especially at the holidays when they celebrate the last home game before Christmas.",
+      "poster": "https://image.tmdb.org/t/p/w500/hpkykimE5Rx8nsDoB0skhycCTTH.jpg",
+      "releaseInfo": "2025-11-22"
+    },
+    {
       "id": "tmdb:1564232",
       "type": "movie",
       "name": "Sebastian Maniscalco: It Ain't Right",
@@ -761,6 +761,14 @@
       "releaseInfo": "2025-11-08"
     },
     {
+      "id": "tmdb:1293167",
+      "type": "movie",
+      "name": "Exit Protocol",
+      "description": "An assassin whose specialty is killing other assassins trying to get out of the business decides to try to get out himself and must then team up with his former mark to escape the hired killers now gunning for them both.",
+      "poster": "https://image.tmdb.org/t/p/w500/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+      "releaseInfo": "2025-11-07"
+    },
+    {
       "id": "tmdb:1287814",
       "type": "movie",
       "name": "Stone Cold Fox",
@@ -837,7 +845,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -894,6 +902,14 @@
       "name": "Violent Ends",
       "description": "Lucas Frost, an honest man brought up in a crime family whose only legacy is violence, tries to make his own life with his fiancée, Emma. He is suddenly pulled back into the family business he so despises when his cousin, Eli, perpetrates an armed robbery on a local scrap yard and an innocent life is caught in the crossfire.",
       "poster": "https://image.tmdb.org/t/p/w500/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg",
+      "releaseInfo": "2025-10-31"
+    },
+    {
+      "id": "tmdb:1101284",
+      "type": "movie",
+      "name": "The Wrecker",
+      "description": "A car mechanic's life takes an unexpected turn when his reckless brother makes a bad decision gaining the unwanted attention of a notorious crime boss.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg",
       "releaseInfo": "2025-10-31"
     },
     {
@@ -1303,6 +1319,14 @@
       "description": "Ben Stiller tells the story of his parents—comedy icons Jerry Stiller and Anne Meara—exploring their impact on popular culture and at home, where the lines between creativity, family, life, and art often blurred.",
       "poster": "https://image.tmdb.org/t/p/w500/zJuzuanxfc7D7Kqz4qYQqsDhRY3.jpg",
       "releaseInfo": "2025-10-05"
+    },
+    {
+      "id": "tmdb:1262815",
+      "type": "movie",
+      "name": "The Choral",
+      "description": "As World War I rages on, Dr. Henry Guthrie takes over a British choral society that's lost most of its men to the army. The community soon discovers that the best response to the chaos of war is to make beautiful music together.",
+      "poster": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+      "releaseInfo": "2025-10-04"
     },
     {
       "id": "tmdb:1287322",
@@ -2569,30 +2593,6 @@
       "releaseInfo": "2025-07-26"
     },
     {
-      "id": "tmdb:1362514",
-      "type": "movie",
-      "name": "House on Eden",
-      "description": "Paranormal investigators Kris, Celina and their videographer Jay are rerouted to an abandoned house deep in the woods, where they find themselves facing a force unlike anything they've encountered before. As the night spirals into chaos, missing crew members and eerie phenomena hint at an ancient, malevolent presence watching their every move.",
-      "poster": "https://image.tmdb.org/t/p/w500/2xVyCvnuVVRpYohPxrvwxZiH49r.jpg",
-      "releaseInfo": "2025-07-25"
-    },
-    {
-      "id": "tmdb:1241470",
-      "type": "movie",
-      "name": "Osiris",
-      "description": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
-      "releaseInfo": "2025-07-25"
-    },
-    {
-      "id": "tmdb:1263256",
-      "type": "movie",
-      "name": "Happy Gilmore 2",
-      "description": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
-      "poster": "https://image.tmdb.org/t/p/w500/nRwDPfYUzzzUQarfMxvPlasxzpL.jpg",
-      "releaseInfo": "2025-07-21"
-    },
-    {
       "id": "tmdb:1073109",
       "type": "movie",
       "name": "Push",
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767551064570
+  "ts": 1767577236783
 }
