@@ -837,7 +837,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/M1GRxNZp0bnzTm2jKJxryUqTeU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -949,7 +949,7 @@
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
       "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
-      "poster": "https://image.tmdb.org/t/p/w500/8zvoUllQnlxRb6Kac78agz3vZ6q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fwEnkXlnhPDVvxnof8T3WkB7xZE.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -1276,8 +1276,8 @@
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
-      "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
+      "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -1759,6 +1759,14 @@
       "description": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
       "poster": "https://image.tmdb.org/t/p/w500/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
       "releaseInfo": "2025-09-19"
+    },
+    {
+      "id": "tmdb:1315303",
+      "type": "movie",
+      "name": "Primate",
+      "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends barricade in pool, devising ways to survive the vicious chimp.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
+      "releaseInfo": "2025-09-18"
     },
     {
       "id": "tmdb:1541827",
@@ -2569,14 +2577,6 @@
       "releaseInfo": "2025-07-29"
     },
     {
-      "id": "tmdb:1106289",
-      "type": "movie",
-      "name": "The Pickup",
-      "description": "A routine cash pickup takes a wild turn when mismatched armored truck drivers Russell and Travis are ambushed by ruthless criminals led by savvy mastermind Zoe.",
-      "poster": "https://image.tmdb.org/t/p/w500/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
-      "releaseInfo": "2025-07-27"
-    },
-    {
       "id": "tmdb:1073109",
       "type": "movie",
       "name": "Push",
@@ -2585,5 +2585,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767680982135
+  "ts": 1767703102710
 }
