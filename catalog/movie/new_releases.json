@@ -153,14 +153,6 @@
       "releaseInfo": "2025-12-12"
     },
     {
-      "id": "tmdb:1476740",
-      "type": "movie",
-      "name": "Influencers",
-      "description": "In the picturesque landscapes of Southern France, a young woman's chilling fascination with murder and identity theft sends her life into a whirlwind of chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
       "id": "tmdb:1255775",
       "type": "movie",
       "name": "Merv",
@@ -845,7 +837,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/M1GRxNZp0bnzTm2jKJxryUqTeU.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -1285,7 +1277,7 @@
       "type": "movie",
       "name": "Marty Supreme",
       "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -1899,7 +1891,7 @@
     {
       "id": "tmdb:1543542",
       "type": "movie",
-      "name": "Valiente: Príbeh Trackera",
+      "name": "Valiente: A Tracker Story",
       "description": "Tracker and Carlos come across a series of nocturnal animals fleeing the Shadow Jungle. Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.",
       "poster": "https://image.tmdb.org/t/p/w500/zTMxurPWbgA2w0qkCs8OqN6whN6.jpg",
       "releaseInfo": "2025-09-08"
@@ -2085,7 +2077,7 @@
       "type": "movie",
       "name": "The Mastermind",
       "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
-      "poster": "https://image.tmdb.org/t/p/w500/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2585,14 +2577,6 @@
       "releaseInfo": "2025-07-27"
     },
     {
-      "id": "tmdb:1507440",
-      "type": "movie",
-      "name": "Before Your Father Finds Us",
-      "description": "Sophia and baby daughter, Emily, are forced to go into witness protection after she has to testify against her ex-husband Mason for his crimes. After years of living a seemingly normal life with new friends and relationships, Sophia learns that Mason has escaped from his maximum security prison. Knowing his strength and connections, Sophia is forced to reveal the truth to her now teenage daughter about who her father really is – and having to leave everything behind. Escaping to an old remote cabin in the woods together, Sophia and Emily must do everything it takes to survive Mason and his ruthless intent to make the family whole again.",
-      "poster": "https://image.tmdb.org/t/p/w500/hS3jhoam6XL3bTD9Mwrz6UOFLCl.jpg",
-      "releaseInfo": "2025-07-26"
-    },
-    {
       "id": "tmdb:1073109",
       "type": "movie",
       "name": "Push",
@@ -2601,5 +2585,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767637719489
+  "ts": 1767662590519
 }
