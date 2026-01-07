@@ -1805,7 +1805,7 @@
       "type": "movie",
       "name": "Mystery Island: House Rules",
       "description": "Mystery Island success raises plans of expansion, and the Island team meets their Mystery Mountain counterparts for a friendly murder game, but the fun ends with a murder in plain sight.",
-      "poster": "https://image.tmdb.org/t/p/w500/4y2a2UwrVnMtBEVawuKNEgrSAEh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/60ibx0fyvx5gKjN4cqmMA0iwOpB.jpg",
       "releaseInfo": "2025-09-14"
     },
     {
@@ -2261,7 +2261,7 @@
       "type": "movie",
       "name": "Primitive War",
       "description": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
-      "poster": "https://image.tmdb.org/t/p/w500/7eKt7FpNgSGCKnwyeOnlC7usf2V.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fZnY97zAyATRH50Q1I92fQy1hUg.jpg",
       "releaseInfo": "2025-08-21"
     },
     {
@@ -2293,7 +2293,7 @@
       "type": "movie",
       "name": "Mystery Island: Play for Keeps",
       "description": "Mystery Island hosts a corporate retreat with a guest being Emilia's ex-fiancé. Old feelings become complicated, tensions run high, and allegations arise when a guest is found dead.",
-      "poster": "https://image.tmdb.org/t/p/w500/1v07Z6n0EBhYYvvKyDQXN5hRGJE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xynf6bJILTN3UzLRBbKAklVf056.jpg",
       "releaseInfo": "2025-08-17"
     },
     {
@@ -2317,7 +2317,7 @@
       "type": "movie",
       "name": "Under Fire",
       "description": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
-      "poster": "https://image.tmdb.org/t/p/w500/3lEtjyUd3q7vPqpgEbcS9GT7HGm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
       "releaseInfo": "2025-08-15"
     },
     {
@@ -2422,14 +2422,6 @@
       "name": "Site",
       "description": "After a terrifying encounter at an abandoned government test site, a small town family man begins seeing haunting visions of a past that threatens to destroy his present.",
       "poster": "https://image.tmdb.org/t/p/w500/ynfYUQ2qIFtE2sd7YiN1XzaKOjt.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1031962",
-      "type": "movie",
-      "name": "What We Hide",
-      "description": "After their mother suffers a fatal overdose, two sisters fear being separated by the foster system and decide to hide her body. But when their lie risks being exposed, they must decide how far they’re willing to go to keep their secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/cQDHU06FsBqNv0r3n3Il3q8jPxY.jpg",
       "releaseInfo": "2025-08-08"
     },
     {
@@ -2585,5 +2577,5 @@
       "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767724010683
+  "ts": 1767749002633
 }
