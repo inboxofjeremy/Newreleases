@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1601082",
+      "type": "movie",
+      "name": "Cheetahs Up Close with Bertie Gregory",
+      "description": "Bertie arrives in the Serengeti as the spectacular wildebeest migration kicks off. He’s here to film the fastest land animal on Earth: the cheetah. As he gets close to a mother caring for her tiny cubs and a young group of males executing phenomenal hunts as a team, he learns about the unexpected challenges the species endures.",
+      "poster": "https://image.tmdb.org/t/p/w500/pSmSgFb1cnRQep0OzcuKWMYWeqR.jpg",
+      "releaseInfo": "2026-01-01"
+    },
+    {
       "id": "tmdb:1591516",
       "type": "movie",
       "name": "Evil Influencer: The Jodi Hildebrandt Story",
@@ -781,7 +789,7 @@
       "type": "movie",
       "name": "The Beldham",
       "description": "At the edge of postpartum psychosis, new mother Harper moves in with her own mother at their family's rural farmhouse. Soon she finds herself hunted by a threatening monster who has designs on her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/lFI5tremdnUNCANC0u27Ifedkyh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/suY2CNfGwq3kccMZuMA1sXAcNXm.jpg",
       "releaseInfo": "2025-11-07"
     },
     {
@@ -2567,15 +2575,7 @@
       "description": "Known for his laid-back Southern charm and razor-sharp wit, Slay is back following his successful 2024 debut Workin’ Man. If you love storytelling with a hilarious twist and a splash of retro flair, this one’s a must-watch.",
       "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
       "releaseInfo": "2025-07-29"
-    },
-    {
-      "id": "tmdb:1073109",
-      "type": "movie",
-      "name": "Push",
-      "description": "A pregnant realtor must survive a night of terror when a deranged client shows up at her open house.",
-      "poster": "https://image.tmdb.org/t/p/w500/7iFScmZOT5ViMMSVErO1cyE0IOA.jpg",
-      "releaseInfo": "2025-07-11"
     }
   ],
-  "ts": 1767810485274
+  "ts": 1767835439882
 }
