@@ -1945,14 +1945,6 @@
       "releaseInfo": "2025-09-05"
     },
     {
-      "id": "tmdb:849192",
-      "type": "movie",
-      "name": "Pools",
-      "description": "Kennedy has one day to get her shit together or get kicked out of school for good. Instead of buckling down, she rallies a ragtag crew for a midnight pool-hopping adventure through the lavish estates of her college town. But under the surface, Kennedy is searching for answers to the questions tearing her up inside in the wake of her father's death. As the secrets spill, this wild escape becomes a cathartic journey of self-discovery.",
-      "poster": "https://image.tmdb.org/t/p/w500/3yX8o4LT6TyrjoY2loTyziPuZys.jpg",
-      "releaseInfo": "2025-09-05"
-    },
-    {
       "id": "tmdb:1215798",
       "type": "movie",
       "name": "The Cut",
@@ -2206,6 +2198,14 @@
       "name": "Your Host",
       "description": "Four friends get trapped in a sadistic game show, forced to outwit a twisted serial killer while racing against time. Every move brings them closer to freedom or a gruesome fate.",
       "poster": "https://image.tmdb.org/t/p/w500/dYFqEwKglMtIEta4u1PJNl5rZUX.jpg",
+      "releaseInfo": "2025-08-22"
+    },
+    {
+      "id": "tmdb:849192",
+      "type": "movie",
+      "name": "Pools",
+      "description": "Kennedy has one day to get her shit together or get kicked out of school for good. Instead of buckling down, she rallies a ragtag crew for a midnight pool-hopping adventure through the lavish estates of her college town. But under the surface, Kennedy is searching for answers to the questions tearing her up inside in the wake of her father's death. As the secrets spill, this wild escape becomes a cathartic journey of self-discovery.",
+      "poster": "https://image.tmdb.org/t/p/w500/3yX8o4LT6TyrjoY2loTyziPuZys.jpg",
       "releaseInfo": "2025-08-22"
     },
     {
@@ -2577,5 +2577,5 @@
       "releaseInfo": "2025-07-29"
     }
   ],
-  "ts": 1767921841419
+  "ts": 1767940148549
 }
