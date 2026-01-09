@@ -773,7 +773,7 @@
       "type": "movie",
       "name": "Stone Cold Fox",
       "description": "In this '80s-set revenge story, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
-      "poster": "https://image.tmdb.org/t/p/w500/eNUe33LZ3jI2xZcLi7DhbUTBxtT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yGMuIDdcOTsfgKyHGEisIGQCbQC.jpg",
       "releaseInfo": "2025-11-07"
     },
     {
@@ -1773,7 +1773,7 @@
       "type": "movie",
       "name": "Primate",
       "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends barricade in pool, devising ways to survive the vicious chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
       "releaseInfo": "2025-09-18"
     },
     {
@@ -2337,6 +2337,14 @@
       "releaseInfo": "2025-08-14"
     },
     {
+      "id": "tmdb:1529665",
+      "type": "movie",
+      "name": "Dream",
+      "description": "Lisa is turning her hit song Dream into a cinematic moment, teaming up with actor Kentaro Sakaguchi.",
+      "poster": "https://image.tmdb.org/t/p/w500/47qnhgOKc1TJTr2Nq950tmcLvpU.jpg",
+      "releaseInfo": "2025-08-13"
+    },
+    {
       "id": "tmdb:1529346",
       "type": "movie",
       "name": "Krypto Saves the Day!: School Bus Scuffle",
@@ -2561,14 +2569,6 @@
       "releaseInfo": "2025-07-31"
     },
     {
-      "id": "tmdb:755898",
-      "type": "movie",
-      "name": "War of the Worlds",
-      "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "releaseInfo": "2025-07-30"
-    },
-    {
       "id": "tmdb:1507191",
       "type": "movie",
       "name": "Dusty Slay: Wet Heat",
@@ -2577,5 +2577,5 @@
       "releaseInfo": "2025-07-29"
     }
   ],
-  "ts": 1767896657516
+  "ts": 1767921841419
 }
