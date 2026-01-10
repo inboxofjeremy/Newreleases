@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:840464",
+      "type": "movie",
+      "name": "Greenland 2: Migration",
+      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
+      "id": "tmdb:1034716",
+      "type": "movie",
+      "name": "People We Meet on Vacation",
+      "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+      "poster": "https://image.tmdb.org/t/p/w500/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+      "releaseInfo": "2026-01-06"
+    },
+    {
       "id": "tmdb:1601082",
       "type": "movie",
       "name": "Cheetahs Up Close with Bertie Gregory",
@@ -225,6 +241,14 @@
       "releaseInfo": "2025-12-05"
     },
     {
+      "id": "tmdb:1379413",
+      "type": "movie",
+      "name": "Frontier Crucible",
+      "description": "In 1870s Arizona Territory, a desperately needed wagon full of medical supplies falls victim to an Apache attack. The only man who can guide it through is Merrick Beckford, but in order to get there, he’ll need to enlist the help of a trio of dangerous outlaws hellbent on survival. When they accidentally kill an Apache scout, all bets are off, and survival is the name of the game.",
+      "poster": "https://image.tmdb.org/t/p/w500/aRdbTNiklT1xsv6mk30ZXnkt0A1.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
       "id": "tmdb:1354518",
       "type": "movie",
       "name": "100 Nights of Hero",
@@ -247,6 +271,14 @@
       "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
       "poster": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1584780",
+      "type": "movie",
+      "name": "I'm Chevy Chase and You're Not",
+      "description": "From his Saturday Night Live beginnings to a string of classic comedies, Chevy Chase has always had huge comedic range. He is also a complex and contradictory human being. Featuring revealing interviews with those closest to him, this documentary digs into the talent, flaws, and humanity that shaped an icon.",
+      "poster": "https://image.tmdb.org/t/p/w500/gxPOVkbNQJX94M5wRznyxaV2Svy.jpg",
+      "releaseInfo": "2025-12-04"
     },
     {
       "id": "tmdb:1566269",
@@ -1337,6 +1369,14 @@
       "releaseInfo": "2025-10-04"
     },
     {
+      "id": "tmdb:1547024",
+      "type": "movie",
+      "name": "The Secrets We Bury",
+      "description": "Follow the eccentric Mike Carroll in this chilling family mystery as he sets out to find his long-lost father. What he uncovers along the way threatens to shake the very foundation of his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/aTDKgSCAuAcXbGfUbJ0wwRFOgFS.jpg",
+      "releaseInfo": "2025-10-04"
+    },
+    {
       "id": "tmdb:1465560",
       "type": "movie",
       "name": "Put Your Soul on Your Hand and Walk",
@@ -2369,14 +2409,6 @@
       "releaseInfo": "2025-08-13"
     },
     {
-      "id": "tmdb:13494",
-      "type": "movie",
-      "name": "Red Sonja",
-      "description": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
-      "poster": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
       "id": "tmdb:1512581",
       "type": "movie",
       "name": "No Tears in Hell",
@@ -2537,45 +2569,13 @@
       "releaseInfo": "2025-08-01"
     },
     {
-      "id": "tmdb:1307078",
-      "type": "movie",
-      "name": "My Oxford Year",
-      "description": "An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
-      "poster": "https://image.tmdb.org/t/p/w500/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
-      "releaseInfo": "2025-08-01"
-    },
-    {
-      "id": "tmdb:1196573",
-      "type": "movie",
-      "name": "She Rides Shotgun",
-      "description": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
-      "poster": "https://image.tmdb.org/t/p/w500/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
-      "releaseInfo": "2025-08-01"
-    },
-    {
-      "id": "tmdb:1035259",
-      "type": "movie",
-      "name": "The Naked Gun",
-      "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
-      "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
-      "releaseInfo": "2025-08-01"
-    },
-    {
       "id": "tmdb:1078605",
       "type": "movie",
       "name": "Weapons",
       "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
       "releaseInfo": "2025-07-31"
-    },
-    {
-      "id": "tmdb:1507191",
-      "type": "movie",
-      "name": "Dusty Slay: Wet Heat",
-      "description": "Known for his laid-back Southern charm and razor-sharp wit, Slay is back following his successful 2024 debut Workin’ Man. If you love storytelling with a hilarious twist and a splash of retro flair, this one’s a must-watch.",
-      "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
-      "releaseInfo": "2025-07-29"
     }
   ],
-  "ts": 1767983245228
+  "ts": 1768008088177
 }
