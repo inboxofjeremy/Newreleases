@@ -365,7 +365,7 @@
       "type": "movie",
       "name": "Fackham Hall",
       "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
-      "poster": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zE1Ylky4ktEy0DrXlrnua3eyRzV.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -724,7 +724,7 @@
       "id": "tmdb:1401318",
       "type": "movie",
       "name": "A Merry Little Ex-Mas",
-      "description": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
+      "description": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
       "poster": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
       "releaseInfo": "2025-11-12"
     },
@@ -989,7 +989,7 @@
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
       "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
-      "poster": "https://image.tmdb.org/t/p/w500/fwEnkXlnhPDVvxnof8T3WkB7xZE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nfn3KUIXqX2iW2eKnB8THzu8VEp.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -1812,8 +1812,8 @@
       "id": "tmdb:1315303",
       "type": "movie",
       "name": "Primate",
-      "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends barricade in pool, devising ways to survive the vicious chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+      "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
       "releaseInfo": "2025-09-18"
     },
     {
@@ -2380,7 +2380,7 @@
       "id": "tmdb:1529665",
       "type": "movie",
       "name": "Dream",
-      "description": "Lisa is turning her hit song Dream into a cinematic moment, teaming up with actor Kentaro Sakaguchi.",
+      "description": "Lisa is turning her hit song “Dream” into a cinematic moment, teaming up with actor Kentaro Sakaguchi. About a heartbreaking story of love, loss and memory following a grieving woman who revisits cherished moments with her late partner.",
       "poster": "https://image.tmdb.org/t/p/w500/47qnhgOKc1TJTr2Nq950tmcLvpU.jpg",
       "releaseInfo": "2025-08-13"
     },
@@ -2577,5 +2577,5 @@
       "releaseInfo": "2025-07-31"
     }
   ],
-  "ts": 1768026373817
+  "ts": 1768048441668
 }
