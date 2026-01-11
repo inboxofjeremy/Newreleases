@@ -787,7 +787,7 @@
     {
       "id": "tmdb:1358042",
       "type": "movie",
-      "name": "Scarlet Nose: The Prologue",
+      "name": "Scarlet Nose",
       "description": "In 1973, two teens come face to face with a brutal clown masked killer that has an unlikely weakness.",
       "poster": "https://image.tmdb.org/t/p/w500/410ozNcY2FelT9MhL5zDhe32GEl.jpg",
       "releaseInfo": "2025-11-08"
@@ -2577,5 +2577,5 @@
       "releaseInfo": "2025-07-31"
     }
   ],
-  "ts": 1768112885111
+  "ts": 1768134905487
 }
