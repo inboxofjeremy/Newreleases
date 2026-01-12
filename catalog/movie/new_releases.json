@@ -2037,7 +2037,7 @@
       "type": "movie",
       "name": "All the Empty Rooms",
       "description": "A journalist and a photographer set out to memorialize the bedrooms left behind by children killed in school shootings.",
-      "poster": "https://image.tmdb.org/t/p/w500/A2sXJBlf3QmzOlpx8J4qIxbq0W5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/38odJEJiluUBLI58tO6oTmv5wZl.jpg",
       "releaseInfo": "2025-08-31"
     },
     {
@@ -2553,22 +2553,6 @@
       "releaseInfo": "2025-08-01"
     },
     {
-      "id": "tmdb:1018852",
-      "type": "movie",
-      "name": "Queen of Bones",
-      "description": "Twin siblings seek answers about their mother's death and her connection to the supernatural while living on a remote homestead with their father in 1931 Oregon.",
-      "poster": "https://image.tmdb.org/t/p/w500/qJSSytlQAQuyXdQwZdaNNE5WAu1.jpg",
-      "releaseInfo": "2025-08-01"
-    },
-    {
-      "id": "tmdb:1503451",
-      "type": "movie",
-      "name": "Marc Maron: Panicked",
-      "description": "Comedian and podcaster Marc Maron offers up his nuanced perspective on our increasingly uncertain world.",
-      "poster": "https://image.tmdb.org/t/p/w500/lcJ3kraMdBjjTBZgAlM2f5V5Zep.jpg",
-      "releaseInfo": "2025-08-01"
-    },
-    {
       "id": "tmdb:1078605",
       "type": "movie",
       "name": "Weapons",
@@ -2577,5 +2561,5 @@
       "releaseInfo": "2025-07-31"
     }
   ],
-  "ts": 1768155901853
+  "ts": 1768181237592
 }
