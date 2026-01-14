@@ -17,6 +17,14 @@
       "releaseInfo": "2026-01-09"
     },
     {
+      "id": "tmdb:1599078",
+      "type": "movie",
+      "name": "Marcello Hernández: American Boy",
+      "description": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
+      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+      "releaseInfo": "2026-01-07"
+    },
+    {
       "id": "tmdb:1034716",
       "type": "movie",
       "name": "People We Meet on Vacation",
@@ -1021,7 +1029,7 @@
       "type": "movie",
       "name": "Not Without Hope",
       "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/evnbvmkoon2YTjlAodCwSmfU8Od.jpg",
       "releaseInfo": "2025-10-25"
     },
     {
@@ -1821,7 +1829,7 @@
       "type": "movie",
       "name": "Primate",
       "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
       "releaseInfo": "2025-09-18"
     },
     {
@@ -2108,7 +2116,7 @@
       "id": "tmdb:1287141",
       "type": "movie",
       "name": "Pillion",
-      "description": "Wallflower Colin leads a humdrum existence until he meets the impossibly handsome Ray, a mysterious biker he is soon desperately devoted to. As Colin submits to Ray and enters an exciting new world of desire, he must decide the limits of his devotion.",
+      "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
       "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
       "releaseInfo": "2025-08-29"
     },
@@ -2513,27 +2521,11 @@
       "releaseInfo": "2025-08-08"
     },
     {
-      "id": "tmdb:1125257",
-      "type": "movie",
-      "name": "Freakier Friday",
-      "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
       "description": "College student Deena visits her hometown and is roped into a babysitting gig. Meanwhile, the local sheriff, after receiving a piece of evidence in the mail, falls into an increasingly desperate scavenger hunt involving a series of murders.",
       "poster": "https://image.tmdb.org/t/p/w500/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg",
-      "releaseInfo": "2025-08-07"
-    },
-    {
-      "id": "tmdb:1244999",
-      "type": "movie",
-      "name": "Stans",
-      "description": "A revealing, edgy, and disarmingly personal journey into the world of superfandom, told through the lens of one of the world's most iconic and enduring artists, Eminem, and the fans that worship him.",
-      "poster": "https://image.tmdb.org/t/p/w500/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
       "releaseInfo": "2025-08-07"
     },
     {
@@ -2543,23 +2535,7 @@
       "description": "A pulse-pounding collection of five short films, each delivering a unique slice of suspense, obsession, and psychological terror-where every decision could be your last.",
       "poster": "https://image.tmdb.org/t/p/w500/vv8KtiBY59rQ5QiDGJVDSYQ2oOl.jpg",
       "releaseInfo": "2025-08-06"
-    },
-    {
-      "id": "tmdb:1319969",
-      "type": "movie",
-      "name": "Sketch",
-      "description": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
-      "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
-      "releaseInfo": "2025-08-06"
-    },
-    {
-      "id": "tmdb:1078605",
-      "type": "movie",
-      "name": "Weapons",
-      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-      "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "releaseInfo": "2025-07-31"
     }
   ],
-  "ts": 1768328870182
+  "ts": 1768354000929
 }
