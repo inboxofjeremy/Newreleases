@@ -385,6 +385,14 @@
       "releaseInfo": "2025-12-01"
     },
     {
+      "id": "tmdb:1558396",
+      "type": "movie",
+      "name": "American Sasquatch: Man, Myth or Monster",
+      "description": "American Sasquatch: Man, Myth, or Monster takes audiences on a groundbreaking investigation into one of the world's greatest mysteries. Created by former police detective and best-selling author of the Missing 411 series, Dave Paulides, the film combines cutting-edge science with gripping storytelling - from quantum physics and advanced DNA analysis to the insights of PhD researchers and respected institutions. With startling evidence that blurs the line between folklore and reality, viewers are invited to confront compelling facts that may forever change how we see the legendary hairy biped.",
+      "poster": "https://image.tmdb.org/t/p/w500/oCTU4hO9TT4SGJfDYqlzsyQoIln.jpg",
+      "releaseInfo": "2025-12-01"
+    },
+    {
       "id": "tmdb:1175174",
       "type": "movie",
       "name": "Fackham Hall",
@@ -1029,7 +1037,7 @@
       "type": "movie",
       "name": "Song Sung Blue",
       "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
       "releaseInfo": "2025-10-25"
     },
     {
@@ -1148,7 +1156,7 @@
       "id": "tmdb:1362315",
       "type": "movie",
       "name": "The Hand That Rocks the Cradle",
-      "description": "Suburban couple Caitlin and Miguel hire seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with singing lullabies...",
+      "description": "Suburban couple Caitlin and Miguel hire the seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with singing lullabies.",
       "poster": "https://image.tmdb.org/t/p/w500/uXqqFkLcMPORg3TsQbK4upozZXB.jpg",
       "releaseInfo": "2025-10-16"
     },
@@ -1225,6 +1233,14 @@
       "releaseInfo": "2025-10-11"
     },
     {
+      "id": "tmdb:1140498",
+      "type": "movie",
+      "name": "Is This Thing On?",
+      "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "releaseInfo": "2025-10-10"
+    },
+    {
       "id": "tmdb:524635",
       "type": "movie",
       "name": "The Chronology of Water",
@@ -1261,7 +1277,7 @@
       "type": "movie",
       "name": "Rental Family",
       "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
       "releaseInfo": "2025-10-09"
     },
     {
@@ -1477,7 +1493,7 @@
       "type": "movie",
       "name": "Dust Bunny",
       "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
-      "poster": "https://image.tmdb.org/t/p/w500/hoJcoJlGOM6C08TmGGlP7bhk8AN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
       "releaseInfo": "2025-09-30"
     },
     {
@@ -1620,7 +1636,7 @@
       "id": "tmdb:1242419",
       "type": "movie",
       "name": "Roofman",
-      "description": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+      "description": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname \"Roofman.\" After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
       "poster": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
       "releaseInfo": "2025-09-23"
     },
@@ -1957,7 +1973,7 @@
       "type": "movie",
       "name": "One Battle After Another",
       "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
       "releaseInfo": "2025-09-08"
     },
     {
@@ -2521,14 +2537,6 @@
       "releaseInfo": "2025-08-08"
     },
     {
-      "id": "tmdb:1280444",
-      "type": "movie",
-      "name": "The Occupant",
-      "description": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
-      "poster": "https://image.tmdb.org/t/p/w500/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2537,5 +2545,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768415349586
+  "ts": 1768440144657
 }
