@@ -381,7 +381,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dpM7UpTlRe3mgDF4lLkIdTYd0gs.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -1017,6 +1017,14 @@
       "releaseInfo": "2025-10-29"
     },
     {
+      "id": "tmdb:1371185",
+      "type": "movie",
+      "name": "Song Sung Blue",
+      "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+      "poster": "https://image.tmdb.org/t/p/w500/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
+      "releaseInfo": "2025-10-26"
+    },
+    {
       "id": "tmdb:1488195",
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
@@ -1031,14 +1039,6 @@
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
       "poster": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
       "releaseInfo": "2025-10-26"
-    },
-    {
-      "id": "tmdb:1371185",
-      "type": "movie",
-      "name": "Song Sung Blue",
-      "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
-      "releaseInfo": "2025-10-25"
     },
     {
       "id": "tmdb:339849",
@@ -2069,7 +2069,7 @@
       "type": "movie",
       "name": "Cover-Up",
       "description": "For the past six decades, Seymour Hersh has been at the front lines of political journalism in the U.S. This engaging documentary, released at a crucial moment for the freedom of the press, tells the wide-ranging story of this breakthrough reporter.",
-      "poster": "https://image.tmdb.org/t/p/w500/tez2piKTs1mi1X99RQVm78t8y9m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
       "releaseInfo": "2025-08-31"
     },
     {
@@ -2545,5 +2545,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768458536049
+  "ts": 1768480748592
 }
