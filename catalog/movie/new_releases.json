@@ -1,20 +1,20 @@
 {
   "metas": [
     {
-      "id": "tmdb:1306368",
-      "type": "movie",
-      "name": "The Rip",
-      "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-      "releaseInfo": "2026-01-16"
-    },
-    {
       "id": "tmdb:1272837",
       "type": "movie",
       "name": "28 Years Later: The Bone Temple",
       "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
       "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "releaseInfo": "2026-01-16"
+    },
+    {
+      "id": "tmdb:1306368",
+      "type": "movie",
+      "name": "The Rip",
+      "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
+      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "releaseInfo": "2026-01-13"
     },
     {
       "id": "tmdb:1584215",
@@ -2553,5 +2553,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768567080747
+  "ts": 1768588097175
 }
