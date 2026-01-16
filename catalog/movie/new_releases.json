@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1306368",
+      "type": "movie",
+      "name": "The Rip",
+      "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
+      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "releaseInfo": "2026-01-16"
+    },
+    {
       "id": "tmdb:1272837",
       "type": "movie",
       "name": "28 Years Later: The Bone Temple",
@@ -2165,7 +2173,7 @@
       "type": "movie",
       "name": "Hamnet",
       "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2537,14 +2545,6 @@
       "releaseInfo": "2025-08-08"
     },
     {
-      "id": "tmdb:985602",
-      "type": "movie",
-      "name": "My Mother's Wedding",
-      "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests.",
-      "poster": "https://image.tmdb.org/t/p/w500/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2553,5 +2553,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768544986476
+  "ts": 1768567080747
 }
