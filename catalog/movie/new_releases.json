@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1272837",
+      "type": "movie",
+      "name": "28 Years Later: The Bone Temple",
+      "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "releaseInfo": "2026-01-16"
+    },
+    {
       "id": "tmdb:1584215",
       "type": "movie",
       "name": "The Internship",
@@ -39,6 +47,14 @@
       "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
       "poster": "https://image.tmdb.org/t/p/w500/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
       "releaseInfo": "2026-01-06"
+    },
+    {
+      "id": "tmdb:1592021",
+      "type": "movie",
+      "name": "Lost in Paradise",
+      "description": "When the founder of a high-end fashion company gets marooned on an \"deserted\" island with a chef, romance blossoms as they work together to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
+      "releaseInfo": "2026-01-03"
     },
     {
       "id": "tmdb:1601082",
@@ -381,7 +397,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/dpM7UpTlRe3mgDF4lLkIdTYd0gs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -1021,7 +1037,7 @@
       "type": "movie",
       "name": "Song Sung Blue",
       "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -1245,7 +1261,7 @@
       "type": "movie",
       "name": "The Chronology of Water",
       "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/aqYIGdhDjWF1wKl2GTuRy1XtbkI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gGPmHWfBVaouU45cETvI2iWaa2q.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -2068,7 +2084,7 @@
       "id": "tmdb:1516391",
       "type": "movie",
       "name": "Cover-Up",
-      "description": "For the past six decades, Seymour Hersh has been at the front lines of political journalism in the U.S. This engaging documentary, released at a crucial moment for the freedom of the press, tells the wide-ranging story of this breakthrough reporter.",
+      "description": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
       "poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
       "releaseInfo": "2025-08-31"
     },
@@ -2129,12 +2145,12 @@
       "releaseInfo": "2025-08-30"
     },
     {
-      "id": "tmdb:858024",
+      "id": "tmdb:1506387",
       "type": "movie",
-      "name": "Hamnet",
-      "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "releaseInfo": "2025-08-29"
+      "name": "Catch of the Day",
+      "description": "Sophie is a rising culinary star on the verge of becoming executive chef at a high-end Manhattan restaurant. But when her sister Abigail calls with news that their beloved family seafood spot in Montauk is floundering, Sophie returns home to help. What was meant to be a short visit turns into a journey of rediscovery, of her roots, her passion for cooking, and a surprising second chance at love with her teenage crush, Cam, a local fisherman whose quiet strength and charm leave Sophie rethinking everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/sgP1jr8RTwnRcRG60qhDOvQp9J1.jpg",
+      "releaseInfo": "2025-08-30"
     },
     {
       "id": "tmdb:1287141",
@@ -2142,6 +2158,14 @@
       "name": "Pillion",
       "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
       "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "releaseInfo": "2025-08-29"
+    },
+    {
+      "id": "tmdb:858024",
+      "type": "movie",
+      "name": "Hamnet",
+      "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2409,14 +2433,6 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1511556",
-      "type": "movie",
-      "name": "Under Fire",
-      "description": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
-      "poster": "https://image.tmdb.org/t/p/w500/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
-      "releaseInfo": "2025-08-15"
-    },
-    {
       "id": "tmdb:1484453",
       "type": "movie",
       "name": "Snoopy Presents: A Summer Musical",
@@ -2529,14 +2545,6 @@
       "releaseInfo": "2025-08-08"
     },
     {
-      "id": "tmdb:1513598",
-      "type": "movie",
-      "name": "Stolen: Heist of the Century",
-      "description": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
-      "poster": "https://image.tmdb.org/t/p/w500/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2545,5 +2553,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768501937964
+  "ts": 1768526665565
 }
