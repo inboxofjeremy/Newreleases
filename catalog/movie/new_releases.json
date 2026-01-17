@@ -9,19 +9,19 @@
       "releaseInfo": "2026-01-16"
     },
     {
-      "id": "tmdb:1306368",
-      "type": "movie",
-      "name": "The Rip",
-      "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
       "id": "tmdb:1584215",
       "type": "movie",
       "name": "The Internship",
       "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
       "poster": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+      "releaseInfo": "2026-01-13"
+    },
+    {
+      "id": "tmdb:1306368",
+      "type": "movie",
+      "name": "The Rip",
+      "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
       "releaseInfo": "2026-01-13"
     },
     {
@@ -31,6 +31,14 @@
       "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
       "poster": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
       "releaseInfo": "2026-01-12"
+    },
+    {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:840464",
@@ -557,7 +565,7 @@
       "type": "movie",
       "name": "Wildcat",
       "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tZst3WyMhbpfwC9kjuuKojAY7iJ.jpg",
       "releaseInfo": "2025-11-25"
     },
     {
@@ -933,7 +941,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -2553,5 +2561,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768588097175
+  "ts": 1768612836733
 }
