@@ -4,7 +4,7 @@
       "id": "tmdb:1412598",
       "type": "movie",
       "name": "Killer Whale",
-      "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against the ocean’s top apex predator: the orca. With a dark cloud of the past hanging over them and their clashing personalities, will they make it out alive or become a part of the food chain?",
+      "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
       "poster": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
       "releaseInfo": "2026-01-16"
     },
@@ -437,7 +437,7 @@
       "type": "movie",
       "name": "Fackham Hall",
       "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
-      "poster": "https://image.tmdb.org/t/p/w500/zE1Ylky4ktEy0DrXlrnua3eyRzV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ppIoWfwei623fxCtKFRfXwXUjZx.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -1293,7 +1293,7 @@
       "type": "movie",
       "name": "The Chronology of Water",
       "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/gGPmHWfBVaouU45cETvI2iWaa2q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sNRz8yrITUqTj4unz985rHRflm.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -2569,5 +2569,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768717634052
+  "ts": 1768739644195
 }
