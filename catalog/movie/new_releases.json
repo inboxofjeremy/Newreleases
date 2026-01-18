@@ -513,6 +513,14 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1330400",
+      "type": "movie",
+      "name": "Stone Creek Killer",
+      "description": "A small-town police chief pursues a serial killer, helped by a psychic's visions, while fighting to prove his own innocence.",
+      "poster": "https://image.tmdb.org/t/p/w500/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
       "id": "tmdb:1507275",
       "type": "movie",
       "name": "A Paw Patrol Christmas",
@@ -1305,6 +1313,14 @@
       "releaseInfo": "2025-10-10"
     },
     {
+      "id": "tmdb:1547557",
+      "type": "movie",
+      "name": "Frankie Quiñones: Damn That's Crazy",
+      "description": "Frankie Quiñones hits the stage to unpack love, addiction, and the high-stakes politics of the family carne asada.",
+      "poster": "https://image.tmdb.org/t/p/w500/hIBa7YtOzxgLZ3A22L1pgwaphpB.jpg",
+      "releaseInfo": "2025-10-10"
+    },
+    {
       "id": "tmdb:1290879",
       "type": "movie",
       "name": "The Woman in Cabin 10",
@@ -1519,6 +1535,14 @@
       "description": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
       "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
       "releaseInfo": "2025-10-03"
+    },
+    {
+      "id": "tmdb:1552050",
+      "type": "movie",
+      "name": "The Hem",
+      "description": "A documentary crew investigates a haunted church on the verge of collapse with one condition: they must be out by dark.",
+      "poster": "https://image.tmdb.org/t/p/w500/ekPR9836hklELxE07k4LiWI5pTj.jpg",
+      "releaseInfo": "2025-10-01"
     },
     {
       "id": "tmdb:941109",
@@ -2181,7 +2205,7 @@
       "type": "movie",
       "name": "Pillion",
       "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
-      "poster": "https://image.tmdb.org/t/p/w500/pp874TYSlt7cuDw3aCoVR4fBSjc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2537,22 +2561,6 @@
       "releaseInfo": "2025-08-08"
     },
     {
-      "id": "tmdb:1319895",
-      "type": "movie",
-      "name": "Hostile Takeover",
-      "description": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
-      "poster": "https://image.tmdb.org/t/p/w500/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1236204",
-      "type": "movie",
-      "name": "Birthrite",
-      "description": "When a pregnant woman is bequeathed a home from an estranged aunt, she and her girlfriend leave the city behind to begin new chapter. But when a karmic debt threatens the life of their unborn child, they soon discover their place in the cursed history of the town.",
-      "poster": "https://image.tmdb.org/t/p/w500/4ozeV62H7CGWprsCrif2lax8dHO.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2561,5 +2569,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768674263233
+  "ts": 1768700354511
 }
