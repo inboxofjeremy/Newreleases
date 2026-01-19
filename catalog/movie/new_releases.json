@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Killer Whale",
       "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
-      "poster": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
       "releaseInfo": "2026-01-16"
     },
     {
@@ -14,6 +14,14 @@
       "name": "28 Years Later: The Bone Temple",
       "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
       "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "releaseInfo": "2026-01-16"
+    },
+    {
+      "id": "tmdb:1454741",
+      "type": "movie",
+      "name": "The Confession",
+      "description": "A woman finds her late father’s tape confessing to murder tied to an evil force—now her son shows the same darkness, and she must fight to stop it.",
+      "poster": "https://image.tmdb.org/t/p/w500/xJCwYlJX6UfYQuUmLfWWcRP27gK.jpg",
       "releaseInfo": "2026-01-16"
     },
     {
@@ -183,6 +191,14 @@
       "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
       "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
       "releaseInfo": "2025-12-17"
+    },
+    {
+      "id": "tmdb:1589905",
+      "type": "movie",
+      "name": "Robby Hoffman: Wake Up",
+      "description": "Breakout star Robby Hoffman hilariously pushes the limits of comedy with red-hot, controversial takes in her debut special.",
+      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
+      "releaseInfo": "2025-12-14"
     },
     {
       "id": "tmdb:1549234",
@@ -421,7 +437,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -565,7 +581,7 @@
       "type": "movie",
       "name": "Sidelined 2: Intercepted",
       "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
-      "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hfjzw57NlPqiuAEw6zB1WbTRBfE.jpg",
       "releaseInfo": "2025-11-27"
     },
     {
@@ -957,7 +973,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -1333,7 +1349,7 @@
       "type": "movie",
       "name": "Rental Family",
       "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
       "releaseInfo": "2025-10-09"
     },
     {
@@ -1398,14 +1414,6 @@
       "name": "Ozzy: No Escape from Now",
       "description": "Ozzy Osbourne faces his identity and mortality after his world stops. Dealing with health issues and Parkinson's, he questions if he can perform again while music remains his life's cornerstone.",
       "poster": "https://image.tmdb.org/t/p/w500/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-      "releaseInfo": "2025-10-07"
-    },
-    {
-      "id": "tmdb:1464773",
-      "type": "movie",
-      "name": "Borley Rectory: The Awakening",
-      "description": "In 1900, young Reverend Henry Bull and his sister, Kitty, are tasked with taking over the duties of their family home in Essex, a majestic Victorian mansion built on the site of an old monastery. Unaware of the sinister forces that lurk within, the pair are soon confronted by terrifying paranormal activities that threaten their loved ones. Desperate to protect themselves from the demonic intrusion, they call upon the services of a trusted family friend to investigate the origins of the vengeful ghosts which haunt their property. But these are spirits who will not rest, and Borley Rectory is doomed to gain a chilling reputation, as the most haunted house in all of Britain.",
-      "poster": "https://image.tmdb.org/t/p/w500/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
       "releaseInfo": "2025-10-07"
     },
     {
@@ -1935,6 +1943,14 @@
       "description": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
       "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
       "releaseInfo": "2025-09-17"
+    },
+    {
+      "id": "tmdb:1257778",
+      "type": "movie",
+      "name": "Just Breathe",
+      "description": "Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new admirer named Chester... who also happens to be his parole officer.",
+      "poster": "https://image.tmdb.org/t/p/w500/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg",
+      "releaseInfo": "2025-09-16"
     },
     {
       "id": "tmdb:1535385",
@@ -2569,5 +2585,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768760634607
+  "ts": 1768786077793
 }
