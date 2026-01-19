@@ -501,7 +501,7 @@
       "type": "movie",
       "name": "Lost Horizon",
       "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/sBeKHgOtjDRNMHeF9oMR8gpx3k8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3aVtinQB92nHk5g716RaRBNd3GX.jpg",
       "releaseInfo": "2025-11-28"
     },
     {
@@ -1309,7 +1309,7 @@
       "type": "movie",
       "name": "The Chronology of Water",
       "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/sNRz8yrITUqTj4unz985rHRflm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/svXtfYsdbI3towdCdLgU0o0DylX.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -1349,7 +1349,7 @@
       "type": "movie",
       "name": "Rental Family",
       "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
       "releaseInfo": "2025-10-09"
     },
     {
@@ -2220,7 +2220,7 @@
       "id": "tmdb:1287141",
       "type": "movie",
       "name": "Pillion",
-      "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
+      "description": "Colin, a timid man is swept off his feet when Ray, an enigmatic, impossibly handsome biker takes him on as his submissive.",
       "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
       "releaseInfo": "2025-08-29"
     },
@@ -2585,5 +2585,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768804427223
+  "ts": 1768826539127
 }
