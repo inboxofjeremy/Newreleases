@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1236153",
+      "type": "movie",
+      "name": "Mercy",
+      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "releaseInfo": "2026-01-19"
+    },
+    {
       "id": "tmdb:1412598",
       "type": "movie",
       "name": "Killer Whale",
@@ -1101,7 +1109,7 @@
       "type": "movie",
       "name": "The SpongeBob Movie: Search for SquarePants",
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -1597,7 +1605,7 @@
       "type": "movie",
       "name": "Anemone",
       "description": "Middle-aged Jem sets out from his suburban home on a journey into the woods, where he reconnects with his estranged hermit brother Ray. Bonded by a mysterious, complicated past, the men share a fraught, if occasionally tender relationship—one that was forever altered by shattering events decades earlier.",
-      "poster": "https://image.tmdb.org/t/p/w500/kXFHVJqZkWtkSRlLpv2clN8KP6E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg",
       "releaseInfo": "2025-09-28"
     },
     {
@@ -1719,6 +1727,14 @@
       "description": "Cristela seeks joy through various experiences - outdoing her old bully, overdoing spa treatments, and taking her first family vacation - while teaching everyone to embrace life's pleasures.",
       "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
       "releaseInfo": "2025-09-23"
+    },
+    {
+      "id": "tmdb:1370814",
+      "type": "movie",
+      "name": "The Plague",
+      "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
+      "poster": "https://image.tmdb.org/t/p/w500/s5oNGHGZLE1pIhspvOoTD8IQjAp.jpg",
+      "releaseInfo": "2025-09-21"
     },
     {
       "id": "tmdb:801937",
@@ -1956,7 +1972,7 @@
       "id": "tmdb:1535385",
       "type": "movie",
       "name": "Rebel Royals: An Unlikely Love Story",
-      "description": "Go behind the scenes of Märtha Louise and Shaman Durek Verrett's relationship in the lead-up to their divisive wedding in Norway.",
+      "description": "This exclusive documentary goes behind the scenes with Märtha Louise and Shaman Durek Verrett in the lead-up to their divisive wedding in Norway.",
       "poster": "https://image.tmdb.org/t/p/w500/7vIkk6WNThpI89dyJMZ8IFrIz7n.jpg",
       "releaseInfo": "2025-09-16"
     },
@@ -2545,14 +2561,6 @@
       "releaseInfo": "2025-08-12"
     },
     {
-      "id": "tmdb:1517042",
-      "type": "movie",
-      "name": "Jim Jefferies: Two Limb Policy",
-      "description": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
-      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
-      "releaseInfo": "2025-08-12"
-    },
-    {
       "id": "tmdb:1242434",
       "type": "movie",
       "name": "Highest 2 Lowest",
@@ -2569,14 +2577,6 @@
       "releaseInfo": "2025-08-11"
     },
     {
-      "id": "tmdb:1514364",
-      "type": "movie",
-      "name": "Kill Me Again",
-      "description": "Charlie, a notorious serial killer known as the Midnight Mangler finds himself trapped, reliving the same violent night over and over. Initially embracing his grisly urges, Charlie soon becomes desperate to escape the endless nightmare.",
-      "poster": "https://image.tmdb.org/t/p/w500/tPUC1q4zfxxoAPvz9ssF5QQ0sYk.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2585,5 +2585,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1768933885898
+  "ts": 1768958773707
 }
