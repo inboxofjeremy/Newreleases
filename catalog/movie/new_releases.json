@@ -1,10 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:1595481",
+      "type": "movie",
+      "name": "Kidnapped: Elizabeth Smart",
+      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
+      "releaseInfo": "2026-01-21"
+    },
+    {
       "id": "tmdb:1236153",
       "type": "movie",
       "name": "Mercy",
-      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
       "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-01-19"
     },
@@ -1740,7 +1748,7 @@
       "id": "tmdb:801937",
       "type": "movie",
       "name": "Silent Night, Deadly Night",
-      "description": "After witnessing his parents’ brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+      "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
       "poster": "https://image.tmdb.org/t/p/w500/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
       "releaseInfo": "2025-09-21"
     },
@@ -2585,5 +2593,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769063408490
+  "ts": 1769085711982
 }
