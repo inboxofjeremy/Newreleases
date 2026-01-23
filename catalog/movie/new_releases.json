@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:680493",
+      "type": "movie",
+      "name": "Return to Silent Hill",
+      "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+      "releaseInfo": "2026-01-23"
+    },
+    {
       "id": "tmdb:1595481",
       "type": "movie",
       "name": "Kidnapped: Elizabeth Smart",
@@ -1177,6 +1185,14 @@
       "releaseInfo": "2025-10-19"
     },
     {
+      "id": "tmdb:1263012",
+      "type": "movie",
+      "name": "Dead Man's Wire",
+      "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
+      "poster": "https://image.tmdb.org/t/p/w500/71FPde8V7DbnAHgUZfwrpxPOFG6.jpg",
+      "releaseInfo": "2025-10-18"
+    },
+    {
       "id": "tmdb:1214931",
       "type": "movie",
       "name": "Nuremberg",
@@ -1533,7 +1549,7 @@
       "type": "movie",
       "name": "Scurry",
       "description": "Two strangers find themselves trapped underground when the city is attacked by a monstrous threat. Badly injured with limited resources they must navigate a treacherous, narrowing tunnel in hopes of finding an exit.",
-      "poster": "https://image.tmdb.org/t/p/w500/tu7M6zojJPtgPUXnTcN9eBoWxOh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1fFM39XbhBPOlrhkIEKSsld1Ts9.jpg",
       "releaseInfo": "2025-10-03"
     },
     {
@@ -1607,6 +1623,14 @@
       "description": "From unpacking celebrity scandals to hot takes on love, legendary comic Earthquake shakes things up in this explosive stand-up set.",
       "poster": "https://image.tmdb.org/t/p/w500/l3jVHS7xjeSbC69DFc0EQwWMJHs.jpg",
       "releaseInfo": "2025-09-30"
+    },
+    {
+      "id": "tmdb:1401281",
+      "type": "movie",
+      "name": "The Testament of Ann Lee",
+      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers.",
+      "poster": "https://image.tmdb.org/t/p/w500/hU1frHnDwJQ3YDERVppxTLvHjc7.jpg",
+      "releaseInfo": "2025-09-29"
     },
     {
       "id": "tmdb:1364608",
@@ -2545,22 +2569,6 @@
       "releaseInfo": "2025-08-13"
     },
     {
-      "id": "tmdb:1504382",
-      "type": "movie",
-      "name": "Sweet Revenge",
-      "description": "A group of friends staying at the Cabins at Crystal Lake find themselves stalked by a masked killer.",
-      "poster": "https://image.tmdb.org/t/p/w500/us8m2EhaFBbqGnSAOZvfwQM0EtH.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
-      "id": "tmdb:537921",
-      "type": "movie",
-      "name": "Fixed",
-      "description": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
-      "poster": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
       "id": "tmdb:1512581",
       "type": "movie",
       "name": "No Tears in Hell",
@@ -2577,14 +2585,6 @@
       "releaseInfo": "2025-08-11"
     },
     {
-      "id": "tmdb:1007734",
-      "type": "movie",
-      "name": "Nobody 2",
-      "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
-      "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
-      "releaseInfo": "2025-08-11"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2593,5 +2593,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769149822127
+  "ts": 1769172006207
 }
