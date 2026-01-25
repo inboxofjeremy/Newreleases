@@ -9,6 +9,14 @@
       "releaseInfo": "2026-01-23"
     },
     {
+      "id": "tmdb:1198994",
+      "type": "movie",
+      "name": "Send Help",
+      "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+      "releaseInfo": "2026-01-21"
+    },
+    {
       "id": "tmdb:1595481",
       "type": "movie",
       "name": "Kidnapped: Elizabeth Smart",
@@ -1468,7 +1476,7 @@
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
-      "description": ".................",
+      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
       "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
@@ -1533,7 +1541,7 @@
       "type": "movie",
       "name": "Put Your Soul on Your Hand and Walk",
       "description": "An Iranian filmmaker participates in a series of video calls with a young Palestinian photojournalist who describes her life confined in Gaza during the current regional conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/vrEDz3kBG6AZKF3aiaQJB0Qgp8a.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kvX6kJY22996t8Jrvnw0N409qAu.jpg",
       "releaseInfo": "2025-10-04"
     },
     {
@@ -2577,14 +2585,6 @@
       "releaseInfo": "2025-08-12"
     },
     {
-      "id": "tmdb:1242434",
-      "type": "movie",
-      "name": "Highest 2 Lowest",
-      "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
-      "poster": "https://image.tmdb.org/t/p/w500/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
-      "releaseInfo": "2025-08-11"
-    },
-    {
       "id": "tmdb:1502943",
       "type": "movie",
       "name": "Night of the Reaper",
@@ -2593,5 +2593,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769322451217
+  "ts": 1769344587252
 }
