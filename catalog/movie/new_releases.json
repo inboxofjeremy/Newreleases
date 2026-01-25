@@ -81,6 +81,14 @@
       "releaseInfo": "2026-01-09"
     },
     {
+      "id": "tmdb:1432306",
+      "type": "movie",
+      "name": "Sleepwalker",
+      "description": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+      "poster": "https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
       "id": "tmdb:840464",
       "type": "movie",
       "name": "Greenland 2: Migration",
@@ -345,6 +353,14 @@
       "releaseInfo": "2025-12-05"
     },
     {
+      "id": "tmdb:1418715",
+      "type": "movie",
+      "name": "Horror in the High Desert 4: Majesty",
+      "description": "On a desolate Nevada ranch, a woman uncovers a long-buried box. What's inside begins to expose a terrifying history she was never meant to find.",
+      "poster": "https://image.tmdb.org/t/p/w500/eVIaFNB8W8YYGAwBfLhTO8r75Dc.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
       "id": "tmdb:1379413",
       "type": "movie",
       "name": "Frontier Crucible",
@@ -461,7 +477,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -525,7 +541,7 @@
       "type": "movie",
       "name": "Lost Horizon",
       "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/3aVtinQB92nHk5g716RaRBNd3GX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iPbMpXGTUhk39asHVye7VkBIdOz.jpg",
       "releaseInfo": "2025-11-28"
     },
     {
@@ -1452,7 +1468,7 @@
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
-      "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
+      "description": ".................",
       "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "releaseInfo": "2025-10-06"
     },
@@ -2433,6 +2449,14 @@
       "releaseInfo": "2025-08-22"
     },
     {
+      "id": "tmdb:1499984",
+      "type": "movie",
+      "name": "Gladiator Underground",
+      "description": "Two brothers compete in the world's deadliest underground fighting tournament, where they must decide whether to play by the rules or to cast their honor aside and team up to bring down the dark syndicate running the tournament.",
+      "poster": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+      "releaseInfo": "2025-08-22"
+    },
+    {
       "id": "tmdb:1244953",
       "type": "movie",
       "name": "Trust",
@@ -2537,36 +2561,12 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1107325",
-      "type": "movie",
-      "name": "Witchboard",
-      "description": "A cursed Witchboard awakens dark forces, dragging a young couple into a deadly game of possession, deception, and supernatural terror in New Orleans.",
-      "poster": "https://image.tmdb.org/t/p/w500/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg",
-      "releaseInfo": "2025-08-15"
-    },
-    {
       "id": "tmdb:1484453",
       "type": "movie",
       "name": "Snoopy Presents: A Summer Musical",
       "description": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
       "poster": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
       "releaseInfo": "2025-08-14"
-    },
-    {
-      "id": "tmdb:1529665",
-      "type": "movie",
-      "name": "Dream",
-      "description": "Lisa is turning her hit song “Dream” into a cinematic moment, teaming up with actor Kentaro Sakaguchi. About a heartbreaking story of love, loss and memory following a grieving woman who revisits cherished moments with her late partner.",
-      "poster": "https://image.tmdb.org/t/p/w500/47qnhgOKc1TJTr2Nq950tmcLvpU.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
-      "id": "tmdb:1529346",
-      "type": "movie",
-      "name": "Krypto Saves the Day!: School Bus Scuffle",
-      "description": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school",
-      "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
-      "releaseInfo": "2025-08-13"
     },
     {
       "id": "tmdb:1512581",
@@ -2593,5 +2593,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769279131773
+  "ts": 1769305304777
 }
