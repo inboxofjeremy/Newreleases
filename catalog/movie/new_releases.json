@@ -453,7 +453,7 @@
       "type": "movie",
       "name": "The Housemaid",
       "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/qwc6wH49pDytMsYGtcaVM1haYIr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -1141,7 +1141,7 @@
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
       "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
-      "poster": "https://image.tmdb.org/t/p/w500/nfn3KUIXqX2iW2eKnB8THzu8VEp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/8zvoUllQnlxRb6Kac78agz3vZ6q.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -2297,6 +2297,14 @@
       "releaseInfo": "2025-08-29"
     },
     {
+      "id": "tmdb:1243006",
+      "type": "movie",
+      "name": "H Is for Hawk",
+      "description": "After losing her beloved father, Helen finds herself saved by an unlikely friendship with a stubborn hawk named Mabel. Through the bond, Helen rediscovers the beauty of being alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/brjbQSdxvXfXDLSRA26NH2Qa5gP.jpg",
+      "releaseInfo": "2025-08-29"
+    },
+    {
       "id": "tmdb:858024",
       "type": "movie",
       "name": "Hamnet",
@@ -2577,14 +2585,6 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1484453",
-      "type": "movie",
-      "name": "Snoopy Presents: A Summer Musical",
-      "description": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
-      "poster": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
-      "releaseInfo": "2025-08-14"
-    },
-    {
       "id": "tmdb:1512581",
       "type": "movie",
       "name": "No Tears in Hell",
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769452216515
+  "ts": 1769477964514
 }
