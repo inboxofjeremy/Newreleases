@@ -13,7 +13,7 @@
       "type": "movie",
       "name": "Send Help",
       "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bCWAqx070MFaTJycvE6G5StRtYM.jpg",
       "releaseInfo": "2026-01-21"
     },
     {
@@ -2245,7 +2245,7 @@
       "type": "movie",
       "name": "Bugonia",
       "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
       "releaseInfo": "2025-08-30"
     },
     {
@@ -2601,5 +2601,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769495431694
+  "ts": 1769517688489
 }
