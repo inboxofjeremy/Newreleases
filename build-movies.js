@@ -89,6 +89,7 @@ async function fetchMovies() {
       `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${DATE_FROM}` +
       `&primary_release_date.lte=${DATE_TO}` +
+      `&without_genres=27` + // 👈 REMOVES HORROR MOVIES
       `&page=${page}`;
 
     const j = await fetchJSON(url);
