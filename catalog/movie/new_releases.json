@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1168190",
+      "type": "movie",
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
+    },
+    {
       "id": "tmdb:1599090",
       "type": "movie",
       "name": "Skyscraper Live",
@@ -9,20 +17,12 @@
       "releaseInfo": "2026-01-24"
     },
     {
-      "id": "tmdb:680493",
+      "id": "tmdb:1538718",
       "type": "movie",
-      "name": "Return to Silent Hill",
-      "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-      "releaseInfo": "2026-01-23"
-    },
-    {
-      "id": "tmdb:1198994",
-      "type": "movie",
-      "name": "Send Help",
-      "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
-      "releaseInfo": "2026-01-21"
+      "name": "Disneyland Handcrafted",
+      "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
+      "releaseInfo": "2026-01-22"
     },
     {
       "id": "tmdb:1595481",
@@ -37,32 +37,8 @@
       "type": "movie",
       "name": "Mercy",
       "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
       "releaseInfo": "2026-01-19"
-    },
-    {
-      "id": "tmdb:1412598",
-      "type": "movie",
-      "name": "Killer Whale",
-      "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
-      "poster": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
-      "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tmdb:1272837",
-      "type": "movie",
-      "name": "28 Years Later: The Bone Temple",
-      "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-      "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tmdb:1454741",
-      "type": "movie",
-      "name": "The Confession",
-      "description": "A woman finds her late father’s tape confessing to murder tied to an evil force—now her son shows the same darkness, and she must fight to stop it.",
-      "poster": "https://image.tmdb.org/t/p/w500/xJCwYlJX6UfYQuUmLfWWcRP27gK.jpg",
-      "releaseInfo": "2026-01-16"
     },
     {
       "id": "tmdb:1584215",
@@ -94,14 +70,6 @@
       "name": "Oscar Shaw",
       "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
       "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "releaseInfo": "2026-01-09"
-    },
-    {
-      "id": "tmdb:1432306",
-      "type": "movie",
-      "name": "Sleepwalker",
-      "description": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-      "poster": "https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg",
       "releaseInfo": "2026-01-09"
     },
     {
@@ -257,14 +225,6 @@
       "releaseInfo": "2025-12-14"
     },
     {
-      "id": "tmdb:1234731",
-      "type": "movie",
-      "name": "Anaconda",
-      "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "poster": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
-      "releaseInfo": "2025-12-13"
-    },
-    {
       "id": "tmdb:1547925",
       "type": "movie",
       "name": "A Suite Holiday Romance",
@@ -369,14 +329,6 @@
       "releaseInfo": "2025-12-05"
     },
     {
-      "id": "tmdb:1418715",
-      "type": "movie",
-      "name": "Horror in the High Desert 4: Majesty",
-      "description": "On a desolate Nevada ranch, a woman uncovers a long-buried box. What's inside begins to expose a terrifying history she was never meant to find.",
-      "poster": "https://image.tmdb.org/t/p/w500/eVIaFNB8W8YYGAwBfLhTO8r75Dc.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
       "id": "tmdb:1379413",
       "type": "movie",
       "name": "Frontier Crucible",
@@ -465,27 +417,11 @@
       "releaseInfo": "2025-12-02"
     },
     {
-      "id": "tmdb:1228246",
-      "type": "movie",
-      "name": "Five Nights at Freddy's 2",
-      "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-      "releaseInfo": "2025-12-02"
-    },
-    {
       "id": "tmdb:1581729",
       "type": "movie",
       "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
       "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
       "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
-      "releaseInfo": "2025-12-02"
-    },
-    {
-      "id": "tmdb:1376237",
-      "type": "movie",
-      "name": "Savage Hunt",
-      "description": "A vengeful tracker is brought in to hunt down a large grizzly bear that starts attacking humans once a new Montana resort begins being built.",
-      "poster": "https://image.tmdb.org/t/p/w500/iEFIrODvGMUPZormfFTfN0n8siI.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -833,36 +769,12 @@
       "releaseInfo": "2025-11-14"
     },
     {
-      "id": "tmdb:1286185",
-      "type": "movie",
-      "name": "The Carpenter's Son",
-      "description": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
-      "releaseInfo": "2025-11-14"
-    },
-    {
-      "id": "tmdb:1288072",
-      "type": "movie",
-      "name": "Keeper",
-      "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated and in the presence of an unspeakable evil that reveals the cabin's horrifying secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
-      "releaseInfo": "2025-11-14"
-    },
-    {
       "id": "tmdb:798645",
       "type": "movie",
       "name": "The Running Man",
       "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
       "poster": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
       "releaseInfo": "2025-11-14"
-    },
-    {
-      "id": "tmdb:1127839",
-      "type": "movie",
-      "name": "Raptus",
-      "description": "After surviving a brutal assault, Sarah orders a new form of experimental android therapy called Raptus. But instead of helping her reclaim her mind, her new companion's controls will be pushed to the limit, putting her in extreme danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/smQ8S7lvbBR8as0vE7XK5Aj6C5H.jpg",
-      "releaseInfo": "2025-11-13"
     },
     {
       "id": "tmdb:1084242",
@@ -945,14 +857,6 @@
       "releaseInfo": "2025-11-08"
     },
     {
-      "id": "tmdb:1358042",
-      "type": "movie",
-      "name": "Scarlet Nose",
-      "description": "In 1973, two teens come face to face with a brutal clown masked killer that has an unlikely weakness.",
-      "poster": "https://image.tmdb.org/t/p/w500/410ozNcY2FelT9MhL5zDhe32GEl.jpg",
-      "releaseInfo": "2025-11-08"
-    },
-    {
       "id": "tmdb:1293167",
       "type": "movie",
       "name": "Exit Protocol",
@@ -977,14 +881,6 @@
       "releaseInfo": "2025-11-07"
     },
     {
-      "id": "tmdb:1090983",
-      "type": "movie",
-      "name": "The Beldham",
-      "description": "At the edge of postpartum psychosis, new mother Harper moves in with her own mother at their family's rural farmhouse. Soon she finds herself hunted by a threatening monster who has designs on her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/suY2CNfGwq3kccMZuMA1sXAcNXm.jpg",
-      "releaseInfo": "2025-11-07"
-    },
-    {
       "id": "tmdb:1576287",
       "type": "movie",
       "name": "Frankenstein: The Anatomy Lesson",
@@ -996,7 +892,7 @@
       "id": "tmdb:1325678",
       "type": "movie",
       "name": "Sarah's Oil",
-      "description": "Sarah Rector, an African-American girl born in Oklahoma Indian Territory in the early 1900s, believes there is oil beneath the barren land she’s allotted, and her faith is proven right. As greedy oil sharks close in, Sarah turns to her family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first female African-American millionaires—at eleven years old.",
+      "description": "Sarah Rector, a Black girl born in early 20th-century Oklahoma Indian Territory, believes there is oil beneath the barren land she’s allotted, and her faith proves right. As greedy oil sharks close in, Sarah turns to family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first Black female millionaires—at eleven years old.",
       "poster": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
       "releaseInfo": "2025-11-07"
     },
@@ -1265,14 +1161,6 @@
       "releaseInfo": "2025-10-18"
     },
     {
-      "id": "tmdb:1551003",
-      "type": "movie",
-      "name": "R.L. Stine's Pumpkinhead",
-      "description": "When his brother disappears and everyone forgets he existed, Sam must unravel the mystery before Finn is gone forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg",
-      "releaseInfo": "2025-10-17"
-    },
-    {
       "id": "tmdb:1491479",
       "type": "movie",
       "name": "Grow",
@@ -1287,14 +1175,6 @@
       "description": "A food delivery driver gets caught in a deadly chase in the icy Minnesota wilderness, pursued by a crazed snowplow driver for unknown reasons, facing life-threatening situations and forced to outsmart his relentless pursuer alone.",
       "poster": "https://image.tmdb.org/t/p/w500/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
       "releaseInfo": "2025-10-17"
-    },
-    {
-      "id": "tmdb:1362315",
-      "type": "movie",
-      "name": "The Hand That Rocks the Cradle",
-      "description": "Suburban couple Caitlin and Miguel hire the seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with singing lullabies.",
-      "poster": "https://image.tmdb.org/t/p/w500/uXqqFkLcMPORg3TsQbK4upozZXB.jpg",
-      "releaseInfo": "2025-10-16"
     },
     {
       "id": "tmdb:1073572",
@@ -1319,14 +1199,6 @@
       "description": "30 years after the events of The Brothers McMullen, romantic entanglements plague a now fiftysomething Barry McMullen and his twentysomething kids, as well as his brother Patrick and widowed sister-in-law Molly, who are also facing similar unexpected hurdles.",
       "poster": "https://image.tmdb.org/t/p/w500/foNIl77csO9GmsvCvTZ6ixt0fZf.jpg",
       "releaseInfo": "2025-10-15"
-    },
-    {
-      "id": "tmdb:1169210",
-      "type": "movie",
-      "name": "The Mannequin",
-      "description": "A stylist assistant investigates her sister's death in a historic LA building, only to face a vengeful ghost of a serial killer who dismembered victims decades ago. She must escape before she's next.",
-      "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg",
-      "releaseInfo": "2025-10-14"
     },
     {
       "id": "tmdb:927254",
@@ -1457,28 +1329,12 @@
       "releaseInfo": "2025-10-08"
     },
     {
-      "id": "tmdb:1547527",
-      "type": "movie",
-      "name": "Stay",
-      "description": "Kiara, a PhD author on African spirituality, and Miles, a former MMA fighter turned trainer, facing the end of their marriage. They encounter supernatural forces and go from fighting one another to fighting for their lives. To survive, they must conquer darkness with love.",
-      "poster": "https://image.tmdb.org/t/p/w500/kRMzvzxjClWJn7bQtaRLQ2qhb6c.jpg",
-      "releaseInfo": "2025-10-08"
-    },
-    {
       "id": "tmdb:1352755",
       "type": "movie",
       "name": "Maintenance Required",
       "description": "Charlie, the fiercely independent owner of an all-female mechanic shop, is forced to reevaluate her future when a flashy corporate competitor moves in across the street. Seeking comfort, she turns to an anonymous online confidant - unaware she's confiding in Beau, the very rival threatening her business. As sparks fly both online and off, the truth threatens to blow everything apart.",
       "poster": "https://image.tmdb.org/t/p/w500/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",
       "releaseInfo": "2025-10-08"
-    },
-    {
-      "id": "tmdb:1319482",
-      "type": "movie",
-      "name": "Traumatika",
-      "description": "Mikey's night terrors become reality when his mother begins showing signs of demonic possession. What he's about to experience will haunt him for the rest of his life and claim countless lives across generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/jnINnXC7KHAVodspt9xIepEE9f6.jpg",
-      "releaseInfo": "2025-10-07"
     },
     {
       "id": "tmdb:1551336",
@@ -1585,22 +1441,6 @@
       "releaseInfo": "2025-10-03"
     },
     {
-      "id": "tmdb:1554419",
-      "type": "movie",
-      "name": "Match",
-      "description": "After Paola is matched with a handsome online suitor, she arrives for a first date to discover a house full of dark and terrifying secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/kCJGLANqs90OZcaUkAClhBLyoDZ.jpg",
-      "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:1332316",
-      "type": "movie",
-      "name": "Scurry",
-      "description": "Two strangers find themselves trapped underground when the city is attacked by a monstrous threat. Badly injured with limited resources they must navigate a treacherous, narrowing tunnel in hopes of finding an exit.",
-      "poster": "https://image.tmdb.org/t/p/w500/1fFM39XbhBPOlrhkIEKSsld1Ts9.jpg",
-      "releaseInfo": "2025-10-03"
-    },
-    {
       "id": "tmdb:1098534",
       "type": "movie",
       "name": "Orwell: 2+2=5",
@@ -1623,14 +1463,6 @@
       "description": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
       "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
       "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:1552050",
-      "type": "movie",
-      "name": "The Hem",
-      "description": "A documentary crew investigates a haunted church on the verge of collapse with one condition: they must be out by dark.",
-      "poster": "https://image.tmdb.org/t/p/w500/ekPR9836hklELxE07k4LiWI5pTj.jpg",
-      "releaseInfo": "2025-10-01"
     },
     {
       "id": "tmdb:941109",
@@ -1705,14 +1537,6 @@
       "releaseInfo": "2025-09-27"
     },
     {
-      "id": "tmdb:1235192",
-      "type": "movie",
-      "name": "Wormtown",
-      "description": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
-      "releaseInfo": "2025-09-27"
-    },
-    {
       "id": "tmdb:1265063",
       "type": "movie",
       "name": "After the Hunt",
@@ -1726,14 +1550,6 @@
       "name": "Killing Faith",
       "description": "In the summer of 1859, a widowed physician reluctantly agrees to take a recently freed slave and her mysterious Caucasian daughter on a five-day journey through the bloody West to find a distant town's Faith Healer. The woman believes her daughter is possessed. The doctor believes she simply carries The Sickness. Either way the fact remains that every living thing the girl touches mysteriously dies.",
       "poster": "https://image.tmdb.org/t/p/w500/bNHlTTdpdDv8xxrXF3krVghyCcj.jpg",
-      "releaseInfo": "2025-09-26"
-    },
-    {
-      "id": "tmdb:1399457",
-      "type": "movie",
-      "name": "The Man with the Black Umbrella",
-      "description": "On January 8th, 2015, a man with a black umbrella broke into 818 Hilltop Drive at 3:38a.m., committing a double murder.  The investigation that ensued proved that some murders shouldn’t be solved.",
-      "poster": "https://image.tmdb.org/t/p/w500/inSk8zJig5cCBI0HytXY71mQNpf.jpg",
       "releaseInfo": "2025-09-26"
     },
     {
@@ -1817,28 +1633,12 @@
       "releaseInfo": "2025-09-21"
     },
     {
-      "id": "tmdb:801937",
-      "type": "movie",
-      "name": "Silent Night, Deadly Night",
-      "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
-      "poster": "https://image.tmdb.org/t/p/w500/6cvHz1TnF2ktoLbbHACh99nKL9H.jpg",
-      "releaseInfo": "2025-09-21"
-    },
-    {
       "id": "tmdb:1314862",
       "type": "movie",
       "name": "Lilith Fair: Building a Mystery",
       "description": "Behind the scenes of Sarah McLachlan’s legendary all-women music festival and features interviews with performers including Bonnie Raitt, Erykah Badu, Olivia Rodrigo, and Emmylou Harris.",
       "poster": "https://image.tmdb.org/t/p/w500/PCI5HmNXRb9gx8BYTIUbThaymz.jpg",
       "releaseInfo": "2025-09-21"
-    },
-    {
-      "id": "tmdb:1197137",
-      "type": "movie",
-      "name": "Black Phone 2",
-      "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
-      "releaseInfo": "2025-09-20"
     },
     {
       "id": "tmdb:1253000",
@@ -1849,59 +1649,11 @@
       "releaseInfo": "2025-09-20"
     },
     {
-      "id": "tmdb:1386827",
-      "type": "movie",
-      "name": "Coyotes",
-      "description": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
-      "poster": "https://image.tmdb.org/t/p/w500/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
-      "releaseInfo": "2025-09-20"
-    },
-    {
-      "id": "tmdb:1010756",
-      "type": "movie",
-      "name": "The Strangers: Chapter 2",
-      "description": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
-      "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
-      "releaseInfo": "2025-09-20"
-    },
-    {
-      "id": "tmdb:1568056",
-      "type": "movie",
-      "name": "Mirror Life",
-      "description": "Amidst a pandemic, a woman documents the search for her cousin who disappeared after entering a clinical trial for an experimental miracle drug called Dumitor.",
-      "poster": "https://image.tmdb.org/t/p/w500/lCj96toltQ5uMcIezuEO8cb0kb2.jpg",
-      "releaseInfo": "2025-09-20"
-    },
-    {
-      "id": "tmdb:1244531",
-      "type": "movie",
-      "name": "Beast of War",
-      "description": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark.",
-      "poster": "https://image.tmdb.org/t/p/w500/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
-      "releaseInfo": "2025-09-20"
-    },
-    {
       "id": "tmdb:997113",
       "type": "movie",
       "name": "Hedda",
       "description": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
       "poster": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
-      "releaseInfo": "2025-09-19"
-    },
-    {
-      "id": "tmdb:937941",
-      "type": "movie",
-      "name": "Shelby Oaks",
-      "description": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
-      "releaseInfo": "2025-09-19"
-    },
-    {
-      "id": "tmdb:1544122",
-      "type": "movie",
-      "name": "Takeout",
-      "description": "On a dead-end night shift at a remote fast food diner, three co-workers suspect a customer is a serial killer. After digging for proof, they quickly realize they're in over their heads.",
-      "poster": "https://image.tmdb.org/t/p/w500/3cM00rluhzLm4fGXHXLTksYkTPQ.jpg",
       "releaseInfo": "2025-09-19"
     },
     {
@@ -1921,27 +1673,11 @@
       "releaseInfo": "2025-09-19"
     },
     {
-      "id": "tmdb:1373445",
-      "type": "movie",
-      "name": "V/H/S/Halloween",
-      "description": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
-      "releaseInfo": "2025-09-19"
-    },
-    {
       "id": "tmdb:1328803",
       "type": "movie",
       "name": "Prisoner of War",
       "description": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
       "poster": "https://image.tmdb.org/t/p/w500/4T4yRG6iskDcfMeoLuUZEJYCrjL.jpg",
-      "releaseInfo": "2025-09-19"
-    },
-    {
-      "id": "tmdb:1251717",
-      "type": "movie",
-      "name": "Vicious",
-      "description": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
-      "poster": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
       "releaseInfo": "2025-09-19"
     },
     {
@@ -2017,28 +1753,12 @@
       "releaseInfo": "2025-09-19"
     },
     {
-      "id": "tmdb:1315303",
-      "type": "movie",
-      "name": "Primate",
-      "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-      "releaseInfo": "2025-09-18"
-    },
-    {
       "id": "tmdb:1541827",
       "type": "movie",
       "name": "Dolphins Up Close with Bertie Gregory",
       "description": "Bertie Gregory heads to the Azores, a vital marine sanctuary and seasonal hotspot for migrating ocean predators. During feeding season, thousands of elusive hunters gather to feast on massive bait balls. Battling storms and scanning vast seas, Bertie races against time to capture the most epic feeding frenzy of his career.",
       "poster": "https://image.tmdb.org/t/p/w500/oCuxThFeyca7HiWK5qQ7wVNQmYH.jpg",
       "releaseInfo": "2025-09-18"
-    },
-    {
-      "id": "tmdb:986097",
-      "type": "movie",
-      "name": "HIM",
-      "description": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
-      "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
-      "releaseInfo": "2025-09-17"
     },
     {
       "id": "tmdb:1257778",
@@ -2055,14 +1775,6 @@
       "description": "This exclusive documentary goes behind the scenes with Märtha Louise and Shaman Durek Verrett in the lead-up to their divisive wedding in Norway.",
       "poster": "https://image.tmdb.org/t/p/w500/7vIkk6WNThpI89dyJMZ8IFrIz7n.jpg",
       "releaseInfo": "2025-09-16"
-    },
-    {
-      "id": "tmdb:1519168",
-      "type": "movie",
-      "name": "The Jester 2",
-      "description": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
-      "poster": "https://image.tmdb.org/t/p/w500/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
-      "releaseInfo": "2025-09-15"
     },
     {
       "id": "tmdb:1458530",
@@ -2094,14 +1806,6 @@
       "name": "Code 3",
       "description": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
       "poster": "https://image.tmdb.org/t/p/w500/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
-      "releaseInfo": "2025-09-12"
-    },
-    {
-      "id": "tmdb:957121",
-      "type": "movie",
-      "name": "The Man in My Basement",
-      "description": "Down on his luck, Charles Blakey agrees to rent his basement to a mysterious stranger, unaware he may be letting in a force much darker than he imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/1zpeH8wOrM8p2TTAmBetwhe2BIx.jpg",
       "releaseInfo": "2025-09-12"
     },
     {
@@ -2153,36 +1857,12 @@
       "releaseInfo": "2025-09-08"
     },
     {
-      "id": "tmdb:604079",
-      "type": "movie",
-      "name": "The Long Walk",
-      "description": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-      "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
-      "releaseInfo": "2025-09-08"
-    },
-    {
       "id": "tmdb:1543542",
       "type": "movie",
       "name": "Valiente: A Tracker Story",
       "description": "Tracker and Carlos come across a series of nocturnal animals fleeing the Shadow Jungle. Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.",
       "poster": "https://image.tmdb.org/t/p/w500/zTMxurPWbgA2w0qkCs8OqN6whN6.jpg",
       "releaseInfo": "2025-09-08"
-    },
-    {
-      "id": "tmdb:1110775",
-      "type": "movie",
-      "name": "Behold!",
-      "description": "While a husband and wife grapple with the end of their failed marriage, an evil entity manifests within their home.",
-      "poster": "https://image.tmdb.org/t/p/w500/msriyC5Uk9iCSCEbNyuVR2Ta4Kf.jpg",
-      "releaseInfo": "2025-09-08"
-    },
-    {
-      "id": "tmdb:1355583",
-      "type": "movie",
-      "name": "Helloween",
-      "description": "During the sinister killer clown craze of 2016, Dr. Ellen Marks, aided by investigative journalist John Parker, trace the source of the phenomena to one of her patients - incarcerated, charismatic serial killer Carl Cane, who is using his insidious clown symbolism to recruit an army of the disenfranchised and launch a murderous anarchist movement from London across the globe. With Cane escaped and on the run on October 31st can they stop him before he unleashes hell on earth on Halloween?",
-      "poster": "https://image.tmdb.org/t/p/w500/lFPmEa3b3TH1j5ObdiU4F1xqgcg.jpg",
-      "releaseInfo": "2025-09-05"
     },
     {
       "id": "tmdb:1314129",
@@ -2209,14 +1889,6 @@
       "releaseInfo": "2025-09-05"
     },
     {
-      "id": "tmdb:1038392",
-      "type": "movie",
-      "name": "The Conjuring: Last Rites",
-      "description": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
-      "poster": "https://image.tmdb.org/t/p/w500/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
-      "releaseInfo": "2025-09-05"
-    },
-    {
       "id": "tmdb:1522103",
       "type": "movie",
       "name": "Blood & Myth",
@@ -2231,14 +1903,6 @@
       "description": "William McKay’s successful New York executive career is in ruins after a shocking betrayal. Called by his estranged father, William travels to Belize for a father & son fishing tournament that reopens old wounds and sparks new understanding. Decades later, William recalls that pivotal trip as he tries to connect with his angry, distant grandson.",
       "poster": "https://image.tmdb.org/t/p/w500/Aryl5Y87ynfyrs4U0ktPHJ7XQ5i.jpg",
       "releaseInfo": "2025-09-03"
-    },
-    {
-      "id": "tmdb:1530127",
-      "type": "movie",
-      "name": "Lookout",
-      "description": "Seeking peace away from her turbulent life, a young woman accepts a job as a fire lookout at a remote wilderness tower. As she settles into her new role, eerie disturbances and strange occurrences begin to unfold, and she must uncover the chilling secrets that disrupt her isolation before it’s too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/puQMWEXZ9wpqwniz9ac3MTAe6BB.jpg",
-      "releaseInfo": "2025-09-02"
     },
     {
       "id": "tmdb:1516391",
@@ -2270,14 +1934,6 @@
       "name": "Bugonia",
       "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
       "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:1062722",
-      "type": "movie",
-      "name": "Frankenstein",
-      "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "releaseInfo": "2025-08-30"
     },
     {
@@ -2473,14 +2129,6 @@
       "releaseInfo": "2025-08-23"
     },
     {
-      "id": "tmdb:1372260",
-      "type": "movie",
-      "name": "Your Host",
-      "description": "Four friends get trapped in a sadistic game show, forced to outwit a twisted serial killer while racing against time. Every move brings them closer to freedom or a gruesome fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/dYFqEwKglMtIEta4u1PJNl5rZUX.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
       "id": "tmdb:849192",
       "type": "movie",
       "name": "Pools",
@@ -2510,14 +2158,6 @@
       "name": "Trust",
       "description": "A Hollywood starlet seeks refuge in a secluded Airbnb following a high-profile scandal, only to find herself at the mercy of hardened criminals on the hunt for a score.",
       "poster": "https://image.tmdb.org/t/p/w500/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1202306",
-      "type": "movie",
-      "name": "Hell House LLC: Lineage",
-      "description": "After a near-death experience, Vanessa Shepherd faces nightmares in Abaddon. As mysterious deaths occur around her, she discovers her connection to the Abaddon Hotel, Carmichael Manor, and decades of unexplained murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/vFZo2cUEF16gsY5lhewOLFA7CBC.jpg",
       "releaseInfo": "2025-08-22"
     },
     {
@@ -2553,28 +2193,12 @@
       "releaseInfo": "2025-08-22"
     },
     {
-      "id": "tmdb:1257009",
-      "type": "movie",
-      "name": "Primitive War",
-      "description": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
-      "poster": "https://image.tmdb.org/t/p/w500/fZnY97zAyATRH50Q1I92fQy1hUg.jpg",
-      "releaseInfo": "2025-08-21"
-    },
-    {
       "id": "tmdb:1312946",
       "type": "movie",
       "name": "The Map That Leads to You",
       "description": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
       "poster": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
       "releaseInfo": "2025-08-20"
-    },
-    {
-      "id": "tmdb:787747",
-      "type": "movie",
-      "name": "Shell",
-      "description": "Desperate to reclaim her career, once-beloved actress Samantha Lake is drawn into the glamorous world of wellness mogul Zoe Shannon -only to uncover a monstrous truth beneath its flawless surface.",
-      "poster": "https://image.tmdb.org/t/p/w500/2XBNS8DxMFP7qOoTOY7cc8OYFwI.jpg",
-      "releaseInfo": "2025-08-17"
     },
     {
       "id": "tmdb:1531747",
@@ -2601,21 +2225,149 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1512581",
+      "id": "tmdb:1254624",
       "type": "movie",
-      "name": "No Tears in Hell",
-      "description": "In the frozen darkness of an Alaskan winter, a mother and son turn their home into a house of nightmares — luring victims into a twisted web of abuse and cannibalism. Based on the terrifying true story of Russian serial killer Alexander Spesivtsev.",
-      "poster": "https://image.tmdb.org/t/p/w500/a0bODl3Ieix1qcGRLIx6PZvluzB.jpg",
+      "name": "Night Always Comes",
+      "description": "Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
+      "releaseInfo": "2025-08-15"
+    },
+    {
+      "id": "tmdb:1511556",
+      "type": "movie",
+      "name": "Under Fire",
+      "description": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
+      "poster": "https://image.tmdb.org/t/p/w500/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
+      "releaseInfo": "2025-08-15"
+    },
+    {
+      "id": "tmdb:1484453",
+      "type": "movie",
+      "name": "Snoopy Presents: A Summer Musical",
+      "description": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
+      "poster": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
+      "releaseInfo": "2025-08-14"
+    },
+    {
+      "id": "tmdb:1529665",
+      "type": "movie",
+      "name": "Dream",
+      "description": "Lisa is turning her hit song “Dream” into a cinematic moment, teaming up with actor Kentaro Sakaguchi. About a heartbreaking story of love, loss and memory following a grieving woman who revisits cherished moments with her late partner.",
+      "poster": "https://image.tmdb.org/t/p/w500/47qnhgOKc1TJTr2Nq950tmcLvpU.jpg",
+      "releaseInfo": "2025-08-13"
+    },
+    {
+      "id": "tmdb:1529346",
+      "type": "movie",
+      "name": "Krypto Saves the Day!: School Bus Scuffle",
+      "description": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school",
+      "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
+      "releaseInfo": "2025-08-13"
+    },
+    {
+      "id": "tmdb:537921",
+      "type": "movie",
+      "name": "Fixed",
+      "description": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
+      "poster": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+      "releaseInfo": "2025-08-13"
+    },
+    {
+      "id": "tmdb:1517042",
+      "type": "movie",
+      "name": "Jim Jefferies: Two Limb Policy",
+      "description": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
+      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
       "releaseInfo": "2025-08-12"
     },
     {
-      "id": "tmdb:1502943",
+      "id": "tmdb:1242434",
       "type": "movie",
-      "name": "Night of the Reaper",
-      "description": "College student Deena visits her hometown and is roped into a babysitting gig. Meanwhile, the local sheriff, after receiving a piece of evidence in the mail, falls into an increasingly desperate scavenger hunt involving a series of murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg",
+      "name": "Highest 2 Lowest",
+      "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
+      "poster": "https://image.tmdb.org/t/p/w500/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
+      "releaseInfo": "2025-08-11"
+    },
+    {
+      "id": "tmdb:1007734",
+      "type": "movie",
+      "name": "Nobody 2",
+      "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+      "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+      "releaseInfo": "2025-08-11"
+    },
+    {
+      "id": "tmdb:1319895",
+      "type": "movie",
+      "name": "Hostile Takeover",
+      "description": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+      "poster": "https://image.tmdb.org/t/p/w500/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+      "releaseInfo": "2025-08-08"
+    },
+    {
+      "id": "tmdb:985602",
+      "type": "movie",
+      "name": "My Mother's Wedding",
+      "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests.",
+      "poster": "https://image.tmdb.org/t/p/w500/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg",
+      "releaseInfo": "2025-08-08"
+    },
+    {
+      "id": "tmdb:1513598",
+      "type": "movie",
+      "name": "Stolen: Heist of the Century",
+      "description": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
+      "poster": "https://image.tmdb.org/t/p/w500/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+      "releaseInfo": "2025-08-08"
+    },
+    {
+      "id": "tmdb:1280444",
+      "type": "movie",
+      "name": "The Occupant",
+      "description": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
+      "poster": "https://image.tmdb.org/t/p/w500/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
+      "releaseInfo": "2025-08-08"
+    },
+    {
+      "id": "tmdb:1125257",
+      "type": "movie",
+      "name": "Freakier Friday",
+      "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "releaseInfo": "2025-08-08"
+    },
+    {
+      "id": "tmdb:1244999",
+      "type": "movie",
+      "name": "Stans",
+      "description": "A revealing, edgy, and disarmingly personal journey into the world of superfandom, told through the lens of one of the world's most iconic and enduring artists, Eminem, and the fans that worship him.",
+      "poster": "https://image.tmdb.org/t/p/w500/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
       "releaseInfo": "2025-08-07"
+    },
+    {
+      "id": "tmdb:1319969",
+      "type": "movie",
+      "name": "Sketch",
+      "description": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
+      "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
+      "releaseInfo": "2025-08-06"
+    },
+    {
+      "id": "tmdb:1507450",
+      "type": "movie",
+      "name": "If I Run",
+      "description": "Casey Cox is a woman on the run after discovering her best friend Brent has been murdered—and she is being framed for it. Not knowing who to trust, Casey flees, using her intelligence and resourcefulness to stay hidden and the signs of divine guidance to help her in her journey. Meanwhile, Dylan Roberts, a war-weary veteran and private investigator with PTSD, is hired to track her down. As Dylan digs deeper into the case, he begins to suspect that Casey might actually be innocent and that the real story is far more complex—and dangerous—than it first appeared.",
+      "poster": "https://image.tmdb.org/t/p/w500/k94kVhGoRJ1dSEzU5Gtj2qaZ539.jpg",
+      "releaseInfo": "2025-08-02"
+    },
+    {
+      "id": "tmdb:1512623",
+      "type": "movie",
+      "name": "Risqué",
+      "description": "Fired from a strip club, a vengeful dancer masterminds a high-stakes heist with fellow strippers to take down the corrupt boss and the men who underestimate them.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+      "releaseInfo": "2025-08-01"
     }
   ],
-  "ts": 1769625196182
+  "ts": 1769627445300
 }
