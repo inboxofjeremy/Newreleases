@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1599090",
+      "type": "movie",
+      "name": "Skyscraper Live",
+      "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
+      "poster": "https://image.tmdb.org/t/p/w500/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg",
+      "releaseInfo": "2026-01-24"
+    },
+    {
       "id": "tmdb:680493",
       "type": "movie",
       "name": "Return to Silent Hill",
@@ -13,7 +21,7 @@
       "type": "movie",
       "name": "Send Help",
       "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/bCWAqx070MFaTJycvE6G5StRtYM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
       "releaseInfo": "2026-01-21"
     },
     {
@@ -101,7 +109,7 @@
       "type": "movie",
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
       "releaseInfo": "2026-01-09"
     },
     {
@@ -253,7 +261,7 @@
       "type": "movie",
       "name": "Anaconda",
       "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "poster": "https://image.tmdb.org/t/p/w500/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
       "releaseInfo": "2025-12-13"
     },
     {
@@ -849,6 +857,14 @@
       "releaseInfo": "2025-11-14"
     },
     {
+      "id": "tmdb:1127839",
+      "type": "movie",
+      "name": "Raptus",
+      "description": "After surviving a brutal assault, Sarah orders a new form of experimental android therapy called Raptus. But instead of helping her reclaim her mind, her new companion's controls will be pushed to the limit, putting her in extreme danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/smQ8S7lvbBR8as0vE7XK5Aj6C5H.jpg",
+      "releaseInfo": "2025-11-13"
+    },
+    {
       "id": "tmdb:1084242",
       "type": "movie",
       "name": "Zootopia 2",
@@ -1286,6 +1302,14 @@
       "name": "Out Standing",
       "description": "Officer Sandra Perron resigns from the Canadian military after a controversial photo surfaces. Adapting to civilian life amidst an investigation, she denies abuse allegations despite evidence suggesting mistreatment within her unit.",
       "poster": "https://image.tmdb.org/t/p/w500/gQRaEoRd1fv1A3orWOA9AdSrIjz.jpg",
+      "releaseInfo": "2025-10-16"
+    },
+    {
+      "id": "tmdb:1290242",
+      "type": "movie",
+      "name": "Christy",
+      "description": "Seventeen-year-old Christy is at a crossroads. Thrown out of his suburban foster home, he has moved in temporarily with his estranged older brother, Shane, in Cork’s inner city.  But Shane wants something better for Christy. After so many years apart, the brothers are forced to reconcile their turbulent past, whilst deciding what the future looks like. Sometimes, to move forward, you have to go back.",
+      "poster": "https://image.tmdb.org/t/p/w500/wuBykI8GaLUAGLj1Iq0KhsS4S57.jpg",
       "releaseInfo": "2025-10-16"
     },
     {
@@ -2109,7 +2133,7 @@
       "type": "movie",
       "name": "Spinal Tap II: The End Continues",
       "description": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
-      "poster": "https://image.tmdb.org/t/p/w500/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/c8Vg1HOlAN8pNPkUrH7Mov1KOLk.jpg",
       "releaseInfo": "2025-09-09"
     },
     {
@@ -2577,14 +2601,6 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1254624",
-      "type": "movie",
-      "name": "Night Always Comes",
-      "description": "Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
-      "releaseInfo": "2025-08-15"
-    },
-    {
       "id": "tmdb:1512581",
       "type": "movie",
       "name": "No Tears in Hell",
@@ -2601,5 +2617,5 @@
       "releaseInfo": "2025-08-07"
     }
   ],
-  "ts": 1769538839170
+  "ts": 1769563559892
 }
