@@ -97,6 +97,14 @@
       "releaseInfo": "2026-01-06"
     },
     {
+      "id": "tmdb:1317149",
+      "type": "movie",
+      "name": "I Swear",
+      "description": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+      "poster": "https://image.tmdb.org/t/p/w500/lC4NgQPqyKxNJ3PEgl2HVUxTY1t.jpg",
+      "releaseInfo": "2026-01-06"
+    },
+    {
       "id": "tmdb:1592021",
       "type": "movie",
       "name": "Lost in Paradise",
@@ -2369,5 +2377,5 @@
       "releaseInfo": "2025-08-02"
     }
   ],
-  "ts": 1769668909090
+  "ts": 1769691060306
 }
