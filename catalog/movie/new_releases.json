@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1413097",
+      "type": "movie",
+      "name": "Melania",
+      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
+      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+      "releaseInfo": "2026-01-29"
+    },
+    {
       "id": "tmdb:1168190",
       "type": "movie",
       "name": "The Wrecking Crew",
@@ -23,6 +31,14 @@
       "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
       "poster": "https://image.tmdb.org/t/p/w500/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg",
       "releaseInfo": "2026-01-24"
+    },
+    {
+      "id": "tmdb:1422562",
+      "type": "movie",
+      "name": "The Moment",
+      "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
+      "poster": "https://image.tmdb.org/t/p/w500/txnHhq3GA1zDxZQMk2igq9CyA8v.jpg",
+      "releaseInfo": "2026-01-23"
     },
     {
       "id": "tmdb:1538718",
@@ -1441,14 +1457,6 @@
       "releaseInfo": "2025-10-04"
     },
     {
-      "id": "tmdb:1465560",
-      "type": "movie",
-      "name": "Put Your Soul on Your Hand and Walk",
-      "description": "An Iranian filmmaker participates in a series of video calls with a young Palestinian photojournalist who describes her life confined in Gaza during the current regional conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/kvX6kJY22996t8Jrvnw0N409qAu.jpg",
-      "releaseInfo": "2025-10-04"
-    },
-    {
       "id": "tmdb:1159206",
       "type": "movie",
       "name": "Father Mother Sister Brother",
@@ -2375,15 +2383,7 @@
       "description": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
       "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
       "releaseInfo": "2025-08-06"
-    },
-    {
-      "id": "tmdb:1507450",
-      "type": "movie",
-      "name": "If I Run",
-      "description": "Casey Cox is a woman on the run after discovering her best friend Brent has been murdered—and she is being framed for it. Not knowing who to trust, Casey flees, using her intelligence and resourcefulness to stay hidden and the signs of divine guidance to help her in her journey. Meanwhile, Dylan Roberts, a war-weary veteran and private investigator with PTSD, is hired to track her down. As Dylan digs deeper into the case, he begins to suspect that Casey might actually be innocent and that the real story is far more complex—and dangerous—than it first appeared.",
-      "poster": "https://image.tmdb.org/t/p/w500/k94kVhGoRJ1dSEzU5Gtj2qaZ539.jpg",
-      "releaseInfo": "2025-08-02"
     }
   ],
-  "ts": 1769724646094
+  "ts": 1769737653542
 }
