@@ -20,7 +20,7 @@
       "id": "tmdb:1340076",
       "type": "movie",
       "name": "Untitled Home Invasion Romance",
-      "description": "Kevin Stanwell is an actor famous for being the mascot for erectile dysfunction ads. With his marriage on the rocks, he attempts to salvage the relationship with his wife Suzie by planning a trip for them to the Adirondacks. Kevin recruits his friend Ernie to stage a home invasion to make Kevin look like a hero, but when the plan goes awry, the couple find themselves caught up in a murder investigation.",
+      "description": "As a last-ditch attempt to save his failing marriage, an actor stages a home invasion during a romantic getaway weekend.",
       "poster": "https://image.tmdb.org/t/p/w500/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
       "releaseInfo": "2026-01-27"
     },
@@ -2393,5 +2393,5 @@
       "releaseInfo": "2025-08-06"
     }
   ],
-  "ts": 1769841274696
+  "ts": 1769863175113
 }
