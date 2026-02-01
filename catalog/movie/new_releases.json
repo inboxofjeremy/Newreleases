@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1290821",
+      "type": "movie",
+      "name": "Shelter",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
+      "releaseInfo": "2026-01-30"
+    },
+    {
       "id": "tmdb:1413097",
       "type": "movie",
       "name": "Melania",
@@ -77,7 +85,7 @@
       "type": "movie",
       "name": "The Rip",
       "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
       "releaseInfo": "2026-01-13"
     },
     {
@@ -109,7 +117,7 @@
       "type": "movie",
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
       "releaseInfo": "2026-01-09"
     },
     {
@@ -1309,7 +1317,7 @@
       "type": "movie",
       "name": "The Chronology of Water",
       "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/a0myciW2wnVBOB1fnHLUOVgX0fD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ayg6SffcXIbtjgLfulw7cpmPW9P.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -2393,5 +2401,5 @@
       "releaseInfo": "2025-08-06"
     }
   ],
-  "ts": 1769884052488
+  "ts": 1769911298031
 }
