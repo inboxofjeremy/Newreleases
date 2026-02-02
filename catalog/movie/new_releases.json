@@ -125,7 +125,7 @@
       "type": "movie",
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1mF4othta76CEXcL1YFInYudQ7K.jpg",
       "releaseInfo": "2026-01-09"
     },
     {
@@ -601,6 +601,14 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1590097",
+      "type": "movie",
+      "name": "Afterlight",
+      "description": "In a future shaped by war, AI, and fractured timelines, five interconnected sci-fi stories explore humanity’s fight for connection, survival, and meaning across time and space.",
+      "poster": "https://image.tmdb.org/t/p/w500/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
       "id": "tmdb:1588671",
       "type": "movie",
       "name": "Louvre Heist: Minute by Minute",
@@ -653,7 +661,7 @@
       "type": "movie",
       "name": "Wildcat",
       "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/tZst3WyMhbpfwC9kjuuKojAY7iJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
       "releaseInfo": "2025-11-25"
     },
     {
@@ -1252,7 +1260,7 @@
       "id": "tmdb:1432596",
       "type": "movie",
       "name": "Palestine 36",
-      "description": "In 1936, as Palestinian villages revolt against British colonial rule, Yusuf navigates between Jerusalem and his rural home, amidst escalating unrest and a pivotal moment for the British Empire.",
+      "description": "In 1936, as Palestinian villages revolt against British colonial rule and Zionist immigration from Europe accelerates toward the ethnic cleansing of Palestinians, Yusuf moves between Jerusalem and his rural home amid escalating unrest and a decisive moment for the British Empire.",
       "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
       "releaseInfo": "2025-10-16"
     },
@@ -2433,5 +2441,5 @@
       "releaseInfo": "2025-08-06"
     }
   ],
-  "ts": 1770015522540
+  "ts": 1770036761350
 }
