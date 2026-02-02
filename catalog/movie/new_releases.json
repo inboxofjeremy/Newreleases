@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1622706",
+      "type": "movie",
+      "name": "Royal Rumble 2026",
+      "description": "The Road to WrestleMania begins at Royal Rumble, and the top Superstars in WWE are set to compete for a championship bout at WrestleMania. The matches will begin with two superstars in the ring. At equally timed intervals, a new superstar enters the fray. Elimination only occurs when a superstar has gone over the top rope and both feet have touched the floor. This continues until there is just one superstar left standing as the winner of the Royal Rumble Match. Also, AJ Styles will put his incredible career on the line against Gunther and Drew McIntyre will defend his WWE championship against Sami Zayn.",
+      "poster": "https://image.tmdb.org/t/p/w500/f9NOLejYqlbiAUFs6gvEads79OK.jpg",
+      "releaseInfo": "2026-01-31"
+    },
+    {
       "id": "tmdb:1290821",
       "type": "movie",
       "name": "Shelter",
@@ -374,6 +382,14 @@
       "name": "Love and Wine",
       "description": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
       "poster": "https://image.tmdb.org/t/p/w500/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1543831",
+      "type": "movie",
+      "name": "Speed Train",
+      "description": "When a futuristic train journey turns chaotic due to a tech genius's malevolent hacking of brain-implanted passengers, a group of disparate travelers must band together to regain control, confronting not only immediate dangers but also the darker implications of unchecked technology.",
+      "poster": "https://image.tmdb.org/t/p/w500/d6LkmLq2DcDIu1ctygYINGMMyUR.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -945,6 +961,14 @@
       "releaseInfo": "2025-11-07"
     },
     {
+      "id": "tmdb:1518521",
+      "type": "movie",
+      "name": "Karen Kingsbury's The Christmas Ring",
+      "description": "At a 'Christmas in July' sale, military widow Vanessa Mayfield crosses paths with antiques dealer Ben Miller. As Ben works in Vanessa’s hometown, their friendship begins to grow into something more. But trouble brews when Ben’s father unknowingly acquires a box of antiques containing Vanessa’s missing heirloom Christmas ring - a priceless piece of her family’s past. Planning to sell it, he has no idea of its true meaning. It will take a Christmas miracle for love, family, and the ring to come together.",
+      "poster": "https://image.tmdb.org/t/p/w500/p3iQWFq2RwqM0vuzx9sqtTeYMhX.jpg",
+      "releaseInfo": "2025-11-06"
+    },
+    {
       "id": "tmdb:1479945",
       "type": "movie",
       "name": "Wicked: One Wonderful Night",
@@ -1317,7 +1341,7 @@
       "type": "movie",
       "name": "The Chronology of Water",
       "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
-      "poster": "https://image.tmdb.org/t/p/w500/gGPmHWfBVaouU45cETvI2iWaa2q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -1470,6 +1494,14 @@
       "name": "The Secrets We Bury",
       "description": "Follow the eccentric Mike Carroll in this chilling family mystery as he sets out to find his long-lost father. What he uncovers along the way threatens to shake the very foundation of his family.",
       "poster": "https://image.tmdb.org/t/p/w500/aTDKgSCAuAcXbGfUbJ0wwRFOgFS.jpg",
+      "releaseInfo": "2025-10-04"
+    },
+    {
+      "id": "tmdb:1535924",
+      "type": "movie",
+      "name": "Home Turf",
+      "description": "Cassidy is the president of a small college whose life is thrown for a loop when freshmen on the football team move into her home. Can Logan, the handsome coach, help smooth things over?",
+      "poster": "https://image.tmdb.org/t/p/w500/kWoHop8qf17VvAaDYzJfDhFil1F.jpg",
       "releaseInfo": "2025-10-04"
     },
     {
@@ -2401,5 +2433,5 @@
       "releaseInfo": "2025-08-06"
     }
   ],
-  "ts": 1769970590741
+  "ts": 1769997246016
 }
