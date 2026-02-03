@@ -1445,7 +1445,7 @@
       "type": "movie",
       "name": "Marty Supreme",
       "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -2077,7 +2077,7 @@
       "type": "movie",
       "name": "Hamnet",
       "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2261,7 +2261,7 @@
       "type": "movie",
       "name": "Splitsville",
       "description": "After Ashley asks for a divorce, good-natured Carey runs to his friends, Julie and Paul, for support. He’s shocked to discover that the secret to their happiness is an open marriage, that is until Carey crosses the line and throws all of their relationships into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cX6MVLl99pMDUmM3XKPFN4UKB8j.jpg",
       "releaseInfo": "2025-08-22"
     },
     {
@@ -2415,31 +2415,7 @@
       "description": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
       "poster": "https://image.tmdb.org/t/p/w500/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
       "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1125257",
-      "type": "movie",
-      "name": "Freakier Friday",
-      "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1244999",
-      "type": "movie",
-      "name": "Stans",
-      "description": "A revealing, edgy, and disarmingly personal journey into the world of superfandom, told through the lens of one of the world's most iconic and enduring artists, Eminem, and the fans that worship him.",
-      "poster": "https://image.tmdb.org/t/p/w500/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
-      "releaseInfo": "2025-08-07"
-    },
-    {
-      "id": "tmdb:1319969",
-      "type": "movie",
-      "name": "Sketch",
-      "description": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
-      "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
-      "releaseInfo": "2025-08-06"
     }
   ],
-  "ts": 1770057510530
+  "ts": 1770083587195
 }
