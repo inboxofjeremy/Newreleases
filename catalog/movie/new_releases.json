@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1622706",
-      "type": "movie",
-      "name": "Royal Rumble 2026",
-      "description": "The Road to WrestleMania begins at Royal Rumble, and the top Superstars in WWE are set to compete for a championship bout at WrestleMania. The matches will begin with two superstars in the ring. At equally timed intervals, a new superstar enters the fray. Elimination only occurs when a superstar has gone over the top rope and both feet have touched the floor. This continues until there is just one superstar left standing as the winner of the Royal Rumble Match. Also, AJ Styles will put his incredible career on the line against Gunther and Drew McIntyre will defend his WWE championship against Sami Zayn.",
-      "poster": "https://image.tmdb.org/t/p/w500/f9NOLejYqlbiAUFs6gvEads79OK.jpg",
-      "releaseInfo": "2026-01-31"
-    },
-    {
       "id": "tmdb:1290821",
       "type": "movie",
       "name": "Shelter",
@@ -1305,6 +1297,14 @@
       "releaseInfo": "2025-10-12"
     },
     {
+      "id": "tmdb:1546989",
+      "type": "movie",
+      "name": "Haunted Harmony Mysteries: Buried at C",
+      "description": "Our favorite music teacher Gethsemane is back again along with her trusted ghost friend Eamon to solve the unexplained death of a sea captain.",
+      "poster": "https://image.tmdb.org/t/p/w500/4rJFqlzubrAbnPZCfFWf4GHF74e.jpg",
+      "releaseInfo": "2025-10-12"
+    },
+    {
       "id": "tmdb:1443940",
       "type": "movie",
       "name": "Truth & Treason",
@@ -2321,14 +2321,6 @@
       "releaseInfo": "2025-08-15"
     },
     {
-      "id": "tmdb:1511556",
-      "type": "movie",
-      "name": "Under Fire",
-      "description": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
-      "poster": "https://image.tmdb.org/t/p/w500/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
-      "releaseInfo": "2025-08-15"
-    },
-    {
       "id": "tmdb:1484453",
       "type": "movie",
       "name": "Snoopy Presents: A Summer Musical",
@@ -2399,23 +2391,7 @@
       "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests.",
       "poster": "https://image.tmdb.org/t/p/w500/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg",
       "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1513598",
-      "type": "movie",
-      "name": "Stolen: Heist of the Century",
-      "description": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
-      "poster": "https://image.tmdb.org/t/p/w500/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
-      "releaseInfo": "2025-08-08"
-    },
-    {
-      "id": "tmdb:1280444",
-      "type": "movie",
-      "name": "The Occupant",
-      "description": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
-      "poster": "https://image.tmdb.org/t/p/w500/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
-      "releaseInfo": "2025-08-08"
     }
   ],
-  "ts": 1770144753573
+  "ts": 1770169679349
 }
