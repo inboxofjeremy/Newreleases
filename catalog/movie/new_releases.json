@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:1548113",
+      "id": "tmdb:1620991",
       "type": "movie",
-      "name": "The Muppet Show",
-      "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "poster": "https://image.tmdb.org/t/p/w500/ox9U8j29MFOtGjjEwsPlN7tvyv1.jpg",
+      "name": "The Investigation of Lucy Letby",
+      "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
+      "poster": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -14,6 +14,14 @@
       "name": "Relationship Goals",
       "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
       "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+      "releaseInfo": "2026-02-04"
+    },
+    {
+      "id": "tmdb:1548113",
+      "type": "movie",
+      "name": "The Muppet Show",
+      "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -97,6 +105,14 @@
       "releaseInfo": "2026-01-19"
     },
     {
+      "id": "tmdb:1592734",
+      "type": "movie",
+      "name": "Love on the Amazon",
+      "description": "Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River.",
+      "poster": "https://image.tmdb.org/t/p/w500/htrU3ly6waXgL74qbP2890BT8YL.jpg",
+      "releaseInfo": "2026-01-17"
+    },
+    {
       "id": "tmdb:1584215",
       "type": "movie",
       "name": "The Internship",
@@ -141,7 +157,7 @@
       "type": "movie",
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/1mF4othta76CEXcL1YFInYudQ7K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "releaseInfo": "2026-01-09"
     },
     {
@@ -814,14 +830,6 @@
       "name": "The Merchants of Joy",
       "description": "In the city that never sleeps, five families hustle each winter to turn sidewalks into holiday outposts.",
       "poster": "https://image.tmdb.org/t/p/w500/bMxiz9KwVminT5HCGOubkcHsK0c.jpg",
-      "releaseInfo": "2025-11-14"
-    },
-    {
-      "id": "tmdb:1426083",
-      "type": "movie",
-      "name": "Escobank",
-      "description": "A ragtag group of misfits, veterans and ex-cons embark on a perilous journey in the jungles of Colombia to find the buried barrels of cash left behind by legendary drug kingpin Pablo Escobar before his downfall.",
-      "poster": "https://image.tmdb.org/t/p/w500/5G0pPDxAKWgQy24NHBGl8LYPxIH.jpg",
       "releaseInfo": "2025-11-14"
     },
     {
@@ -1503,6 +1511,14 @@
       "description": "Ben Stiller tells the story of his parents—comedy icons Jerry Stiller and Anne Meara—exploring their impact on popular culture and at home, where the lines between creativity, family, life, and art often blurred.",
       "poster": "https://image.tmdb.org/t/p/w500/zJuzuanxfc7D7Kqz4qYQqsDhRY3.jpg",
       "releaseInfo": "2025-10-05"
+    },
+    {
+      "id": "tmdb:1464883",
+      "type": "movie",
+      "name": "The President's Cake",
+      "description": "In 1990s Iraq, it's 'draw day', when schools select students for the honour of bringing items to their mandatory local celebrations of President Saddam Hussein's birthday. Nine-year-old Lamia lives in the historic marshes with her spirited grandmother, Bibi. Before school, Bibi teaches Lamia clever tricks to avoid being chosen for the baking duties. However, when Musa, the authoritative teacher, calls Lamia's name for the most challenging task–the birthday cake–she has no choice but to accept. Refusing could mean imprisonment or even death.",
+      "poster": "https://image.tmdb.org/t/p/w500/abdw51gf1oy3UWllAwqGl6WdkiS.jpg",
+      "releaseInfo": "2025-10-04"
     },
     {
       "id": "tmdb:1262815",
@@ -2401,5 +2417,5 @@
       "releaseInfo": "2025-08-11"
     }
   ],
-  "ts": 1770316982959
+  "ts": 1770342517655
 }
