@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1618945",
+      "type": "movie",
+      "name": "Yoh! Bestie",
+      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1620991",
       "type": "movie",
       "name": "The Investigation of Lucy Letby",
@@ -49,6 +57,14 @@
       "releaseInfo": "2026-01-28"
     },
     {
+      "id": "tmdb:1596291",
+      "type": "movie",
+      "name": "Queen of Chess",
+      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+      "releaseInfo": "2026-01-27"
+    },
+    {
       "id": "tmdb:1340076",
       "type": "movie",
       "name": "Untitled Home Invasion Romance",
@@ -77,7 +93,7 @@
       "type": "movie",
       "name": "The Moment",
       "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-      "poster": "https://image.tmdb.org/t/p/w500/txnHhq3GA1zDxZQMk2igq9CyA8v.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -143,14 +159,6 @@
       "description": "Georgie, a travel writer, travels to Melbourne for an assignment where she meets Zach, an ex-Australian footballer who agrees to be her tour guide and shows her that there's more to life than work.",
       "poster": "https://image.tmdb.org/t/p/w500/8sVuifcuJUAsSgQGXLI6c3efOgK.jpg",
       "releaseInfo": "2026-01-10"
-    },
-    {
-      "id": "tmdb:1601243",
-      "type": "movie",
-      "name": "Oscar Shaw",
-      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
-      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:840464",
@@ -2301,7 +2309,7 @@
       "type": "movie",
       "name": "Splitsville",
       "description": "After Ashley asks for a divorce, good-natured Carey runs to his friends, Julie and Paul, for support. He’s shocked to discover that the secret to their happiness is an open marriage, that is until Carey crosses the line and throws all of their relationships into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/cX6MVLl99pMDUmM3XKPFN4UKB8j.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
       "releaseInfo": "2025-08-22"
     },
     {
@@ -2391,31 +2399,7 @@
       "description": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
       "poster": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
       "releaseInfo": "2025-08-13"
-    },
-    {
-      "id": "tmdb:1517042",
-      "type": "movie",
-      "name": "Jim Jefferies: Two Limb Policy",
-      "description": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
-      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
-      "releaseInfo": "2025-08-12"
-    },
-    {
-      "id": "tmdb:1242434",
-      "type": "movie",
-      "name": "Highest 2 Lowest",
-      "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
-      "poster": "https://image.tmdb.org/t/p/w500/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
-      "releaseInfo": "2025-08-11"
-    },
-    {
-      "id": "tmdb:1007734",
-      "type": "movie",
-      "name": "Nobody 2",
-      "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
-      "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
-      "releaseInfo": "2025-08-11"
     }
   ],
-  "ts": 1770489008258
+  "ts": 1770516733181
 }
