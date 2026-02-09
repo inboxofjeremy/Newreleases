@@ -1217,6 +1217,14 @@
       "releaseInfo": "2025-10-21"
     },
     {
+      "id": "tmdb:1287063",
+      "type": "movie",
+      "name": "Pike River",
+      "description": "In the aftermath of an explosion that rocked the Pike River Mine and took the lives of 29 West Coasters, two women step up to fight for accountability.",
+      "poster": "https://image.tmdb.org/t/p/w500/6I9RUAVaYBWjG3lFamEBs9B8jMN.jpg",
+      "releaseInfo": "2025-10-20"
+    },
+    {
       "id": "tmdb:1469354",
       "type": "movie",
       "name": "Border Hunters",
@@ -1381,7 +1389,7 @@
       "type": "movie",
       "name": "Is This Thing On?",
       "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -1485,7 +1493,7 @@
       "type": "movie",
       "name": "Marty Supreme",
       "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "releaseInfo": "2025-10-06"
     },
     {
@@ -2401,5 +2409,5 @@
       "releaseInfo": "2025-08-13"
     }
   ],
-  "ts": 1770575486117
+  "ts": 1770602188178
 }
