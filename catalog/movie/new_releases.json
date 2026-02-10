@@ -57,6 +57,14 @@
       "releaseInfo": "2026-01-28"
     },
     {
+      "id": "tmdb:1624183",
+      "type": "movie",
+      "name": "Blackout",
+      "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+      "releaseInfo": "2026-01-27"
+    },
+    {
       "id": "tmdb:1596291",
       "type": "movie",
       "name": "Queen of Chess",
@@ -517,7 +525,7 @@
       "type": "movie",
       "name": "The Housemaid",
       "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -2383,31 +2391,7 @@
       "description": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
       "poster": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
       "releaseInfo": "2025-08-14"
-    },
-    {
-      "id": "tmdb:1529665",
-      "type": "movie",
-      "name": "Dream",
-      "description": "Lisa is turning her hit song “Dream” into a cinematic moment, teaming up with actor Kentaro Sakaguchi. About a heartbreaking story of love, loss and memory following a grieving woman who revisits cherished moments with her late partner.",
-      "poster": "https://image.tmdb.org/t/p/w500/47qnhgOKc1TJTr2Nq950tmcLvpU.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
-      "id": "tmdb:1529346",
-      "type": "movie",
-      "name": "Krypto Saves the Day!: School Bus Scuffle",
-      "description": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school",
-      "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
-      "releaseInfo": "2025-08-13"
-    },
-    {
-      "id": "tmdb:537921",
-      "type": "movie",
-      "name": "Fixed",
-      "description": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
-      "poster": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
-      "releaseInfo": "2025-08-13"
     }
   ],
-  "ts": 1770642102839
+  "ts": 1770702550435
 }
