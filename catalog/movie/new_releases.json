@@ -617,22 +617,6 @@
       "releaseInfo": "2025-11-28"
     },
     {
-      "id": "tmdb:1546001",
-      "type": "movie",
-      "name": "The More the Merrier",
-      "description": "An overwhelmed doctor is left to look after and care for three very pregnant women by herself during a storm on Christmas Eve, until she is joined by an intriguing colleague.",
-      "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
-      "releaseInfo": "2025-11-28"
-    },
-    {
-      "id": "tmdb:1430593",
-      "type": "movie",
-      "name": "Tinsel Town",
-      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
-      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
-      "releaseInfo": "2025-11-28"
-    },
-    {
       "id": "tmdb:1330400",
       "type": "movie",
       "name": "Stone Creek Killer",
@@ -1055,22 +1039,6 @@
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
-    },
-    {
-      "id": "tmdb:1497036",
-      "type": "movie",
-      "name": "Dr. Seuss's The Sneetches",
-      "description": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
-      "poster": "https://image.tmdb.org/t/p/w500/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
-      "releaseInfo": "2025-11-03"
-    },
-    {
-      "id": "tmdb:1537560",
-      "type": "movie",
-      "name": "A Newport Christmas",
-      "description": "A charitable and spirited Newport socialite in 1905 finds out her father intends for her to become engaged to a man she’s never met at the upcoming Christmas Eve ball. When she wishes for a different life, a man appears — and she somehow time-travels to 2025.",
-      "poster": "https://image.tmdb.org/t/p/w500/bNWUsEOg7HzHlZmSTVKuZ6SglxM.jpg",
-      "releaseInfo": "2025-11-02"
     },
     {
       "id": "tmdb:425274",
@@ -1969,14 +1937,6 @@
       "releaseInfo": "2025-09-12"
     },
     {
-      "id": "tmdb:1321439",
-      "type": "movie",
-      "name": "The Wrong Paris",
-      "description": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
-      "poster": "https://image.tmdb.org/t/p/w500/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
-      "releaseInfo": "2025-09-12"
-    },
-    {
       "id": "tmdb:1289936",
       "type": "movie",
       "name": "Downton Abbey: The Grand Finale",
@@ -2393,5 +2353,5 @@
       "releaseInfo": "2025-08-14"
     }
   ],
-  "ts": 1770728726450
+  "ts": 1770750107941
 }
