@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1297842",
+      "type": "movie",
+      "name": "GOAT",
+      "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball – a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. Will's new teammates aren't thrilled about having a little goat on their roster, but Will is determined to revolutionize the sport and prove once and for all that 'smalls can ball'! He has to do something he has never done before.",
+      "poster": "https://image.tmdb.org/t/p/w500/oXIj3R3QxcQ9wkv9YBWouBNmnFZ.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1618945",
       "type": "movie",
       "name": "Yoh! Bestie",
@@ -47,6 +55,14 @@
       "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
       "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
       "releaseInfo": "2026-01-29"
+    },
+    {
+      "id": "tmdb:1316092",
+      "type": "movie",
+      "name": "“Wuthering Heights”",
+      "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
       "id": "tmdb:1168190",
@@ -167,6 +183,14 @@
       "description": "Georgie, a travel writer, travels to Melbourne for an assignment where she meets Zach, an ex-Australian footballer who agrees to be her tour guide and shows her that there's more to life than work.",
       "poster": "https://image.tmdb.org/t/p/w500/8sVuifcuJUAsSgQGXLI6c3efOgK.jpg",
       "releaseInfo": "2026-01-10"
+    },
+    {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:840464",
@@ -617,6 +641,22 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1546001",
+      "type": "movie",
+      "name": "The More the Merrier",
+      "description": "An overwhelmed doctor is left to look after and care for three very pregnant women by herself during a storm on Christmas Eve, until she is joined by an intriguing colleague.",
+      "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1430593",
+      "type": "movie",
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
       "id": "tmdb:1330400",
       "type": "movie",
       "name": "Stone Creek Killer",
@@ -1039,6 +1079,22 @@
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
+    },
+    {
+      "id": "tmdb:1497036",
+      "type": "movie",
+      "name": "Dr. Seuss's The Sneetches",
+      "description": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
+      "poster": "https://image.tmdb.org/t/p/w500/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+      "releaseInfo": "2025-11-03"
+    },
+    {
+      "id": "tmdb:1537560",
+      "type": "movie",
+      "name": "A Newport Christmas",
+      "description": "A charitable and spirited Newport socialite in 1905 finds out her father intends for her to become engaged to a man she’s never met at the upcoming Christmas Eve ball. When she wishes for a different life, a man appears — and she somehow time-travels to 2025.",
+      "poster": "https://image.tmdb.org/t/p/w500/bNWUsEOg7HzHlZmSTVKuZ6SglxM.jpg",
+      "releaseInfo": "2025-11-02"
     },
     {
       "id": "tmdb:425274",
@@ -1937,6 +1993,14 @@
       "releaseInfo": "2025-09-12"
     },
     {
+      "id": "tmdb:1321439",
+      "type": "movie",
+      "name": "The Wrong Paris",
+      "description": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
+      "poster": "https://image.tmdb.org/t/p/w500/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
+      "releaseInfo": "2025-09-12"
+    },
+    {
       "id": "tmdb:1289936",
       "type": "movie",
       "name": "Downton Abbey: The Grand Finale",
@@ -2343,15 +2407,7 @@
       "description": "Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.",
       "poster": "https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
       "releaseInfo": "2025-08-15"
-    },
-    {
-      "id": "tmdb:1484453",
-      "type": "movie",
-      "name": "Snoopy Presents: A Summer Musical",
-      "description": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
-      "poster": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
-      "releaseInfo": "2025-08-14"
     }
   ],
-  "ts": 1770750107941
+  "ts": 1770775343341
 }
