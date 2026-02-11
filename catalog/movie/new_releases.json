@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "GOAT",
       "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball – a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. Will's new teammates aren't thrilled about having a little goat on their roster, but Will is determined to revolutionize the sport and prove once and for all that 'smalls can ball'! He has to do something he has never done before.",
-      "poster": "https://image.tmdb.org/t/p/w500/oXIj3R3QxcQ9wkv9YBWouBNmnFZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "releaseInfo": "2026-02-06"
     },
     {
@@ -1428,7 +1428,7 @@
       "id": "tmdb:524635",
       "type": "movie",
       "name": "The Chronology of Water",
-      "description": "Growing up in an environment torn apart by violence and alcohol, a young woman finds her voice through the written word and her salvation as a swimmer.",
+      "description": "A woman, after an abusive childhood, escapes into competitive swimming, sexual experimentation, toxic relationships, and addiction before finding her voice through writing.",
       "poster": "https://image.tmdb.org/t/p/w500/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg",
       "releaseInfo": "2025-10-10"
     },
@@ -2165,7 +2165,7 @@
       "type": "movie",
       "name": "Hamnet",
       "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2409,5 +2409,5 @@
       "releaseInfo": "2025-08-15"
     }
   ],
-  "ts": 1770793024541
+  "ts": 1770814926094
 }
