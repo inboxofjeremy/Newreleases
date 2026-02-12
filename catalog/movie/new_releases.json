@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1429605",
+      "type": "movie",
+      "name": "F Valentine's Day",
+      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1297842",
       "type": "movie",
       "name": "GOAT",
@@ -41,11 +49,19 @@
       "releaseInfo": "2026-02-04"
     },
     {
+      "id": "tmdb:1613335",
+      "type": "movie",
+      "name": "Miracle: The Boys of '80",
+      "description": "This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.",
+      "poster": "https://image.tmdb.org/t/p/w500/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
+      "releaseInfo": "2026-01-30"
+    },
+    {
       "id": "tmdb:1290821",
       "type": "movie",
       "name": "Shelter",
       "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/zA4kTLsGnJN0tfMjKrinKgYIuki.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/903mfuYcAEC20o52mxOMAkCCS3M.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
@@ -549,7 +565,7 @@
       "type": "movie",
       "name": "The Housemaid",
       "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -565,7 +581,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tzCsmggqZc7fOmkAXZXXvsdxOsq.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -2165,7 +2181,7 @@
       "type": "movie",
       "name": "Hamnet",
       "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2391,23 +2407,7 @@
       "description": "Mystery Island hosts a corporate retreat with a guest being Emilia's ex-fiancé. Old feelings become complicated, tensions run high, and allegations arise when a guest is found dead.",
       "poster": "https://image.tmdb.org/t/p/w500/xynf6bJILTN3UzLRBbKAklVf056.jpg",
       "releaseInfo": "2025-08-17"
-    },
-    {
-      "id": "tmdb:1461181",
-      "type": "movie",
-      "name": "Hierarchy",
-      "description": "In an undisclosed area of Texas after two adoptive brothers become entangled in criminal activity, forced to evade law enforcement and the greedy Russian mafia.",
-      "poster": "https://image.tmdb.org/t/p/w500/3KVq24NkOn98nrSEAFphnRWVWNd.jpg",
-      "releaseInfo": "2025-08-15"
-    },
-    {
-      "id": "tmdb:1254624",
-      "type": "movie",
-      "name": "Night Always Comes",
-      "description": "Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
-      "releaseInfo": "2025-08-15"
     }
   ],
-  "ts": 1770836295803
+  "ts": 1770861323142
 }
