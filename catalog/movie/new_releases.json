@@ -17,6 +17,14 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1317672",
+      "type": "movie",
+      "name": "Love Me Love Me",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "releaseInfo": "2026-02-12"
+    },
+    {
       "id": "tmdb:1429605",
       "type": "movie",
       "name": "F Valentine's Day",
@@ -2407,23 +2415,7 @@
       "description": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
       "poster": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
       "releaseInfo": "2025-08-20"
-    },
-    {
-      "id": "tmdb:1531747",
-      "type": "movie",
-      "name": "The Serial Killer's Apprentice",
-      "description": "Dr. Katherine Ramsland interviews Elmer Wayne Henley, the sole survivor of the 1973 Houston Mass Murders, to unravel his chilling journey from manipulated teen to convicted killer — and the terrifying truth behind the line between victim and predator.",
-      "poster": "https://image.tmdb.org/t/p/w500/dKdR8jQ7co3jR34hx3EoCyZ787J.jpg",
-      "releaseInfo": "2025-08-17"
-    },
-    {
-      "id": "tmdb:1458454",
-      "type": "movie",
-      "name": "Mystery Island: Play for Keeps",
-      "description": "Mystery Island hosts a corporate retreat with a guest being Emilia's ex-fiancé. Old feelings become complicated, tensions run high, and allegations arise when a guest is found dead.",
-      "poster": "https://image.tmdb.org/t/p/w500/xynf6bJILTN3UzLRBbKAklVf056.jpg",
-      "releaseInfo": "2025-08-17"
     }
   ],
-  "ts": 1771008147546
+  "ts": 1771033689255
 }
