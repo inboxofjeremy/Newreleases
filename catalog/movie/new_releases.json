@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1243460",
+      "type": "movie",
+      "name": "Joe's College Road Trip",
+      "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+      "releaseInfo": "2026-02-13"
+    },
+    {
       "id": "tmdb:1171145",
       "type": "movie",
       "name": "Crime 101",
@@ -271,6 +279,14 @@
       "description": "When the founder of a high-end fashion company gets marooned on an \"deserted\" island with a chef, romance blossoms as they work together to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
       "releaseInfo": "2026-01-03"
+    },
+    {
+      "id": "tmdb:1119449",
+      "type": "movie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "releaseInfo": "2026-01-02"
     },
     {
       "id": "tmdb:1601082",
@@ -2417,5 +2433,5 @@
       "releaseInfo": "2025-08-20"
     }
   ],
-  "ts": 1771051204635
+  "ts": 1771072805360
 }
