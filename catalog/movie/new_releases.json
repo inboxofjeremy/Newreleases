@@ -281,14 +281,6 @@
       "releaseInfo": "2026-01-03"
     },
     {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2026-01-02"
-    },
-    {
       "id": "tmdb:1601082",
       "type": "movie",
       "name": "Cheetahs Up Close with Bertie Gregory",
@@ -1841,6 +1833,14 @@
       "releaseInfo": "2025-09-25"
     },
     {
+      "id": "tmdb:1119449",
+      "type": "movie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "releaseInfo": "2025-09-24"
+    },
+    {
       "id": "tmdb:1212271",
       "type": "movie",
       "name": "Eleanor the Great",
@@ -2441,5 +2441,5 @@
       "releaseInfo": "2025-08-20"
     }
   ],
-  "ts": 1771138006259
+  "ts": 1771159346367
 }
