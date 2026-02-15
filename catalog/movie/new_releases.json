@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "Love Me Love Me",
       "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
       "releaseInfo": "2026-02-12"
     },
     {
@@ -109,7 +109,7 @@
       "type": "movie",
       "name": "“Wuthering Heights”",
       "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "releaseInfo": "2026-01-28"
     },
     {
@@ -505,6 +505,14 @@
       "releaseInfo": "2025-12-06"
     },
     {
+      "id": "tmdb:1591822",
+      "type": "movie",
+      "name": "Pandora: Fire and Ice",
+      "description": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/13YU9zVOD6unuZuiLapZTXQql4G.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
       "id": "tmdb:1572017",
       "type": "movie",
       "name": "Love and Wine",
@@ -621,7 +629,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/tzCsmggqZc7fOmkAXZXXvsdxOsq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -645,7 +653,7 @@
       "type": "movie",
       "name": "The Lost Chapter: Yuki's Revenge",
       "description": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
-      "poster": "https://image.tmdb.org/t/p/w500/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/m1F7JymM4RXPiFSR0G8H2VIwGbw.jpg",
       "releaseInfo": "2025-11-30"
     },
     {
@@ -2433,5 +2441,5 @@
       "releaseInfo": "2025-08-20"
     }
   ],
-  "ts": 1771093771756
+  "ts": 1771120664321
 }
