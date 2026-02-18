@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1088434",
+      "type": "movie",
+      "name": "Hellfire",
+      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "releaseInfo": "2026-02-17"
+    },
+    {
       "id": "tmdb:1515615",
       "type": "movie",
       "name": "Kissing Is the Easy Part",
@@ -37,7 +45,7 @@
       "type": "movie",
       "name": "Love Me Love Me",
       "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
       "releaseInfo": "2026-02-12"
     },
     {
@@ -2417,5 +2425,5 @@
       "releaseInfo": "2025-08-22"
     }
   ],
-  "ts": 1771397862604
+  "ts": 1771419425919
 }
