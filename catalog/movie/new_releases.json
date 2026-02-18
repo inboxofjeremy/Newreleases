@@ -65,6 +65,14 @@
       "releaseInfo": "2026-02-06"
     },
     {
+      "id": "tmdb:1291335",
+      "type": "movie",
+      "name": "Solo Mio",
+      "description": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1620991",
       "type": "movie",
       "name": "The Investigation of Lucy Letby",
@@ -85,7 +93,7 @@
       "type": "movie",
       "name": "The Muppet Show",
       "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "poster": "https://image.tmdb.org/t/p/w500/lXrLkyuOxu22JWE0TVByVMBJi3q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -189,7 +197,7 @@
       "type": "movie",
       "name": "Mercy",
       "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -1277,7 +1285,7 @@
       "type": "movie",
       "name": "The SpongeBob Movie: Search for SquarePants",
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -2061,7 +2069,7 @@
       "type": "movie",
       "name": "Andrew Santino: White Noise",
       "description": "Andrew Santino's new hilarious stand-up special will undoubtedly solve all the world's problems for eternity.",
-      "poster": "https://image.tmdb.org/t/p/w500/vhTfACqo6a6BYNaoUVjuMWVqfP2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
       "releaseInfo": "2025-09-12"
     },
     {
@@ -2407,39 +2415,7 @@
       "description": "A Hollywood starlet seeks refuge in a secluded Airbnb following a high-profile scandal, only to find herself at the mercy of hardened criminals on the hunt for a score.",
       "poster": "https://image.tmdb.org/t/p/w500/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg",
       "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1517212",
-      "type": "movie",
-      "name": "The Truth About Jussie Smollett?",
-      "description": "The shocking true story of an allegedly fake story that some now say might just be a true story. With first-hand interviews from those at the helm, including investigating police, lawyers, journalists and Jussie himself, this compelling documentary invites the audience to decide for themselves who is telling The Truth About Jussie Smollett?",
-      "poster": "https://image.tmdb.org/t/p/w500/iRR9Ri2GX3c5bikrz1Zuj4u5bkl.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1337562",
-      "type": "movie",
-      "name": "Splitsville",
-      "description": "After Ashley asks for a divorce, good-natured Carey runs to his friends, Julie and Paul, for support. He’s shocked to discover that the secret to their happiness is an open marriage, that is until Carey crosses the line and throws all of their relationships into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1151334",
-      "type": "movie",
-      "name": "Eenie Meanie",
-      "description": "A former teenage getaway driver gets dragged back into her unsavory past when a former employer offers her a chance to save the life of her chronically unreliable ex-boyfriend.",
-      "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1149504",
-      "type": "movie",
-      "name": "Honey Don't!",
-      "description": "Honey O'Donahue, a small-town private investigator, delves into a series of strange deaths tied to a mysterious church.",
-      "poster": "https://image.tmdb.org/t/p/w500/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
-      "releaseInfo": "2025-08-22"
     }
   ],
-  "ts": 1771354428505
+  "ts": 1771379704632
 }
