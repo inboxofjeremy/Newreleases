@@ -33,20 +33,20 @@
       "releaseInfo": "2026-02-13"
     },
     {
-      "id": "tmdb:1397335",
-      "type": "movie",
-      "name": "Hunting Jessica Brok",
-      "description": "Long before she was a single mother in a sleepy South African town, Jessica Brok was a highly skilled, coldblooded, special ops assassin. She thought she’d left that life behind. She thought her last ill-fated mission was her last. She thought wrong.",
-      "poster": "https://image.tmdb.org/t/p/w500/xRcGnwShS9wpqlTc6KvK4WUY55A.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
       "id": "tmdb:1317672",
       "type": "movie",
       "name": "Love Me Love Me",
-      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
       "poster": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
       "releaseInfo": "2026-02-12"
+    },
+    {
+      "id": "tmdb:1628484",
+      "type": "movie",
+      "name": "Katt Williams: The Last Report",
+      "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
+      "poster": "https://image.tmdb.org/t/p/w500/NbIR9bk7oqZIUvIjGXedJB6alY.jpg",
+      "releaseInfo": "2026-02-10"
     },
     {
       "id": "tmdb:1429605",
@@ -197,7 +197,7 @@
       "type": "movie",
       "name": "The Moment",
       "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zASd88z2sfrgwxHzMnjAgyIsGAx.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -308,7 +308,7 @@
       "id": "tmdb:1592021",
       "type": "movie",
       "name": "Lost in Paradise",
-      "description": "When the founder of a high-end fashion company gets marooned on an \"deserted\" island with a chef, romance blossoms as they work together to survive.",
+      "description": "When the founder of a high-end fashion company gets marooned on a \"deserted\" island with a chef, romance blossoms as they work together to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
       "releaseInfo": "2026-01-03"
     },
@@ -677,7 +677,7 @@
       "type": "movie",
       "name": "The Lost Chapter: Yuki's Revenge",
       "description": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
-      "poster": "https://image.tmdb.org/t/p/w500/m1F7JymM4RXPiFSR0G8H2VIwGbw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
       "releaseInfo": "2025-11-30"
     },
     {
@@ -855,6 +855,14 @@
       "description": "The Quinns and DeLucas have lived next door to each other for decades in the shadow of Highmark Stadium – the home of their beloved Buffalo Bills. With their longtime friendship rooted in being proud members of Bills Mafia, the two clans have enjoyed cherished traditions that revolve around cheering for their favorite team – especially at the holidays when they celebrate the last home game before Christmas.",
       "poster": "https://image.tmdb.org/t/p/w500/hpkykimE5Rx8nsDoB0skhycCTTH.jpg",
       "releaseInfo": "2025-11-22"
+    },
+    {
+      "id": "tmdb:1478406",
+      "type": "movie",
+      "name": "A Loud House Christmas Movie: Naughty or Nice",
+      "description": "Desperate to get off Santa's Naughty List before Christmas, Lincoln resorts to hacking into the North Pole computers and putting himself on the nice list. But when the hack gets out of control, he ends up reversing the Naughty\\/Nice lists around the world and turning the North Pole itself Naughty. Lincoln enlists his family to go to the North Pole and try to fix the mess he made. Teaming up with his new frenemy, Duncan, the elf who first put him on the naughty list, Lincoln and the Louds must battle a now evil Santa and his minions to save Christmas.",
+      "poster": "https://image.tmdb.org/t/p/w500/x8etkE8pdopoHx8B8PJrinU01Wz.jpg",
+      "releaseInfo": "2025-11-21"
     },
     {
       "id": "tmdb:1564232",
@@ -1509,7 +1517,7 @@
       "type": "movie",
       "name": "Is This Thing On?",
       "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
       "releaseInfo": "2025-10-10"
     },
     {
@@ -1557,7 +1565,7 @@
       "type": "movie",
       "name": "Rental Family",
       "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nRrwqApUDFL8gLGyJFIdDkmoule.jpg",
       "releaseInfo": "2025-10-09"
     },
     {
@@ -2353,14 +2361,6 @@
       "releaseInfo": "2025-08-28"
     },
     {
-      "id": "tmdb:744653",
-      "type": "movie",
-      "name": "The Thursday Murder Club",
-      "description": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
-      "poster": "https://image.tmdb.org/t/p/w500/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
-      "releaseInfo": "2025-08-28"
-    },
-    {
       "id": "tmdb:1495712",
       "type": "movie",
       "name": "Montana Mavericks",
@@ -2391,39 +2391,7 @@
       "description": "Nora and James were once the dream team at a top New York ad agency, but now they're locked in a frosty competition for the sweetest client of all: a small-town dairy farm that churns out the most delectable ice cream in the country.",
       "poster": "https://image.tmdb.org/t/p/w500/4EZs82A1m7xSxClRTwI8JbezAnK.jpg",
       "releaseInfo": "2025-08-23"
-    },
-    {
-      "id": "tmdb:849192",
-      "type": "movie",
-      "name": "Pools",
-      "description": "Kennedy has one day to get her shit together or get kicked out of school for good. Instead of buckling down, she rallies a ragtag crew for a midnight pool-hopping adventure through the lavish estates of her college town. But under the surface, Kennedy is searching for answers to the questions tearing her up inside in the wake of her father's death. As the secrets spill, this wild escape becomes a cathartic journey of self-discovery.",
-      "poster": "https://image.tmdb.org/t/p/w500/3yX8o4LT6TyrjoY2loTyziPuZys.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1374686",
-      "type": "movie",
-      "name": "Light of the World",
-      "description": "It's 30 AD and everyone is expectantly awaiting the coming Messiah. While Jesus isn't exactly what they imagined, there is something special about this man. Soon, John, James, Andrew, Peter, and others begin to follow Jesus on an unexpected adventure. This beautifully animated story of Jesus is told through the eyes of his beloved young friend, the Apostle John.",
-      "poster": "https://image.tmdb.org/t/p/w500/3vUqo90FCIHXPiXnQJEeqzg5EDV.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1499984",
-      "type": "movie",
-      "name": "Gladiator Underground",
-      "description": "Two brothers compete in the world's deadliest underground fighting tournament, where they must decide whether to play by the rules or to cast their honor aside and team up to bring down the dark syndicate running the tournament.",
-      "poster": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
-      "releaseInfo": "2025-08-22"
-    },
-    {
-      "id": "tmdb:1244953",
-      "type": "movie",
-      "name": "Trust",
-      "description": "A Hollywood starlet seeks refuge in a secluded Airbnb following a high-profile scandal, only to find herself at the mercy of hardened criminals on the hunt for a score.",
-      "poster": "https://image.tmdb.org/t/p/w500/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg",
-      "releaseInfo": "2025-08-22"
     }
   ],
-  "ts": 1771440619956
+  "ts": 1771466049692
 }
