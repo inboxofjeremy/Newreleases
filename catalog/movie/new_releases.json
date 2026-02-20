@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1327688",
+      "type": "movie",
+      "name": "One Mile: Chapter One",
+      "description": "After being released from prison, former special forces operative Danny tries to reconnect with his daughter Alex by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
+      "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:1088434",
       "type": "movie",
       "name": "Hellfire",
@@ -21,7 +29,7 @@
       "type": "movie",
       "name": "Joe's College Road Trip",
       "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/c7uyBUFFcPTSVOXF63A1hpJbQzS.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
@@ -637,7 +645,7 @@
       "type": "movie",
       "name": "The Housemaid",
       "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -1294,14 +1302,6 @@
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
       "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
       "poster": "https://image.tmdb.org/t/p/w500/nfn3KUIXqX2iW2eKnB8THzu8VEp.jpg",
-      "releaseInfo": "2025-10-26"
-    },
-    {
-      "id": "tmdb:991494",
-      "type": "movie",
-      "name": "The SpongeBob Movie: Search for SquarePants",
-      "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -2383,15 +2383,7 @@
       "description": "After Ariel, Moana, Tiana, Rapunzel, and Snow White thwarted Gaston's plan to take over all of their kingdoms, he calls upon Ursula, Jafar, and the Evil Queen to help take the Princesses down once and for all. The Princesses learn about Gaston's scheme and recruit a few friends of their own with the help of Magic Mirror: Aurora, Belle, and Cinderella! Together, the Princesses team up for an ultimate showdown of good versus evil.",
       "poster": "https://image.tmdb.org/t/p/w500/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
       "releaseInfo": "2025-08-25"
-    },
-    {
-      "id": "tmdb:1490891",
-      "type": "movie",
-      "name": "Double Scoop",
-      "description": "Nora and James were once the dream team at a top New York ad agency, but now they're locked in a frosty competition for the sweetest client of all: a small-town dairy farm that churns out the most delectable ice cream in the country.",
-      "poster": "https://image.tmdb.org/t/p/w500/4EZs82A1m7xSxClRTwI8JbezAnK.jpg",
-      "releaseInfo": "2025-08-23"
     }
   ],
-  "ts": 1771526748392
+  "ts": 1771552194155
 }
