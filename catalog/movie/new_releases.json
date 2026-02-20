@@ -133,7 +133,7 @@
       "type": "movie",
       "name": "Shelter",
       "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/903mfuYcAEC20o52mxOMAkCCS3M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
@@ -1373,7 +1373,7 @@
       "type": "movie",
       "name": "Dead Man's Wire",
       "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
-      "poster": "https://image.tmdb.org/t/p/w500/71FPde8V7DbnAHgUZfwrpxPOFG6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg",
       "releaseInfo": "2025-10-18"
     },
     {
@@ -2253,7 +2253,7 @@
       "type": "movie",
       "name": "H Is for Hawk",
       "description": "After losing her beloved father, Helen finds herself saved by an unlikely friendship with a stubborn hawk named Mabel. Through the bond, Helen rediscovers the beauty of being alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/brjbQSdxvXfXDLSRA26NH2Qa5gP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lIS8Ow290hwNtS8VEeboYGV30Dx.jpg",
       "releaseInfo": "2025-08-29"
     },
     {
@@ -2385,5 +2385,5 @@
       "releaseInfo": "2025-08-25"
     }
   ],
-  "ts": 1771570320277
+  "ts": 1771591930014
 }
