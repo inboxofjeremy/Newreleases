@@ -17,6 +17,14 @@
       "releaseInfo": "2026-02-17"
     },
     {
+      "id": "tmdb:467905",
+      "type": "movie",
+      "name": "How to Make a Killing",
+      "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+      "poster": "https://image.tmdb.org/t/p/w500/yQ7OP2HYxl9YmkWNMkuUA2YaF5.jpg",
+      "releaseInfo": "2026-02-14"
+    },
+    {
       "id": "tmdb:1515615",
       "type": "movie",
       "name": "Kissing Is the Easy Part",
@@ -55,6 +63,14 @@
       "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
       "poster": "https://image.tmdb.org/t/p/w500/NbIR9bk7oqZIUvIjGXedJB6alY.jpg",
       "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1608615",
+      "type": "movie",
+      "name": "The Way to You",
+      "description": "New Yorkers Emma and Conrad agree to help each other find their missed connections after a subway blackout. Their search might lead to love, but not where either of them expects to find it.",
+      "poster": "https://image.tmdb.org/t/p/w500/ear2Lh6vA7umUUmuDIFywRFBnTA.jpg",
+      "releaseInfo": "2026-02-07"
     },
     {
       "id": "tmdb:1429605",
@@ -206,6 +222,14 @@
       "name": "The Moment",
       "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
       "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "releaseInfo": "2026-01-23"
+    },
+    {
+      "id": "tmdb:1617852",
+      "type": "movie",
+      "name": "Speed Faster",
+      "description": "Ace and his crew of elite street racers are forced into a high-stakes mission when a shadowy organization threatens someone close to him. In the aftermath of Four Amigos, they find themselves working for the infamous Church of Assassins, tasked with pulling off an impossible job. But as they push their limits, they uncover a chilling truth-failure was always part of the plan. Betrayal, speed, and survival collide in this adrenaline-fueled thriller where the real race isn't just for victory, but for their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -645,7 +669,7 @@
       "type": "movie",
       "name": "The Housemaid",
       "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -1302,6 +1326,14 @@
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
       "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
       "poster": "https://image.tmdb.org/t/p/w500/nfn3KUIXqX2iW2eKnB8THzu8VEp.jpg",
+      "releaseInfo": "2025-10-26"
+    },
+    {
+      "id": "tmdb:991494",
+      "type": "movie",
+      "name": "The SpongeBob Movie: Search for SquarePants",
+      "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
       "releaseInfo": "2025-10-26"
     },
     {
@@ -2375,15 +2407,7 @@
       "description": "With one minute to impress Tony Hinchcliffe and his star-studded panel, newbie stand-ups risk it all on the hallowed ground of Madison Square Garden.",
       "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
       "releaseInfo": "2025-08-25"
-    },
-    {
-      "id": "tmdb:1515395",
-      "type": "movie",
-      "name": "Lego Disney Princess: Villains Unite",
-      "description": "After Ariel, Moana, Tiana, Rapunzel, and Snow White thwarted Gaston's plan to take over all of their kingdoms, he calls upon Ursula, Jafar, and the Evil Queen to help take the Princesses down once and for all. The Princesses learn about Gaston's scheme and recruit a few friends of their own with the help of Magic Mirror: Aurora, Belle, and Cinderella! Together, the Princesses team up for an ultimate showdown of good versus evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
-      "releaseInfo": "2025-08-25"
     }
   ],
-  "ts": 1771612855577
+  "ts": 1771638323617
 }
