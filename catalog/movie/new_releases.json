@@ -4,7 +4,7 @@
       "id": "tmdb:1327688",
       "type": "movie",
       "name": "One Mile: Chapter One",
-      "description": "After being released from prison, former special forces operative Danny tries to reconnect with his daughter Alex by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
+      "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
       "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
       "releaseInfo": "2026-02-20"
     },
@@ -1909,7 +1909,7 @@
       "type": "movie",
       "name": "Good Luck, Have Fun, Don't Die",
       "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
       "releaseInfo": "2025-09-24"
     },
     {
@@ -2409,5 +2409,5 @@
       "releaseInfo": "2025-08-25"
     }
   ],
-  "ts": 1771655853178
+  "ts": 1771677592210
 }
