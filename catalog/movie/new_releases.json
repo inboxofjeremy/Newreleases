@@ -2377,29 +2377,13 @@
       "releaseInfo": "2025-08-29"
     },
     {
-      "id": "tmdb:1245993",
-      "type": "movie",
-      "name": "Caught Stealing",
-      "description": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
       "id": "tmdb:1494409",
       "type": "movie",
       "name": "Imported",
       "description": "After a lifelong dream of playing in the NBA is dashed, and on the brink of their athletic prime, three athletes discover unexpected growth and success as international ballers when they decide to play overseas. Immersing themselves in foreign cultures while discovering the intense and exhilarating global fandom for basketball, these athletes turn an unwanted detour into a transformative and fulfilling chapter in the pursuit of their dreams.",
       "poster": "https://image.tmdb.org/t/p/w500/mWzjWop4AqqAHBmLN2kYFMYqGgW.jpg",
       "releaseInfo": "2025-08-28"
-    },
-    {
-      "id": "tmdb:1495712",
-      "type": "movie",
-      "name": "Montana Mavericks",
-      "description": "Heather is a New York City girl and a best-selling author on a mission to conquer writer’s block and avoid paying back an advance on her next book. Her plans take a sudden swerve when she inherits a family ranch in Montana. With her two best friends, Heather heads out for a “Yellowstone” adventure intent on a quick sale but is blindsided by both the ranch’s dilapidated condition and by Cliff, the charming cowboy veterinarian next door who challenges her big-city ideals. Heather and her friends find more than they bargained for in this big sky adventure.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPqoEKCSlImD2JIBf6uWMsU3Gag.jpg",
-      "releaseInfo": "2025-08-26"
     }
   ],
-  "ts": 1771785067707
+  "ts": 1771811639329
 }
