@@ -163,7 +163,7 @@
     {
       "id": "tmdb:1316092",
       "type": "movie",
-      "name": "“Wuthering Heights”",
+      "name": "\"Wuthering Heights\"",
       "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
       "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "releaseInfo": "2026-01-28"
@@ -689,19 +689,19 @@
       "releaseInfo": "2025-12-01"
     },
     {
-      "id": "tmdb:1558396",
-      "type": "movie",
-      "name": "American Sasquatch: Man, Myth or Monster",
-      "description": "American Sasquatch: Man, Myth, or Monster takes audiences on a groundbreaking investigation into one of the world's greatest mysteries. Created by former police detective and best-selling author of the Missing 411 series, Dave Paulides, the film combines cutting-edge science with gripping storytelling - from quantum physics and advanced DNA analysis to the insights of PhD researchers and respected institutions. With startling evidence that blurs the line between folklore and reality, viewers are invited to confront compelling facts that may forever change how we see the legendary hairy biped.",
-      "poster": "https://image.tmdb.org/t/p/w500/oCTU4hO9TT4SGJfDYqlzsyQoIln.jpg",
-      "releaseInfo": "2025-12-01"
-    },
-    {
       "id": "tmdb:1175174",
       "type": "movie",
       "name": "Fackham Hall",
       "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
       "poster": "https://image.tmdb.org/t/p/w500/ppIoWfwei623fxCtKFRfXwXUjZx.jpg",
+      "releaseInfo": "2025-12-01"
+    },
+    {
+      "id": "tmdb:1558396",
+      "type": "movie",
+      "name": "American Sasquatch: Man, Myth or Monster",
+      "description": "American Sasquatch: Man, Myth, or Monster takes audiences on a groundbreaking investigation into one of the world's greatest mysteries. Created by former police detective and best-selling author of the Missing 411 series, Dave Paulides, the film combines cutting-edge science with gripping storytelling - from quantum physics and advanced DNA analysis to the insights of PhD researchers and respected institutions. With startling evidence that blurs the line between folklore and reality, viewers are invited to confront compelling facts that may forever change how we see the legendary hairy biped.",
+      "poster": "https://image.tmdb.org/t/p/w500/oCTU4hO9TT4SGJfDYqlzsyQoIln.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -2367,23 +2367,7 @@
       "description": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
       "poster": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
       "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1267905",
-      "type": "movie",
-      "name": "The Roses",
-      "description": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-      "poster": "https://image.tmdb.org/t/p/w500/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1494409",
-      "type": "movie",
-      "name": "Imported",
-      "description": "After a lifelong dream of playing in the NBA is dashed, and on the brink of their athletic prime, three athletes discover unexpected growth and success as international ballers when they decide to play overseas. Immersing themselves in foreign cultures while discovering the intense and exhilarating global fandom for basketball, these athletes turn an unwanted detour into a transformative and fulfilling chapter in the pursuit of their dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/mWzjWop4AqqAHBmLN2kYFMYqGgW.jpg",
-      "releaseInfo": "2025-08-28"
     }
   ],
-  "ts": 1771873107067
+  "ts": 1771897867716
 }
