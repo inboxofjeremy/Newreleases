@@ -313,6 +313,14 @@
       "releaseInfo": "2026-01-09"
     },
     {
+      "id": "tmdb:1445363",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "description": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "releaseInfo": "2026-01-08"
+    },
+    {
       "id": "tmdb:1599078",
       "type": "movie",
       "name": "Marcello Hernández: American Boy",
@@ -901,7 +909,7 @@
       "type": "movie",
       "name": "Sebastian Maniscalco: It Ain't Right",
       "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
-      "poster": "https://image.tmdb.org/t/p/w500/jUivIhNxzyhfJuYOUxaWNRcgivQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
@@ -1020,7 +1028,7 @@
       "id": "tmdb:628847",
       "type": "movie",
       "name": "Trap House",
-      "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
+      "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves – their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
       "poster": "https://image.tmdb.org/t/p/w500/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
       "releaseInfo": "2025-11-14"
     },
@@ -2359,15 +2367,7 @@
       "description": "Hard-hitting journalism. Era-defining fiction. Witty cartoons. The New Yorker marks its 100th anniversary with this look at its past, present and future.  The New Yorker's centennial reveals behind-the-scenes access to editors, writers, and archives of this culturally vital magazine, one of print's last survivors.",
       "poster": "https://image.tmdb.org/t/p/w500/4vNUHGzIFxI267gFZpq3eM8m0bl.jpg",
       "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1517772",
-      "type": "movie",
-      "name": "Unknown Number: The High School Catfish",
-      "description": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
-      "poster": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
-      "releaseInfo": "2025-08-29"
     }
   ],
-  "ts": 1771959435117
+  "ts": 1771984417497
 }
