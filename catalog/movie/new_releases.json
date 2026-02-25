@@ -1313,14 +1313,6 @@
       "releaseInfo": "2025-10-29"
     },
     {
-      "id": "tmdb:1214130",
-      "type": "movie",
-      "name": "Stitch Head",
-      "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-      "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
-      "releaseInfo": "2025-10-29"
-    },
-    {
       "id": "tmdb:1371185",
       "type": "movie",
       "name": "Song Sung Blue",
@@ -1775,14 +1767,6 @@
       "description": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
       "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
       "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:941109",
-      "type": "movie",
-      "name": "Play Dirty",
-      "description": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
-      "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
-      "releaseInfo": "2025-10-01"
     },
     {
       "id": "tmdb:1043197",
@@ -2369,5 +2353,5 @@
       "releaseInfo": "2025-08-29"
     }
   ],
-  "ts": 1772024247872
+  "ts": 1772046074207
 }
