@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:799882",
+      "type": "movie",
+      "name": "The Bluff",
+      "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
+      "poster": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
+      "releaseInfo": "2026-02-25"
+    },
+    {
       "id": "tmdb:1327688",
       "type": "movie",
       "name": "One Mile: Chapter One",
@@ -317,7 +325,7 @@
       "type": "movie",
       "name": "EPiC: Elvis Presley in Concert",
       "description": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/w4Eqwky7QV5GWyV0kbCdbQMPYk5.jpg",
       "releaseInfo": "2026-01-08"
     },
     {
@@ -804,7 +812,7 @@
       "id": "tmdb:1590097",
       "type": "movie",
       "name": "Afterlight",
-      "description": "In a future shaped by war, AI, and fractured timelines, five interconnected sci-fi stories explore humanity’s fight for connection, survival, and meaning across time and space.",
+      "description": "In a future shaped by war, AI, and fractured timelines, five sci-fi stories explore humanity’s fight for connection, survival, and meaning across time and space.",
       "poster": "https://image.tmdb.org/t/p/w500/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg",
       "releaseInfo": "2025-11-27"
     },
@@ -926,14 +934,6 @@
       "name": "Altered",
       "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
       "poster": "https://image.tmdb.org/t/p/w500/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1480847",
-      "type": "movie",
-      "name": "Sangre del Toro",
-      "description": "Director Guillermo del Toro journeys through a labyrinth of childhood memories, cultural myths and monsters to reveal the origins of his visionary films.",
-      "poster": "https://image.tmdb.org/t/p/w500/i6gRde2TqBimsn1WTj4bgx0mnL.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
@@ -1313,6 +1313,14 @@
       "releaseInfo": "2025-10-29"
     },
     {
+      "id": "tmdb:1214130",
+      "type": "movie",
+      "name": "Stitch Head",
+      "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+      "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
+      "releaseInfo": "2025-10-29"
+    },
+    {
       "id": "tmdb:1371185",
       "type": "movie",
       "name": "Song Sung Blue",
@@ -1470,14 +1478,6 @@
       "name": "Out Standing",
       "description": "Officer Sandra Perron resigns from the Canadian military after a controversial photo surfaces. Adapting to civilian life amidst an investigation, she denies abuse allegations despite evidence suggesting mistreatment within her unit.",
       "poster": "https://image.tmdb.org/t/p/w500/gQRaEoRd1fv1A3orWOA9AdSrIjz.jpg",
-      "releaseInfo": "2025-10-16"
-    },
-    {
-      "id": "tmdb:1290242",
-      "type": "movie",
-      "name": "Christy",
-      "description": "Seventeen-year-old Christy is at a crossroads. Thrown out of his suburban foster home, he has moved in temporarily with his estranged older brother, Shane, in Cork’s inner city.  But Shane wants something better for Christy. After so many years apart, the brothers are forced to reconcile their turbulent past, whilst deciding what the future looks like. Sometimes, to move forward, you have to go back.",
-      "poster": "https://image.tmdb.org/t/p/w500/wuBykI8GaLUAGLj1Iq0KhsS4S57.jpg",
       "releaseInfo": "2025-10-16"
     },
     {
@@ -1733,7 +1733,7 @@
       "type": "movie",
       "name": "Father Mother Sister Brother",
       "description": "Three stories concerning the relationships between adult children, their somewhat distant parent (or parents), and each other: a reclusive father visited by his grown children in the US, sisters visiting their novelist mother in Dublin, and adult twins called back to their Paris apartment to address a family tragedy.",
-      "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
       "releaseInfo": "2025-10-03"
     },
     {
@@ -1769,11 +1769,19 @@
       "releaseInfo": "2025-10-03"
     },
     {
+      "id": "tmdb:941109",
+      "type": "movie",
+      "name": "Play Dirty",
+      "description": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
+      "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+      "releaseInfo": "2025-10-01"
+    },
+    {
       "id": "tmdb:1043197",
       "type": "movie",
       "name": "Dust Bunny",
       "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
-      "poster": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
       "releaseInfo": "2025-09-30"
     },
     {
@@ -2263,95 +2271,7 @@
       "description": "Sophie is a rising culinary star on the verge of becoming executive chef at a high-end Manhattan restaurant. But when her sister Abigail calls with news that their beloved family seafood spot in Montauk is floundering, Sophie returns home to help. What was meant to be a short visit turns into a journey of rediscovery, of her roots, her passion for cooking, and a surprising second chance at love with her teenage crush, Cam, a local fisherman whose quiet strength and charm leave Sophie rethinking everything she thought she wanted.",
       "poster": "https://image.tmdb.org/t/p/w500/sgP1jr8RTwnRcRG60qhDOvQp9J1.jpg",
       "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:1287141",
-      "type": "movie",
-      "name": "Pillion",
-      "description": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1243006",
-      "type": "movie",
-      "name": "H Is for Hawk",
-      "description": "After losing her beloved father, Helen finds herself saved by an unlikely friendship with a stubborn hawk named Mabel. Through the bond, Helen rediscovers the beauty of being alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/lIS8Ow290hwNtS8VEeboYGV30Dx.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:858024",
-      "type": "movie",
-      "name": "Hamnet",
-      "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1230368",
-      "type": "movie",
-      "name": "Springsteen: Deliver Me from Nowhere",
-      "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1299655",
-      "type": "movie",
-      "name": "Blue Moon",
-      "description": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
-      "poster": "https://image.tmdb.org/t/p/w500/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1352624",
-      "type": "movie",
-      "name": "The Mastermind",
-      "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
-      "poster": "https://image.tmdb.org/t/p/w500/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1272166",
-      "type": "movie",
-      "name": "Ballad of a Small Player",
-      "description": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
-      "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1290369",
-      "type": "movie",
-      "name": "Megadoc",
-      "description": "Presenting a behind-the-scenes account of a visionary at work. From Oscar-nominated Mike Figgis, Megadoc gives audiences an unfiltered and intimate look at the making of Francis Ford Coppola’s epic sci-fi drama Megalopolis.",
-      "poster": "https://image.tmdb.org/t/p/w500/yjiqwnvgst3ntm25L5heBHjqny9.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1425373",
-      "type": "movie",
-      "name": "The Golden Spurtle",
-      "description": "In a quaint Scottish village in the Highlands, contenders from around the globe gather to compete for the title of World Porridge Champion armed only with oats, salt and water. As the ailing Porridge Chieftain's tenure ends, he embarks on a mission to find a successor. Amidst intense rivalries and the charm of eccentric locals, this documentary delves into the legacy of the village and unveils a captivating culinary spectacle.",
-      "poster": "https://image.tmdb.org/t/p/w500/3nsFrrmaUGyoiqAMRolkqPPWv01.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1539746",
-      "type": "movie",
-      "name": "President Down",
-      "description": "A secret message warning that the President's pacemaker is compromised sends her team scrambling to stop an unseen enemy demanding $100M by midnight.",
-      "poster": "https://image.tmdb.org/t/p/w500/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg",
-      "releaseInfo": "2025-08-29"
-    },
-    {
-      "id": "tmdb:1423024",
-      "type": "movie",
-      "name": "The New Yorker at 100",
-      "description": "Hard-hitting journalism. Era-defining fiction. Witty cartoons. The New Yorker marks its 100th anniversary with this look at its past, present and future.  The New Yorker's centennial reveals behind-the-scenes access to editors, writers, and archives of this culturally vital magazine, one of print's last survivors.",
-      "poster": "https://image.tmdb.org/t/p/w500/4vNUHGzIFxI267gFZpq3eM8m0bl.jpg",
-      "releaseInfo": "2025-08-29"
     }
   ],
-  "ts": 1772046074207
+  "ts": 1772070577462
 }
