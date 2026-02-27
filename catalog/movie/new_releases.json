@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1327690",
+      "type": "movie",
+      "name": "One Mile: Chapter Two",
+      "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
+      "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:1327688",
       "type": "movie",
       "name": "One Mile: Chapter One",
@@ -325,7 +333,7 @@
       "type": "movie",
       "name": "EPiC: Elvis Presley in Concert",
       "description": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/w4Eqwky7QV5GWyV0kbCdbQMPYk5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
       "releaseInfo": "2026-01-08"
     },
     {
@@ -2223,55 +2231,7 @@
       "description": "A journalist and a photographer set out to memorialize the bedrooms left behind by children killed in school shootings.",
       "poster": "https://image.tmdb.org/t/p/w500/38odJEJiluUBLI58tO6oTmv5wZl.jpg",
       "releaseInfo": "2025-08-31"
-    },
-    {
-      "id": "tmdb:1069905",
-      "type": "movie",
-      "name": "Jay Kelly",
-      "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
-      "poster": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:701387",
-      "type": "movie",
-      "name": "Bugonia",
-      "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:1283320",
-      "type": "movie",
-      "name": "Urchin",
-      "description": "Mike, a rough sleeper in London, is trapped in a cycle of self-destruction as he attempts to turn his life around. Along the way, he encounters unexpected chances for a fresh start.",
-      "poster": "https://image.tmdb.org/t/p/w500/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:891584",
-      "type": "movie",
-      "name": "The History of Sound",
-      "description": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
-      "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:1537366",
-      "type": "movie",
-      "name": "Lost in the Jungle",
-      "description": "After a deadly plane crash strands four young siblings deep within the Colombian rainforest, a dramatic rescue mission unfolds, uniting Indigenous trackers and the military in a race against time. For the first time ever, this documentay offers the exclusive account of this incredible true story directly from the children themselves and the rescuers who scoured the Amazon rainforest for a grueling 40 days and nights to find them.",
-      "poster": "https://image.tmdb.org/t/p/w500/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg",
-      "releaseInfo": "2025-08-30"
-    },
-    {
-      "id": "tmdb:1506387",
-      "type": "movie",
-      "name": "Catch of the Day",
-      "description": "Sophie is a rising culinary star on the verge of becoming executive chef at a high-end Manhattan restaurant. But when her sister Abigail calls with news that their beloved family seafood spot in Montauk is floundering, Sophie returns home to help. What was meant to be a short visit turns into a journey of rediscovery, of her roots, her passion for cooking, and a surprising second chance at love with her teenage crush, Cam, a local fisherman whose quiet strength and charm leave Sophie rethinking everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/sgP1jr8RTwnRcRG60qhDOvQp9J1.jpg",
-      "releaseInfo": "2025-08-30"
     }
   ],
-  "ts": 1772131726273
+  "ts": 1772156891613
 }
