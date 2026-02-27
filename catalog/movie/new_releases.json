@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1617908",
+      "type": "movie",
+      "name": "Taylor Tomlinson: Prodigal Daughter",
+      "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
+      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+      "releaseInfo": "2026-02-24"
+    },
+    {
       "id": "tmdb:1327690",
       "type": "movie",
       "name": "One Mile: Chapter Two",
@@ -37,7 +45,7 @@
       "type": "movie",
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/osBS9rX9Ov9CKTiDsjAuRSqD7Af.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
       "releaseInfo": "2026-02-14"
     },
     {
@@ -100,7 +108,7 @@
       "id": "tmdb:1297842",
       "type": "movie",
       "name": "GOAT",
-      "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball – a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. Will's new teammates aren't thrilled about having a little goat on their roster, but Will is determined to revolutionize the sport and prove once and for all that 'smalls can ball'!",
+      "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "releaseInfo": "2026-02-06"
     },
@@ -1740,7 +1748,7 @@
       "id": "tmdb:1159206",
       "type": "movie",
       "name": "Father Mother Sister Brother",
-      "description": "Three stories concerning the relationships between adult children, their somewhat distant parent (or parents), and each other: a reclusive father visited by his grown children in the US, sisters visiting their novelist mother in Dublin, and adult twins called back to their Paris apartment to address a family tragedy.",
+      "description": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
       "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
       "releaseInfo": "2025-10-03"
     },
@@ -2233,5 +2241,5 @@
       "releaseInfo": "2025-08-31"
     }
   ],
-  "ts": 1772174908118
+  "ts": 1772196745778
 }
