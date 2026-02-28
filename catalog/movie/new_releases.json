@@ -25,6 +25,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1639000",
+      "type": "movie",
+      "name": "Famous Last Words: Eric Dane",
+      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
+      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:799882",
       "type": "movie",
       "name": "The Bluff",
@@ -223,6 +231,14 @@
       "description": "As a last-ditch attempt to save his failing marriage, an actor stages a home invasion during a romantic getaway weekend.",
       "poster": "https://image.tmdb.org/t/p/w500/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
       "releaseInfo": "2026-01-27"
+    },
+    {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "releaseInfo": "2026-01-26"
     },
     {
       "id": "tmdb:1599090",
@@ -2223,23 +2239,7 @@
       "description": "William McKay’s successful New York executive career is in ruins after a shocking betrayal. Called by his estranged father, William travels to Belize for a father & son fishing tournament that reopens old wounds and sparks new understanding. Decades later, William recalls that pivotal trip as he tries to connect with his angry, distant grandson.",
       "poster": "https://image.tmdb.org/t/p/w500/Aryl5Y87ynfyrs4U0ktPHJ7XQ5i.jpg",
       "releaseInfo": "2025-09-03"
-    },
-    {
-      "id": "tmdb:1516391",
-      "type": "movie",
-      "name": "Cover-Up",
-      "description": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
-      "poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
-      "releaseInfo": "2025-08-31"
-    },
-    {
-      "id": "tmdb:1525091",
-      "type": "movie",
-      "name": "All the Empty Rooms",
-      "description": "A journalist and a photographer set out to memorialize the bedrooms left behind by children killed in school shootings.",
-      "poster": "https://image.tmdb.org/t/p/w500/38odJEJiluUBLI58tO6oTmv5wZl.jpg",
-      "releaseInfo": "2025-08-31"
     }
   ],
-  "ts": 1772217449727
+  "ts": 1772242790823
 }
