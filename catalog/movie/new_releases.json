@@ -41,6 +41,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1445363",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "description": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:799882",
       "type": "movie",
       "name": "The Bluff",
@@ -359,14 +367,6 @@
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
       "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "releaseInfo": "2026-01-09"
-    },
-    {
-      "id": "tmdb:1445363",
-      "type": "movie",
-      "name": "EPiC: Elvis Presley in Concert",
-      "description": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "releaseInfo": "2026-01-08"
     },
     {
       "id": "tmdb:1599078",
@@ -2257,5 +2257,5 @@
       "releaseInfo": "2025-09-03"
     }
   ],
-  "ts": 1772368835808
+  "ts": 1772389723848
 }
