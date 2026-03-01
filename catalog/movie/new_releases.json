@@ -4,7 +4,7 @@
       "id": "tmdb:1327819",
       "type": "movie",
       "name": "Hoppers",
-      "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world that are beyond anything she could have imagined.",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
       "releaseInfo": "2026-02-24"
     },
@@ -2201,6 +2201,14 @@
       "releaseInfo": "2025-09-08"
     },
     {
+      "id": "tmdb:604079",
+      "type": "movie",
+      "name": "The Long Walk",
+      "description": "In a dystopian near-future America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+      "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "releaseInfo": "2025-09-08"
+    },
+    {
       "id": "tmdb:1543542",
       "type": "movie",
       "name": "Valiente: A Tracker Story",
@@ -2249,5 +2257,5 @@
       "releaseInfo": "2025-09-03"
     }
   ],
-  "ts": 1772347274177
+  "ts": 1772368835808
 }
