@@ -285,7 +285,7 @@
       "type": "movie",
       "name": "The Moment",
       "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/avSmjRR43HRySStk6jkl1zaCQ2H.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -2249,5 +2249,5 @@
       "releaseInfo": "2025-09-05"
     }
   ],
-  "ts": 1772520308372
+  "ts": 1772542256523
 }
