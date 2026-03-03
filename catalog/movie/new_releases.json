@@ -17,6 +17,14 @@
       "releaseInfo": "2026-02-24"
     },
     {
+      "id": "tmdb:1424965",
+      "type": "movie",
+      "name": "Ice Skater",
+      "description": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/3GdF5fublhF1w0suCpsj1zExzPl.jpg",
+      "releaseInfo": "2026-02-24"
+    },
+    {
       "id": "tmdb:1327690",
       "type": "movie",
       "name": "One Mile: Chapter Two",
@@ -615,6 +623,14 @@
       "description": "Naughty or Nice inspector Isabel Haynes doesn’t anticipate anything out of the ordinary when she’s assigned to evaluate 11-year-old Charlie Duncan. However, soon, Isabel falls for Charlie’s widowed father Jason, which makes her question the rigid rules of her job. As Christmas approaches, Isabel must choose between following the holiday algorithm or following her heart.",
       "poster": "https://image.tmdb.org/t/p/w500/lqhCnRPb3pTXF1G4uNTQEsW5XUg.jpg",
       "releaseInfo": "2025-12-06"
+    },
+    {
+      "id": "tmdb:1199193",
+      "type": "movie",
+      "name": "Pose",
+      "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+      "releaseInfo": "2025-12-05"
     },
     {
       "id": "tmdb:1591822",
@@ -2231,23 +2247,7 @@
       "description": "A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.",
       "poster": "https://image.tmdb.org/t/p/w500/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
       "releaseInfo": "2025-09-05"
-    },
-    {
-      "id": "tmdb:1522103",
-      "type": "movie",
-      "name": "Blood & Myth",
-      "description": "When a series of shocking, violent crimes shatters a remote native village in Northern Alaska, one man embarks on a journey to investigate a frightening paranormal connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/7d2gjjwYdaSyLHcdn1DCaE7WREV.jpg",
-      "releaseInfo": "2025-09-04"
-    },
-    {
-      "id": "tmdb:1044768",
-      "type": "movie",
-      "name": "Looking Through Water",
-      "description": "William McKay’s successful New York executive career is in ruins after a shocking betrayal. Called by his estranged father, William travels to Belize for a father & son fishing tournament that reopens old wounds and sparks new understanding. Decades later, William recalls that pivotal trip as he tries to connect with his angry, distant grandson.",
-      "poster": "https://image.tmdb.org/t/p/w500/Aryl5Y87ynfyrs4U0ktPHJ7XQ5i.jpg",
-      "releaseInfo": "2025-09-03"
     }
   ],
-  "ts": 1772476880554
+  "ts": 1772502788226
 }
