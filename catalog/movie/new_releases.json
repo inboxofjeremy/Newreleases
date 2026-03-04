@@ -653,7 +653,7 @@
       "type": "movie",
       "name": "Speed Train",
       "description": "When a futuristic train journey turns chaotic due to a tech genius's malevolent hacking of brain-implanted passengers, a group of disparate travelers must band together to regain control, confronting not only immediate dangers but also the darker implications of unchecked technology.",
-      "poster": "https://image.tmdb.org/t/p/w500/d6LkmLq2DcDIu1ctygYINGMMyUR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hiXmIKopb67hwmkbNgsaFBbebGD.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -2217,5 +2217,5 @@
       "releaseInfo": "2025-09-05"
     }
   ],
-  "ts": 1772606531390
+  "ts": 1772628606224
 }
