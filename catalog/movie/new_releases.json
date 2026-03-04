@@ -285,7 +285,7 @@
       "type": "movie",
       "name": "The Moment",
       "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-      "poster": "https://image.tmdb.org/t/p/w500/avSmjRR43HRySStk6jkl1zaCQ2H.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -1665,14 +1665,6 @@
       "releaseInfo": "2025-10-09"
     },
     {
-      "id": "tmdb:1492608",
-      "type": "movie",
-      "name": "John Candy: I Like Me",
-      "description": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
-      "poster": "https://image.tmdb.org/t/p/w500/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
-      "releaseInfo": "2025-10-09"
-    },
-    {
       "id": "tmdb:812583",
       "type": "movie",
       "name": "Wake Up Dead Man: A Knives Out Mystery",
@@ -1945,14 +1937,6 @@
       "releaseInfo": "2025-09-26"
     },
     {
-      "id": "tmdb:1280450",
-      "type": "movie",
-      "name": "Stolen Girl",
-      "description": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
-      "poster": "https://image.tmdb.org/t/p/w500/fZlNXEHZsBp7unqw009MeBbMv87.jpg",
-      "releaseInfo": "2025-09-26"
-    },
-    {
       "id": "tmdb:1319965",
       "type": "movie",
       "name": "All of You",
@@ -1966,14 +1950,6 @@
       "name": "Good Luck, Have Fun, Don't Die",
       "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
       "poster": "https://image.tmdb.org/t/p/w500/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
-      "releaseInfo": "2025-09-24"
-    },
-    {
-      "id": "tmdb:1212271",
-      "type": "movie",
-      "name": "Eleanor the Great",
-      "description": "94-year-old Eleanor Morgenstein tries to rebuild her life after the death of her best friend. As a result, she moves back to New York City after living in Florida for decades.",
-      "poster": "https://image.tmdb.org/t/p/w500/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",
       "releaseInfo": "2025-09-24"
     },
     {
@@ -2239,15 +2215,7 @@
       "description": "In Colt Lake, Tennessee, Sam Evans tackles a meth epidemic. He is side-lined on arrival of Bobby Gaines, an undercover agent. Despite Evans' local ties, Gaines is hailed as hero. Suspicions arise on Gaines which unravels a complex narrative.",
       "poster": "https://image.tmdb.org/t/p/w500/7vIccLLGDhCOkBUCqEEl3a1Yhc1.jpg",
       "releaseInfo": "2025-09-05"
-    },
-    {
-      "id": "tmdb:1215798",
-      "type": "movie",
-      "name": "The Cut",
-      "description": "A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.",
-      "poster": "https://image.tmdb.org/t/p/w500/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
-      "releaseInfo": "2025-09-05"
     }
   ],
-  "ts": 1772563330733
+  "ts": 1772588856367
 }
