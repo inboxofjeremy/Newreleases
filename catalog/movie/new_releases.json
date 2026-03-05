@@ -84,7 +84,7 @@
       "id": "tmdb:1515615",
       "type": "movie",
       "name": "Kissing Is the Easy Part",
-      "description": "Honor student Sean agrees to tutor rebellious Flora for a college recommendation letter. Their growing attraction complicates more than just their academic goals.",
+      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
       "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
       "releaseInfo": "2026-02-13"
     },
@@ -669,7 +669,7 @@
       "type": "movie",
       "name": "100 Nights of Hero",
       "description": "When a charming house guest arrives at a remote castle, the delicate dynamic between a neglectful husband, his innocent bride Cherry and their devoted maid Hero is thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/7OYSJJFU2E9iBGPfU9C9PM56APM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yJKvHYz0b0ebfPh6LYBO3gGsccZ.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -677,7 +677,7 @@
       "type": "movie",
       "name": "Fackham Hall",
       "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
-      "poster": "https://image.tmdb.org/t/p/w500/ppIoWfwei623fxCtKFRfXwXUjZx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -1741,7 +1741,7 @@
       "type": "movie",
       "name": "The President's Cake",
       "description": "In 1990s Iraq, it's 'draw day', when schools select students for the honour of bringing items to their mandatory local celebrations of President Saddam Hussein's birthday. Nine-year-old Lamia lives in the historic marshes with her spirited grandmother, Bibi. Before school, Bibi teaches Lamia clever tricks to avoid being chosen for the baking duties. However, when Musa, the authoritative teacher, calls Lamia's name for the most challenging task–the birthday cake–she has no choice but to accept. Refusing could mean imprisonment or even death.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRiokhWMk82MLAk5SjvRw1KmSZt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/abdw51gf1oy3UWllAwqGl6WdkiS.jpg",
       "releaseInfo": "2025-10-04"
     },
     {
@@ -1860,8 +1860,8 @@
       "id": "tmdb:1401281",
       "type": "movie",
       "name": "The Testament of Ann Lee",
-      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers.",
-      "poster": "https://image.tmdb.org/t/p/w500/hU1frHnDwJQ3YDERVppxTLvHjc7.jpg",
+      "description": "An epic fable about religious leader Ann Lee, the founding leader of the Shaker Movement, who was proclaimed by her followers as the female Christ.",
+      "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
       "releaseInfo": "2025-09-29"
     },
     {
@@ -2199,23 +2199,7 @@
       "description": "Tracker and Carlos come across a series of nocturnal animals fleeing the Shadow Jungle. Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.",
       "poster": "https://image.tmdb.org/t/p/w500/zTMxurPWbgA2w0qkCs8OqN6whN6.jpg",
       "releaseInfo": "2025-09-08"
-    },
-    {
-      "id": "tmdb:1314129",
-      "type": "movie",
-      "name": "Preparation for the Next Life",
-      "description": "Aishe, a Uyghur woman trained by her military father, migrates to New York City where she finds herself laboring in Chinatown’s underground kitchens. She fatefully encounters Skinner, a young American soldier who has just returned from three tours in the Middle East. While falling in love, they discover the possibility of a better life together than the ones they believed they were destined to live alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",
-      "releaseInfo": "2025-09-05"
-    },
-    {
-      "id": "tmdb:1267116",
-      "type": "movie",
-      "name": "Bad Man",
-      "description": "In Colt Lake, Tennessee, Sam Evans tackles a meth epidemic. He is side-lined on arrival of Bobby Gaines, an undercover agent. Despite Evans' local ties, Gaines is hailed as hero. Suspicions arise on Gaines which unravels a complex narrative.",
-      "poster": "https://image.tmdb.org/t/p/w500/7vIccLLGDhCOkBUCqEEl3a1Yhc1.jpg",
-      "releaseInfo": "2025-09-05"
     }
   ],
-  "ts": 1772649774887
+  "ts": 1772675432503
 }
