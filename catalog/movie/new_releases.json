@@ -1513,14 +1513,6 @@
       "releaseInfo": "2025-10-17"
     },
     {
-      "id": "tmdb:1336189",
-      "type": "movie",
-      "name": "Delivery Run",
-      "description": "A food delivery driver gets caught in a deadly chase in the icy Minnesota wilderness, pursued by a crazed snowplow driver for unknown reasons, facing life-threatening situations and forced to outsmart his relentless pursuer alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
-      "releaseInfo": "2025-10-17"
-    },
-    {
       "id": "tmdb:1432596",
       "type": "movie",
       "name": "Palestine 36",
@@ -2201,5 +2193,5 @@
       "releaseInfo": "2025-09-08"
     }
   ],
-  "ts": 1772715198668
+  "ts": 1772737995535
 }
