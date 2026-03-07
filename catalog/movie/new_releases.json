@@ -1,11 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1265609",
+      "type": "movie",
+      "name": "War Machine",
+      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "releaseInfo": "2026-03-06"
+    },
+    {
       "id": "tmdb:1327819",
       "type": "movie",
       "name": "Hoppers",
       "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "releaseInfo": "2026-02-24"
     },
     {
@@ -2201,5 +2209,5 @@
       "releaseInfo": "2025-09-08"
     }
   ],
-  "ts": 1772822335999
+  "ts": 1772847823671
 }
