@@ -1652,7 +1652,7 @@
       "id": "tmdb:524635",
       "type": "movie",
       "name": "The Chronology of Water",
-      "description": "A woman, after an abusive childhood, escapes into competitive swimming, sexual experimentation, toxic relationships, and addiction before finding her voice through writing.",
+      "description": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
       "poster": "https://image.tmdb.org/t/p/w500/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg",
       "releaseInfo": "2025-10-10"
     },
@@ -1900,7 +1900,7 @@
       "id": "tmdb:1401281",
       "type": "movie",
       "name": "The Testament of Ann Lee",
-      "description": "An epic fable about religious leader Ann Lee, the founding leader of the Shaker Movement, who was proclaimed by her followers as the female Christ.",
+      "description": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
       "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
       "releaseInfo": "2025-09-29"
     },
@@ -2193,5 +2193,5 @@
       "releaseInfo": "2025-09-12"
     }
   ],
-  "ts": 1773124976012
+  "ts": 1773147208009
 }
