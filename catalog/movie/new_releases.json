@@ -1033,6 +1033,14 @@
       "releaseInfo": "2025-11-19"
     },
     {
+      "id": "tmdb:1564460",
+      "type": "movie",
+      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
+      "description": "Demi Adejuyigbe explores authenticity through original songs, comedic bits, and a single backflip.",
+      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
+      "releaseInfo": "2025-11-19"
+    },
+    {
       "id": "tmdb:1363282",
       "type": "movie",
       "name": "The Carman Family Deaths",
@@ -1141,7 +1149,7 @@
       "type": "movie",
       "name": "Children No More: Were and Are Gone",
       "description": "In Tel Aviv, activists gather weekly to demonstrate their opposition to the war in Gaza with a silent vigil for the children killed in Israeli attacks.",
-      "poster": "https://image.tmdb.org/t/p/w500/e5FPUMkTd2aHXtpSd5UZR3jAHHk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/Ao7wQN6H3pQlxQFL9bd8oNaMyXO.jpg",
       "releaseInfo": "2025-11-13"
     },
     {
@@ -1550,14 +1558,6 @@
       "name": "Grow",
       "description": "In the self-proclaimed ‘Pumpkin Capital of the World’, no-nonsense curmudgeonly farmer Dinah Little takes in her estranged niece Charlie, who decides to enter the local pumpkin growing competition where she and the other growers face fierce competition, sabotage, and a genetically engineered rival.",
       "poster": "https://image.tmdb.org/t/p/w500/z5OjHr4QFOpVq8AicumXl0gm8Mb.jpg",
-      "releaseInfo": "2025-10-17"
-    },
-    {
-      "id": "tmdb:1336189",
-      "type": "movie",
-      "name": "Delivery Run",
-      "description": "A food delivery driver gets caught in a deadly chase in the icy Minnesota wilderness, pursued by a crazed snowplow driver for unknown reasons, facing life-threatening situations and forced to outsmart his relentless pursuer alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
       "releaseInfo": "2025-10-17"
     },
     {
@@ -1989,7 +1989,7 @@
       "type": "movie",
       "name": "Good Luck, Have Fun, Don't Die",
       "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2025-09-24"
     },
     {
@@ -2191,15 +2191,7 @@
       "description": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
       "poster": "https://image.tmdb.org/t/p/w500/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
       "releaseInfo": "2025-09-12"
-    },
-    {
-      "id": "tmdb:1289936",
-      "type": "movie",
-      "name": "Downton Abbey: The Grand Finale",
-      "description": "When Mary finds herself at the center of a public scandal and the family faces financial strife, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
-      "releaseInfo": "2025-09-12"
     }
   ],
-  "ts": 1773082058271
+  "ts": 1773107135726
 }
