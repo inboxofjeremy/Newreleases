@@ -413,7 +413,7 @@
       "type": "movie",
       "name": "People We Meet on Vacation",
       "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
-      "poster": "https://image.tmdb.org/t/p/w500/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
       "releaseInfo": "2026-01-06"
     },
     {
@@ -2175,23 +2175,7 @@
       "description": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
       "poster": "https://image.tmdb.org/t/p/w500/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
       "releaseInfo": "2025-09-12"
-    },
-    {
-      "id": "tmdb:1536975",
-      "type": "movie",
-      "name": "Andrew Santino: White Noise",
-      "description": "Andrew Santino's new hilarious stand-up special will undoubtedly solve all the world's problems for eternity.",
-      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
-      "releaseInfo": "2025-09-12"
-    },
-    {
-      "id": "tmdb:1321439",
-      "type": "movie",
-      "name": "The Wrong Paris",
-      "description": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
-      "poster": "https://image.tmdb.org/t/p/w500/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
-      "releaseInfo": "2025-09-12"
     }
   ],
-  "ts": 1773168121790
+  "ts": 1773193552082
 }
