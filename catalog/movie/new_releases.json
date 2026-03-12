@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1439660",
+      "type": "movie",
+      "name": "Fukushima: A Nuclear Nightmare",
+      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
       "id": "tmdb:1644807",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -373,7 +381,7 @@
       "type": "movie",
       "name": "One Last Adventure: The Making of Stranger Things 5",
       "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "poster": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
       "releaseInfo": "2026-01-12"
     },
     {
@@ -2161,5 +2169,5 @@
       "releaseInfo": "2025-09-14"
     }
   ],
-  "ts": 1773298230597
+  "ts": 1773319976030
 }
