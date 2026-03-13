@@ -81,6 +81,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1125701",
+      "type": "movie",
+      "name": "Midwinter Break",
+      "description": "Longtime retired couple Stella and Gerry realise that their relationship has reached a crossroads while on holiday in Amsterdam. After so much time and so many memories, long-held promises and deeply concealed wounds threaten to come to light and force them to confront their future.",
+      "poster": "https://image.tmdb.org/t/p/w500/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:1639000",
       "type": "movie",
       "name": "Famous Last Words: Eric Dane",
@@ -373,7 +381,7 @@
       "type": "movie",
       "name": "The Rip",
       "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
       "releaseInfo": "2026-01-13"
     },
     {
@@ -1985,14 +1993,6 @@
       "releaseInfo": "2025-09-26"
     },
     {
-      "id": "tmdb:1280282",
-      "type": "movie",
-      "name": "Gabby's Dollhouse: The Movie",
-      "description": "Gabby heads out on a road trip with her Grandma Gigi to the urban wonderland of Cat Francisco. But when Gabby's dollhouse, her most prized possession, ends up in the hands of an eccentric cat lady named Vera, Gabby sets off on an adventure through the real world to get the Gabby Cats back together and save the dollhouse before it's too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
-      "releaseInfo": "2025-09-26"
-    },
-    {
       "id": "tmdb:1319965",
       "type": "movie",
       "name": "All of You",
@@ -2030,14 +2030,6 @@
       "name": "The Plague",
       "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
       "poster": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
-      "releaseInfo": "2025-09-21"
-    },
-    {
-      "id": "tmdb:1314862",
-      "type": "movie",
-      "name": "Lilith Fair: Building a Mystery",
-      "description": "Behind the scenes of Sarah McLachlan’s legendary all-women music festival and features interviews with performers including Bonnie Raitt, Erykah Badu, Olivia Rodrigo, and Emmylou Harris.",
-      "poster": "https://image.tmdb.org/t/p/w500/PCI5HmNXRb9gx8BYTIUbThaymz.jpg",
       "releaseInfo": "2025-09-21"
     },
     {
@@ -2169,5 +2161,5 @@
       "releaseInfo": "2025-09-14"
     }
   ],
-  "ts": 1773341358561
+  "ts": 1773366559217
 }
