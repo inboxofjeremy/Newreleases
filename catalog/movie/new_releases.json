@@ -9,6 +9,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1367642",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "poster": "https://image.tmdb.org/t/p/w500/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg",
+      "releaseInfo": "2026-03-09"
+    },
+    {
       "id": "tmdb:1644807",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -67,7 +75,7 @@
     {
       "id": "tmdb:1327690",
       "type": "movie",
-      "name": "One Mile: Chapter Two",
+      "name": "One Mile : Chapter Two",
       "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
       "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
       "releaseInfo": "2026-02-20"
@@ -75,7 +83,7 @@
     {
       "id": "tmdb:1327688",
       "type": "movie",
-      "name": "One Mile: Chapter One",
+      "name": "One Mile : Chapter One",
       "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
       "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
       "releaseInfo": "2026-02-20"
@@ -1537,19 +1545,19 @@
       "releaseInfo": "2025-10-19"
     },
     {
-      "id": "tmdb:1214931",
-      "type": "movie",
-      "name": "Nuremberg",
-      "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-      "poster": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
-      "releaseInfo": "2025-10-18"
-    },
-    {
       "id": "tmdb:1263012",
       "type": "movie",
       "name": "Dead Man's Wire",
       "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
       "poster": "https://image.tmdb.org/t/p/w500/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg",
+      "releaseInfo": "2025-10-18"
+    },
+    {
+      "id": "tmdb:1214931",
+      "type": "movie",
+      "name": "Nuremberg",
+      "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+      "poster": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
       "releaseInfo": "2025-10-18"
     },
     {
@@ -1965,7 +1973,7 @@
       "type": "movie",
       "name": "Killing Faith",
       "description": "In the summer of 1859, a widowed physician reluctantly agrees to take a recently freed slave and her mysterious Caucasian daughter on a five-day journey through the bloody West to find a distant town's Faith Healer. The woman believes her daughter is possessed. The doctor believes she simply carries The Sickness. Either way the fact remains that every living thing the girl touches mysteriously dies.",
-      "poster": "https://image.tmdb.org/t/p/w500/bNHlTTdpdDv8xxrXF3krVghyCcj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
       "releaseInfo": "2025-09-26"
     },
     {
@@ -2085,7 +2093,7 @@
       "type": "movie",
       "name": "The Lost Bus",
       "description": "A determined father risks everything to rescue a dedicated teacher and her students from a raging wildfire.",
-      "poster": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
       "releaseInfo": "2025-09-19"
     },
     {
@@ -2161,5 +2169,5 @@
       "releaseInfo": "2025-09-14"
     }
   ],
-  "ts": 1773384490586
+  "ts": 1773406328697
 }
