@@ -13,7 +13,7 @@
       "type": "movie",
       "name": "Reminders of Him",
       "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "poster": "https://image.tmdb.org/t/p/w500/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "releaseInfo": "2026-03-09"
     },
     {
@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -125,7 +125,7 @@
       "type": "movie",
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/udsbVbckQIJ2FpsJj5ScALQe0A1.jpg",
       "releaseInfo": "2026-02-14"
     },
     {
@@ -732,7 +732,7 @@
       "id": "tmdb:1175174",
       "type": "movie",
       "name": "Fackham Hall",
-      "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+      "description": "A new servant embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
       "poster": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
       "releaseInfo": "2025-12-05"
     },
@@ -2159,15 +2159,7 @@
       "description": "This exclusive documentary goes behind the scenes with Märtha Louise and Shaman Durek Verrett in the lead-up to their divisive wedding in Norway.",
       "poster": "https://image.tmdb.org/t/p/w500/7vIkk6WNThpI89dyJMZ8IFrIz7n.jpg",
       "releaseInfo": "2025-09-16"
-    },
-    {
-      "id": "tmdb:1458530",
-      "type": "movie",
-      "name": "Mystery Island: House Rules",
-      "description": "Mystery Island success raises plans of expansion, and the Island team meets their Mystery Mountain counterparts for a friendly murder game, but the fun ends with a murder in plain sight.",
-      "poster": "https://image.tmdb.org/t/p/w500/60ibx0fyvx5gKjN4cqmMA0iwOpB.jpg",
-      "releaseInfo": "2025-09-14"
     }
   ],
-  "ts": 1773427007269
+  "ts": 1773452817661
 }
