@@ -1937,14 +1937,6 @@
       "releaseInfo": "2025-09-29"
     },
     {
-      "id": "tmdb:1364608",
-      "type": "movie",
-      "name": "Anemone",
-      "description": "Middle-aged Jem sets out from his suburban home on a journey into the woods, where he reconnects with his estranged hermit brother Ray. Bonded by a mysterious, complicated past, the men share a fraught, if occasionally tender relationship—one that was forever altered by shattering events decades earlier.",
-      "poster": "https://image.tmdb.org/t/p/w500/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg",
-      "releaseInfo": "2025-09-28"
-    },
-    {
       "id": "tmdb:1290159",
       "type": "movie",
       "name": "A House of Dynamite",
@@ -2129,5 +2121,5 @@
       "releaseInfo": "2025-09-18"
     }
   ],
-  "ts": 1773730762074
+  "ts": 1773752663624
 }
