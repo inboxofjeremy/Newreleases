@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "The Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/cEXT4bXOrM0pqrK714NP3M69cWW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wWMLpfTmPV3dW4fYF5YJ04j0N4N.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -302,14 +302,6 @@
       "name": "Queen of Chess",
       "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
       "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1340076",
-      "type": "movie",
-      "name": "Untitled Home Invasion Romance",
-      "description": "As a last-ditch attempt to save his failing marriage, an actor stages a home invasion during a romantic getaway weekend.",
-      "poster": "https://image.tmdb.org/t/p/w500/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
       "releaseInfo": "2026-01-27"
     },
     {
@@ -1941,7 +1933,7 @@
       "type": "movie",
       "name": "The Testament of Ann Lee",
       "description": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
-      "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
       "releaseInfo": "2025-09-29"
     },
     {
@@ -2041,14 +2033,6 @@
       "releaseInfo": "2025-09-23"
     },
     {
-      "id": "tmdb:1370814",
-      "type": "movie",
-      "name": "The Plague",
-      "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
-      "poster": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
-      "releaseInfo": "2025-09-21"
-    },
-    {
       "id": "tmdb:1253000",
       "type": "movie",
       "name": "Deathstalker",
@@ -2137,14 +2121,6 @@
       "releaseInfo": "2025-09-19"
     },
     {
-      "id": "tmdb:1241921",
-      "type": "movie",
-      "name": "A Big Bold Beautiful Journey",
-      "description": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
-      "poster": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
-      "releaseInfo": "2025-09-19"
-    },
-    {
       "id": "tmdb:1541827",
       "type": "movie",
       "name": "Dolphins Up Close with Bertie Gregory",
@@ -2153,5 +2129,5 @@
       "releaseInfo": "2025-09-18"
     }
   ],
-  "ts": 1773687413361
+  "ts": 1773712317678
 }
