@@ -2017,14 +2017,6 @@
       "releaseInfo": "2025-09-23"
     },
     {
-      "id": "tmdb:1370814",
-      "type": "movie",
-      "name": "The Plague",
-      "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
-      "poster": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
-      "releaseInfo": "2025-09-21"
-    },
-    {
       "id": "tmdb:1253000",
       "type": "movie",
       "name": "Deathstalker",
@@ -2033,5 +2025,5 @@
       "releaseInfo": "2025-09-20"
     }
   ],
-  "ts": 1773903254356
+  "ts": 1773925045164
 }
