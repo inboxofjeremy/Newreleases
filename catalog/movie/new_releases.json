@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "releaseInfo": "2026-03-20"
     },
     {
@@ -135,14 +135,6 @@
       "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
       "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
       "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:799882",
-      "type": "movie",
-      "name": "The Bluff",
-      "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
-      "poster": "https://image.tmdb.org/t/p/w500/w0jwjFmRu2or7LQqh1tSMFjq0At.jpg",
-      "releaseInfo": "2026-02-17"
     },
     {
       "id": "tmdb:1088434",
@@ -2041,5 +2033,5 @@
       "releaseInfo": "2025-09-23"
     }
   ],
-  "ts": 1773989443730
+  "ts": 1774011193553
 }
