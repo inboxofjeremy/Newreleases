@@ -1,12 +1,28 @@
 {
   "metas": [
     {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "releaseInfo": "2026-03-20"
+    },
+    {
       "id": "tmdb:1604970",
       "type": "movie",
       "name": "AEW Revolution 2026",
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/geYC8dlZwkvLe4dYgIQPEGGESlP.jpg",
       "releaseInfo": "2026-03-15"
+    },
+    {
+      "id": "tmdb:1636891",
+      "type": "movie",
+      "name": "Mexicali",
+      "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "releaseInfo": "2026-03-13"
     },
     {
       "id": "tmdb:1322692",
@@ -45,7 +61,7 @@
       "type": "movie",
       "name": "The Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/wWMLpfTmPV3dW4fYF5YJ04j0N4N.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cEXT4bXOrM0pqrK714NP3M69cWW.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -173,7 +189,7 @@
       "type": "movie",
       "name": "Love Me Love Me",
       "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
       "releaseInfo": "2026-02-12"
     },
     {
@@ -1030,6 +1046,14 @@
       "name": "A Loud House Christmas Movie: Naughty or Nice",
       "description": "Desperate to get off Santa's Naughty List before Christmas, Lincoln resorts to hacking into the North Pole computers and putting himself on the nice list. But when the hack gets out of control, he ends up reversing the Naughty\\/Nice lists around the world and turning the North Pole itself Naughty. Lincoln enlists his family to go to the North Pole and try to fix the mess he made. Teaming up with his new frenemy, Duncan, the elf who first put him on the naughty list, Lincoln and the Louds must battle a now evil Santa and his minions to save Christmas.",
       "poster": "https://image.tmdb.org/t/p/w500/x8etkE8pdopoHx8B8PJrinU01Wz.jpg",
+      "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1162337",
+      "type": "movie",
+      "name": "Blue Eyed Girl",
+      "description": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
+      "poster": "https://image.tmdb.org/t/p/w500/eznMwD1AyNK4fAqhKnAdQFoJWgm.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
@@ -2015,15 +2039,7 @@
       "description": "Cristela seeks joy through various experiences - outdoing her old bully, overdoing spa treatments, and taking her first family vacation - while teaching everyone to embrace life's pleasures.",
       "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
       "releaseInfo": "2025-09-23"
-    },
-    {
-      "id": "tmdb:1253000",
-      "type": "movie",
-      "name": "Deathstalker",
-      "description": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
-      "poster": "https://image.tmdb.org/t/p/w500/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
-      "releaseInfo": "2025-09-20"
     }
   ],
-  "ts": 1773946419892
+  "ts": 1773971474554
 }
