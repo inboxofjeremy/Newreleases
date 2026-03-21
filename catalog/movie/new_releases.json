@@ -137,6 +137,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:799882",
+      "type": "movie",
+      "name": "The Bluff",
+      "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
+      "poster": "https://image.tmdb.org/t/p/w500/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
+      "releaseInfo": "2026-02-17"
+    },
+    {
       "id": "tmdb:1088434",
       "type": "movie",
       "name": "Hellfire",
@@ -150,6 +158,14 @@
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
       "poster": "https://image.tmdb.org/t/p/w500/udsbVbckQIJ2FpsJj5ScALQe0A1.jpg",
+      "releaseInfo": "2026-02-14"
+    },
+    {
+      "id": "tmdb:1608616",
+      "type": "movie",
+      "name": "Because of Cupid",
+      "description": "Best friends Naomi and Marcus participate in a Valentine's Day mocktail competition but things go awry when Cupid interferes with a love potion that affects Marcus and several of their friends.",
+      "poster": "https://image.tmdb.org/t/p/w500/qLcGqmRs8pMUxYshdqXy7ECg7BX.jpg",
       "releaseInfo": "2026-02-14"
     },
     {
@@ -255,6 +271,14 @@
       "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
       "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
+    },
+    {
+      "id": "tmdb:846049",
+      "type": "movie",
+      "name": "The Dresden Sun",
+      "description": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
+      "poster": "https://image.tmdb.org/t/p/w500/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
+      "releaseInfo": "2026-02-02"
     },
     {
       "id": "tmdb:1592019",
@@ -2033,5 +2057,5 @@
       "releaseInfo": "2025-09-23"
     }
   ],
-  "ts": 1774032157867
+  "ts": 1774057529962
 }
