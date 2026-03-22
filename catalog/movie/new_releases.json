@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "releaseInfo": "2026-03-20"
     },
     {
@@ -397,7 +397,7 @@
       "type": "movie",
       "name": "Mercy",
       "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/91gH7E7Jqc2QSuKbp8OWQxbyh1Q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -2049,5 +2049,5 @@
       "releaseInfo": "2025-09-23"
     }
   ],
-  "ts": 1774161972940
+  "ts": 1774183370276
 }
