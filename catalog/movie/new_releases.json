@@ -11,9 +11,9 @@
     {
       "id": "tmdb:1604970",
       "type": "movie",
-      "name": "AEW Revolution 2026",
+      "name": "AEW Revolution",
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
-      "poster": "https://image.tmdb.org/t/p/w500/geYC8dlZwkvLe4dYgIQPEGGESlP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
       "releaseInfo": "2026-03-15"
     },
     {
@@ -31,6 +31,14 @@
       "description": "On the eve of the 2002 FIFA World Cup, Irish captain Roy Keane forfeits his place in the squad at the team's preparation base in Saipan, following a heated disagreement with manager Mick McCarthy.",
       "poster": "https://image.tmdb.org/t/p/w500/s7IbZFANLHKNglQ9IfjDdrHCVNZ.jpg",
       "releaseInfo": "2026-03-13"
+    },
+    {
+      "id": "tmdb:1633264",
+      "type": "movie",
+      "name": "Louis Theroux: Inside the Manosphere",
+      "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+      "poster": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+      "releaseInfo": "2026-03-11"
     },
     {
       "id": "tmdb:1439660",
@@ -486,14 +494,6 @@
       "name": "People We Meet on Vacation",
       "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
       "poster": "https://image.tmdb.org/t/p/w500/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
-      "releaseInfo": "2026-01-06"
-    },
-    {
-      "id": "tmdb:1317149",
-      "type": "movie",
-      "name": "I Swear",
-      "description": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
-      "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
       "releaseInfo": "2026-01-06"
     },
     {
@@ -1964,7 +1964,7 @@
       "id": "tmdb:1401281",
       "type": "movie",
       "name": "The Testament of Ann Lee",
-      "description": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
+      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
       "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
       "releaseInfo": "2025-09-29"
     },
@@ -2047,15 +2047,7 @@
       "description": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname \"Roofman.\" After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
       "poster": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
       "releaseInfo": "2025-09-23"
-    },
-    {
-      "id": "tmdb:1533898",
-      "type": "movie",
-      "name": "Cristela Alonzo: Upper Classy",
-      "description": "Cristela seeks joy through various experiences - outdoing her old bully, overdoing spa treatments, and taking her first family vacation - while teaching everyone to embrace life's pleasures.",
-      "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
-      "releaseInfo": "2025-09-23"
     }
   ],
-  "ts": 1774117870529
+  "ts": 1774144605962
 }
