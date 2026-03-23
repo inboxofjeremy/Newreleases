@@ -1521,6 +1521,14 @@
       "releaseInfo": "2025-10-25"
     },
     {
+      "id": "tmdb:1564628",
+      "type": "movie",
+      "name": "NXT Halloween Havoc 2025",
+      "description": "Halloween Havoc 2025 was a professional wrestling event produced by WWE for its NXT brand, held on October 25, 2025, at the Findlay Toyota Center in Prescott Valley, Arizona, and headlined by Ricky Saints (c) vs. Trick Williams for the NXT Championship.",
+      "poster": "https://image.tmdb.org/t/p/w500/oZLSgadqvx9p70myKwp9zrSKpuU.jpg",
+      "releaseInfo": "2025-10-25"
+    },
+    {
       "id": "tmdb:1547882",
       "type": "movie",
       "name": "Merry Christmas, Ted Cooper!",
@@ -2017,14 +2025,6 @@
       "releaseInfo": "2025-09-26"
     },
     {
-      "id": "tmdb:1235746",
-      "type": "movie",
-      "name": "Dead of Winter",
-      "description": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope.",
-      "poster": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
-      "releaseInfo": "2025-09-26"
-    },
-    {
       "id": "tmdb:1319965",
       "type": "movie",
       "name": "All of You",
@@ -2039,15 +2039,7 @@
       "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
       "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2025-09-24"
-    },
-    {
-      "id": "tmdb:1242419",
-      "type": "movie",
-      "name": "Roofman",
-      "description": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname \"Roofman.\" After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
-      "poster": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
-      "releaseInfo": "2025-09-23"
     }
   ],
-  "ts": 1774204316036
+  "ts": 1774231077114
 }
