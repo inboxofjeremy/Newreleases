@@ -9,6 +9,14 @@
       "releaseInfo": "2026-03-20"
     },
     {
+      "id": "tmdb:1636918",
+      "type": "movie",
+      "name": "The Plastic Detox",
+      "description": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
+      "poster": "https://image.tmdb.org/t/p/w500/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
+      "releaseInfo": "2026-03-16"
+    },
+    {
       "id": "tmdb:1604970",
       "type": "movie",
       "name": "AEW Revolution",
@@ -1929,6 +1937,14 @@
       "releaseInfo": "2025-10-03"
     },
     {
+      "id": "tmdb:1053987",
+      "type": "movie",
+      "name": "Witchy Ways",
+      "description": "When a skeptical woman retreats to a secluded cabin believed to be magical, she falls for its enigmatic witch owner, until dark spells, buried secrets, and a restless ghost threaten their chance at love.",
+      "poster": "https://image.tmdb.org/t/p/w500/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
+      "releaseInfo": "2025-10-01"
+    },
+    {
       "id": "tmdb:941109",
       "type": "movie",
       "name": "Play Dirty",
@@ -2031,15 +2047,7 @@
       "description": "Laura and Simon have been best friends since college. Over the years, they've realized their bond is more than platonic. Can they—and should they—risk everything to explore a love that has existed all along?",
       "poster": "https://image.tmdb.org/t/p/w500/U2KFjtXN9NL9eCENB28w42Jakp.jpg",
       "releaseInfo": "2025-09-25"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2025-09-24"
     }
   ],
-  "ts": 1774291810101
+  "ts": 1774316984441
 }
