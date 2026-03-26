@@ -41,6 +41,14 @@
       "releaseInfo": "2026-03-13"
     },
     {
+      "id": "tmdb:1084187",
+      "type": "movie",
+      "name": "Pretty Lethal",
+      "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "poster": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "releaseInfo": "2026-03-13"
+    },
+    {
       "id": "tmdb:1322692",
       "type": "movie",
       "name": "Saipan",
@@ -406,6 +414,14 @@
       "name": "Skyscraper Live",
       "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
       "poster": "https://image.tmdb.org/t/p/w500/hbURquxQUJXFfeqpjzmHekRmyqb.jpg",
+      "releaseInfo": "2026-01-23"
+    },
+    {
+      "id": "tmdb:1450257",
+      "type": "movie",
+      "name": "Clika",
+      "description": "Aspiring small-town musician Chito is determined to make it big. When a clip of him performing one of his songs goes viral, he seizes the opportunity and pushes to carve out a place for himself in the new wave of Mexican-American music... and ultimately gets caught in a game more dangerous than anticipated.",
+      "poster": "https://image.tmdb.org/t/p/w500/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
@@ -1665,14 +1681,6 @@
       "releaseInfo": "2025-10-16"
     },
     {
-      "id": "tmdb:1073572",
-      "type": "movie",
-      "name": "Out Standing",
-      "description": "Officer Sandra Perron resigns from the Canadian military after a controversial photo surfaces. Adapting to civilian life amidst an investigation, she denies abuse allegations despite evidence suggesting mistreatment within her unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/gQRaEoRd1fv1A3orWOA9AdSrIjz.jpg",
-      "releaseInfo": "2025-10-16"
-    },
-    {
       "id": "tmdb:1548017",
       "type": "movie",
       "name": "The Family McMullen",
@@ -2015,23 +2023,7 @@
       "description": "A single mom agrees to be the partner of a bird enthusiast for a birding competition but misunderstands the assignment and tells everyone she's his new girlfriend instead of just his teammate.",
       "poster": "https://image.tmdb.org/t/p/w500/5djYq3z6wEmke5LHkB7DHZNPF5y.jpg",
       "releaseInfo": "2025-09-27"
-    },
-    {
-      "id": "tmdb:1265063",
-      "type": "movie",
-      "name": "After the Hunt",
-      "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
-      "poster": "https://image.tmdb.org/t/p/w500/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
-      "releaseInfo": "2025-09-26"
-    },
-    {
-      "id": "tmdb:1200320",
-      "type": "movie",
-      "name": "Killing Faith",
-      "description": "In the summer of 1859, a widowed physician reluctantly agrees to take a recently freed slave and her mysterious Caucasian daughter on a five-day journey through the bloody West to find a distant town's Faith Healer. The woman believes her daughter is possessed. The doctor believes she simply carries The Sickness. Either way the fact remains that every living thing the girl touches mysteriously dies.",
-      "poster": "https://image.tmdb.org/t/p/w500/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-      "releaseInfo": "2025-09-26"
     }
   ],
-  "ts": 1774464735493
+  "ts": 1774490490712
 }
