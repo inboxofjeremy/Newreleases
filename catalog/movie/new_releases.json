@@ -41,14 +41,6 @@
       "releaseInfo": "2026-03-13"
     },
     {
-      "id": "tmdb:1084187",
-      "type": "movie",
-      "name": "Pretty Lethal",
-      "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "poster": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-      "releaseInfo": "2026-03-13"
-    },
-    {
       "id": "tmdb:1322692",
       "type": "movie",
       "name": "Saipan",
@@ -94,6 +86,14 @@
       "name": "Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
       "poster": "https://image.tmdb.org/t/p/w500/cEXT4bXOrM0pqrK714NP3M69cWW.jpg",
+      "releaseInfo": "2026-03-06"
+    },
+    {
+      "id": "tmdb:1383731",
+      "type": "movie",
+      "name": "Protector",
+      "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/hUv1DarjEMmQM38i9DvW9pHYPZ4.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -349,7 +349,7 @@
       "type": "movie",
       "name": "\"Wuthering Heights\"",
       "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
       "releaseInfo": "2026-01-28"
     },
     {
@@ -718,6 +718,14 @@
       "name": "Kevin Costner Presents: The First Christmas",
       "description": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
       "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+      "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1505013",
+      "type": "movie",
+      "name": "Masaka Kids, A Rhythm Within",
+      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
+      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
       "releaseInfo": "2025-12-09"
     },
     {
@@ -1545,6 +1553,14 @@
       "releaseInfo": "2025-10-26"
     },
     {
+      "id": "tmdb:840873",
+      "type": "movie",
+      "name": "A Magnificent Life",
+      "description": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories...",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "releaseInfo": "2025-10-26"
+    },
+    {
       "id": "tmdb:339849",
       "type": "movie",
       "name": "Not Without Hope",
@@ -2015,15 +2031,7 @@
       "description": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
       "poster": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
       "releaseInfo": "2025-09-28"
-    },
-    {
-      "id": "tmdb:1524554",
-      "type": "movie",
-      "name": "Adventures in Love & Birding",
-      "description": "A single mom agrees to be the partner of a bird enthusiast for a birding competition but misunderstands the assignment and tells everyone she's his new girlfriend instead of just his teammate.",
-      "poster": "https://image.tmdb.org/t/p/w500/5djYq3z6wEmke5LHkB7DHZNPF5y.jpg",
-      "releaseInfo": "2025-09-27"
     }
   ],
-  "ts": 1774551655702
+  "ts": 1774576971234
 }
