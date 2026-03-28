@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1115544",
+      "type": "movie",
+      "name": "Mike & Nick & Nick & Alice",
+      "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
       "id": "tmdb:1637319",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
@@ -166,6 +174,14 @@
       "name": "Famous Last Words: Eric Dane",
       "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
       "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
+      "id": "tmdb:1405769",
+      "type": "movie",
+      "name": "I Can Only Imagine 2",
+      "description": "After the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
+      "poster": "https://image.tmdb.org/t/p/w500/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
@@ -2023,15 +2039,7 @@
       "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
       "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
       "releaseInfo": "2025-09-29"
-    },
-    {
-      "id": "tmdb:1290159",
-      "type": "movie",
-      "name": "A House of Dynamite",
-      "description": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
-      "poster": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
-      "releaseInfo": "2025-09-28"
     }
   ],
-  "ts": 1774637493188
+  "ts": 1774662818127
 }
