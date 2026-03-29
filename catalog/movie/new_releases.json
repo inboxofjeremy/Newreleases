@@ -93,7 +93,7 @@
       "type": "movie",
       "name": "Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/cEXT4bXOrM0pqrK714NP3M69cWW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/x0wD4Qxe0wulV0bxarsQ05PqDNF.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -245,7 +245,7 @@
       "type": "movie",
       "name": "Love Me Love Me",
       "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
       "releaseInfo": "2026-02-12"
     },
     {
@@ -2023,23 +2023,7 @@
       "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
       "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
       "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1538258",
-      "type": "movie",
-      "name": "Earthquake: Joke Telling Business",
-      "description": "From unpacking celebrity scandals to hot takes on love, legendary comic Earthquake shakes things up in this explosive stand-up set.",
-      "poster": "https://image.tmdb.org/t/p/w500/l3jVHS7xjeSbC69DFc0EQwWMJHs.jpg",
-      "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1401281",
-      "type": "movie",
-      "name": "The Testament of Ann Lee",
-      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
-      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
-      "releaseInfo": "2025-09-29"
     }
   ],
-  "ts": 1774722954516
+  "ts": 1774749926669
 }
