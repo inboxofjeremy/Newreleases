@@ -181,7 +181,7 @@
       "type": "movie",
       "name": "I Can Only Imagine 2",
       "description": "After the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
-      "poster": "https://image.tmdb.org/t/p/w500/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/A4A8YgAzBwDnlXDzuxoc5ZLchO7.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
@@ -1991,39 +1991,7 @@
       "description": "When a skeptical woman retreats to a secluded cabin believed to be magical, she falls for its enigmatic witch owner, until dark spells, buried secrets, and a restless ghost threaten their chance at love.",
       "poster": "https://image.tmdb.org/t/p/w500/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
       "releaseInfo": "2025-10-01"
-    },
-    {
-      "id": "tmdb:941109",
-      "type": "movie",
-      "name": "Play Dirty",
-      "description": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
-      "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
-      "releaseInfo": "2025-10-01"
-    },
-    {
-      "id": "tmdb:1043197",
-      "type": "movie",
-      "name": "Dust Bunny",
-      "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
-      "poster": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
-      "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1480295",
-      "type": "movie",
-      "name": "Affinity",
-      "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
-      "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1576878",
-      "type": "movie",
-      "name": "Unseen Enemy",
-      "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
-      "releaseInfo": "2025-09-30"
     }
   ],
-  "ts": 1774809435995
+  "ts": 1774836456353
 }
