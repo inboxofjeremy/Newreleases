@@ -17,6 +17,14 @@
       "releaseInfo": "2026-03-20"
     },
     {
+      "id": "tmdb:938150",
+      "type": "movie",
+      "name": "Wardriver",
+      "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
+      "poster": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
+      "releaseInfo": "2026-03-20"
+    },
+    {
       "id": "tmdb:1636918",
       "type": "movie",
       "name": "The Plastic Detox",
@@ -1983,23 +1991,7 @@
       "description": "Dr. Jane Goodall connected humanity and nature in unprecedented ways. In this deeply personal interview, she shares her final message with the world.",
       "poster": "https://image.tmdb.org/t/p/w500/ypfl5VYRkeZ3HVM64HxOKriloe4.jpg",
       "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:760329",
-      "type": "movie",
-      "name": "The Smashing Machine",
-      "description": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
-      "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
-      "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:1053987",
-      "type": "movie",
-      "name": "Witchy Ways",
-      "description": "When a skeptical woman retreats to a secluded cabin believed to be magical, she falls for its enigmatic witch owner, until dark spells, buried secrets, and a restless ghost threaten their chance at love.",
-      "poster": "https://image.tmdb.org/t/p/w500/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
-      "releaseInfo": "2025-10-01"
     }
   ],
-  "ts": 1774897118869
+  "ts": 1774922612417
 }
