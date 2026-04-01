@@ -33,6 +33,14 @@
       "releaseInfo": "2026-03-20"
     },
     {
+      "id": "tmdb:1325734",
+      "type": "movie",
+      "name": "The Drama",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+      "releaseInfo": "2026-03-17"
+    },
+    {
       "id": "tmdb:1636918",
       "type": "movie",
       "name": "The Plastic Detox",
@@ -111,6 +119,14 @@
       "description": "In a special one off concert in Manchester, recorded on the evening of March 6, Harry Styles played his new album, ‘Kiss All The Time. Disco, Occasionally.' for the very first time.",
       "poster": "https://image.tmdb.org/t/p/w500/AigpusxLychNPHCdB8jRVTEQ1kS.jpg",
       "releaseInfo": "2026-03-08"
+    },
+    {
+      "id": "tmdb:1291659",
+      "type": "movie",
+      "name": "The Wizard of the Kremlin",
+      "description": "Russia, early 1990s. Amid post-Soviet chaos, a brilliant young man, Vadim Baranov, charts his path. First an artist, then a reality TV producer, he becomes the spin doctor to a rising KGB agent: Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally opens up, revealing the dark secrets of the regime he helped build.",
+      "poster": "https://image.tmdb.org/t/p/w500/l8eEJ6iQPGLala7Oo43LTYb31fM.jpg",
+      "releaseInfo": "2026-03-07"
     },
     {
       "id": "tmdb:1381027",
@@ -1993,5 +2009,5 @@
       "releaseInfo": "2025-10-03"
     }
   ],
-  "ts": 1775027740272
+  "ts": 1775049238107
 }
