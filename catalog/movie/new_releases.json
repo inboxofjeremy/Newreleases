@@ -67,7 +67,7 @@
     {
       "id": "tmdb:1636891",
       "type": "movie",
-      "name": "Mexicali",
+      "name": "The Farmer",
       "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
       "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
       "releaseInfo": "2026-03-13"
@@ -717,7 +717,7 @@
       "type": "movie",
       "name": "A Suite Holiday Romance",
       "description": "During Christmas week, Sabrina jumps at the opportunity to ghostwrite a memoir for a famous art dealer at the iconic Grand Fairbanks Hotel in New York City. The week gets complicated when she meets a handsome British visitor at the hotel bar; she thinks he’s a member of the British aristocracy, and he thinks she’s a wealthy hotel guest.",
-      "poster": "https://image.tmdb.org/t/p/w500/d8dBMhovVUjJjZO4nmC9svqIu0l.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/csoJJ989f8Jd7jIGprvmNvjAmWc.jpg",
       "releaseInfo": "2025-12-13"
     },
     {
@@ -1949,7 +1949,7 @@
       "type": "movie",
       "name": "The President's Cake",
       "description": "While people across 1990s Iraq struggle to survive the war and food shortages, Saddam Hussein requires each school in the country to prepare a cake to celebrate his birthday. Despite her efforts to avoid getting picked, 9-year-old Lamia is chosen among her classmates. The young girl must now use her wits and imagination to gather ingredients for the mandatory cake or face the consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/abdw51gf1oy3UWllAwqGl6WdkiS.jpg",
       "releaseInfo": "2025-10-04"
     },
     {
@@ -1983,31 +1983,7 @@
       "description": "Cassidy is the president of a small college whose life is thrown for a loop when freshmen on the football team move into her home. Can Logan, the handsome coach, help smooth things over?",
       "poster": "https://image.tmdb.org/t/p/w500/kWoHop8qf17VvAaDYzJfDhFil1F.jpg",
       "releaseInfo": "2025-10-04"
-    },
-    {
-      "id": "tmdb:1159206",
-      "type": "movie",
-      "name": "Father Mother Sister Brother",
-      "description": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
-      "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
-      "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:1259102",
-      "type": "movie",
-      "name": "Eternity",
-      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/o8pg20G67BGmQvRkXwstNre062J.jpg",
-      "releaseInfo": "2025-10-03"
-    },
-    {
-      "id": "tmdb:1098534",
-      "type": "movie",
-      "name": "Orwell: 2+2=5",
-      "description": "George Orwell was one of the most visionary authors of the 20th century, whose novels 1984 and Animal Farm foretold a chilling, authoritarian future. Acclaimed director Raoul Peck interweaves clips, readings from Orwell's diary, cinematic references, and modern-day footage to craft not only a portrait of the writer, but a fresh take on how prophetic his work has become.",
-      "poster": "https://image.tmdb.org/t/p/w500/qG1LjcK8ohi4mSJ9j8KHUs5svbe.jpg",
-      "releaseInfo": "2025-10-03"
     }
   ],
-  "ts": 1775069814988
+  "ts": 1775095175409
 }
