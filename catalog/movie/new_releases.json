@@ -501,7 +501,7 @@
       "type": "movie",
       "name": "Kidnapped: Elizabeth Smart",
       "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
       "releaseInfo": "2026-01-21"
     },
     {
@@ -1943,47 +1943,7 @@
       "description": "Ben Stiller tells the story of his parents—comedy icons Jerry Stiller and Anne Meara—exploring their impact on popular culture and at home, where the lines between creativity, family, life, and art often blurred.",
       "poster": "https://image.tmdb.org/t/p/w500/zJuzuanxfc7D7Kqz4qYQqsDhRY3.jpg",
       "releaseInfo": "2025-10-05"
-    },
-    {
-      "id": "tmdb:1464883",
-      "type": "movie",
-      "name": "The President's Cake",
-      "description": "While people across 1990s Iraq struggle to survive the war and food shortages, Saddam Hussein requires each school in the country to prepare a cake to celebrate his birthday. Despite her efforts to avoid getting picked, 9-year-old Lamia is chosen among her classmates. The young girl must now use her wits and imagination to gather ingredients for the mandatory cake or face the consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/abdw51gf1oy3UWllAwqGl6WdkiS.jpg",
-      "releaseInfo": "2025-10-04"
-    },
-    {
-      "id": "tmdb:1262815",
-      "type": "movie",
-      "name": "The Choral",
-      "description": "As World War I rages on, Dr. Henry Guthrie takes over a British choral society that's lost most of its men to the army. The community soon discovers that the best response to the chaos of war is to make beautiful music together.",
-      "poster": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
-      "releaseInfo": "2025-10-04"
-    },
-    {
-      "id": "tmdb:1287322",
-      "type": "movie",
-      "name": "Christy",
-      "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia—until she discovered a knack for punching people. Fueled by grit, raw determination, and an unshakable desire to win, she charges into the world of boxing under the guidance of her trainer and manager-turned-husband, Jim. But while Christy flaunts a fiery persona in the ring, her toughest battles unfold outside it—confronting family, identity, and a relationship that just might become life-or-death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ssy1uHGZkuXLkIWJWrtsBczPvVC.jpg",
-      "releaseInfo": "2025-10-04"
-    },
-    {
-      "id": "tmdb:1547024",
-      "type": "movie",
-      "name": "The Secrets We Bury",
-      "description": "Follow the eccentric Mike Carroll in this chilling family mystery as he sets out to find his long-lost father. What he uncovers along the way threatens to shake the very foundation of his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/aTDKgSCAuAcXbGfUbJ0wwRFOgFS.jpg",
-      "releaseInfo": "2025-10-04"
-    },
-    {
-      "id": "tmdb:1535924",
-      "type": "movie",
-      "name": "Home Turf",
-      "description": "Cassidy is the president of a small college whose life is thrown for a loop when freshmen on the football team move into her home. Can Logan, the handsome coach, help smooth things over?",
-      "poster": "https://image.tmdb.org/t/p/w500/kWoHop8qf17VvAaDYzJfDhFil1F.jpg",
-      "releaseInfo": "2025-10-04"
     }
   ],
-  "ts": 1775155936249
+  "ts": 1775181674937
 }
