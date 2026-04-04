@@ -67,9 +67,17 @@
     {
       "id": "tmdb:1636891",
       "type": "movie",
-      "name": "The Farmer",
+      "name": "Mexicali",
       "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
       "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "releaseInfo": "2026-03-13"
+    },
+    {
+      "id": "tmdb:1493859",
+      "type": "movie",
+      "name": "Pizza Movie",
+      "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental drug, they're thrust into a chaotic night of absurd encounters, wild hallucinations, and unexpected revelations that could change their lives forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -151,6 +159,14 @@
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
       "poster": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "releaseInfo": "2026-03-06"
+    },
+    {
+      "id": "tmdb:1130875",
+      "type": "movie",
+      "name": "Operation Taco Gary's",
+      "description": "Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/soKwdOugcT1XRVd7KpvTMSflz0D.jpg",
+      "releaseInfo": "2026-02-27"
     },
     {
       "id": "tmdb:662707",
@@ -1927,23 +1943,7 @@
       "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
       "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
       "releaseInfo": "2025-10-06"
-    },
-    {
-      "id": "tmdb:1546050",
-      "type": "movie",
-      "name": "Lone Samurai",
-      "description": "A violent and reckless samurai is shipwrecked on a remote island left without an avenue for his rage. After undertaking a spiritual journey to appease his aggressive thoughts, he finds himself abducted by external demons taking the form of cannibals, putting his sense of reality and deadly talents to the test.",
-      "poster": "https://image.tmdb.org/t/p/w500/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg",
-      "releaseInfo": "2025-10-05"
-    },
-    {
-      "id": "tmdb:1517758",
-      "type": "movie",
-      "name": "Stiller & Meara: Nothing Is Lost",
-      "description": "Ben Stiller tells the story of his parents—comedy icons Jerry Stiller and Anne Meara—exploring their impact on popular culture and at home, where the lines between creativity, family, life, and art often blurred.",
-      "poster": "https://image.tmdb.org/t/p/w500/zJuzuanxfc7D7Kqz4qYQqsDhRY3.jpg",
-      "releaseInfo": "2025-10-05"
     }
   ],
-  "ts": 1775241649527
+  "ts": 1775267636044
 }
