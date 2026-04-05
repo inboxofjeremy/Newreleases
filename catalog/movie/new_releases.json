@@ -581,7 +581,7 @@
       "type": "movie",
       "name": "EPiC: Elvis Presley in Concert",
       "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
       "releaseInfo": "2026-01-08"
     },
     {
@@ -1537,14 +1537,6 @@
       "releaseInfo": "2025-11-01"
     },
     {
-      "id": "tmdb:1033148",
-      "type": "movie",
-      "name": "Die My Love",
-      "description": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
-      "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-      "releaseInfo": "2025-11-01"
-    },
-    {
       "id": "tmdb:1211776",
       "type": "movie",
       "name": "Violent Ends",
@@ -1919,31 +1911,7 @@
       "description": "Ozzy Osbourne faces his identity and mortality after his world stops. Dealing with health issues and Parkinson's, he questions if he can perform again while music remains his life's cornerstone.",
       "poster": "https://image.tmdb.org/t/p/w500/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
       "releaseInfo": "2025-10-07"
-    },
-    {
-      "id": "tmdb:1317288",
-      "type": "movie",
-      "name": "Marty Supreme",
-      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "releaseInfo": "2025-10-06"
-    },
-    {
-      "id": "tmdb:1114967",
-      "type": "movie",
-      "name": "Good Fortune",
-      "description": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
-      "poster": "https://image.tmdb.org/t/p/w500/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
-      "releaseInfo": "2025-10-06"
-    },
-    {
-      "id": "tmdb:533533",
-      "type": "movie",
-      "name": "TRON: Ares",
-      "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
-      "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-      "releaseInfo": "2025-10-06"
     }
   ],
-  "ts": 1775327807555
+  "ts": 1775354829155
 }
