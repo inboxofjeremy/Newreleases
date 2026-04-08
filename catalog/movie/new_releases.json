@@ -36,7 +36,7 @@
       "id": "tmdb:1637319",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
-      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series, with never-before-seen archival footage, and some of the show's most memorable sets will be 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
+      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
       "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
       "releaseInfo": "2026-03-23"
     },
@@ -69,7 +69,7 @@
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
@@ -357,7 +357,7 @@
       "type": "movie",
       "name": "Katt Williams: The Last Report",
       "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
-      "poster": "https://image.tmdb.org/t/p/w500/4kTyAa30BITPjFqGwjqRzBC60Az.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -575,6 +575,14 @@
       "description": "Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River.",
       "poster": "https://image.tmdb.org/t/p/w500/htrU3ly6waXgL74qbP2890BT8YL.jpg",
       "releaseInfo": "2026-01-17"
+    },
+    {
+      "id": "tmdb:1276521",
+      "type": "movie",
+      "name": "Charlie the Wonderdog",
+      "description": "Timid 9-year-old Danny teams up with his beloved family dog Charlie, who gets abducted by aliens and returns with superpowers, to thwart a plan by the neighbor's sinister cat Puddy to destroy humanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
+      "releaseInfo": "2026-01-16"
     },
     {
       "id": "tmdb:1584215",
@@ -1793,14 +1801,6 @@
       "releaseInfo": "2025-10-18"
     },
     {
-      "id": "tmdb:1491479",
-      "type": "movie",
-      "name": "Grow",
-      "description": "In the self-proclaimed ‘Pumpkin Capital of the World’, no-nonsense curmudgeonly farmer Dinah Little takes in her estranged niece Charlie, who decides to enter the local pumpkin growing competition where she and the other growers face fierce competition, sabotage, and a genetically engineered rival.",
-      "poster": "https://image.tmdb.org/t/p/w500/z5OjHr4QFOpVq8AicumXl0gm8Mb.jpg",
-      "releaseInfo": "2025-10-17"
-    },
-    {
       "id": "tmdb:1432596",
       "type": "movie",
       "name": "Palestine 36",
@@ -1887,47 +1887,7 @@
       "description": "After a horrific accident leaves his body scarred, a young boy strives to live and show everyone what is possible with the help of his family, his faith, his community, his longtime idol's kindness, and the entire city of St. Louis.",
       "poster": "https://image.tmdb.org/t/p/w500/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg",
       "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:1550785",
-      "type": "movie",
-      "name": "My Father, the BTK Killer",
-      "description": "Raised by a man leading a monstrous double life, the daughter of the BTK serial killer shares her chilling story.",
-      "poster": "https://image.tmdb.org/t/p/w500/47EblKlcEQ4lHdTVnay4P1d6thf.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:1547557",
-      "type": "movie",
-      "name": "Frankie Quiñones: Damn That's Crazy",
-      "description": "Frankie Quiñones hits the stage to unpack love, addiction, and the high-stakes politics of the family carne asada.",
-      "poster": "https://image.tmdb.org/t/p/w500/hIBa7YtOzxgLZ3A22L1pgwaphpB.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:1290879",
-      "type": "movie",
-      "name": "The Woman in Cabin 10",
-      "description": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
-      "poster": "https://image.tmdb.org/t/p/w500/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:1208348",
-      "type": "movie",
-      "name": "Rental Family",
-      "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-      "releaseInfo": "2025-10-09"
-    },
-    {
-      "id": "tmdb:1540867",
-      "type": "movie",
-      "name": "SAQUON",
-      "description": "SAQUON began as a video diary documenting his ACL recovery five years ago. But the camera kept rolling after his return, revealing an intimate journey through his frustrations over the lack of control of his career, quiet family moments, and ultimately, his dominant year with the Eagles, culminating in a storybook Super Bowl win on his birthday. This is Saquon like you have never seen him before.",
-      "poster": "https://image.tmdb.org/t/p/w500/dNSfQmps989E4n1W6BbqlIbQKqx.jpg",
-      "releaseInfo": "2025-10-09"
     }
   ],
-  "ts": 1775588355517
+  "ts": 1775613893730
 }
