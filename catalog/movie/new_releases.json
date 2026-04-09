@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1641319",
+      "type": "movie",
+      "name": "Sniper: No Nation",
+      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
+      "poster": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
       "id": "tmdb:1662432",
       "type": "movie",
       "name": "Finding Harry: The Craft Behind the Magic",
@@ -615,6 +623,14 @@
       "description": "Georgie, a travel writer, travels to Melbourne for an assignment where she meets Zach, an ex-Australian footballer who agrees to be her tour guide and shows her that there's more to life than work.",
       "poster": "https://image.tmdb.org/t/p/w500/Nm49NSh8UUGtEMmTUImjZFZuAs.jpg",
       "releaseInfo": "2026-01-10"
+    },
+    {
+      "id": "tmdb:1242265",
+      "type": "movie",
+      "name": "Fuze",
+      "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "poster": "https://image.tmdb.org/t/p/w500/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg",
+      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:1601243",
@@ -1863,31 +1879,7 @@
       "description": "The 2025 Crown Jewel, also promoted as Crown Jewel: Perth, was a professional wrestling event produced by the American company WWE. It was the seventh Crown Jewel and took place on Saturday, October 11, 2025, at the RAC Arena in Perth, Western Australia, Australia. The event featured the crowning of the second men's and women's Crown Jewel Champions and was the first Crown Jewel held outside of Saudi Arabia, as all previous editions took place in Riyadh. It also marked John Cena's last appearance in Australia as an in-ring performer before his retirement at the end of 2025, and was headlined by Seth Rollins vs. Cody Rhodes in a Champions vs. Champions match for the men's Crown Jewel Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/iA2SexIKmmZGbQaZK10YIen3AKv.jpg",
       "releaseInfo": "2025-10-11"
-    },
-    {
-      "id": "tmdb:1140498",
-      "type": "movie",
-      "name": "Is This Thing On?",
-      "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:524635",
-      "type": "movie",
-      "name": "The Chronology of Water",
-      "description": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
-      "poster": "https://image.tmdb.org/t/p/w500/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg",
-      "releaseInfo": "2025-10-10"
-    },
-    {
-      "id": "tmdb:1196791",
-      "type": "movie",
-      "name": "Soul on Fire",
-      "description": "After a horrific accident leaves his body scarred, a young boy strives to live and show everyone what is possible with the help of his family, his faith, his community, his longtime idol's kindness, and the entire city of St. Louis.",
-      "poster": "https://image.tmdb.org/t/p/w500/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg",
-      "releaseInfo": "2025-10-10"
     }
   ],
-  "ts": 1775675460330
+  "ts": 1775699827227
 }
