@@ -173,7 +173,7 @@
       "type": "movie",
       "name": "The Wizard of the Kremlin",
       "description": "Russia, early 1990s. Amid post-Soviet chaos, a brilliant young man, Vadim Baranov, charts his path. First an artist, then a reality TV producer, he becomes the spin doctor to a rising KGB agent: Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally opens up, revealing the dark secrets of the regime he helped build.",
-      "poster": "https://image.tmdb.org/t/p/w500/l8eEJ6iQPGLala7Oo43LTYb31fM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/q2jCWxRVSycIJhZbf3XCN7ZrGTS.jpg",
       "releaseInfo": "2026-03-07"
     },
     {
@@ -317,7 +317,7 @@
       "type": "movie",
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yQ7OP2HYxl9YmkWNMkuUA2YaF5.jpg",
       "releaseInfo": "2026-02-14"
     },
     {
@@ -1881,5 +1881,5 @@
       "releaseInfo": "2025-10-11"
     }
   ],
-  "ts": 1775718999054
+  "ts": 1775740742788
 }
