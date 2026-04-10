@@ -361,6 +361,14 @@
       "releaseInfo": "2026-02-12"
     },
     {
+      "id": "tmdb:1307373",
+      "type": "movie",
+      "name": "Wasteman",
+      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+      "releaseInfo": "2026-02-11"
+    },
+    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
@@ -1855,31 +1863,7 @@
       "description": "Our favorite music teacher Gethsemane is back again along with her trusted ghost friend Eamon to solve the unexplained death of a sea captain.",
       "poster": "https://image.tmdb.org/t/p/w500/4rJFqlzubrAbnPZCfFWf4GHF74e.jpg",
       "releaseInfo": "2025-10-12"
-    },
-    {
-      "id": "tmdb:1443940",
-      "type": "movie",
-      "name": "Truth & Treason",
-      "description": "When loyalty to country becomes loyalty to a lie, one teen risks everything to expose the truth. With the Gestapo closing in, he must decide what it really means to be a good German.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArDLn658OjT3dMThIi4GDQJRuY3.jpg",
-      "releaseInfo": "2025-10-11"
-    },
-    {
-      "id": "tmdb:1477448",
-      "type": "movie",
-      "name": "Haul Out the Halloween",
-      "description": "New, Halloween-obsessed neighbors inspire residents of Evergreen Lane to haul out their spookiest costumes and décor to become EverSCREAM Lane.",
-      "poster": "https://image.tmdb.org/t/p/w500/jbPRLRliQFZJumIjzuQ6qsODnKm.jpg",
-      "releaseInfo": "2025-10-11"
-    },
-    {
-      "id": "tmdb:1474303",
-      "type": "movie",
-      "name": "WWE Crown Jewel 2025",
-      "description": "The 2025 Crown Jewel, also promoted as Crown Jewel: Perth, was a professional wrestling event produced by the American company WWE. It was the seventh Crown Jewel and took place on Saturday, October 11, 2025, at the RAC Arena in Perth, Western Australia, Australia. The event featured the crowning of the second men's and women's Crown Jewel Champions and was the first Crown Jewel held outside of Saudi Arabia, as all previous editions took place in Riyadh. It also marked John Cena's last appearance in Australia as an in-ring performer before his retirement at the end of 2025, and was headlined by Seth Rollins vs. Cody Rhodes in a Champions vs. Champions match for the men's Crown Jewel Championship.",
-      "poster": "https://image.tmdb.org/t/p/w500/iA2SexIKmmZGbQaZK10YIen3AKv.jpg",
-      "releaseInfo": "2025-10-11"
     }
   ],
-  "ts": 1775761190090
+  "ts": 1775786976909
 }
