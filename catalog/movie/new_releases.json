@@ -9,6 +9,14 @@
       "releaseInfo": "2026-04-07"
     },
     {
+      "id": "tmdb:1049471",
+      "type": "movie",
+      "name": "Outcome",
+      "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
+      "poster": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+      "releaseInfo": "2026-04-06"
+    },
+    {
       "id": "tmdb:1662432",
       "type": "movie",
       "name": "Finding Harry: The Craft Behind the Magic",
@@ -118,6 +126,14 @@
       "name": "Pizza Movie",
       "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental drug, they're thrust into a chaotic night of absurd encounters, wild hallucinations, and unexpected revelations that could change their lives forever.",
       "poster": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+      "releaseInfo": "2026-03-13"
+    },
+    {
+      "id": "tmdb:1482168",
+      "type": "movie",
+      "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "description": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
+      "poster": "https://image.tmdb.org/t/p/w500/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -1865,5 +1881,5 @@
       "releaseInfo": "2025-10-12"
     }
   ],
-  "ts": 1775805768762
+  "ts": 1775826150985
 }
