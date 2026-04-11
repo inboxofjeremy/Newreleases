@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "S4: The Bob Lazar Story",
       "description": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
-      "poster": "https://image.tmdb.org/t/p/w500/9ipDFr3eSAIqTLDYdKwuFAsOxc9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cHWXWjUQg5mjuvQDimllZxusjD6.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
@@ -1865,5 +1865,5 @@
       "releaseInfo": "2025-10-13"
     }
   ],
-  "ts": 1775890630976
+  "ts": 1775911880591
 }
