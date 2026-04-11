@@ -1517,7 +1517,7 @@
       "type": "movie",
       "name": "Stone Cold Fox",
       "description": "In this '80s-set revenge story, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
-      "poster": "https://image.tmdb.org/t/p/w500/yGMuIDdcOTsfgKyHGEisIGQCbQC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg",
       "releaseInfo": "2025-11-07"
     },
     {
@@ -1863,23 +1863,7 @@
       "description": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
       "poster": "https://image.tmdb.org/t/p/w500/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
       "releaseInfo": "2025-10-13"
-    },
-    {
-      "id": "tmdb:1306400",
-      "type": "movie",
-      "name": "Merrily We Roll Along",
-      "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
-      "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "releaseInfo": "2025-10-12"
-    },
-    {
-      "id": "tmdb:1546989",
-      "type": "movie",
-      "name": "Haunted Harmony Mysteries: Buried at C",
-      "description": "Our favorite music teacher Gethsemane is back again along with her trusted ghost friend Eamon to solve the unexplained death of a sea captain.",
-      "poster": "https://image.tmdb.org/t/p/w500/4rJFqlzubrAbnPZCfFWf4GHF74e.jpg",
-      "releaseInfo": "2025-10-12"
     }
   ],
-  "ts": 1775846763782
+  "ts": 1775872700099
 }
