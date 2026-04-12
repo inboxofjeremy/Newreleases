@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1455079",
+      "type": "movie",
+      "name": "You, Me & Tuscany",
+      "description": "A free-spirited American chef and reserved British lawyer embark on a whirlwind romance during a destination wedding in coastal Italy.",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "releaseInfo": "2026-04-10"
+    },
+    {
       "id": "tmdb:1641319",
       "type": "movie",
       "name": "Sniper: No Nation",
@@ -125,7 +133,7 @@
       "type": "movie",
       "name": "Pizza Movie",
       "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental drug, they're thrust into a chaotic night of absurd encounters, wild hallucinations, and unexpected revelations that could change their lives forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -1857,5 +1865,5 @@
       "releaseInfo": "2025-10-15"
     }
   ],
-  "ts": 1775977759464
+  "ts": 1775998489975
 }
