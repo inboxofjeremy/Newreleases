@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1472951",
+      "type": "movie",
+      "name": "Infiltrate",
+      "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+      "releaseInfo": "2026-04-10"
+    },
+    {
       "id": "tmdb:1455079",
       "type": "movie",
       "name": "You, Me & Tuscany",
@@ -93,7 +101,7 @@
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
@@ -132,8 +140,8 @@
       "id": "tmdb:1493859",
       "type": "movie",
       "name": "Pizza Movie",
-      "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental drug, they're thrust into a chaotic night of absurd encounters, wild hallucinations, and unexpected revelations that could change their lives forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+      "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
+      "poster": "https://image.tmdb.org/t/p/w500/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -1077,7 +1085,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -1865,5 +1873,5 @@
       "releaseInfo": "2025-10-15"
     }
   ],
-  "ts": 1776019286690
+  "ts": 1776047045565
 }
