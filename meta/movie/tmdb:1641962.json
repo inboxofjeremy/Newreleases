@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:1641962",
+    "type": "movie",
+    "name": "Untold: Chess Mates",
+    "description": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
+    "poster": "https://image.tmdb.org/t/p/w500/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
+    "background": "https://image.tmdb.org/t/p/original/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
+    "released": "2026-04-07",
+    "imdb": "tt40224399"
+  }
+}
