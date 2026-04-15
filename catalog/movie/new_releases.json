@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1604975",
+      "type": "movie",
+      "name": "AEW Dynasty 2026",
+      "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
+      "releaseInfo": "2026-04-12"
+    },
+    {
       "id": "tmdb:1472951",
       "type": "movie",
       "name": "Infiltrate",
@@ -324,7 +332,7 @@
       "id": "tmdb:1405769",
       "type": "movie",
       "name": "I Can Only Imagine 2",
-      "description": "After the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
+      "description": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
       "poster": "https://image.tmdb.org/t/p/w500/A4A8YgAzBwDnlXDzuxoc5ZLchO7.jpg",
       "releaseInfo": "2026-02-20"
     },
@@ -1601,14 +1609,6 @@
       "releaseInfo": "2025-11-04"
     },
     {
-      "id": "tmdb:1242501",
-      "type": "movie",
-      "name": "Icefall",
-      "description": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
-      "releaseInfo": "2025-11-04"
-    },
-    {
       "id": "tmdb:1242898",
       "type": "movie",
       "name": "Predator: Badlands",
@@ -1702,14 +1702,6 @@
       "name": "Anniversary",
       "description": "When Ellen and Paul’s son Josh introduces his new girlfriend at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
       "poster": "https://image.tmdb.org/t/p/w500/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
-      "releaseInfo": "2025-10-29"
-    },
-    {
-      "id": "tmdb:1214130",
-      "type": "movie",
-      "name": "Stitch Head",
-      "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
-      "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
       "releaseInfo": "2025-10-29"
     },
     {
@@ -1855,15 +1847,7 @@
       "description": "The 2025 WrestleDream was a professional wrestling pay-per-view (PPV) event produced by the American promotion All Elite Wrestling (AEW). It was the third WrestleDream event and took place on October 18, 2025, at the Chaifetz Arena in St. Louis, Missouri. Like the previous events, this was a tribute event in honor of New Japan Pro-Wrestling (NJPW) founder Antonio Inoki, who passed away on October 1, 2022, and was headlined by Jon Moxley vs. Darby Allin in an I Quit Match.",
       "poster": "https://image.tmdb.org/t/p/w500/kIN6TC7xNMFAVvPGR0y062lPz2I.jpg",
       "releaseInfo": "2025-10-18"
-    },
-    {
-      "id": "tmdb:1432596",
-      "type": "movie",
-      "name": "Palestine 36",
-      "description": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
-      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "releaseInfo": "2025-10-16"
     }
   ],
-  "ts": 1776193715534
+  "ts": 1776218851960
 }
