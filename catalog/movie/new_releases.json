@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1084577",
+      "type": "movie",
+      "name": "Balls Up",
+      "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "releaseInfo": "2026-04-15"
+    },
+    {
       "id": "tmdb:1604975",
       "type": "movie",
       "name": "AEW Dynasty 2026",
@@ -23,6 +31,14 @@
       "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
       "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
       "releaseInfo": "2026-04-10"
+    },
+    {
+      "id": "tmdb:1665224",
+      "type": "movie",
+      "name": "Sheng Wang: Purple",
+      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
+      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026-04-07"
     },
     {
       "id": "tmdb:1641962",
@@ -129,6 +145,14 @@
       "releaseInfo": "2026-03-16"
     },
     {
+      "id": "tmdb:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+      "poster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+      "releaseInfo": "2026-03-15"
+    },
+    {
       "id": "tmdb:1604970",
       "type": "movie",
       "name": "AEW Revolution 2026",
@@ -205,7 +229,7 @@
       "type": "movie",
       "name": "Reminders of Him",
       "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "poster": "https://image.tmdb.org/t/p/w500/eHZtr8fhSAzuUpg79NLTqrcW0MA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "releaseInfo": "2026-03-09"
     },
     {
@@ -1849,5 +1873,5 @@
       "releaseInfo": "2025-10-18"
     }
   ],
-  "ts": 1776280266073
+  "ts": 1776306206222
 }
