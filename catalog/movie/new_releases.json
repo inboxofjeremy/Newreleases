@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:1623125",
+      "type": "movie",
+      "name": "A Gorilla Story: Told by David Attenborough",
+      "description": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
+      "poster": "https://image.tmdb.org/t/p/w500/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:1243741",
+      "type": "movie",
+      "name": "Ballistic",
+      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up",
@@ -277,7 +293,7 @@
       "type": "movie",
       "name": "The Wizard of the Kremlin",
       "description": "Russia, early 1990s. Amid post-Soviet chaos, a brilliant young man, Vadim Baranov, charts his path. First an artist, then a reality TV producer, he becomes the spin doctor to a rising KGB agent: Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally opens up, revealing the dark secrets of the regime he helped build.",
-      "poster": "https://image.tmdb.org/t/p/w500/q2jCWxRVSycIJhZbf3XCN7ZrGTS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l8eEJ6iQPGLala7Oo43LTYb31fM.jpg",
       "releaseInfo": "2026-03-07"
     },
     {
@@ -1857,5 +1873,5 @@
       "releaseInfo": "2025-10-20"
     }
   ],
-  "ts": 1776495745700
+  "ts": 1776516910011
 }
