@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1674749",
+      "type": "movie",
+      "name": "WWE WrestleMania 42 - Saturday",
+      "description": "Cody Rhodes clashes with longtime friend Randy Orton for the Undisputed WWE Title. Women's World Champion Stephanie Vaquer to defend against Liv Morgan WrestleMania 42. Women’s Intercontinental Champion AJ Lee vs. Becky Lynch. Jacob Fatu vs. Drew McIntyre in an Unsanctioned Match. Four teams are going to battle it out for the WWE Women’s Tag Team Title. Logan Paul, Austin Theory & IShowSpeed vs. The Usos & LA Knight in a Six-Man Tag Team Match. Seth Rollins vs. Gunther.",
+      "poster": "https://image.tmdb.org/t/p/w500/axfOsqQbc7Uj09JQ82kMnNB8yWO.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
       "id": "tmdb:1623125",
       "type": "movie",
       "name": "A Gorilla Story: Told by David Attenborough",
@@ -1181,7 +1189,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
       "releaseInfo": "2025-12-01"
     },
     {
@@ -1865,5 +1873,5 @@
       "releaseInfo": "2025-10-21"
     }
   ],
-  "ts": 1776582855510
+  "ts": 1776603295379
 }
