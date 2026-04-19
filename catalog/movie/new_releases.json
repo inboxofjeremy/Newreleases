@@ -17,6 +17,14 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tmdb:1659087",
+      "type": "movie",
+      "name": "180",
+      "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+      "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up",
@@ -28,7 +36,7 @@
       "id": "tmdb:1511057",
       "type": "movie",
       "name": "Roommates",
-      "description": "When college freshman Devon asks cool, confident Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+      "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
       "poster": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
       "releaseInfo": "2026-04-13"
     },
@@ -181,7 +189,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
       "releaseInfo": "2026-03-15"
     },
     {
@@ -1855,23 +1863,7 @@
       "description": "Michelle Wolf gets real about white women, serial killers and adjusting to motherhood in this sharp, unfiltered stand-up special.",
       "poster": "https://image.tmdb.org/t/p/w500/mY1dUsGEYrDzbPTrIW56r48xH2q.jpg",
       "releaseInfo": "2025-10-21"
-    },
-    {
-      "id": "tmdb:1287063",
-      "type": "movie",
-      "name": "Pike River",
-      "description": "In the aftermath of an explosion that rocked the Pike River Mine and took the lives of 29 West Coasters, two women step up to fight for accountability.",
-      "poster": "https://image.tmdb.org/t/p/w500/6I9RUAVaYBWjG3lFamEBs9B8jMN.jpg",
-      "releaseInfo": "2025-10-20"
-    },
-    {
-      "id": "tmdb:1469354",
-      "type": "movie",
-      "name": "Border Hunters",
-      "description": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
-      "poster": "https://image.tmdb.org/t/p/w500/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
-      "releaseInfo": "2025-10-20"
     }
   ],
-  "ts": 1776537737190
+  "ts": 1776565417495
 }
