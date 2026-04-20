@@ -3,9 +3,9 @@
     {
       "id": "tmdb:1674749",
       "type": "movie",
-      "name": "WWE WrestleMania 42 - Saturday",
+      "name": "WWE WrestleMania 42 Saturday",
       "description": "Cody Rhodes clashes with longtime friend Randy Orton for the Undisputed WWE Title. Women's World Champion Stephanie Vaquer to defend against Liv Morgan WrestleMania 42. Women’s Intercontinental Champion AJ Lee vs. Becky Lynch. Jacob Fatu vs. Drew McIntyre in an Unsanctioned Match. Four teams are going to battle it out for the WWE Women’s Tag Team Title. Logan Paul, Austin Theory & IShowSpeed vs. The Usos & LA Knight in a Six-Man Tag Team Match. Seth Rollins vs. Gunther.",
-      "poster": "https://image.tmdb.org/t/p/w500/axfOsqQbc7Uj09JQ82kMnNB8yWO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZqaqAmOusw3f2bN164niCFWqgx.jpg",
       "releaseInfo": "2026-04-18"
     },
     {
@@ -39,6 +39,14 @@
       "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
       "releaseInfo": "2026-04-15"
+    },
+    {
+      "id": "tmdb:1666433",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+      "poster": "https://image.tmdb.org/t/p/w500/cjAYNWIMxQa693Chsj5Xd6Jv8gh.jpg",
+      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tmdb:1511057",
@@ -182,6 +190,14 @@
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
       "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+      "releaseInfo": "2026-03-17"
+    },
+    {
+      "id": "tmdb:1440049",
+      "type": "movie",
+      "name": "Preschool",
+      "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
+      "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
@@ -1863,15 +1879,7 @@
       "description": "Bruce Springsteen performs the songs from his 1982 album “Nebraska” for the first time ever in its entirety in an intimate soundstage setting. Shot in moody black-and-white, the film is directed by Springsteen’s longtime filmic collaborator Thom Zimny.",
       "poster": "https://image.tmdb.org/t/p/w500/uCKxBd8hdoZn88LKophzVZk9cXz.jpg",
       "releaseInfo": "2025-10-22"
-    },
-    {
-      "id": "tmdb:1566230",
-      "type": "movie",
-      "name": "Michelle Wolf: The Well",
-      "description": "Michelle Wolf gets real about white women, serial killers and adjusting to motherhood in this sharp, unfiltered stand-up special.",
-      "poster": "https://image.tmdb.org/t/p/w500/mY1dUsGEYrDzbPTrIW56r48xH2q.jpg",
-      "releaseInfo": "2025-10-21"
     }
   ],
-  "ts": 1776624168192
+  "ts": 1776651857244
 }
