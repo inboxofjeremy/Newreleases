@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1658464",
+      "type": "movie",
+      "name": "WWE WrestleMania 42 Sunday",
+      "description": "World Heavyweight Champion CM Punk goes to war with Roman Reigns at WrestleMania 42.",
+      "poster": "https://image.tmdb.org/t/p/w500/1wA1uEoVY9QL2JGhNSGecue8euP.jpg",
+      "releaseInfo": "2026-04-19"
+    },
+    {
       "id": "tmdb:1674749",
       "type": "movie",
       "name": "WWE WrestleMania 42 Saturday",
@@ -1881,5 +1889,5 @@
       "releaseInfo": "2025-10-22"
     }
   ],
-  "ts": 1776672049673
+  "ts": 1776691352167
 }
