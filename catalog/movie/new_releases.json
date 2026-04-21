@@ -1,22 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1658464",
-      "type": "movie",
-      "name": "WWE WrestleMania 42 Sunday",
-      "description": "World Heavyweight Champion CM Punk goes to war with Roman Reigns at WrestleMania 42.",
-      "poster": "https://image.tmdb.org/t/p/w500/1wA1uEoVY9QL2JGhNSGecue8euP.jpg",
-      "releaseInfo": "2026-04-19"
-    },
-    {
-      "id": "tmdb:1674749",
-      "type": "movie",
-      "name": "WWE WrestleMania 42 Saturday",
-      "description": "Cody Rhodes clashes with longtime friend Randy Orton for the Undisputed WWE Title. Women's World Champion Stephanie Vaquer to defend against Liv Morgan WrestleMania 42. Women’s Intercontinental Champion AJ Lee vs. Becky Lynch. Jacob Fatu vs. Drew McIntyre in an Unsanctioned Match. Four teams are going to battle it out for the WWE Women’s Tag Team Title. Logan Paul, Austin Theory & IShowSpeed vs. The Usos & LA Knight in a Six-Man Tag Team Match. Seth Rollins vs. Gunther.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZqaqAmOusw3f2bN164niCFWqgx.jpg",
-      "releaseInfo": "2026-04-18"
-    },
-    {
       "id": "tmdb:1623125",
       "type": "movie",
       "name": "A Gorilla Story: Told by David Attenborough",
@@ -117,7 +101,7 @@
       "type": "movie",
       "name": "Sniper: No Nation",
       "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
-      "poster": "https://image.tmdb.org/t/p/w500/3T9nAX0jAp0iT18ex25BlZEpRDb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
@@ -655,6 +639,14 @@
       "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
       "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
       "releaseInfo": "2026-01-28"
+    },
+    {
+      "id": "tmdb:1596335",
+      "type": "movie",
+      "name": "The AI Doc: Or How I Became an Apocaloptimist",
+      "description": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
+      "poster": "https://image.tmdb.org/t/p/w500/5AuhFkIFhRciJEtGzo4B2kte3TW.jpg",
+      "releaseInfo": "2026-01-27"
     },
     {
       "id": "tmdb:1624183",
@@ -1871,23 +1863,7 @@
       "description": "After the events of Frozen, Anna and Elsa want to start fresh in Arendelle, and make the castle feel a bit more comfortable. While they struggle to break free of the bounds of tradition, the Duke of Weselton has other plans for their beloved home alongside a flock of menacing puffins.",
       "poster": "https://image.tmdb.org/t/p/w500/4gcpeI5drcUI81KbZjRLm4EAJII.jpg",
       "releaseInfo": "2025-10-24"
-    },
-    {
-      "id": "tmdb:1327862",
-      "type": "movie",
-      "name": "Regretting You",
-      "description": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
-      "poster": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
-      "releaseInfo": "2025-10-24"
-    },
-    {
-      "id": "tmdb:1553666",
-      "type": "movie",
-      "name": "Bruce Springsteen: Nebraska Live",
-      "description": "Bruce Springsteen performs the songs from his 1982 album “Nebraska” for the first time ever in its entirety in an intimate soundstage setting. Shot in moody black-and-white, the film is directed by Springsteen’s longtime filmic collaborator Thom Zimny.",
-      "poster": "https://image.tmdb.org/t/p/w500/uCKxBd8hdoZn88LKophzVZk9cXz.jpg",
-      "releaseInfo": "2025-10-22"
     }
   ],
-  "ts": 1776711580270
+  "ts": 1776737525960
 }
