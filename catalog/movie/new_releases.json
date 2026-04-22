@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "tmdb:1623125",
+      "id": "tmdb:936075",
       "type": "movie",
-      "name": "A Gorilla Story: Told by David Attenborough",
-      "description": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
-      "poster": "https://image.tmdb.org/t/p/w500/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
-      "releaseInfo": "2026-04-17"
+      "name": "Michael",
+      "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "releaseInfo": "2026-04-20"
     },
     {
       "id": "tmdb:1243741",
@@ -22,6 +22,22 @@
       "name": "180",
       "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
       "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:1623125",
+      "type": "movie",
+      "name": "A Gorilla Story: Told by David Attenborough",
+      "description": "Veteran naturalist Sir David Attenborough tells the story of a remarkable group of gorillas, from his first encounter in the '70s to the present day.",
+      "poster": "https://image.tmdb.org/t/p/w500/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:1414413",
+      "type": "movie",
+      "name": "Brothers Under Fire",
+      "description": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+      "poster": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -166,6 +182,14 @@
       "name": "Wardriver",
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
       "poster": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
+      "releaseInfo": "2026-03-20"
+    },
+    {
+      "id": "tmdb:1146058",
+      "type": "movie",
+      "name": "The Pout-Pout Fish",
+      "description": "Living on a rundown shipwreck, Mr. Fish one day discovers a hyperactive young sea dragon Pip – who had mistaken his home for a junkyard – pilfering his belongings. The heated argument that ensues leaves both their houses in ruin. But there is hope! Embarking on a seemingly impossible quest in search of the mythical 'Shimmer' to grant them a wish, there’s only one problem: someone else is on the hunt...",
+      "poster": "https://image.tmdb.org/t/p/w500/fcDXgGL14qL46It1XOozEjX5Jws.jpg",
       "releaseInfo": "2026-03-20"
     },
     {
@@ -349,7 +373,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yWBs5mZcfLf777Cn3BNc3nQYgVK.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1086,6 +1110,14 @@
       "name": "Love and Wine",
       "description": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
       "poster": "https://image.tmdb.org/t/p/w500/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1547301",
+      "type": "movie",
+      "name": "Prompt",
+      "description": "When a young woman begins immersing herself in the arena of AI, her wildest and darkest fantasies become sensual realities. But the deeper she sinks into her online explorations, the closer she gets to the shocking truth.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Xi83mxuf9wT1Mi51AJ1ctVyqPB.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -1855,15 +1887,7 @@
       "description": "A Christmas-loving weatherman has had a tough year; upon returning to his hometown, he bumps into a former teacher who always cheered him on, and his former crush — and things start to look up.",
       "poster": "https://image.tmdb.org/t/p/w500/cdPfcMltESmaYukwnDqvDcqEJUF.jpg",
       "releaseInfo": "2025-10-25"
-    },
-    {
-      "id": "tmdb:1549292",
-      "type": "movie",
-      "name": "LEGO Frozen: Operation Puffins",
-      "description": "After the events of Frozen, Anna and Elsa want to start fresh in Arendelle, and make the castle feel a bit more comfortable. While they struggle to break free of the bounds of tradition, the Duke of Weselton has other plans for their beloved home alongside a flock of menacing puffins.",
-      "poster": "https://image.tmdb.org/t/p/w500/4gcpeI5drcUI81KbZjRLm4EAJII.jpg",
-      "releaseInfo": "2025-10-24"
     }
   ],
-  "ts": 1776798384534
+  "ts": 1776823812310
 }
