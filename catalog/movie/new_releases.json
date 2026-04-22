@@ -116,7 +116,7 @@
       "id": "tmdb:1641319",
       "type": "movie",
       "name": "Sniper: No Nation",
-      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
+      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
       "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
       "releaseInfo": "2026-04-07"
     },
@@ -357,7 +357,7 @@
       "type": "movie",
       "name": "Protector",
       "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/hUv1DarjEMmQM38i9DvW9pHYPZ4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1889,5 +1889,5 @@
       "releaseInfo": "2025-10-25"
     }
   ],
-  "ts": 1776842860968
+  "ts": 1776863960867
 }
