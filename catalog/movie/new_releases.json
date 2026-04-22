@@ -153,6 +153,14 @@
       "releaseInfo": "2026-04-01"
     },
     {
+      "id": "tmdb:1660968",
+      "type": "movie",
+      "name": "Aaron Chen: Funny Garden",
+      "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
+      "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tmdb:1641961",
       "type": "movie",
       "name": "Untold: The Death & Life of Lamar Odom",
@@ -1889,5 +1897,5 @@
       "releaseInfo": "2025-10-25"
     }
   ],
-  "ts": 1776863960867
+  "ts": 1776884875320
 }
