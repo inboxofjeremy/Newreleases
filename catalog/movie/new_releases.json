@@ -285,7 +285,7 @@
       "type": "movie",
       "name": "The Gates",
       "description": "Three friends' road trip turns terrifying when they witness a murder in a gated community. Trapped inside, hunted by residents who blame them, their bond fractures as a charismatic yet sinister patriarch closes in.",
-      "poster": "https://image.tmdb.org/t/p/w500/u6hKIlDIpRkWOqTaesDzS0EOmx6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -775,14 +775,6 @@
       "description": "Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River.",
       "poster": "https://image.tmdb.org/t/p/w500/htrU3ly6waXgL74qbP2890BT8YL.jpg",
       "releaseInfo": "2026-01-17"
-    },
-    {
-      "id": "tmdb:1276521",
-      "type": "movie",
-      "name": "Charlie the Wonderdog",
-      "description": "Timid 9-year-old Danny teams up with his beloved family dog Charlie, who gets abducted by aliens and returns with superpowers, to thwart a plan by the neighbor's sinister cat Puddy to destroy humanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
-      "releaseInfo": "2026-01-16"
     },
     {
       "id": "tmdb:1584215",
@@ -1897,5 +1889,5 @@
       "releaseInfo": "2025-10-25"
     }
   ],
-  "ts": 1776884875320
+  "ts": 1776910944090
 }
