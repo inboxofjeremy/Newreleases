@@ -361,14 +361,6 @@
       "releaseInfo": "2026-03-06"
     },
     {
-      "id": "tmdb:1383731",
-      "type": "movie",
-      "name": "Protector",
-      "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
-      "releaseInfo": "2026-03-06"
-    },
-    {
       "id": "tmdb:875828",
       "type": "movie",
       "name": "Peaky Blinders: The Immortal Man",
@@ -377,11 +369,19 @@
       "releaseInfo": "2026-03-06"
     },
     {
+      "id": "tmdb:1383731",
+      "type": "movie",
+      "name": "Protector",
+      "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
+      "releaseInfo": "2026-03-06"
+    },
+    {
       "id": "tmdb:1265609",
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/yWBs5mZcfLf777Cn3BNc3nQYgVK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1749,7 +1749,7 @@
       "type": "movie",
       "name": "Predator: Badlands",
       "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "poster": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "releaseInfo": "2025-11-03"
     },
     {
@@ -1863,31 +1863,7 @@
       "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
       "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
       "releaseInfo": "2025-10-26"
-    },
-    {
-      "id": "tmdb:339849",
-      "type": "movie",
-      "name": "Not Without Hope",
-      "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
-      "releaseInfo": "2025-10-25"
-    },
-    {
-      "id": "tmdb:1564628",
-      "type": "movie",
-      "name": "NXT Halloween Havoc 2025",
-      "description": "Halloween Havoc 2025 was a professional wrestling event produced by WWE for its NXT brand, held on October 25, 2025, at the Findlay Toyota Center in Prescott Valley, Arizona, and headlined by Ricky Saints (c) vs. Trick Williams for the NXT Championship.",
-      "poster": "https://image.tmdb.org/t/p/w500/oZLSgadqvx9p70myKwp9zrSKpuU.jpg",
-      "releaseInfo": "2025-10-25"
-    },
-    {
-      "id": "tmdb:1547882",
-      "type": "movie",
-      "name": "Merry Christmas, Ted Cooper!",
-      "description": "A Christmas-loving weatherman has had a tough year; upon returning to his hometown, he bumps into a former teacher who always cheered him on, and his former crush — and things start to look up.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdPfcMltESmaYukwnDqvDcqEJUF.jpg",
-      "releaseInfo": "2025-10-25"
     }
   ],
-  "ts": 1776970977226
+  "ts": 1776997358857
 }
