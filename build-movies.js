@@ -5,12 +5,11 @@ import path from "path";
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 0; // allow brand-new releases with 0 votes
 
 // ===============================
 // HELPERS
@@ -34,6 +33,7 @@ async function fetchJSON(url) {
   }
 }
 
+// fallback US date (may fail for streaming titles)
 async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
@@ -88,10 +88,7 @@ async function fetchMovies() {
       `&language=en-US` +
       `&with_original_language=en` +
       `&region=US` +
-      `&vote_count.gte=${MIN_VOTE_COUNT}` +
-      `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
+      `&sort_by=popularity.desc` +
       `&without_genres=27` +
       `&page=${page}`;
 
@@ -108,14 +105,26 @@ async function fetchMovies() {
     async (m) => {
       if (!m?.id) return null;
 
-      // use US date when available, otherwise fallback to TMDB release_date
-      const usDate =
+      // FIX: reliable release date fallback chain
+      let releaseDate =
         (await fetchUSReleaseDate(m.id)) ||
         m.release_date ||
         null;
 
-      if (!usDate) return null;
-      if (usDate < DATE_FROM || usDate > DATE_TO) return null;
+      if (!releaseDate) return null;
+
+      // keep only recent releases
+      if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
+        return null;
+      }
+
+      const voteCount = m.vote_count || 0;
+      const popularity = m.popularity || 0;
+
+      // filter junk indie / low visibility films
+      if (voteCount < 2 && popularity < 10) {
+        return null;
+      }
 
       return {
         id: `tmdb:${m.id}`,
@@ -125,7 +134,7 @@ async function fetchMovies() {
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
-        releaseInfo: usDate,
+        releaseInfo: releaseDate,
       };
     },
     TMDB_CONCURRENCY
@@ -142,8 +151,9 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  return out.sort((a, b) =>
-    b.releaseInfo.localeCompare(a.releaseInfo)
+  // FINAL SORT: by real date (safe + consistent)
+  return out.sort(
+    (a, b) => new Date(b.releaseInfo) - new Date(a.releaseInfo)
   );
 }
 
@@ -182,7 +192,7 @@ async function buildMeta(id) {
 }
 
 // ===============================
-// MAIN BUILD
+// BUILD
 // ===============================
 async function build() {
   console.log("Fetching movies...");
@@ -194,11 +204,7 @@ async function build() {
 
   fs.writeFileSync(
     "./catalog/movie/new_releases.json",
-    JSON.stringify(
-      { metas: movies, ts: Date.now() },
-      null,
-      2
-    )
+    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
   );
 
   for (const m of movies) {
