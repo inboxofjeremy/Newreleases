@@ -4,12 +4,9 @@ import fs from "fs";
 // CONFIG
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
+const MAX_PAGES = 15;
 const DAYS_BACK = 180;
-const MAX_PAGES = 20;
-const TMDB_CONCURRENCY = 8;
 
-// ===============================
-// DATE RANGE
 // ===============================
 function daysAgo(n) {
   const d = new Date();
@@ -32,30 +29,6 @@ async function fetchJSON(url) {
 }
 
 // ===============================
-async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
-  const out = new Array(list.length);
-  let i = 0;
-
-  const workers = Array(concurrency).fill(0).map(async () => {
-    while (true) {
-      const idx = i++;
-      if (idx >= list.length) break;
-
-      try {
-        out[idx] = await fn(list[idx]);
-      } catch {
-        out[idx] = null;
-      }
-    }
-  });
-
-  await Promise.all(workers);
-  return out;
-}
-
-// ===============================
-// FETCH MOVIES
-// ===============================
 async function fetchMovies() {
   const all = [];
 
@@ -71,53 +44,40 @@ async function fetchMovies() {
 
     const j = await fetchJSON(url);
 
-    if (!j || !Array.isArray(j.results)) continue;
+    if (!j?.results?.length) continue;
 
     all.push(...j.results);
 
     if (page >= j.total_pages) break;
   }
 
-  const mapped = await pMap(all, async (m) => {
-    if (!m?.id) return null;
+  const filtered = all
+    .filter((m) => m?.id && m.release_date)
+    .map((m) => {
+      const date = m.release_date;
 
-    const releaseDate = m.release_date;
-    if (!releaseDate) return null;
+      if (date < DATE_FROM || date > DATE_TO) return null;
 
-    // enforce your 180-day window safely
-    if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
-      return null;
-    }
-
-    const voteCount = m.vote_count || 0;
-    const popularity = m.popularity || 0;
-
-    // safe filter (prevents junk, keeps real releases)
-    if (voteCount < 1 && popularity < 1) {
-      return null;
-    }
-
-    return {
-      id: `tmdb:${m.id}`,
-      type: "movie",
-      name: m.title || m.original_title || `Movie ${m.id}`,
-      description: m.overview || "",
-      poster: m.poster_path
-        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-        : null,
-      releaseInfo: releaseDate,
-    };
-  });
+      return {
+        id: `tmdb:${m.id}`,
+        type: "movie",
+        name: m.title || m.original_title,
+        description: m.overview || "",
+        poster: m.poster_path
+          ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+          : null,
+        releaseInfo: date,
+      };
+    })
+    .filter(Boolean);
 
   const seen = new Set();
   const out = [];
 
-  for (const item of mapped) {
-    if (!item) continue;
-    if (seen.has(item.id)) continue;
-
-    seen.add(item.id);
-    out.push(item);
+  for (const m of filtered) {
+    if (seen.has(m.id)) continue;
+    seen.add(m.id);
+    out.push(m);
   }
 
   return out.sort(
@@ -126,11 +86,8 @@ async function fetchMovies() {
 }
 
 // ===============================
-// META BUILDER
-// ===============================
 async function buildMeta(id) {
   const tmdbId = id.split(":")[1];
-  if (!tmdbId) return null;
 
   const movie = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
@@ -157,14 +114,12 @@ async function buildMeta(id) {
 }
 
 // ===============================
-// BUILD
-// ===============================
 async function build() {
   console.log("Fetching movies...");
 
   const movies = await fetchMovies();
 
-  console.log("Final catalog size:", movies.length);
+  console.log("Total movies:", movies.length);
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
   fs.mkdirSync("./meta/movie", { recursive: true });
