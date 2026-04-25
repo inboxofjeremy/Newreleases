@@ -1,6 +1,4 @@
-// build-movies.js
 import fs from "fs";
-import path from "path";
 
 // ===============================
 // CONFIG
@@ -11,7 +9,7 @@ const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 
 // ===============================
-// HELPERS
+// DATE RANGE
 // ===============================
 function daysAgo(n) {
   const d = new Date();
@@ -22,6 +20,9 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
+// ===============================
+// FETCH
+// ===============================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -32,31 +33,32 @@ async function fetchJSON(url) {
   }
 }
 
+// ===============================
+// SIMPLE MAP WORKER
+// ===============================
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
   let i = 0;
 
-  const workers = Array(concurrency)
-    .fill(0)
-    .map(async () => {
-      while (true) {
-        const idx = i++;
-        if (idx >= list.length) break;
+  const workers = Array(concurrency).fill(0).map(async () => {
+    while (true) {
+      const idx = i++;
+      if (idx >= list.length) break;
 
-        try {
-          out[idx] = await fn(list[idx], idx);
-        } catch {
-          out[idx] = null;
-        }
+      try {
+        out[idx] = await fn(list[idx]);
+      } catch {
+        out[idx] = null;
       }
-    });
+    }
+  });
 
   await Promise.all(workers);
   return out;
 }
 
 // ===============================
-// FETCH MOVIES
+// MAIN FETCH
 // ===============================
 async function fetchMovies() {
   const all = [];
@@ -75,35 +77,33 @@ async function fetchMovies() {
     if (!j?.results?.length) break;
 
     all.push(...j.results);
-
     if (page >= j.total_pages) break;
   }
 
   const mapped = await pMap(all, async (m) => {
     if (!m?.id) return null;
 
-    // FIX: always rely on release_date from discover (more reliable than extra endpoints)
-    const releaseDate = m.release_date || null;
+    const releaseDate = m.release_date;
 
     if (!releaseDate) return null;
 
-    // keep only recent window
+    // strict date window
     if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
       return null;
     }
 
+    // light quality filter only (prevents junk, doesn't kill legit releases)
     const voteCount = m.vote_count || 0;
     const popularity = m.popularity || 0;
 
-    // balanced filter (removes junk but keeps new legit releases like Ramy)
-    if (voteCount < 1 && popularity < 3) {
+    if (voteCount < 1 && popularity < 2) {
       return null;
     }
 
     return {
       id: `tmdb:${m.id}`,
       type: "movie",
-      name: m.title || m.original_title || `Movie ${m.id}`,
+      name: m.title || m.original_title,
       description: m.overview || "",
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
@@ -123,14 +123,13 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // SORT BY RELEASE DATE (your requirement)
   return out.sort(
     (a, b) => new Date(b.releaseInfo) - new Date(a.releaseInfo)
   );
 }
 
 // ===============================
-// META BUILDER
+// META
 // ===============================
 async function buildMeta(id) {
   const tmdbId = id.split(":")[1];
