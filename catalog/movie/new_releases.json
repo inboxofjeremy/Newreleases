@@ -233,6 +233,14 @@
       "releaseInfo": "2026-03-17"
     },
     {
+      "id": "tmdb:1653045",
+      "type": "movie",
+      "name": "Inside the Rage Machine",
+      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
+      "releaseInfo": "2026-03-16"
+    },
+    {
       "id": "tmdb:1636918",
       "type": "movie",
       "name": "The Plastic Detox",
@@ -391,6 +399,14 @@
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
       "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
       "releaseInfo": "2026-03-06"
+    },
+    {
+      "id": "tmdb:1640697",
+      "type": "movie",
+      "name": "Diabolical - The Epstein Files",
+      "description": "It's the scandal that has shocked Americans and rocked the Trump administration. A legal and political saga that has shattered fundamental beliefs that all are equal in the eyes of the law. What do the Epstein Files reveal?",
+      "poster": "https://image.tmdb.org/t/p/w500/wFXoZsIqEZPpJgdDlJdFFzWplhk.jpg",
+      "releaseInfo": "2026-03-02"
     },
     {
       "id": "tmdb:1130875",
@@ -566,6 +582,14 @@
       "name": "The Way to You",
       "description": "New Yorkers Emma and Conrad agree to help each other find their missed connections after a subway blackout. Their search might lead to love, but not where either of them expects to find it.",
       "poster": "https://image.tmdb.org/t/p/w500/4aOxnMaDkr792WOZFJUb6LxcR74.jpg",
+      "releaseInfo": "2026-02-07"
+    },
+    {
+      "id": "tmdb:1449400",
+      "type": "movie",
+      "name": "Reckless",
+      "description": "A former convict on parole must outwit the police to get his share of an old heist.",
+      "poster": "https://image.tmdb.org/t/p/w500/76jjEatL53KYooIrDQK9wsk4rm1.jpg",
       "releaseInfo": "2026-02-07"
     },
     {
@@ -785,6 +809,14 @@
       "releaseInfo": "2026-01-17"
     },
     {
+      "id": "tmdb:1480025",
+      "type": "movie",
+      "name": "How to Lose a Popularity Contest",
+      "description": "A rebellious student and a perfectionist overachiever form an unlikely alliance in their race for student body president, discovering unexpected feelings along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
+      "releaseInfo": "2026-01-16"
+    },
+    {
       "id": "tmdb:1584215",
       "type": "movie",
       "name": "The Internship",
@@ -833,6 +865,22 @@
       "releaseInfo": "2026-01-09"
     },
     {
+      "id": "tmdb:1591654",
+      "type": "movie",
+      "name": "A Gangster's Life",
+      "description": "When two low-level criminals scam a vicious London mob and are in over their heads, they flee to rural Greece to avoid the bloody repercussions. But escape isn't that simple.",
+      "poster": "https://image.tmdb.org/t/p/w500/lchd153kuw8NB6s2mOC1kE8hTzn.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
+      "id": "tmdb:1078581",
+      "type": "movie",
+      "name": "Giant",
+      "description": "Follows Prince Naseem Hamed from his humble beginnings on the tough working-class streets of Sheffield and his discovery by Ingle, himself a steel industry worker turned boxing trainer. Their unlikely partnership, Naz’s unorthodox style, cocky persona, and sheer dominance in the ring propelled them to the top of boxing’s elite and unprecedented levels of global superstardom, all in the face of the rampant Islamophobia and racism of ’80s and 90’s Britain.",
+      "poster": "https://image.tmdb.org/t/p/w500/1KKmUdFulYDVSV31nQt9LVm3Oue.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
       "id": "tmdb:840464",
       "type": "movie",
       "name": "Greenland 2: Migration",
@@ -865,12 +913,28 @@
       "releaseInfo": "2026-01-06"
     },
     {
+      "id": "tmdb:1604012",
+      "type": "movie",
+      "name": "Tribute to David Bowie - Heroes Never Die",
+      "description": "The Molotovs kick things off in style with “Rebel Rebel,” followed by magical covers of “Heroes” (The Horrors), ‘Fascination’ (La Roux), “Let's Dance” (Jeanne Added), “Rock'n'Roll Suicide” (The Libertines), “Sound and Vision” (Anna Calvi), “Starman” (The Divine Comedy), and “The Man Who Sold the World” (Yasmine Hamdan): eight intense reinterpretations of David Bowie's work, delivered during an arty and decidedly London-esque stroll, which, from stage to studio, recreates the fragile intensity of a live performance.",
+      "poster": "https://image.tmdb.org/t/p/w500/qAdZbSJB9ACUkv6R6oZ99Nv2P02.jpg",
+      "releaseInfo": "2026-01-05"
+    },
+    {
       "id": "tmdb:1592021",
       "type": "movie",
       "name": "Lost in Paradise",
       "description": "When the founder of a high-end fashion company gets marooned on a \"deserted\" island with a chef, romance blossoms as they work together to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
       "releaseInfo": "2026-01-03"
+    },
+    {
+      "id": "tmdb:1604628",
+      "type": "movie",
+      "name": "Wild London",
+      "description": "After a life spent travelling the globe, the world’s most famous naturalist turns his attention closer to home to explore the wildlife of England’s iconic capital. Having lived in London for 75 years, Sir David has an intimate knowledge of the city’s natural history, and there's no better guide to introduce us to its most spectacular wildlife secrets. Captured over his centennial year, this personal and poignant film is a timely insight into how cities can become homes for wildlife as well as ourselves.",
+      "poster": "https://image.tmdb.org/t/p/w500/3yTYwbilgxE240qShWxcNmp9WHZ.jpg",
+      "releaseInfo": "2026-01-01"
     },
     {
       "id": "tmdb:1601082",
@@ -903,6 +967,14 @@
       "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
       "poster": "https://image.tmdb.org/t/p/w500/bLq4GRp4InjkipnWM5Bdzbkhg2P.jpg",
       "releaseInfo": "2025-12-29"
+    },
+    {
+      "id": "tmdb:1571485",
+      "type": "movie",
+      "name": "Bowie: The Final Act",
+      "description": "The final creative chapter of one of music’s most iconic artists. Featuring rare interviews with those who knew and worked alongside Bowie as well as famous fans and figures who have been inspired by his artistry, the film will uncover the strategy behind Bowie’s artistic resurrection and the inexhaustible extraordinary creativity that defined his final decade, in which he released his critically acclaimed album Blackstar just two days before he died. This was an emergence from the turbulence of the 1990s, when Bowie had found himself at odds with a changing industry but pushed on to headline Glastonbury in 2000.",
+      "poster": "https://image.tmdb.org/t/p/w500/tPG2I0qr61aE5xZwbM9WiT3nHxJ.jpg",
+      "releaseInfo": "2025-12-26"
     },
     {
       "id": "tmdb:1588965",
@@ -969,12 +1041,28 @@
       "releaseInfo": "2025-12-19"
     },
     {
+      "id": "tmdb:1495694",
+      "type": "movie",
+      "name": "Beauty from Pain",
+      "description": "After a devastating heartbreak, an aspiring musician escapes to Australia. She agrees to a no-strings romance with a billionaire winemaker, but when she falls in love she must choose to walk away or risk her heart on a man afraid to love.",
+      "poster": "https://image.tmdb.org/t/p/w500/mJtBKvHQaFzgp0N6JFskSvjbTar.jpg",
+      "releaseInfo": "2025-12-18"
+    },
+    {
       "id": "tmdb:1584619",
       "type": "movie",
       "name": "Murder in Monaco",
       "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
       "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
       "releaseInfo": "2025-12-17"
+    },
+    {
+      "id": "tmdb:1598509",
+      "type": "movie",
+      "name": "Sarah Millican: Late Bloomer Live",
+      "description": "When Sarah Millican was a bairn, she wouldn't say boo to a goose. Quiet at school, not many friends, no boobs 'til she was 16. Now? NOW she is loud, with good friends, a cracking rack and goose booing all over the shop. In Sarah's seventh stand-up special, she explores how one became the other. Plus, lots of stuff about dinners and lady gardens.",
+      "poster": "https://image.tmdb.org/t/p/w500/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
+      "releaseInfo": "2025-12-15"
     },
     {
       "id": "tmdb:1589905",
@@ -1201,6 +1289,14 @@
       "releaseInfo": "2025-12-03"
     },
     {
+      "id": "tmdb:1292123",
+      "type": "movie",
+      "name": "Mother",
+      "description": "The film follows seven consecutive days at a pivotal moment in Mother Teresa’s life, the period where she decides to leave the Loreto Entally convent in Calcutta and launch her own order.",
+      "poster": "https://image.tmdb.org/t/p/w500/AcDw2c0HlCMb8GHIDu11PC8x8Xv.jpg",
+      "releaseInfo": "2025-12-03"
+    },
+    {
       "id": "tmdb:1261825",
       "type": "movie",
       "name": "Oh. What. Fun.",
@@ -1257,11 +1353,27 @@
       "releaseInfo": "2025-12-01"
     },
     {
+      "id": "tmdb:1290799",
+      "type": "movie",
+      "name": "The Patient",
+      "description": "An amnesiac hospital patient is issued a life he doesn't remember. But soon he comes to suspect that he’s being manipulated in order to protect a powerful politician implicated in a murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/hd5WHJOGfiwxrR3D14SqUP9DrPo.jpg",
+      "releaseInfo": "2025-12-01"
+    },
+    {
       "id": "tmdb:1588237",
       "type": "movie",
       "name": "The Lost Chapter: Yuki's Revenge",
       "description": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
       "poster": "https://image.tmdb.org/t/p/w500/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
+      "releaseInfo": "2025-11-30"
+    },
+    {
+      "id": "tmdb:1566512",
+      "type": "movie",
+      "name": "Bump: A Christmas Film",
+      "description": "Set between episodes 9 and 10 of the final series, the film finds the family taking their festive spirit far from home and onto a South American cruise to Colombia. Despite best intentions, their plans quickly unravel in a series of chaotic events.",
+      "poster": "https://image.tmdb.org/t/p/w500/naPPLaTYNIL88yTS4cC89PaqVOP.jpg",
       "releaseInfo": "2025-11-30"
     },
     {
@@ -1337,6 +1449,14 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1258112",
+      "type": "movie",
+      "name": "Egghead Republic",
+      "description": "An alternative reality where the cold war didn’t end, and an atomic bomb has struck Soviet Kazakhstan. Sonja, a 22 y.o. Swedish club-kid, working at one of the hippest magazines in the world, is mysteriously invited to report from inside the radio-active zone, to find or debunk the rumors of mutated centaurs living there…",
+      "poster": "https://image.tmdb.org/t/p/w500/aeufCs1cNDV9GPQAuq9nQTe1BX1.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
       "id": "tmdb:1507275",
       "type": "movie",
       "name": "A Paw Patrol Christmas",
@@ -1358,6 +1478,14 @@
       "name": "Louvre Heist: Minute by Minute",
       "description": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
       "poster": "https://image.tmdb.org/t/p/w500/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
+      "id": "tmdb:1584628",
+      "type": "movie",
+      "name": "Borrón y Vida Nueva",
+      "description": "Ulises wakes up in a hospital \"with no memory\". Now he'll reclaim the life he lost: the ex who keeps to stalking her, the business that was stolen from him, and the house of his dreams; however, not everything is as he remembered it.",
+      "poster": "https://image.tmdb.org/t/p/w500/bB5KB2uILvbyzeoM2jBMw4EUoxf.jpg",
       "releaseInfo": "2025-11-27"
     },
     {
@@ -1391,6 +1519,14 @@
       "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
       "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
       "releaseInfo": "2025-11-27"
+    },
+    {
+      "id": "tmdb:1309587",
+      "type": "movie",
+      "name": "Hell in Paradise",
+      "description": "Migrant Nina takes a hotel job in the Maldives, but her island paradise turns nightmarish after an incident. Falsely accused, she must evade traps to escape her unjust life sentence.",
+      "poster": "https://image.tmdb.org/t/p/w500/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg",
+      "releaseInfo": "2025-11-26"
     },
     {
       "id": "tmdb:1218762",
@@ -1471,6 +1607,14 @@
       "description": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
       "poster": "https://image.tmdb.org/t/p/w500/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
       "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1570327",
+      "type": "movie",
+      "name": "Wild West Christmas",
+      "description": "Emily returns to her hometown in Montana over the Christmas holidays for her fashion company for a skijoring championship. An unexpected second chance occurs with Jake whom she knew in high school.",
+      "poster": "https://image.tmdb.org/t/p/w500/yesQBnSmjhNbMnyzCWWFZ6DioeJ.jpg",
+      "releaseInfo": "2025-11-20"
     },
     {
       "id": "tmdb:1363123",
@@ -1641,6 +1785,14 @@
       "releaseInfo": "2025-11-12"
     },
     {
+      "id": "tmdb:1353847",
+      "type": "movie",
+      "name": "Ruthless Bastards",
+      "description": "Two former gangster enforcers, filled with hate for one another, partner to take on one last assignment that could cost their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg",
+      "releaseInfo": "2025-11-11"
+    },
+    {
       "id": "tmdb:1278983",
       "type": "movie",
       "name": "Under the Stars",
@@ -1686,6 +1838,14 @@
       "name": "Exit Protocol",
       "description": "An assassin whose specialty is killing other assassins trying to get out of the business decides to try to get out himself and must then team up with his former mark to escape the hired killers now gunning for them both.",
       "poster": "https://image.tmdb.org/t/p/w500/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
+      "releaseInfo": "2025-11-07"
+    },
+    {
+      "id": "tmdb:1293162",
+      "type": "movie",
+      "name": "Thieves Highway",
+      "description": "After discovering a plot to haul stolen cattle in the middle of nowhere, a desperate and isolated lawman becomes the only thing standing between a group of dangerous rustlers and a clear run to the border.",
+      "poster": "https://image.tmdb.org/t/p/w500/78B66xBCgmnh88d10B85uFjC88V.jpg",
       "releaseInfo": "2025-11-07"
     },
     {
@@ -1849,5 +2009,5 @@
       "releaseInfo": "2025-10-29"
     }
   ],
-  "ts": 1777136251730
+  "ts": 1777137283525
 }
