@@ -6,7 +6,6 @@ import path from "path";
 // CONFIG
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
@@ -33,25 +32,6 @@ async function fetchJSON(url) {
   }
 }
 
-// fallback US date (may fail for streaming titles)
-async function fetchUSReleaseDate(id) {
-  const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
-  );
-
-  if (!json?.results) return null;
-
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
-
-  return (
-    us.release_dates
-      .map((d) => d.release_date?.slice(0, 10))
-      .filter(Boolean)
-      .sort()[0] || null
-  );
-}
-
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
   let i = 0;
@@ -76,7 +56,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 }
 
 // ===============================
-// MAIN FETCHER
+// FETCH MOVIES
 // ===============================
 async function fetchMovies() {
   const all = [];
@@ -87,8 +67,7 @@ async function fetchMovies() {
       `api_key=${TMDB_KEY}` +
       `&language=en-US` +
       `&with_original_language=en` +
-      `&region=US` +
-      `&sort_by=popularity.desc` +
+      `&sort_by=primary_release_date.desc` +
       `&without_genres=27` +
       `&page=${page}`;
 
@@ -100,45 +79,38 @@ async function fetchMovies() {
     if (page >= j.total_pages) break;
   }
 
-  const mapped = await pMap(
-    all,
-    async (m) => {
-      if (!m?.id) return null;
+  const mapped = await pMap(all, async (m) => {
+    if (!m?.id) return null;
 
-      // FIX: reliable release date fallback chain
-      let releaseDate =
-        (await fetchUSReleaseDate(m.id)) ||
-        m.release_date ||
-        null;
+    // FIX: always rely on release_date from discover (more reliable than extra endpoints)
+    const releaseDate = m.release_date || null;
 
-      if (!releaseDate) return null;
+    if (!releaseDate) return null;
 
-      // keep only recent releases
-      if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
-        return null;
-      }
+    // keep only recent window
+    if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
+      return null;
+    }
 
-      const voteCount = m.vote_count || 0;
-      const popularity = m.popularity || 0;
+    const voteCount = m.vote_count || 0;
+    const popularity = m.popularity || 0;
 
-      // filter junk indie / low visibility films
-      if (voteCount < 2 && popularity < 10) {
-        return null;
-      }
+    // balanced filter (removes junk but keeps new legit releases like Ramy)
+    if (voteCount < 1 && popularity < 3) {
+      return null;
+    }
 
-      return {
-        id: `tmdb:${m.id}`,
-        type: "movie",
-        name: m.title || m.original_title || `Movie ${m.id}`,
-        description: m.overview || "",
-        poster: m.poster_path
-          ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-          : null,
-        releaseInfo: releaseDate,
-      };
-    },
-    TMDB_CONCURRENCY
-  );
+    return {
+      id: `tmdb:${m.id}`,
+      type: "movie",
+      name: m.title || m.original_title || `Movie ${m.id}`,
+      description: m.overview || "",
+      poster: m.poster_path
+        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+        : null,
+      releaseInfo: releaseDate,
+    };
+  }, TMDB_CONCURRENCY);
 
   const seen = new Set();
   const out = [];
@@ -151,7 +123,7 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // FINAL SORT: by real date (safe + consistent)
+  // SORT BY RELEASE DATE (your requirement)
   return out.sort(
     (a, b) => new Date(b.releaseInfo) - new Date(a.releaseInfo)
   );
@@ -161,10 +133,7 @@ async function fetchMovies() {
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb:")
-    ? id.split(":")[1]
-    : id;
-
+  const tmdbId = id.split(":")[1];
   if (!tmdbId) return null;
 
   const movie = await fetchJSON(
