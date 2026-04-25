@@ -10,7 +10,7 @@ const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 5;
+const MIN_VOTE_COUNT = 0; // allow brand-new releases with 0 votes
 
 // ===============================
 // HELPERS
@@ -20,6 +20,7 @@ function daysAgo(n) {
   d.setDate(d.getDate() - n);
   return d.toISOString().slice(0, 10);
 }
+
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
@@ -37,6 +38,7 @@ async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
+
   if (!json?.results) return null;
 
   const us = json.results.find((r) => r.iso_3166_1 === "US");
@@ -60,6 +62,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
       while (true) {
         const idx = i++;
         if (idx >= list.length) break;
+
         try {
           out[idx] = await fn(list[idx], idx);
         } catch {
@@ -73,7 +76,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 }
 
 // ===============================
-// MOVIE FETCHER
+// MAIN FETCHER
 // ===============================
 async function fetchMovies() {
   const all = [];
@@ -96,6 +99,7 @@ async function fetchMovies() {
     if (!j?.results?.length) break;
 
     all.push(...j.results);
+
     if (page >= j.total_pages) break;
   }
 
@@ -104,7 +108,12 @@ async function fetchMovies() {
     async (m) => {
       if (!m?.id) return null;
 
-      const usDate = await fetchUSReleaseDate(m.id);
+      // use US date when available, otherwise fallback to TMDB release_date
+      const usDate =
+        (await fetchUSReleaseDate(m.id)) ||
+        m.release_date ||
+        null;
+
       if (!usDate) return null;
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
@@ -122,76 +131,52 @@ async function fetchMovies() {
     TMDB_CONCURRENCY
   );
 
-  return mapped.filter(Boolean);
-}
+  const seen = new Set();
+  const out = [];
 
-// ===============================
-// TV SPECIALS FETCHER
-// ===============================
-async function fetchTVSpecials() {
-  const all = [];
+  for (const item of mapped) {
+    if (!item) continue;
+    if (seen.has(item.id)) continue;
 
-  for (let page = 1; page <= MAX_PAGES; page++) {
-    const url =
-      `https://api.themoviedb.org/3/discover/tv?` +
-      `api_key=${TMDB_KEY}` +
-      `&language=en-US` +
-      `&with_original_language=en` +
-      `&sort_by=first_air_date.desc` +
-      `&first_air_date.gte=${DATE_FROM}` +
-      `&first_air_date.lte=${DATE_TO}` +
-      `&page=${page}`;
-
-    const j = await fetchJSON(url);
-    if (!j?.results?.length) break;
-
-    all.push(...j.results);
-    if (page >= j.total_pages) break;
+    seen.add(item.id);
+    out.push(item);
   }
 
-  return all.map((m) => ({
-    id: `tmdbtv:${m.id}`,
-    type: "movie", // keep addon structure unchanged
-    name: m.name || m.original_name || `TV Special ${m.id}`,
-    description: m.overview || "",
-    poster: m.poster_path
-      ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-      : null,
-    releaseInfo: m.first_air_date || null,
-  }))
-  .filter((m) => m.releaseInfo);
+  return out.sort((a, b) =>
+    b.releaseInfo.localeCompare(a.releaseInfo)
+  );
 }
 
 // ===============================
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const isTV = id.startsWith("tmdbtv:");
-  const tmdbId = id.split(":")[1];
+  const tmdbId = id.startsWith("tmdb:")
+    ? id.split(":")[1]
+    : id;
+
   if (!tmdbId) return null;
 
-  const endpoint = isTV ? "tv" : "movie";
-
-  const item = await fetchJSON(
-    `https://api.themoviedb.org/3/${endpoint}/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
+  const movie = await fetchJSON(
+    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
   );
 
-  if (!item) return null;
+  if (!movie) return null;
 
   return {
     meta: {
-      id,
-      type: "movie", // keep structure unchanged
-      name: item.title || item.name,
-      description: item.overview || "",
-      poster: item.poster_path
-        ? `https://image.tmdb.org/t/p/w500${item.poster_path}`
+      id: `tmdb:${movie.id}`,
+      type: "movie",
+      name: movie.title,
+      description: movie.overview || "",
+      poster: movie.poster_path
+        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
         : null,
-      background: item.backdrop_path
-        ? `https://image.tmdb.org/t/p/original${item.backdrop_path}`
+      background: movie.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
-      released: item.release_date || item.first_air_date || null,
-      imdb: item.imdb_id || null,
+      released: movie.release_date || null,
+      imdb: movie.imdb_id || null,
     },
   };
 }
@@ -200,36 +185,23 @@ async function buildMeta(id) {
 // MAIN BUILD
 // ===============================
 async function build() {
-  console.log("Fetching movies and specials…");
+  console.log("Fetching movies...");
 
   const movies = await fetchMovies();
-  const specials = await fetchTVSpecials();
-
-  const combined = [...movies, ...specials];
-
-  const seen = new Set();
-  const out = [];
-
-  for (const item of combined) {
-    if (!item) continue;
-    if (seen.has(item.id)) continue;
-    seen.add(item.id);
-    out.push(item);
-  }
-
-  out.sort((a, b) =>
-    b.releaseInfo.localeCompare(a.releaseInfo)
-  );
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
   fs.mkdirSync("./meta/movie", { recursive: true });
 
   fs.writeFileSync(
     "./catalog/movie/new_releases.json",
-    JSON.stringify({ metas: out, ts: Date.now() }, null, 2)
+    JSON.stringify(
+      { metas: movies, ts: Date.now() },
+      null,
+      2
+    )
   );
 
-  for (const m of out) {
+  for (const m of movies) {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
