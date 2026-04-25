@@ -1,5 +1,3 @@
-read this and tell me why Ramy new special is missing
-
 // build-movies.js
 import fs from "fs";
 import path from "path";
