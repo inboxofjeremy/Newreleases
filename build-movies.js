@@ -86,9 +86,9 @@ async function fetchMovies() {
       `&with_original_language=en` +
       `&region=US` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
-      `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
+      `&sort_by=release_date.desc` +
+      `&release_date.gte=${DATE_FROM}` +
+      `&release_date.lte=${DATE_TO}` +
       `&without_genres=27` +
       `&page=${page}`;
 
@@ -104,7 +104,6 @@ async function fetchMovies() {
     async (m) => {
       if (!m?.id) return null;
 
-      // FIX: fallback to TMDB movie release date if US endpoint missing
       const releaseDate =
         (await fetchUSReleaseDate(m.id)) ||
         m.release_date ||
