@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tmdb:1649248",
+    "type": "movie",
+    "name": "Finding Satoshi",
+    "description": "At the center of Bitcoin lies the greatest unsolved mystery of the digital age. Who created it, and who is Satoshi Nakamoto? Finding Satoshi presents the conclusion reached after a four-year, evidence-based investigation, drawing on original reporting and rare access to key figures in crypto to uncover the human ideas, motivations, and philosophy behind the code that reshaped global finance.",
+    "poster": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
+    "background": "https://image.tmdb.org/t/p/original/8KcunF8jNvZSYXFVh6u8E1MYnJ9.jpg",
+    "released": "2026-04-22",
+    "imdb": "tt40548010"
+  }
+}
