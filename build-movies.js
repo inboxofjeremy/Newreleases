@@ -1,17 +1,15 @@
-// build-movies.js
 import fs from "fs";
-import path from "path";
 
 // ===============================
 // CONFIG
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 0; // FIX: allow new releases like Ramy
 
+// ===============================
+// DATE RANGE
 // ===============================
 function daysAgo(n) {
   const d = new Date();
@@ -22,6 +20,7 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
+// ===============================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -32,24 +31,7 @@ async function fetchJSON(url) {
   }
 }
 
-async function fetchUSReleaseDate(id) {
-  const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
-  );
-
-  if (!json?.results) return null;
-
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
-
-  return (
-    us.release_dates
-      .map((d) => d.release_date?.slice(0, 10))
-      .filter(Boolean)
-      .sort()[0] || null
-  );
-}
-
+// ===============================
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
   let i = 0;
@@ -60,7 +42,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
       if (idx >= list.length) break;
 
       try {
-        out[idx] = await fn(list[idx], idx);
+        out[idx] = await fn(list[idx]);
       } catch {
         out[idx] = null;
       }
@@ -72,7 +54,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 }
 
 // ===============================
-// MAIN FETCHER
+// FETCH MOVIES
 // ===============================
 async function fetchMovies() {
   const all = [];
@@ -83,61 +65,49 @@ async function fetchMovies() {
       `api_key=${TMDB_KEY}` +
       `&language=en-US` +
       `&with_original_language=en` +
-      `&region=US` +
       `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
       `&without_genres=27` +
       `&page=${page}`;
 
     const j = await fetchJSON(url);
 
-    // FIX: do NOT break on bad page
-    if (!j?.results?.length) continue;
+    if (!j || !Array.isArray(j.results)) continue;
 
     all.push(...j.results);
 
     if (page >= j.total_pages) break;
   }
 
-  const mapped = await pMap(
-    all,
-    async (m) => {
-      if (!m?.id) return null;
+  const mapped = await pMap(all, async (m) => {
+    if (!m?.id) return null;
 
-      // FIX: fallback prevents dropping valid movies like Ramy
-      const releaseDate =
-        (await fetchUSReleaseDate(m.id)) ||
-        m.release_date ||
-        null;
+    const releaseDate = m.release_date;
+    if (!releaseDate) return null;
 
-      if (!releaseDate) return null;
+    // enforce your 180-day window safely
+    if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
+      return null;
+    }
 
-      if (releaseDate < DATE_FROM || releaseDate > DATE_TO) {
-        return null;
-      }
+    const voteCount = m.vote_count || 0;
+    const popularity = m.popularity || 0;
 
-      const voteCount = m.vote_count || 0;
-      const popularity = m.popularity || 0;
+    // safe filter (prevents junk, keeps real releases)
+    if (voteCount < 1 && popularity < 1) {
+      return null;
+    }
 
-      // balanced filter (prevents junk but keeps new releases)
-      if (voteCount < 1 && popularity < 2) {
-        return null;
-      }
-
-      return {
-        id: `tmdb:${m.id}`,
-        type: "movie",
-        name: m.title || m.original_title || `Movie ${m.id}`,
-        description: m.overview || "",
-        poster: m.poster_path
-          ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-          : null,
-        releaseInfo: releaseDate,
-      };
-    },
-    TMDB_CONCURRENCY
-  );
+    return {
+      id: `tmdb:${m.id}`,
+      type: "movie",
+      name: m.title || m.original_title || `Movie ${m.id}`,
+      description: m.overview || "",
+      poster: m.poster_path
+        ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
+        : null,
+      releaseInfo: releaseDate,
+    };
+  });
 
   const seen = new Set();
   const out = [];
@@ -187,10 +157,14 @@ async function buildMeta(id) {
 }
 
 // ===============================
+// BUILD
+// ===============================
 async function build() {
   console.log("Fetching movies...");
 
   const movies = await fetchMovies();
+
+  console.log("Final catalog size:", movies.length);
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
   fs.mkdirSync("./meta/movie", { recursive: true });
