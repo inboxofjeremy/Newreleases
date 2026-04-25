@@ -1,4 +1,309 @@
 {
-  "metas": [],
-  "ts": 1777087306923
+  "metas": [
+    {
+      "id": "tmdb:1680805",
+      "type": "movie",
+      "name": "STORM",
+      "description": "Short film accompanying the single \"STORM\" by GENER8ION & Yung Lean",
+      "poster": "https://image.tmdb.org/t/p/w500/sWQh07JemPKdViXA1G9GbsjfzjS.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1567151",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1318447",
+      "type": "movie",
+      "name": "Apex",
+      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "poster": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:898704",
+      "type": "movie",
+      "name": "Desert Warrior",
+      "description": "Set in seventh-century Arabia, Princess Hind (Aiysha Hart) defies her fate, refusing to become a concubine to the ruthless Emperor Kisra (Sir Ben Kingsley). Fleeing into the desert with her father, she is hunted by a merciless army and forced to trust a legendary bandit (Anthony Mackie) with secrets of his own. Rising from fugitive to fearless warrior, Hind unites warring tribes for a final stand - the Battle of Dhi Qar, a clash that will change history forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/3JHYiYhOPoME3E5pscYpE4dQfbT.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1679867",
+      "type": "movie",
+      "name": "Garage Band",
+      "description": "A group of young adults attempt to lowball their way into buying a priceless guitar for cheap with the end goal of starting a band. Chaos ensues.",
+      "poster": "https://image.tmdb.org/t/p/w500/jTBf7qbdF1sl5ETTcjuTuFTE3x1.jpg",
+      "releaseInfo": "2026-04-23"
+    },
+    {
+      "id": "tmdb:1679327",
+      "type": "movie",
+      "name": "Poor Mr Fischer",
+      "description": "A man tries to catch a really big fish.",
+      "poster": "https://image.tmdb.org/t/p/w500/pCwBRAHTaRAkfijjYVrJqkPxxXr.jpg",
+      "releaseInfo": "2026-04-23"
+    },
+    {
+      "id": "tmdb:1678750",
+      "type": "movie",
+      "name": "Squatters' Rights",
+      "description": "The relationship between a Frog and a Lumberjack intensifies as they argue over who has the rights to the river.",
+      "poster": "https://image.tmdb.org/t/p/w500/rUfYu9RUTOFIJIsOEwLlPNAfhC7.jpg",
+      "releaseInfo": "2026-04-23"
+    },
+    {
+      "id": "tmdb:1511400",
+      "type": "movie",
+      "name": "Alphabet Lane",
+      "description": "An isolated couple lose control of a joke about imaginary friends.",
+      "poster": "https://image.tmdb.org/t/p/w500/19bC1HQDbA2DcmLvfwjm8zEdQld.jpg",
+      "releaseInfo": "2026-04-23"
+    },
+    {
+      "id": "tmdb:1649248",
+      "type": "movie",
+      "name": "Finding Satoshi",
+      "description": "At the center of Bitcoin lies the greatest unsolved mystery of the digital age. Who created it, and who is Satoshi Nakamoto? Finding Satoshi presents the conclusion reached after a four-year, evidence-based investigation, drawing on original reporting and rare access to key figures in crypto to uncover the human ideas, motivations, and philosophy behind the code that reshaped global finance.",
+      "poster": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1648678",
+      "type": "movie",
+      "name": "Orangutan",
+      "description": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
+      "poster": "https://image.tmdb.org/t/p/w500/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1624613",
+      "type": "movie",
+      "name": "Lainey Wilson: Keepin' Country Cool",
+      "description": "Lainey Wilson redefines what it means to be a modern country star while exploring her struggles and triumphs at a pivotal career moment.",
+      "poster": "https://image.tmdb.org/t/p/w500/axIiOZ0yVD258CTpbw7mTF9h6Ph.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1630401",
+      "type": "movie",
+      "name": "Nobody Here: The Story of Vaporwave",
+      "description": "‘Nobody Here’ traces the story of Vaporwave and its evolution into the internet’s most aesthetic and celebrated micro-genre — from its origins in obscure online communities to its emergence in the mainstream consciousness.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqKABcZzA4oGEi7YidAoRKBVKdb.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1678440",
+      "type": "movie",
+      "name": "The One That Got Away (Director's Cut)",
+      "description": "Unvaulted after 15 years. This extended version of the bittersweet ballad follows an elderly Katy looking back on a past, passionate relationship that fell apart due to a regretful dispute.",
+      "poster": "https://image.tmdb.org/t/p/w500/jrPPMZdLAzQbqKvIFkxDT7vJWLL.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1678342",
+      "type": "movie",
+      "name": "The Burbank Beetleboy",
+      "description": "Screw Sasquatch. This CA city deserves its own cryptid — and one guy is determined to make it happen.",
+      "poster": "https://image.tmdb.org/t/p/w500/h2duVD6rN58YCgewHHsemrXY6EL.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1678323",
+      "type": "movie",
+      "name": "The Chat",
+      "description": "A man returns home to cook dinner and discovers something sinister about the A.I. chatbot that assists him.",
+      "poster": "https://image.tmdb.org/t/p/w500/9tVQHNJzOe6dKMXC25FYdNZ56nE.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1678149",
+      "type": "movie",
+      "name": "Love is",
+      "description": "TRIANGLE - 1st Single Album ‘Love is’ M/V is out now! A music video following the comeback of popular trio group TRIANGLE after being forgotten by the public due to a scandal 20 years ago. MOVIE RELEASE 2026.06.03. The legend is back! TRIANGLE is Back!",
+      "poster": "https://image.tmdb.org/t/p/w500/uUnUVGp8eMT38VHQGg7IwVlBIg7.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1641966",
+      "type": "movie",
+      "name": "Untold: The Shooting at Hawthorne Hill",
+      "description": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
+      "poster": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:936075",
+      "type": "movie",
+      "name": "Michael",
+      "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/rsJscoA5nIo2r1aJq7ES0T5oJSS.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1678238",
+      "type": "movie",
+      "name": "Unraveling the Dream",
+      "description": "In The Doors of Perception (1954), Aldous Huxley wrote that the urge to transcend self-consciousness was \"a principle appetite of the soul.\" He hoped that psychedelics would make the experience of self-transcendence more widely available, and thereby catalyze a transformation in the culture.  But experiencing ego dissolution is one thing; integrating it into ordinary life is another. And, as the misadventures of the 1960s attest, building a culture around self-transcendence is a perilous (if inspiring) endeavor.  “Unraveling the Dream,” a new film presented by the Waking Up meditation app, explores whether the new science of psychedelics might shed fresh light on Huxley’s vision. Featuring original interviews with Anil Seth, Robin Carhart-Harris, and Shamil Chandaria, the film takes viewers on a sweeping journey to the frontiers of neuroscience and through the rich, turbulent history of psychedelics.",
+      "poster": "https://image.tmdb.org/t/p/w500/lYwOnXcHPOFN5X7Fhj8XYYYhzoT.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1677582",
+      "type": "movie",
+      "name": "Malevolent",
+      "description": "In 2019 the term 'incelcore' was used to refer to a group of independent musicians whose music dealt with themes of isolation, alienation, and a general distaste for many aspects of modern society  In 2020, during the wake of the pandemic, the scene grew substantially and in 2021 their first live festival, 'virginfest', was held for the scene.  The following footage was filmed between 2024-2025 from New York to Texas.",
+      "poster": "https://image.tmdb.org/t/p/w500/irLOyp0YquPvPfi1z3iDsVXjseF.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1677550",
+      "type": "movie",
+      "name": "KillTonyMania",
+      "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+      "poster": "https://image.tmdb.org/t/p/w500/AeexCrmaoj0aYAoaBRkWnGhmojZ.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1363685",
+      "type": "movie",
+      "name": "Juvenile Inspektor: The Shadow Over Jõhvi",
+      "description": "In Soviet-occupied Estonia, a boy is caught between a broken family, the suffocating grip of state power, and forces far older than the empire itself. As propaganda and betrayal close in, he discovers that the greatest danger emerges where political oppression and ancient myth converge - and that his own bloodline may hold the key to both survival and ruin.",
+      "poster": "https://image.tmdb.org/t/p/w500/65e9l83yifE3hVvmyjiPaCJuQrc.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1678227",
+      "type": "movie",
+      "name": "CTRL+Z Stuck in the Edit",
+      "description": "In the world of film theory, the director is the supreme creator. However, for Bob, the protagonist of this one-minute meta-metaphysical nightmare, that hierarchy collapses with a single keystroke. While trying to enjoy a well-deserved moment of peace with a piece of cake, Bob realizes his reality doesn't belong to him, but to an invisible Editor. Time for Bob ceases to be linear-he becomes a victim of a brutal \"Undo\" process. Through a series of violent jump cuts, absurd wardrobe changes, and forced rewinds, Bob experiences a digital version of purgatory. The film explores the thin line between the silver screen and reality, turning a technical glitch into existential horror. In the end, Bob doesn't seek salvation from a director; instead, he attempts to \"cut\" the very light source of the machine that created him, proving that in the digital age, the only true God is the one with their finger on CTRL+Z.",
+      "poster": "https://image.tmdb.org/t/p/w500/p9Kk6V08kuLgfgTTjW2pWiWH9Xi.jpg",
+      "releaseInfo": "2026-04-19"
+    },
+    {
+      "id": "tmdb:1677253",
+      "type": "movie",
+      "name": "Dream",
+      "description": "In the bad dreams of a guy with social anxiety and ornithophobia...",
+      "poster": "https://image.tmdb.org/t/p/w500/6LEIpH6Ossqa91OAQhJl8FuEvtD.jpg",
+      "releaseInfo": "2026-04-19"
+    },
+    {
+      "id": "tmdb:1676850",
+      "type": "movie",
+      "name": "LIVE matches from WWE World: April 19, 2026",
+      "description": "A broadcast from WWE(World Wrestling Entertainment) of the Live Matches from WWE World it is the second of two broadcast of the same name on the same day.",
+      "poster": "https://image.tmdb.org/t/p/w500/2CQZBeKgLJKr840NpZ0vMh8jzLj.jpg",
+      "releaseInfo": "2026-04-19"
+    },
+    {
+      "id": "tmdb:1675345",
+      "type": "movie",
+      "name": "Crossed Paths",
+      "description": "Two exes unexpectedly reunite, but they have very different ideas on what they want their relationship with each other to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/bNIjONOsSKJhr7VDwhfkA6Cz4mf.jpg",
+      "releaseInfo": "2026-04-19"
+    },
+    {
+      "id": "tmdb:1676138",
+      "type": "movie",
+      "name": "JCW Strangle-Mania: Viva Las Violence 2026",
+      "description": "The \"Wicked Clowns\" are taking over the Strip for a night of pure, unadulterated violence. Juggalo Championship Wrestling presents Strangle-Mania: Viva Las Violence. Streaming Live and Exclisive on TrillerTV+, this event brings the legendary spirit of the Gathering to Las Vegas for a high-stakes, high-impact spectacle.",
+      "poster": "https://image.tmdb.org/t/p/w500/6xAowitiXvuOg4Jq5kBhLdbYBDW.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1676054",
+      "type": "movie",
+      "name": "In Our Hands",
+      "description": "A moving painting that attempts to highlight the various ways humans are harming whale populations.",
+      "poster": "https://image.tmdb.org/t/p/w500/2lyg5gtbCG4JsEcZfSEFCIPqy5C.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1667935",
+      "type": "movie",
+      "name": "First Out",
+      "description": "A hustling sports agent will stop at nothing to get two Cuban brothers to defect to the United States for a chance to play in the major leagues.",
+      "poster": "https://image.tmdb.org/t/p/w500/kYQZujZdvJYvkX4zgBBzFFgVY7V.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1665860",
+      "type": "movie",
+      "name": "Murder in the Dark",
+      "description": "A blind waitress at a dining-in-the-dark restaurant becomes the sole witness to a murder, making her the next target of a killer determined to eliminate the only person who could identify him.",
+      "poster": "https://image.tmdb.org/t/p/w500/h35opZK913C4eHC2ncpRWp7ZLWj.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1658461",
+      "type": "movie",
+      "name": "WWE WrestleMania 42 Countdown - Saturday",
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xvLcy9qSjybu0U6CGm1yqnvS7l2.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1656864",
+      "type": "movie",
+      "name": "GCW: Effy's Big Gay Brunch 11",
+      "description": "Effy’s Big Gay Brunch 11 came to Las Vegas on April 18, 2026, as Game Changer Wrestling (GCW) delivered its signature mix of wild action, bold personalities, and inclusive energy in a high-energy showcase of top independent talent at Horseshoe Las Vegas.",
+      "poster": "https://image.tmdb.org/t/p/w500/tS7Owc5tUCqsFdBRwBJRORj8luV.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1656171",
+      "type": "movie",
+      "name": "GCW: Joey Janela's Spring Break: The Immortal Clusterfuck",
+      "description": "Joey Janela's Spring Break: The Immortal Clusterfuck 2026 was a professional wrestling event promoted by Game Changer Wrestling (GCW) that took place on April 18, 2026, in Las Vegas, Nevada, USA. Part of the annual Spring Break series during WrestleMania weekend, the show featured Joey Janela’s signature Immortal Clusterfuck match, a chaotic battle royal-style spectacle bringing together wrestlers and personalities from multiple eras, along with a mix of high-profile independent matches and surprise appearances.",
+      "poster": "https://image.tmdb.org/t/p/w500/2Ite9qvGHyGQ4JgV3OIvIIeqZhJ.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1645241",
+      "type": "movie",
+      "name": "To Philly with Love",
+      "description": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/3GA6drhDYxjJb6WYBmoPehUdtZr.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1635815",
+      "type": "movie",
+      "name": "#indie",
+      "description": "Two friends enter a local filmmaking competition to try and settle their debts.",
+      "poster": "https://image.tmdb.org/t/p/w500/mRvMHEcHzZeox0YEbkmBEjtE44r.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1529651",
+      "type": "movie",
+      "name": "Krypto Saves the Day!: Coastal Catastrophe",
+      "description": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
+      "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tmdb:1679135",
+      "type": "movie",
+      "name": "Pictures of Us",
+      "description": "'Pictures of Us' examines the importance of the people in our lives, and their role in shaping who we are and what we do. When a rule-following photographer's skills are put to the test on a bet to prove himself, an unexpected collaboration with a stranger gives him a glimpse of how real art, and the best parts of us, come from connection and authenticity.",
+      "poster": "https://image.tmdb.org/t/p/w500/RHB938kKyS0ogZfyYUdhG1MPBe.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:1390300",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster": "https://image.tmdb.org/t/p/w500/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
+      "releaseInfo": "2026-03-14"
+    }
+  ],
+  "ts": 1777087609441
 }
