@@ -89,7 +89,7 @@ async function fetchMovies() {
       `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${DATE_FROM}` +
       `&primary_release_date.lte=${DATE_TO}` +
-      `&without_genres=27` + // 👈 REMOVES HORROR MOVIES
+      `&without_genres=27` +
       `&page=${page}`;
 
     const j = await fetchJSON(url);
@@ -104,9 +104,14 @@ async function fetchMovies() {
     async (m) => {
       if (!m?.id) return null;
 
-      const usDate = await fetchUSReleaseDate(m.id);
-      if (!usDate) return null;
-      if (usDate < DATE_FROM || usDate > DATE_TO) return null;
+      // FIX: fallback to TMDB movie release date if US endpoint missing
+      const releaseDate =
+        (await fetchUSReleaseDate(m.id)) ||
+        m.release_date ||
+        null;
+
+      if (!releaseDate) return null;
+      if (releaseDate < DATE_FROM || releaseDate > DATE_TO) return null;
 
       return {
         id: `tmdb:${m.id}`,
@@ -116,7 +121,7 @@ async function fetchMovies() {
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
-        releaseInfo: usDate,
+        releaseInfo: releaseDate,
       };
     },
     TMDB_CONCURRENCY
