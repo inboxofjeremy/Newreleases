@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Apex",
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/rsJscoA5nIo2r1aJq7ES0T5oJSS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -1905,5 +1905,5 @@
       "releaseInfo": "2025-11-04"
     }
   ],
-  "ts": 1777277816909
+  "ts": 1777297499134
 }
