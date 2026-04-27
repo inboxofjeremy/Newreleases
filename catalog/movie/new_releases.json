@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rsJscoA5nIo2r1aJq7ES0T5oJSS.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -57,14 +57,6 @@
       "releaseInfo": "2026-04-17"
     },
     {
-      "id": "tmdb:1220566",
-      "type": "movie",
-      "name": "Eagles of the Republic",
-      "description": "George Fahmy, Egypt's most adored actor, is pressured to star in a film commissioned by the highest authorities. He reluctantly accepts and finds himself thrown into the inner circle of power. Like moth drawn to flame, he begins an affair with the mysterious wife of the general overseeing the project.",
-      "poster": "https://image.tmdb.org/t/p/w500/f9MzpMfbBL4PknhKqoQpIUdskTl.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
       "id": "tmdb:1102883",
       "type": "movie",
       "name": "Mother Mary",
@@ -89,6 +81,14 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1207162",
+      "type": "movie",
+      "name": "Rise of the Conqueror",
+      "description": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+      "poster": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1511057",
       "type": "movie",
       "name": "Roommates",
@@ -109,7 +109,7 @@
       "type": "movie",
       "name": "A Little Park Music",
       "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
-      "poster": "https://image.tmdb.org/t/p/w500/48geo9elIYjjwQNtje4xsLmWXXn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
       "releaseInfo": "2026-04-11"
     },
     {
@@ -1903,15 +1903,7 @@
       "description": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
       "poster": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
       "releaseInfo": "2025-11-04"
-    },
-    {
-      "id": "tmdb:1497036",
-      "type": "movie",
-      "name": "Dr. Seuss's The Sneetches",
-      "description": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
-      "poster": "https://image.tmdb.org/t/p/w500/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
-      "releaseInfo": "2025-11-03"
     }
   ],
-  "ts": 1777229229485
+  "ts": 1777256958737
 }
