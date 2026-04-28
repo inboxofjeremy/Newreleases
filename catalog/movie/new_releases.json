@@ -17,6 +17,22 @@
       "releaseInfo": "2026-04-24"
     },
     {
+      "id": "tmdb:1677550",
+      "type": "movie",
+      "name": "KillTonyMania",
+      "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+      "poster": "https://image.tmdb.org/t/p/w500/AeexCrmaoj0aYAoaBRkWnGhmojZ.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1314481",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "releaseInfo": "2026-04-20"
+    },
+    {
       "id": "tmdb:936075",
       "type": "movie",
       "name": "Michael",
@@ -46,6 +62,14 @@
       "name": "Brothers Under Fire",
       "description": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
       "poster": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:1391074",
+      "type": "movie",
+      "name": "Busboys",
+      "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
+      "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -228,7 +252,7 @@
       "id": "tmdb:687163",
       "type": "movie",
       "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "releaseInfo": "2026-03-20"
     },
@@ -598,6 +622,14 @@
       "name": "Katt Williams: The Last Report",
       "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
       "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1146344",
+      "type": "movie",
+      "name": "Misdirection",
+      "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+      "poster": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -1871,39 +1903,7 @@
       "description": "At a 'Christmas in July' sale, military widow Vanessa Mayfield crosses paths with antiques dealer Ben Miller. As Ben works in Vanessa’s hometown, their friendship begins to grow into something more. But trouble brews when Ben’s father unknowingly acquires a box of antiques containing Vanessa’s missing heirloom Christmas ring - a priceless piece of her family’s past. Planning to sell it, he has no idea of its true meaning. It will take a Christmas miracle for love, family, and the ring to come together.",
       "poster": "https://image.tmdb.org/t/p/w500/p3iQWFq2RwqM0vuzx9sqtTeYMhX.jpg",
       "releaseInfo": "2025-11-06"
-    },
-    {
-      "id": "tmdb:1479945",
-      "type": "movie",
-      "name": "Wicked: One Wonderful Night",
-      "description": "Cynthia Erivo and Ariana Grande lead a one-time-only, two-hour special featuring electrifying performances alongside their Wicked: For Good co-stars for a night of reimagined musical arrangements, cast interviews, behind-the-scenes moments, exclusive surprises, and a sneak peek at Wicked: For Good.",
-      "poster": "https://image.tmdb.org/t/p/w500/vI8gfZVhPnYo0gjK6vSP7p3idpV.jpg",
-      "releaseInfo": "2025-11-06"
-    },
-    {
-      "id": "tmdb:1252382",
-      "type": "movie",
-      "name": "Tyler Perry's Finding Joy",
-      "description": "Joy, a successful designer, seeks a proposal at Christmas. In Wyoming's mountains, she finds what she truly needs when the man she loves sees her as just a friend.",
-      "poster": "https://image.tmdb.org/t/p/w500/sUMdbrjHhMFDY327B31ctpF9MuY.jpg",
-      "releaseInfo": "2025-11-05"
-    },
-    {
-      "id": "tmdb:1574042",
-      "type": "movie",
-      "name": "Predator: Wastelands",
-      "description": "When an alien hunter arrives on Earth, it takes down a gang of warlords and unexpectedly becomes a folk hero to the oppressed locals. Now, with their support, the alien sets its sights on the warlords' ruthless leader.",
-      "poster": "https://image.tmdb.org/t/p/w500/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
-      "releaseInfo": "2025-11-04"
-    },
-    {
-      "id": "tmdb:1242501",
-      "type": "movie",
-      "name": "Icefall",
-      "description": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
-      "releaseInfo": "2025-11-04"
     }
   ],
-  "ts": 1777317235868
+  "ts": 1777343815175
 }
