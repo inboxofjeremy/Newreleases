@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Apex",
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "The Devil Wears Prada 2",
       "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -1895,15 +1895,7 @@
       "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
       "poster": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
       "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1013406",
-      "type": "movie",
-      "name": "Modi, Three Days on the Wing of Madness",
-      "description": "Through the streets of World War I Paris, Italian bohemian artist Modigliani attempts to outmaneuver bombs, policemen, girlfriends, and critics in a increasingly desperate search of a home for his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmZqMwCvdlqFTOWHObsDYxS06J0.jpg",
-      "releaseInfo": "2025-11-07"
     }
   ],
-  "ts": 1777404466368
+  "ts": 1777430208447
 }
