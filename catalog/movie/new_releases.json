@@ -420,7 +420,7 @@
       "id": "tmdb:1291659",
       "type": "movie",
       "name": "The Wizard of the Kremlin",
-      "description": "Russia, early 1990s. Amid post-Soviet chaos, a brilliant young man, Vadim Baranov, charts his path. First an artist, then a reality TV producer, he becomes the spin doctor to a rising KGB agent: Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally opens up, revealing the dark secrets of the regime he helped build.",
+      "description": "In early 1990s Russia, amid post-Soviet chaos, brilliant young Vadim Baranov charts his path. First an artist, then a reality television producer, he becomes the spin doctor to rising KGB agent Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally reveals the dark secrets of the regime he helped build.",
       "poster": "https://image.tmdb.org/t/p/w500/l8eEJ6iQPGLala7Oo43LTYb31fM.jpg",
       "releaseInfo": "2026-03-07"
     },
@@ -678,6 +678,14 @@
       "name": "Solo Mio",
       "description": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1288246",
+      "type": "movie",
+      "name": "The Huntsman",
+      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
+      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
       "releaseInfo": "2026-02-06"
     },
     {
@@ -1897,5 +1905,5 @@
       "releaseInfo": "2025-11-07"
     }
   ],
-  "ts": 1777450245188
+  "ts": 1777470471621
 }
