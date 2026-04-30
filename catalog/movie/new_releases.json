@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -1887,23 +1887,7 @@
       "description": "An assassin whose specialty is killing other assassins trying to get out of the business decides to try to get out himself and must then team up with his former mark to escape the hired killers now gunning for them both.",
       "poster": "https://image.tmdb.org/t/p/w500/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
       "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1287814",
-      "type": "movie",
-      "name": "Stone Cold Fox",
-      "description": "In this '80s-set revenge story, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
-      "poster": "https://image.tmdb.org/t/p/w500/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg",
-      "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1117857",
-      "type": "movie",
-      "name": "In Your Dreams",
-      "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-      "poster": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
-      "releaseInfo": "2025-11-07"
     }
   ],
-  "ts": 1777490366384
+  "ts": 1777516671137
 }
