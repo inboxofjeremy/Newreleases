@@ -28,7 +28,7 @@
       "id": "tmdb:1314481",
       "type": "movie",
       "name": "The Devil Wears Prada 2",
-      "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "releaseInfo": "2026-04-20"
     },
@@ -197,7 +197,7 @@
       "type": "movie",
       "name": "S4: The Bob Lazar Story",
       "description": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
-      "poster": "https://image.tmdb.org/t/p/w500/cHWXWjUQg5mjuvQDimllZxusjD6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
@@ -445,7 +445,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5txx39hgkMY6iskk3oOX7nU34bE.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1863,31 +1863,7 @@
       "description": "When Leslie, a rising star reporter inadvertently botches her investigative piece about a powerful City Council member, her boss decides she needs to pivot to something more seasonal. Her next assignment is to uncover the identity of a local late-night bandit who has been stealing beautiful home Christmas displays across the city. She’s not the only one on the case though, Preston, local detective and Christmas enthusiast has made it his mission to identify the culprit and restore the town’s holiday spirit. As they spend more time together, they discover more than just clues pointing them to their culprit, they also discover that their undeniable chemistry might actually be true love.",
       "poster": "https://image.tmdb.org/t/p/w500/9Rl5zQ78x2l9s7JvD5yIi2lSJPt.jpg",
       "releaseInfo": "2025-11-08"
-    },
-    {
-      "id": "tmdb:1576287",
-      "type": "movie",
-      "name": "Frankenstein: The Anatomy Lesson",
-      "description": "Go deep behind the scenes with visionary filmmaker Guillermo del Toro and the \"Frankenstein\" cast and crew as they give new life to the classic tale.",
-      "poster": "https://image.tmdb.org/t/p/w500/l1F9EIwShcQX7kmnqucIBsXUG5S.jpg",
-      "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1325678",
-      "type": "movie",
-      "name": "Sarah's Oil",
-      "description": "Sarah Rector, a Black girl born in early 20th-century Oklahoma Indian Territory, believes there is oil beneath the barren land she’s allotted, and her faith proves right. As greedy oil sharks close in, Sarah turns to family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first Black female millionaires—at eleven years old.",
-      "poster": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
-      "releaseInfo": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1293167",
-      "type": "movie",
-      "name": "Exit Protocol",
-      "description": "An assassin whose specialty is killing other assassins trying to get out of the business decides to try to get out himself and must then team up with his former mark to escape the hired killers now gunning for them both.",
-      "poster": "https://image.tmdb.org/t/p/w500/flMnawvBtLvMStfeAjuBE1K9ykX.jpg",
-      "releaseInfo": "2025-11-07"
     }
   ],
-  "ts": 1777576493995
+  "ts": 1777603440316
 }
