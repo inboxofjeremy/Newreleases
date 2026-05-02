@@ -113,6 +113,14 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tmdb:949536",
+      "type": "movie",
+      "name": "Hard Matter",
+      "description": "A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.",
+      "poster": "https://image.tmdb.org/t/p/w500/fP5RClZ67OAfXJcopwNZ7zYfx4A.jpg",
+      "releaseInfo": "2026-04-16"
+    },
+    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up",
@@ -1873,5 +1881,5 @@
       "releaseInfo": "2025-11-09"
     }
   ],
-  "ts": 1777706855862
+  "ts": 1777726959416
 }
