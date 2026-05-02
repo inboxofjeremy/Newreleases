@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:1007757",
+      "type": "movie",
+      "name": "Swapped",
+      "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "releaseInfo": "2026-04-26"
+    },
+    {
+      "id": "tmdb:1624961",
+      "type": "movie",
+      "name": "No Ordinary Heist",
+      "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
+      "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
       "id": "tmdb:1318447",
       "type": "movie",
       "name": "Apex",
@@ -15,6 +31,14 @@
       "description": "Sam, a fearless young girl raised outside of her Māori culture, is determined to fulfill her mission of connecting with her mountain. She hopes it can heal her from the cancer she is battling. Along the way, she meets some misfits and new kids in town, and together they journey through a difficult route, discovering the true spirit of adventure and the magic of friendship.",
       "poster": "https://image.tmdb.org/t/p/w500/dIvD6THx7hIatXWFMaaAJr3fpwV.jpg",
       "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1641966",
+      "type": "movie",
+      "name": "Untold: The Shooting at Hawthorne Hill",
+      "description": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
+      "poster": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+      "releaseInfo": "2026-04-21"
     },
     {
       "id": "tmdb:1677550",
@@ -1847,23 +1871,7 @@
       "description": "The Keller family, including the parents and their three adult children, decide to take a European river cruise touring the Christmas Markets over the holidays, and each sibling is going through their own life challenge.",
       "poster": "https://image.tmdb.org/t/p/w500/4RiHKqA8d36YKvkbfl0YCcPLgt1.jpg",
       "releaseInfo": "2025-11-09"
-    },
-    {
-      "id": "tmdb:1537081",
-      "type": "movie",
-      "name": "Christmas Above the Clouds",
-      "description": "When a workaholic CEO tries to skip Christmas by flying to Australia, she’s in for the flight of her life. Haunted by her past, present, and future, she’s forced to confront the choices that led to her success yet left her flying solo. With the help of three quirky spirits and a surprise reunion with her ex, she might just rediscover the magic of Christmas—and the love she thought she’d lost.",
-      "poster": "https://image.tmdb.org/t/p/w500/sMHF7beWXqWzXqtclqrz6vd95xV.jpg",
-      "releaseInfo": "2025-11-08"
-    },
-    {
-      "id": "tmdb:1191059",
-      "type": "movie",
-      "name": "Merry Mystery Christmas",
-      "description": "When Leslie, a rising star reporter inadvertently botches her investigative piece about a powerful City Council member, her boss decides she needs to pivot to something more seasonal. Her next assignment is to uncover the identity of a local late-night bandit who has been stealing beautiful home Christmas displays across the city. She’s not the only one on the case though, Preston, local detective and Christmas enthusiast has made it his mission to identify the culprit and restore the town’s holiday spirit. As they spend more time together, they discover more than just clues pointing them to their culprit, they also discover that their undeniable chemistry might actually be true love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Rl5zQ78x2l9s7JvD5yIi2lSJPt.jpg",
-      "releaseInfo": "2025-11-08"
     }
   ],
-  "ts": 1777662392252
+  "ts": 1777688804627
 }
