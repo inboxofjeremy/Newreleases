@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "The Devil Wears Prada 2",
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -116,8 +116,8 @@
       "id": "tmdb:949536",
       "type": "movie",
       "name": "Hard Matter",
-      "description": "A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.",
-      "poster": "https://image.tmdb.org/t/p/w500/fP5RClZ67OAfXJcopwNZ7zYfx4A.jpg",
+      "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Only one of them can topple the corporation's entire system from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
       "releaseInfo": "2026-04-16"
     },
     {
@@ -134,6 +134,14 @@
       "name": "Trevor Noah: Joy in the Trenches",
       "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
       "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1444249",
+      "type": "movie",
+      "name": "The Highest Stakes",
+      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
@@ -447,14 +455,6 @@
       "description": "In a special one off concert in Manchester, recorded on the evening of March 6, Harry Styles played his new album, ‘Kiss All The Time. Disco, Occasionally.' for the very first time.",
       "poster": "https://image.tmdb.org/t/p/w500/AigpusxLychNPHCdB8jRVTEQ1kS.jpg",
       "releaseInfo": "2026-03-08"
-    },
-    {
-      "id": "tmdb:1291659",
-      "type": "movie",
-      "name": "The Wizard of the Kremlin",
-      "description": "In early 1990s Russia, amid post-Soviet chaos, brilliant young Vadim Baranov charts his path. First an artist, then a reality television producer, he becomes the spin doctor to rising KGB agent Vladimir Putin. At the heart of power, Baranov shapes the new Russia, blurring the boundaries between truth and lies, belief and manipulation. Only the magnetic Ksenia is beyond his control, tempting him away from this dangerous game. Years later, after retreating into silence and shrouded in mystery, Baranov finally reveals the dark secrets of the regime he helped build.",
-      "poster": "https://image.tmdb.org/t/p/w500/l8eEJ6iQPGLala7Oo43LTYb31fM.jpg",
-      "releaseInfo": "2026-03-07"
     },
     {
       "id": "tmdb:1383731",
@@ -1881,5 +1881,5 @@
       "releaseInfo": "2025-11-09"
     }
   ],
-  "ts": 1777748068072
+  "ts": 1777775746801
 }
