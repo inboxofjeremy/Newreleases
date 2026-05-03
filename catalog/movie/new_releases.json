@@ -116,7 +116,7 @@
       "id": "tmdb:949536",
       "type": "movie",
       "name": "Hard Matter",
-      "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Only one of them can topple the corporation's entire system from within.",
+      "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
       "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
       "releaseInfo": "2026-04-16"
     },
@@ -1437,7 +1437,7 @@
       "type": "movie",
       "name": "Christmas at the Catnip Café",
       "description": "When a marketing executive learns she’s short on the down payment for her dream condo, she’s informed that her great aunt left her half of a cat café in upstate New York. Hoping to sell it before the holidays, she then meets Dr. Ben Kane, the veterinarian who owns the other half, and has no intention of closing.",
-      "poster": "https://image.tmdb.org/t/p/w500/nawRbGneQoEArNT4T3gcY67ewzz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4OdcIegFxwFIflJ0N0hXUXNtV93.jpg",
       "releaseInfo": "2025-11-30"
     },
     {
@@ -1881,5 +1881,5 @@
       "releaseInfo": "2025-11-09"
     }
   ],
-  "ts": 1777795061607
+  "ts": 1777813323819
 }
