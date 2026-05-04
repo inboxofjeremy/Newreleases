@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "The Devil Wears Prada 2",
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -61,7 +61,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": "tmdb:949536",
       "type": "movie",
-      "name": "Hard Matter",
+      "name": "Kill Code",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
       "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
       "releaseInfo": "2026-04-16"
@@ -281,6 +281,14 @@
       "releaseInfo": "2026-03-23"
     },
     {
+      "id": "tmdb:1628522",
+      "type": "movie",
+      "name": "Two for Tee",
+      "description": "Tee is a Chinese American pottery artist who meets new community center handyman Will. As she learns about her family's traditions through art, can she and Will save the center from closure?",
+      "poster": "https://image.tmdb.org/t/p/w500/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg",
+      "releaseInfo": "2026-03-21"
+    },
+    {
       "id": "tmdb:1146058",
       "type": "movie",
       "name": "The Pout-Pout Fish",
@@ -351,6 +359,14 @@
       "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
       "poster": "https://image.tmdb.org/t/p/w500/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
       "releaseInfo": "2026-03-15"
+    },
+    {
+      "id": "tmdb:1390300",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster": "https://image.tmdb.org/t/p/w500/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
+      "releaseInfo": "2026-03-14"
     },
     {
       "id": "tmdb:1115544",
@@ -529,6 +545,14 @@
       "releaseInfo": "2026-02-24"
     },
     {
+      "id": "tmdb:1608619",
+      "type": "movie",
+      "name": "The Stars Between Us",
+      "description": "Seven years ago, Kim made a connection with a stranger during an eclipse event. Now a fledgling news reporter, Kim returns to Illinois for this year's eclipse, unaware that their paths may cross again.",
+      "poster": "https://image.tmdb.org/t/p/w500/yltItS6duf9MfSVn45oUupFu1oO.jpg",
+      "releaseInfo": "2026-02-21"
+    },
+    {
       "id": "tmdb:1639000",
       "type": "movie",
       "name": "Famous Last Words: Eric Dane",
@@ -605,7 +629,7 @@
       "type": "movie",
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/yQ7OP2HYxl9YmkWNMkuUA2YaF5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
       "releaseInfo": "2026-02-14"
     },
     {
@@ -1285,7 +1309,7 @@
       "type": "movie",
       "name": "Prompt",
       "description": "When a young woman begins immersing herself in the arena of AI, her wildest and darkest fantasies become sensual realities. But the deeper she sinks into her online explorations, the closer she gets to the shocking truth.",
-      "poster": "https://image.tmdb.org/t/p/w500/l9PMnRlrauxa7yZBa8Ze96LOqzc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/AiEhp4sjeOImehd0PHO2Its9sPH.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -1855,31 +1879,7 @@
       "description": "Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas.",
       "poster": "https://image.tmdb.org/t/p/w500/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg",
       "releaseInfo": "2025-11-11"
-    },
-    {
-      "id": "tmdb:1578602",
-      "type": "movie",
-      "name": "A Holiday Short: Best Christmas Ever",
-      "description": "When Santa mistakes the doodle on a girl's list for a holiday wish, she wakes up on Christmas morning to find an unusual new friend under the tree.",
-      "poster": "https://image.tmdb.org/t/p/w500/wSZmNfmpFHTxuLbDFfryThpnkJQ.jpg",
-      "releaseInfo": "2025-11-10"
-    },
-    {
-      "id": "tmdb:1425122",
-      "type": "movie",
-      "name": "A Very Jonas Christmas Movie",
-      "description": "Kevin, Nick, and Joe Jonas face a series of escalating obstacles as they struggle to make it from London to New York in time to spend Christmas with their families.",
-      "poster": "https://image.tmdb.org/t/p/w500/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
-      "releaseInfo": "2025-11-10"
-    },
-    {
-      "id": "tmdb:1547913",
-      "type": "movie",
-      "name": "A Keller Christmas Vacation",
-      "description": "The Keller family, including the parents and their three adult children, decide to take a European river cruise touring the Christmas Markets over the holidays, and each sibling is going through their own life challenge.",
-      "poster": "https://image.tmdb.org/t/p/w500/4RiHKqA8d36YKvkbfl0YCcPLgt1.jpg",
-      "releaseInfo": "2025-11-09"
     }
   ],
-  "ts": 1777834493035
+  "ts": 1777862029100
 }
