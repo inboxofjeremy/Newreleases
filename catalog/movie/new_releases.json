@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:931285",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/bfSXubbZatAbr4ShyQUhKsaGe96.jpg",
+      "releaseInfo": "2026-04-27"
+    },
+    {
       "id": "tmdb:1007757",
       "type": "movie",
       "name": "Swapped",
@@ -125,7 +133,7 @@
       "type": "movie",
       "name": "Kill Code",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
-      "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
       "releaseInfo": "2026-04-16"
     },
     {
@@ -484,7 +492,7 @@
       "id": "tmdb:1383731",
       "type": "movie",
       "name": "Protector",
-      "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
       "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-03-06"
     },
@@ -798,6 +806,14 @@
       "name": "Miracle: The Boys of '80",
       "description": "This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.",
       "poster": "https://image.tmdb.org/t/p/w500/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
+      "releaseInfo": "2026-01-30"
+    },
+    {
+      "id": "tmdb:1600513",
+      "type": "movie",
+      "name": "Terri Joe: Missionary in Miami",
+      "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
+      "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
@@ -1230,6 +1246,14 @@
       "name": "Kevin Costner Presents: The First Christmas",
       "description": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
       "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+      "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1584468",
+      "type": "movie",
+      "name": "Down River",
+      "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
       "releaseInfo": "2025-12-09"
     },
     {
@@ -1863,15 +1887,7 @@
       "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
       "poster": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
       "releaseInfo": "2025-11-12"
-    },
-    {
-      "id": "tmdb:1278983",
-      "type": "movie",
-      "name": "Under the Stars",
-      "description": "A struggling romance novelist stuck in a passionless relationship goes to Italy seeking inspiration, and unexpectedly finds the girl of his dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
-      "releaseInfo": "2025-11-11"
     }
   ],
-  "ts": 1777968231854
+  "ts": 1777993731674
 }
