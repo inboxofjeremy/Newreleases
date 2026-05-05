@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "The Devil Wears Prada 2",
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "releaseInfo": "2026-04-20"
     },
     {
@@ -123,7 +123,7 @@
     {
       "id": "tmdb:949536",
       "type": "movie",
-      "name": "Hard Matter",
+      "name": "Kill Code",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
       "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
       "releaseInfo": "2026-04-16"
@@ -1871,23 +1871,7 @@
       "description": "A struggling romance novelist stuck in a passionless relationship goes to Italy seeking inspiration, and unexpectedly finds the girl of his dreams.",
       "poster": "https://image.tmdb.org/t/p/w500/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",
       "releaseInfo": "2025-11-11"
-    },
-    {
-      "id": "tmdb:1194985",
-      "type": "movie",
-      "name": "Drive Back Home",
-      "description": "A conservative plumber from a small east coast village who travels to Toronto in order to get his brother out of jail after he is arrested for having sex with another man in a public park. At the insistence of their strong willed mother, the two brothers must drive the 1000 mile trip back home to New Brunswick, together - discovering each other and themselves along the way.",
-      "poster": "https://image.tmdb.org/t/p/w500/a8IF63PoJeTbl7cjKSpCMgLKCAK.jpg",
-      "releaseInfo": "2025-11-11"
-    },
-    {
-      "id": "tmdb:1100998",
-      "type": "movie",
-      "name": "SuperKlaus",
-      "description": "Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas.",
-      "poster": "https://image.tmdb.org/t/p/w500/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg",
-      "releaseInfo": "2025-11-11"
     }
   ],
-  "ts": 1777922632505
+  "ts": 1777948087156
 }
