@@ -5,14 +5,14 @@
       "type": "movie",
       "name": "Mortal Kombat II",
       "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfSXubbZatAbr4ShyQUhKsaGe96.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
       "releaseInfo": "2026-04-27"
     },
     {
       "id": "tmdb:1007757",
       "type": "movie",
       "name": "Swapped",
-      "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not just their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "releaseInfo": "2026-04-26"
     },
@@ -131,9 +131,9 @@
     {
       "id": "tmdb:949536",
       "type": "movie",
-      "name": "Kill Code",
+      "name": "Hard Matter",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
-      "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
       "releaseInfo": "2026-04-16"
     },
     {
@@ -1871,23 +1871,7 @@
       "description": "From teen comedian to Hollywood legend, Eddie Murphy revisits his extraordinary showbiz ride with raw honesty and humor.",
       "poster": "https://image.tmdb.org/t/p/w500/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
       "releaseInfo": "2025-11-12"
-    },
-    {
-      "id": "tmdb:1401318",
-      "type": "movie",
-      "name": "A Merry Little Ex-Mas",
-      "description": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
-      "poster": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
-      "releaseInfo": "2025-11-12"
-    },
-    {
-      "id": "tmdb:1248226",
-      "type": "movie",
-      "name": "Playdate",
-      "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
-      "poster": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
-      "releaseInfo": "2025-11-12"
     }
   ],
-  "ts": 1778008442223
+  "ts": 1778034752237
 }
