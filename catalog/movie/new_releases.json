@@ -12,7 +12,7 @@
       "id": "tmdb:1007757",
       "type": "movie",
       "name": "Swapped",
-      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not just their species, but the entire valley they call home.",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "releaseInfo": "2026-04-26"
     },
@@ -131,9 +131,9 @@
     {
       "id": "tmdb:949536",
       "type": "movie",
-      "name": "Hard Matter",
+      "name": "Kill Code",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
-      "poster": "https://image.tmdb.org/t/p/w500/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
       "releaseInfo": "2026-04-16"
     },
     {
@@ -373,7 +373,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
       "releaseInfo": "2026-03-15"
     },
     {
@@ -1873,5 +1873,5 @@
       "releaseInfo": "2025-11-12"
     }
   ],
-  "ts": 1778034752237
+  "ts": 1778076046210
 }
