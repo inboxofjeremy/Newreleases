@@ -1,27 +1,14 @@
 {
-  "id": "community.tmdb.movies",
+  "id": "your.addon.id",
   "version": "1.0.0",
-  "name": "TMDB New Releases",
-  "description": "Recent movie releases from TMDB",
-
-  "resources": [
-    "catalog"
-  ],
-
-  "types": [
-    "movie"
-  ],
-
+  "name": "New Releases",
   "catalogs": [
     {
       "type": "movie",
-      "id": "tmdb_new_releases",
-      "name": "New Releases"
+      "id": "tmdb_new_releases"
     }
   ],
-
-  "idPrefixes": [
-    "tt",
-    "tmdb"
-  ]
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "idPrefixes": ["tt", "tmdb:"]
 }
