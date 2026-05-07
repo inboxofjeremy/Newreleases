@@ -1,33 +1,31 @@
 /**
  * build-movies.js — Stremio static movie catalog
- * IMDb IDs preferred + TMDB fallback
- * GitHub Pages ONLY
+ * IMDb preferred + TMDB fallback
  */
 
 import fs from "fs";
 import path from "path";
 
-// =======================
-// CONFIG
-// =======================
 const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 
-const OUT_DIR = "./";
-const CATALOG_DIR = path.join(OUT_DIR, "catalog", "movie");
+const CATALOG_DIR = path.join("./catalog", "movie");
 
-const DAYS_BACK = 180;
-const MAX_PAGES = 20;
-const MIN_VOTE_COUNT = 5;
+const DAYS_BACK = 365; // ⬅️ widened for better results
+const MAX_PAGES = 10;  // ⬅️ safer + avoids rate limits
+const MIN_VOTE_COUNT = 10;
 
-// =======================
-// HELPERS
-// =======================
 async function fetchJSON(url) {
   try {
     const res = await fetch(url);
-    if (!res.ok) return null;
+
+    if (!res.ok) {
+      console.warn("TMDB error:", res.status, url);
+      return null;
+    }
+
     return await res.json();
-  } catch {
+  } catch (e) {
+    console.warn("Fetch failed:", url);
     return null;
   }
 }
@@ -43,68 +41,22 @@ function daysAgo(n) {
 }
 
 const DATE_FROM = daysAgo(DAYS_BACK);
-const DATE_TO = daysAgo(0);
 
 // =======================
-// CONTENT FILTERS
+// FILTERS (SIMPLIFIED)
 // =======================
-function isForeign(movie) {
-  const allowed = ["en"];
 
-  const lang = String(
-    movie.original_language || ""
-  ).toLowerCase();
+function isBlockedLanguage(movie) {
+  const blocked = new Set([
+    "it", "tr", "id", "th", "ar", "no"
+    // ⬅️ removed fr/es/de/ko/zh/hi (too aggressive)
+  ]);
 
-  return !allowed.includes(lang);
+  return blocked.has(String(movie.original_language || "").toLowerCase());
 }
 
 function isDocumentary(movie) {
-  return (movie.genre_ids || []).includes(99);
-}
-
-function isHorror(movie) {
-  return (movie.genre_ids || []).includes(27);
-}
-
-function isBlockedLanguage(movie) {
-  const blocked = [
-    "it",
-    "tr",
-    "id",
-    "es",
-    "th",
-    "ar",
-    "no",
-    "de",
-    "zh",
-    "ko",
-    "fr",
-    "hi"
-  ];
-
-  return blocked.includes(
-    String(movie.original_language || "").toLowerCase()
-  );
-}
-
-// =======================
-// TMDB HELPERS
-// =======================
-async function tmdbMovieDetails(id) {
-  return await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_API_KEY}&language=en-US`
-  );
-}
-
-async function tmdbFindByImdb(imdb) {
-  const url =
-    `https://api.themoviedb.org/3/find/${imdb}` +
-    `?api_key=${TMDB_API_KEY}` +
-    `&external_source=imdb_id`;
-
-  const data = await fetchJSON(url);
-
-  return data?.movie_results?.[0] || null;
+  return movie.genre_ids?.includes(99);
 }
 
 // =======================
@@ -119,40 +71,42 @@ async function fetchMovies() {
       `api_key=${TMDB_API_KEY}` +
       `&language=en-US` +
       `&region=US` +
-      `&sort_by=primary_release_date.desc` +
+      `&sort_by=popularity.desc` + // ⬅️ MUCH better than release date
+      `&include_adult=false` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
       `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
-      `&without_genres=27` + // horror
+      `&with_original_language=en` + // ⬅️ cleaner filtering at API level
       `&page=${page}`;
 
     const data = await fetchJSON(url);
 
-    if (!data?.results?.length) break;
+    if (!data || !Array.isArray(data.results)) break;
 
     for (const movie of data.results) {
       if (!movie?.id) continue;
 
-      if (
-        isForeign(movie) ||
-        isBlockedLanguage(movie) ||
-        isDocumentary(movie) ||
-        isHorror(movie)
-      ) {
-        continue;
-      }
+      if (isDocumentary(movie) || isBlockedLanguage(movie)) continue;
 
       movies.push(movie);
     }
 
-    if (page >= data.total_pages) break;
+    if (page >= (data.total_pages || 0)) break;
   }
 
   return movies;
 }
 
 // =======================
-// MAIN BUILD
+// DETAILS
+// =======================
+async function tmdbMovieDetails(id) {
+  return await fetchJSON(
+    `https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_API_KEY}&language=en-US`
+  );
+}
+
+// =======================
+// BUILD
 // =======================
 async function build() {
   console.log("Fetching movies...");
@@ -164,41 +118,26 @@ async function build() {
 
   for (const movie of rawMovies) {
     const details = await tmdbMovieDetails(movie.id);
-
     if (!details) continue;
 
-    let stremioId = null;
+    const id =
+      details.imdb_id ? details.imdb_id : `tmdb:${details.id}`;
 
-    // Prefer IMDb ID
-    if (details.imdb_id) {
-      stremioId = details.imdb_id;
-    } else {
-      stremioId = `tmdb:${details.id}`;
-    }
-
-    if (!stremioId) continue;
-    if (seen.has(stremioId)) continue;
-
-    seen.add(stremioId);
+    if (seen.has(id)) continue;
+    seen.add(id);
 
     metas.push({
-      id: stremioId,
+      id,
       type: "movie",
-
       name: details.title || details.original_title,
-
       description: cleanHTML(details.overview),
-
       poster: details.poster_path
         ? `https://image.tmdb.org/t/p/w500${details.poster_path}`
         : null,
-
       background: details.backdrop_path
         ? `https://image.tmdb.org/t/p/original${details.backdrop_path}`
         : null,
-
       released: details.release_date || null,
-
       imdb: details.imdb_id || null
     });
   }
@@ -207,9 +146,6 @@ async function build() {
     new Date(b.released || 0) - new Date(a.released || 0)
   );
 
-  // =======================
-  // OUTPUT
-  // =======================
   fs.mkdirSync(CATALOG_DIR, { recursive: true });
 
   fs.writeFileSync(
