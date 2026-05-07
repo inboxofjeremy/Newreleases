@@ -1,6 +1,70 @@
 {
   "metas": [
     {
+      "id": "tmdb:1140521",
+      "type": "movie",
+      "name": "The Magic Faraway Tree",
+      "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+      "poster": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tmdb:1399525",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/9f4aOkrINAaoEh95wSNu9Zlac3W.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tmdb:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tmdb:1226863",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tmdb:1307373",
+      "type": "movie",
+      "name": "Wasteman",
+      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
+      "id": "tmdb:931285",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
+      "id": "tmdb:1301421",
+      "type": "movie",
+      "name": "The Sheep Detectives",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster": "https://image.tmdb.org/t/p/w500/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
       "id": "tmdb:1325734",
       "type": "movie",
       "name": "The Drama",
@@ -2095,7 +2159,62 @@
       "description": "When a workaholic CEO tries to skip Christmas by flying to Australia, she’s in for the flight of her life. Haunted by her past, present, and future, she’s forced to confront the choices that led to her success yet left her flying solo. With the help of three quirky spirits and a surprise reunion with her ex, she might just rediscover the magic of Christmas—and the love she thought she’d lost.",
       "poster": "https://image.tmdb.org/t/p/w500/sMHF7beWXqWzXqtclqrz6vd95xV.jpg",
       "releaseInfo": "2025-11-08"
+    },
+    {
+      "id": "tmdb:1480295",
+      "type": "movie",
+      "name": "Affinity",
+      "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+      "releaseInfo": "2025-09-30"
+    },
+    {
+      "id": "tmdb:1576878",
+      "type": "movie",
+      "name": "Unseen Enemy",
+      "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
+      "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
+      "releaseInfo": "2025-09-30"
+    },
+    {
+      "id": "tmdb:1465731",
+      "type": "movie",
+      "name": "Rebbeca",
+      "description": "As chart-topping Latin music superstar Becky G embarks on her most personal and ambitious project to date, her debut Mexican regional album, she is prompted to revisit her roots and dive deep into a beautiful and complicated past.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjw96u88T4p438RkgCp1pDvie4W.jpg",
+      "releaseInfo": "2025-06-12"
+    },
+    {
+      "id": "tmdb:1465591",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "poster": "https://image.tmdb.org/t/p/w500/oYfRopdjpP6HdtBs4vDJDKemDmy.jpg",
+      "releaseInfo": "2025-06-10"
+    },
+    {
+      "id": "tmdb:766520",
+      "type": "movie",
+      "name": "Rosemead",
+      "description": "In a race against time, an ailing woman discovers her teenage son's violent obsessions and must go to great lengths to protect him, and possibly others, in this portrait of a Chinese American family. Inspired by true events.",
+      "poster": "https://image.tmdb.org/t/p/w500/uVilyfKrB5ZkhXh7MMaIaevzueR.jpg",
+      "releaseInfo": "2025-06-06"
+    },
+    {
+      "id": "tmdb:1049574",
+      "type": "movie",
+      "name": "Darkness of Man",
+      "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
+      "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
+      "releaseInfo": "2024-05-21"
+    },
+    {
+      "id": "tmdb:1177865",
+      "type": "movie",
+      "name": "Riley",
+      "description": "The life of a disciplined high school athlete begins to unravel when his queer identity competes against the idea of who he was supposed to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/1vW8CLfLfZ3KAG52G7a6ET3s61N.jpg",
+      "releaseInfo": "2023-10-13"
     }
-  ],
-  "ts": 1778189312917
+  ]
 }
