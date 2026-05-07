@@ -73,6 +73,18 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 }
 
 // ===============================
+// DATE FORMAT FIX (ONLY CHANGE)
+// ===============================
+function formatFullDate(dateStr) {
+  if (!dateStr) return null;
+
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return null;
+
+  return d.toISOString().slice(0, 10); // YYYY-MM-DD
+}
+
+// ===============================
 // MAIN FETCHER
 // ===============================
 async function fetchMovies() {
@@ -89,7 +101,7 @@ async function fetchMovies() {
       `&sort_by=primary_release_date.desc` +
       `&primary_release_date.gte=${DATE_FROM}` +
       `&primary_release_date.lte=${DATE_TO}` +
-      `&without_genres=27` + // 👈 REMOVES HORROR MOVIES
+      `&without_genres=27` +
       `&page=${page}`;
 
     const j = await fetchJSON(url);
@@ -116,7 +128,9 @@ async function fetchMovies() {
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
-        releaseInfo: usDate,
+
+        // ✅ FIXED: full date preserved
+        releaseInfo: formatFullDate(usDate),
       };
     },
     TMDB_CONCURRENCY
@@ -161,7 +175,10 @@ async function buildMeta(id) {
       background: movie.backdrop_path
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
-      released: movie.release_date || null,
+
+      // ✅ FIXED: full date preserved
+      released: formatFullDate(movie.release_date),
+
       imdb: movie.imdb_id || null,
     },
   };
