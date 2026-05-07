@@ -47,21 +47,28 @@ async function fetchUSReleaseDate(id) {
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // 1. US Digital (type 4)
-  const digital = us.release_dates.find((d) => d.type === 4);
-  if (digital?.release_date) return digital.release_date.slice(0, 10);
+  const pickLatestByType = (type) => {
+    return us.release_dates
+      .filter((d) => d.type === type && d.release_date)
+      .map((d) => d.release_date.slice(0, 10))
+      .sort()
+      .pop(); // safest “latest”
+  };
 
-  // 2. US Theatrical (type 3)
-  const theatrical = us.release_dates.find((d) => d.type === 3);
-  if (theatrical?.release_date) return theatrical.release_date.slice(0, 10);
+  // 1. Digital
+  const digital = pickLatestByType(4);
+  if (digital) return digital;
 
-  // 3. fallback
-  const first = us.release_dates
+  // 2. Theatrical
+  const theatrical = pickLatestByType(3);
+  if (theatrical) return theatrical;
+
+  // 3. fallback: ANY US release
+  return us.release_dates
     .map((d) => d.release_date?.slice(0, 10))
     .filter(Boolean)
-    .sort()[0];
-
-  return first || null;
+    .sort()
+    .pop() || null;
 }
 
 // ===============================
