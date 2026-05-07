@@ -1,201 +1,226 @@
-// build-movies.js
+/**
+ * build-movies.js — Stremio static movie catalog
+ * IMDb IDs preferred + TMDB fallback
+ * GitHub Pages ONLY
+ */
+
 import fs from "fs";
 import path from "path";
 
-// ===============================
+// =======================
 // CONFIG
-// ===============================
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
-const OUTPUT_DIR = ".";
+// =======================
+const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
+
+const OUT_DIR = "./";
+const CATALOG_DIR = path.join(OUT_DIR, "catalog", "movie");
+
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
-const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
 
-// ===============================
+// =======================
 // HELPERS
-// ===============================
-function daysAgo(n) {
-  const d = new Date();
-  d.setDate(d.getDate() - n);
-  return d.toISOString().slice(0, 10);
-}
-const DATE_FROM = daysAgo(DAYS_BACK);
-const DATE_TO = daysAgo(0);
-
+// =======================
 async function fetchJSON(url) {
   try {
-    const r = await fetch(url);
-    if (!r.ok) return null;
-    return await r.json();
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    return await res.json();
   } catch {
     return null;
   }
 }
 
-async function fetchUSReleaseDate(id) {
-  const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
-  );
-  if (!json?.results) return null;
+function cleanHTML(s) {
+  return s ? s.replace(/<[^>]+>/g, "").trim() : "";
+}
 
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
+function daysAgo(n) {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  return d.toISOString().slice(0, 10);
+}
 
-  return (
-    us.release_dates
-      .map((d) => d.release_date?.slice(0, 10))
-      .filter(Boolean)
-      .sort()[0] || null
+const DATE_FROM = daysAgo(DAYS_BACK);
+const DATE_TO = daysAgo(0);
+
+// =======================
+// CONTENT FILTERS
+// =======================
+function isForeign(movie) {
+  const allowed = ["en"];
+
+  const lang = String(
+    movie.original_language || ""
+  ).toLowerCase();
+
+  return !allowed.includes(lang);
+}
+
+function isDocumentary(movie) {
+  return (movie.genre_ids || []).includes(99);
+}
+
+function isHorror(movie) {
+  return (movie.genre_ids || []).includes(27);
+}
+
+function isBlockedLanguage(movie) {
+  const blocked = [
+    "it",
+    "tr",
+    "id",
+    "es",
+    "th",
+    "ar",
+    "no",
+    "de",
+    "zh",
+    "ko",
+    "fr",
+    "hi"
+  ];
+
+  return blocked.includes(
+    String(movie.original_language || "").toLowerCase()
   );
 }
 
-async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
-  const out = new Array(list.length);
-  let i = 0;
-
-  const workers = Array(concurrency)
-    .fill(0)
-    .map(async () => {
-      while (true) {
-        const idx = i++;
-        if (idx >= list.length) break;
-        try {
-          out[idx] = await fn(list[idx], idx);
-        } catch {
-          out[idx] = null;
-        }
-      }
-    });
-
-  await Promise.all(workers);
-  return out;
+// =======================
+// TMDB HELPERS
+// =======================
+async function tmdbMovieDetails(id) {
+  return await fetchJSON(
+    `https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_API_KEY}&language=en-US`
+  );
 }
 
-// ===============================
-// MAIN FETCHER
-// ===============================
+async function tmdbFindByImdb(imdb) {
+  const url =
+    `https://api.themoviedb.org/3/find/${imdb}` +
+    `?api_key=${TMDB_API_KEY}` +
+    `&external_source=imdb_id`;
+
+  const data = await fetchJSON(url);
+
+  return data?.movie_results?.[0] || null;
+}
+
+// =======================
+// FETCH MOVIES
+// =======================
 async function fetchMovies() {
-  const all = [];
+  const movies = [];
 
   for (let page = 1; page <= MAX_PAGES; page++) {
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
-      `api_key=${TMDB_KEY}` +
+      `api_key=${TMDB_API_KEY}` +
       `&language=en-US` +
-      `&with_original_language=en` +
       `&region=US` +
+      `&sort_by=primary_release_date.desc` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
-      `&sort_by=release_date.desc` +
-      `&release_date.gte=${DATE_FROM}` +
-      `&release_date.lte=${DATE_TO}` +
-      `&without_genres=27` +
+      `&primary_release_date.gte=${DATE_FROM}` +
+      `&primary_release_date.lte=${DATE_TO}` +
+      `&without_genres=27` + // horror
       `&page=${page}`;
 
-    const j = await fetchJSON(url);
-    if (!j?.results?.length) break;
+    const data = await fetchJSON(url);
 
-    all.push(...j.results);
-    if (page >= j.total_pages) break;
+    if (!data?.results?.length) break;
+
+    for (const movie of data.results) {
+      if (!movie?.id) continue;
+
+      if (
+        isForeign(movie) ||
+        isBlockedLanguage(movie) ||
+        isDocumentary(movie) ||
+        isHorror(movie)
+      ) {
+        continue;
+      }
+
+      movies.push(movie);
+    }
+
+    if (page >= data.total_pages) break;
   }
 
-  const mapped = await pMap(
-    all,
-    async (m) => {
-      if (!m?.id) return null;
-
-      const releaseDate =
-        (await fetchUSReleaseDate(m.id)) ||
-        m.release_date ||
-        null;
-
-      if (!releaseDate) return null;
-      if (releaseDate < DATE_FROM || releaseDate > DATE_TO) return null;
-
-      return {
-        id: `tmdb:${m.id}`,
-        type: "movie",
-        name: m.title || m.original_title || `Movie ${m.id}`,
-        description: m.overview || "",
-        poster: m.poster_path
-          ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
-          : null,
-        releaseInfo: releaseDate,
-      };
-    },
-    TMDB_CONCURRENCY
-  );
-
-  const seen = new Set();
-  const out = [];
-
-  for (const item of mapped) {
-    if (!item) continue;
-    if (seen.has(item.id)) continue;
-    seen.add(item.id);
-    out.push(item);
-  }
-
-  return out.sort((a, b) =>
-    b.releaseInfo.localeCompare(a.releaseInfo)
-  );
+  return movies;
 }
 
-// ===============================
-// META BUILDER
-// ===============================
-async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
-  if (!tmdbId) return null;
-
-  const movie = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
-  );
-  if (!movie) return null;
-
-  return {
-    meta: {
-      id: `tmdb:${movie.id}`,
-      type: "movie",
-      name: movie.title,
-      description: movie.overview || "",
-      poster: movie.poster_path
-        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
-        : null,
-      background: movie.backdrop_path
-        ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
-        : null,
-      released: movie.release_date || null,
-      imdb: movie.imdb_id || null,
-    },
-  };
-}
-
-// ===============================
+// =======================
 // MAIN BUILD
-// ===============================
+// =======================
 async function build() {
-  console.log("Fetching movies…");
-  const movies = await fetchMovies();
+  console.log("Fetching movies...");
 
-  fs.mkdirSync("./catalog/movie", { recursive: true });
-  fs.mkdirSync("./meta/movie", { recursive: true });
+  const rawMovies = await fetchMovies();
+
+  const metas = [];
+  const seen = new Set();
+
+  for (const movie of rawMovies) {
+    const details = await tmdbMovieDetails(movie.id);
+
+    if (!details) continue;
+
+    let stremioId = null;
+
+    // Prefer IMDb ID
+    if (details.imdb_id) {
+      stremioId = details.imdb_id;
+    } else {
+      stremioId = `tmdb:${details.id}`;
+    }
+
+    if (!stremioId) continue;
+    if (seen.has(stremioId)) continue;
+
+    seen.add(stremioId);
+
+    metas.push({
+      id: stremioId,
+      type: "movie",
+
+      name: details.title || details.original_title,
+
+      description: cleanHTML(details.overview),
+
+      poster: details.poster_path
+        ? `https://image.tmdb.org/t/p/w500${details.poster_path}`
+        : null,
+
+      background: details.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${details.backdrop_path}`
+        : null,
+
+      released: details.release_date || null,
+
+      imdb: details.imdb_id || null
+    });
+  }
+
+  metas.sort((a, b) =>
+    new Date(b.released || 0) - new Date(a.released || 0)
+  );
+
+  // =======================
+  // OUTPUT
+  // =======================
+  fs.mkdirSync(CATALOG_DIR, { recursive: true });
 
   fs.writeFileSync(
-    "./catalog/movie/new_releases.json",
-    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
+    path.join(CATALOG_DIR, "tmdb_new_releases.json"),
+    JSON.stringify({ metas }, null, 2)
   );
 
-  for (const m of movies) {
-    const meta = await buildMeta(m.id);
-    if (!meta) continue;
-    fs.writeFileSync(
-      `./meta/movie/${m.id}.json`,
-      JSON.stringify(meta, null, 2)
-    );
-  }
-
-  console.log("Done.");
+  console.log("Build complete:", metas.length, "movies");
 }
 
-build();
+build().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
