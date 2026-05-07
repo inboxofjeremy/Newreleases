@@ -13,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -38,8 +39,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add catalog meta manifest.json || true
+
+          git add catalog manifest.json package.json || true
+
           git commit -m "Auto rebuild movies catalog" || echo "No changes"
+
           git push origin HEAD:main || echo "Push skipped"
 
       - name: Upload artifact for Pages
@@ -50,6 +54,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
