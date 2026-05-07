@@ -864,5 +864,8 @@
       "background": "https://image.tmdb.org/t/p/original/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
       "released": "1972-03-14"
     }
-  ]
+  ],
+  "cacheMaxAge": 3600,
+  "staleRevalidate": 86400,
+  "staleError": 86400
 }
