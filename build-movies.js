@@ -5,14 +5,13 @@ import path from "path";
 // CONFIG
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
 
 // ===============================
-// HELPERS
+// DATE HELPERS
 // ===============================
 function daysAgo(n) {
   const d = new Date();
@@ -23,6 +22,9 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
+// ===============================
+// FETCH HELPERS
+// ===============================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -34,7 +36,22 @@ async function fetchJSON(url) {
 }
 
 // ===============================
-// EARLIEST US DIGITAL RELEASE
+// ALLOW +10 DAY WINDOW
+// ===============================
+function isAllowed(dateStr) {
+  if (!dateStr) return false;
+
+  const date = new Date(dateStr).getTime();
+  const now = Date.now();
+
+  const TEN_DAYS = 10 * 24 * 60 * 60 * 1000;
+
+  // allow past + next 10 days
+  return date <= (now + TEN_DAYS);
+}
+
+// ===============================
+// EARLIEST US DIGITAL RELEASE ONLY
 // ===============================
 async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
@@ -46,43 +63,19 @@ async function fetchUSReleaseDate(id) {
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // -------------------------------
-  // 1. EARLIEST US DIGITAL (type 4)
-  // -------------------------------
+  // ONLY DIGITAL (type 4)
   const digitalDates = us.release_dates
     .filter((d) => d.type === 4 && d.release_date)
     .map((d) => d.release_date.slice(0, 10))
-    .sort(); // ascending
+    .sort(); // earliest → latest
 
-  if (digitalDates.length) {
-    return digitalDates[0]; // EARLIEST digital
-  }
+  if (!digitalDates.length) return null;
 
-  // -------------------------------
-  // 2. FALLBACK: EARLIEST THEATRICAL (type 3)
-  // -------------------------------
-  const theatricalDates = us.release_dates
-    .filter((d) => d.type === 3 && d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort();
-
-  if (theatricalDates.length) {
-    return theatricalDates[0];
-  }
-
-  // -------------------------------
-  // 3. FINAL FALLBACK: ANY US DATE
-  // -------------------------------
-  const allDates = us.release_dates
-    .map((d) => d.release_date?.slice(0, 10))
-    .filter(Boolean)
-    .sort();
-
-  return allDates[0] || null;
+  return digitalDates[0]; // earliest digital
 }
 
 // ===============================
-// CONCURRENCY HELPER
+// CONCURRENCY
 // ===============================
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
@@ -137,7 +130,12 @@ async function fetchMovies() {
     if (!m?.id) return null;
 
     const usDate = await fetchUSReleaseDate(m.id);
+
+    // must have digital release
     if (!usDate) return null;
+
+    // allow only past + next 10 days
+    if (!isAllowed(usDate)) return null;
 
     return {
       id: `tmdb:${m.id}`,
@@ -162,13 +160,9 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // ===============================
-  // STABLE SORT (NEWEST FIRST)
-  // ===============================
+  // newest first
   return out.sort((a, b) => {
-    const ta = new Date(a.releaseInfo || 0).getTime();
-    const tb = new Date(b.releaseInfo || 0).getTime();
-    return tb - ta;
+    return new Date(b.releaseInfo) - new Date(a.releaseInfo);
   });
 }
 
@@ -208,10 +202,11 @@ async function buildMeta(id) {
 }
 
 // ===============================
-// MAIN BUILD
+// BUILD
 // ===============================
 async function build() {
   console.log("Fetching movies…");
+
   const movies = await fetchMovies();
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
