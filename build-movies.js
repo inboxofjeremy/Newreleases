@@ -1,6 +1,6 @@
 /**
- * build-movies.js — Stremio static movie catalog (FIXED)
- * Stable TMDB ingestion + Stremio-safe output
+ * build-movies.js — Stremio static movie catalog (GitHub Pages safe)
+ * FIXED: Stremio empty-content issues + proper catalog response shape
  */
 
 import fs from "fs";
@@ -8,10 +8,9 @@ import path from "path";
 
 const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 
-const OUT_DIR = "./";
-const CATALOG_DIR = path.join(OUT_DIR, "catalog", "movie");
+const CATALOG_DIR = path.join("./catalog", "movie");
 
-const MAX_PAGES = 5; // keep safe for GitHub Actions / API limits
+const MAX_PAGES = 5;
 const MIN_VOTE_COUNT = 10;
 
 // -----------------------
@@ -20,10 +19,13 @@ const MIN_VOTE_COUNT = 10;
 async function fetchJSON(url) {
   try {
     const res = await fetch(url);
-    if (!res.ok) return null;
+    if (!res.ok) {
+      console.warn("Fetch failed:", res.status, url);
+      return null;
+    }
     return await res.json();
   } catch (e) {
-    console.warn("Fetch error:", url);
+    console.warn("Network error:", url);
     return null;
   }
 }
@@ -59,7 +61,7 @@ async function fetchMovies() {
 }
 
 // -----------------------
-// MOVIE DETAILS
+// DETAILS
 // -----------------------
 async function getDetails(id) {
   return fetchJSON(
@@ -74,7 +76,7 @@ async function build() {
   console.log("Fetching movies...");
 
   const rawMovies = await fetchMovies();
-  console.log("Raw movies:", rawMovies.length);
+  console.log("RAW MOVIES:", rawMovies.length);
 
   const metas = [];
   const seen = new Set();
@@ -90,7 +92,7 @@ async function build() {
     if (seen.has(id)) continue;
     seen.add(id);
 
-    const meta = {
+    metas.push({
       id,
       type: "movie",
 
@@ -99,7 +101,9 @@ async function build() {
         details.original_title ||
         "Unknown Title",
 
-      description: cleanText(details.overview || "No description available"),
+      description: cleanText(
+        details.overview || "No description available"
+      ),
 
       poster: details.poster_path
         ? `https://image.tmdb.org/t/p/w500${details.poster_path}`
@@ -109,10 +113,8 @@ async function build() {
         ? `https://image.tmdb.org/t/p/original${details.backdrop_path}`
         : null,
 
-      released: details.release_date || "",
-    };
-
-    metas.push(meta);
+      released: details.release_date || ""
+    });
   }
 
   // sort newest first
@@ -121,7 +123,11 @@ async function build() {
       new Date(b.released || 0) - new Date(a.released || 0)
   );
 
-  // ensure folder exists
+  console.log("FINAL METAS COUNT:", metas.length);
+
+  // -----------------------
+  // OUTPUT DIRECTORY
+  // -----------------------
   fs.mkdirSync(CATALOG_DIR, { recursive: true });
 
   const outputPath = path.join(
@@ -129,12 +135,23 @@ async function build() {
     "tmdb_new_releases.json"
   );
 
+  // -----------------------
+  // CRITICAL STREMIO FIX (CACHE FIELDS)
+  // -----------------------
   fs.writeFileSync(
     outputPath,
-    JSON.stringify({ metas }, null, 2)
+    JSON.stringify(
+      {
+        metas,
+        cacheMaxAge: 3600,
+        staleRevalidate: 86400,
+        staleError: 86400
+      },
+      null,
+      2
+    )
   );
 
-  console.log("Build complete. Movies:", metas.length);
   console.log("Saved to:", outputPath);
 }
 
