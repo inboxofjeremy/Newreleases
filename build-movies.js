@@ -177,8 +177,9 @@ async function buildMeta(id) {
         : null,
 
       // ✅ FIXED: full date preserved
-      released: formatFullDate(movie.release_date),
-
+released: movie.release_date && movie.release_date.length >= 10
+  ? movie.release_date.slice(0, 10)
+  : null,
       imdb: movie.imdb_id || null,
     },
   };
