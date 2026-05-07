@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "name": "TMDB New Releases",
   "description": "Recent movie releases from TMDB",
+
   "resources": [
     "catalog"
   ],
+
   "types": [
     "movie"
   ],
+
   "catalogs": [
     {
       "type": "movie",
@@ -16,6 +19,7 @@
       "name": "New Releases"
     }
   ],
+
   "idPrefixes": [
     "tt",
     "tmdb"
