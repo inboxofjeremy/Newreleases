@@ -5,7 +5,7 @@ import path from "path";
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
 const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
@@ -20,7 +20,6 @@ function daysAgo(n) {
   d.setDate(d.getDate() - n);
   return d.toISOString().slice(0, 10);
 }
-
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
@@ -38,7 +37,6 @@ async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
-
   if (!json?.results) return null;
 
   const us = json.results.find((r) => r.iso_3166_1 === "US");
@@ -72,6 +70,18 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 
   await Promise.all(workers);
   return out;
+}
+
+// ===============================
+// DATE FORMAT FIX (ONLY CHANGE)
+// ===============================
+function formatFullDate(dateStr) {
+  if (!dateStr) return null;
+
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return null;
+
+  return d.toISOString().slice(0, 10); // YYYY-MM-DD
 }
 
 // ===============================
@@ -119,8 +129,8 @@ async function fetchMovies() {
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
 
-        // ✅ ONLY canonical date field
-        released: usDate ? usDate.slice(0, 10) : null,
+        // ✅ FIXED: full date preserved
+        releaseInfo: formatFullDate(usDate),
       };
     },
     TMDB_CONCURRENCY
@@ -137,7 +147,7 @@ async function fetchMovies() {
   }
 
   return out.sort((a, b) =>
-    b.released.localeCompare(a.released)
+    b.releaseInfo.localeCompare(a.releaseInfo)
   );
 }
 
@@ -151,7 +161,6 @@ async function buildMeta(id) {
   const movie = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
   );
-
   if (!movie) return null;
 
   return {
@@ -167,10 +176,8 @@ async function buildMeta(id) {
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
 
-      // ✅ ONLY canonical field
-      released: movie.release_date
-        ? movie.release_date.slice(0, 10)
-        : null,
+      // ✅ FIXED: full date preserved
+      released: formatFullDate(movie.release_date),
 
       imdb: movie.imdb_id || null,
     },
@@ -189,13 +196,12 @@ async function build() {
 
   fs.writeFileSync(
     "./catalog/movie/new_releases.json",
-    JSON.stringify({ metas: movies }, null, 2)
+    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
   );
 
   for (const m of movies) {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
-
     fs.writeFileSync(
       `./meta/movie/${m.id}.json`,
       JSON.stringify(meta, null, 2)
