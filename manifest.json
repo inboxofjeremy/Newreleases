@@ -1,14 +1,16 @@
 {
-  "id": "your.addon.id",
+  "id": "org.jeremy.newreleases",
   "version": "1.0.0",
   "name": "New Releases",
+  "description": "TMDB latest movies catalog",
+  "resources": ["catalog"],
+  "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "tmdb_new_releases"
+      "id": "tmdb_new_releases",
+      "name": "New Releases"
     }
   ],
-  "resources": ["catalog"],
-  "types": ["movie"],
   "idPrefixes": ["tt", "tmdb:"]
 }
