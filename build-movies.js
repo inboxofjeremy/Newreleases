@@ -37,19 +37,32 @@ async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
+
   if (!json?.results) return null;
 
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  return (
-    us.release_dates
-      .map((d) => d.release_date?.slice(0, 10))
-      .filter(Boolean)
-      .sort()[0] || null
-  );
-}
+  // 👉 PRIORITY: Digital (type 4)
+  const digital = us.release_dates.find((d) => d.type === 4);
+  if (digital?.release_date) {
+    return digital.release_date.slice(0, 10);
+  }
 
+  // fallback: theatrical (type 3)
+  const theatrical = us.release_dates.find((d) => d.type === 3);
+  if (theatrical?.release_date) {
+    return theatrical.release_date.slice(0, 10);
+  }
+
+  // fallback: anything else
+  const first = us.release_dates
+    .map((d) => d.release_date?.slice(0, 10))
+    .filter(Boolean)
+    .sort()[0];
+
+  return first || null;
+}
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
   let i = 0;
