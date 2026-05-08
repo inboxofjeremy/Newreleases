@@ -9,11 +9,19 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tmdb:1688652",
+      "type": "movie",
+      "name": "Gary",
+      "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
+      "releaseInfo": "2026-05-05"
+    },
+    {
       "id": "tmdb:1325734",
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -1414,14 +1422,6 @@
       "name": "Blue Eyed Girl",
       "description": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
       "poster": "https://image.tmdb.org/t/p/w500/eznMwD1AyNK4fAqhKnAdQFoJWgm.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1564232",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: It Ain't Right",
-      "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
