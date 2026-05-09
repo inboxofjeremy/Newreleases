@@ -9,14 +9,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tmdb:1226863",
-      "type": "movie",
-      "name": "The Super Mario Galaxy Movie",
-      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tmdb:1307373",
       "type": "movie",
       "name": "Wasteman",
@@ -28,7 +20,7 @@
       "id": "tmdb:1292415",
       "type": "movie",
       "name": "Beast",
-      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against it's brutal champion Xavier Grau.",
+      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
       "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
       "releaseInfo": "2026-05-12"
     },
@@ -457,6 +449,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1119449",
+      "type": "movie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
       "id": "tmdb:1291335",
       "type": "movie",
       "name": "Solo Mio",
@@ -470,14 +470,6 @@
       "name": "The Testament of Ann Lee",
       "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
       "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
