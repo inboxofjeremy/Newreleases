@@ -22,12 +22,12 @@ async function fetchJSON(url) {
     console.log(`Fetching: ${url}`); // Added: Log every fetch request
     const r = await fetch(url);
     if (!r.ok) {
-      console.error(`Failed fetch (${r.status}): ${url}`); // Added: Log failures
+      console.error(`Failed fetch (${r.status}): ${url}`); // Log failures
       return null;
     }
     return await r.json();
   } catch (error) {
-    console.error(`Error fetching JSON: ${error.message}`, url); // Added: Log network errors
+    console.error(`Error fetching JSON: ${error.message}`, url); // Log network errors
     return null;
   }
 }
@@ -62,7 +62,7 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
         try {
           out[idx] = await fn(list[idx], idx);
         } catch (error) {
-          console.error(`Error in pMap: ${error.message}`, list[idx]); // Added: Log errors in worker
+          console.error(`Error in pMap: ${error.message}`, list[idx]); // Log errors in worker
           out[idx] = null;
         }
       }
@@ -82,7 +82,7 @@ function formatFullDate(dateStr) {
 }
 
 async function fetchMovies() {
-  console.log(`Fetching movies from ${DATE_FROM} to ${DATE_TO}...`); // Added: Initial log
+  console.log(`Fetching movies from ${DATE_FROM} to ${DATE_TO}...`); // Initial log
   const all = [];
 
   for (let page = 1; page <= MAX_PAGES; page++) {
@@ -101,7 +101,7 @@ async function fetchMovies() {
 
     const j = await fetchJSON(url);
     if (!j?.results?.length) {
-      console.warn(`No results on page ${page} or stopping early`); // Added: Warn for empty pages
+      console.warn(`No results on page ${page} or stopping early`); // Warn for empty pages
       break;
     }
 
@@ -109,7 +109,7 @@ async function fetchMovies() {
     if (page >= j.total_pages) break;
   }
 
-  console.log(`Found ${all.length} movies to process.`); // Added: Log total results
+  console.log(`Found ${all.length} movies to process.`); // Log total results
 
   const mapped = await pMap(
     all,
@@ -117,7 +117,7 @@ async function fetchMovies() {
       if (!m?.id) return null;
 
       const usDate = await fetchUSReleaseDate(m.id);
-      console.log(`Movie ID: ${m.id}, US Release Date: ${usDate}`); // Added: Log US release date
+      console.log(`Movie ID: ${m.id}, US Release Date: ${usDate}`); // Log US release date
       if (!usDate) return null;
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
@@ -129,7 +129,87 @@ async function fetchMovies() {
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
-
         releaseInfo: formatFullDate(usDate),
       };
     },
+    TMDB_CONCURRENCY
+  );
+
+  const seen = new Set();
+  const out = [];
+
+  for (const item of mapped) {
+    if (!item) continue;
+    if (seen.has(item.id)) continue;
+    seen.add(item.id);
+    out.push(item);
+  }
+
+  console.log(`Processed ${out.length} movies.`); // Log processed movies
+  return out.sort((a, b) =>
+    b.releaseInfo.localeCompare(a.releaseInfo)
+  );
+}
+
+async function buildMeta(id) {
+  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
+  if (!tmdbId) return null;
+
+  const movie = await fetchJSON(
+    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
+  );
+  if (!movie) {
+    console.warn(`Unable to fetch movie metadata for ID: ${tmdbId}`); // Warn for missing metadata
+    return null;
+  }
+
+  return {
+    meta: {
+      id: `tmdb:${movie.id}`,
+      type: "movie",
+      name: movie.title,
+      description: movie.overview || "",
+      poster: movie.poster_path
+        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
+        : null,
+      background: movie.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
+        : null,
+
+      released: formatFullDate(movie.release_date),
+
+      imdb: movie.imdb_id || null,
+    },
+  };
+}
+
+async function build() {
+  console.log("Starting build process...");
+  const movies = await fetchMovies();
+
+  if (!movies.length) {
+    console.error("No movies fetched. Exiting."); // Exit on empty results
+    return;
+  }
+
+  fs.mkdirSync("./catalog/movie", { recursive: true });
+  fs.mkdirSync("./meta/movie", { recursive: true });
+
+  fs.writeFileSync(
+    "./catalog/movie/new_releases.json",
+    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
+  );
+
+  for (const m of movies) {
+    const meta = await buildMeta(m.id);
+    if (!meta) continue;
+    fs.writeFileSync(
+      `./meta/movie/${m.id}.json`,
+      JSON.stringify(meta, null, 2)
+    );
+  }
+
+  console.log("Build complete.");
+}
+
+build();
