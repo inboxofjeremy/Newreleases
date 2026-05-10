@@ -8,7 +8,7 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "tmdb_new_releases",
+      "id": "new_releases",
       "name": "New Releases"
     }
   ],
