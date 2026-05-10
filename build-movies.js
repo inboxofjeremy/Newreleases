@@ -133,4 +133,3 @@ async function fetchMovies() {
         releaseInfo: formatFullDate(usDate),
       };
     },
-    TMDB_CONCURRENCY
