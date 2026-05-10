@@ -1,38 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1242332",
-      "type": "movie",
-      "name": "Normal",
-      "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tmdb:1307373",
-      "type": "movie",
-      "name": "Wasteman",
-      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tmdb:1292415",
-      "type": "movie",
-      "name": "Beast",
-      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tmdb:1330021",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
