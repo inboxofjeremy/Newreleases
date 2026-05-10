@@ -2,9 +2,6 @@
 import fs from "fs";
 import path from "path";
 
-// ===============================
-// CONFIG
-// ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
 const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
@@ -12,9 +9,6 @@ const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
 
-// ===============================
-// HELPERS
-// ===============================
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
@@ -25,10 +19,15 @@ const DATE_TO = daysAgo(0);
 
 async function fetchJSON(url) {
   try {
+    console.log(`Fetching: ${url}`); // Added: Log every fetch request
     const r = await fetch(url);
-    if (!r.ok) return null;
+    if (!r.ok) {
+      console.error(`Failed fetch (${r.status}): ${url}`); // Added: Log failures
+      return null;
+    }
     return await r.json();
-  } catch {
+  } catch (error) {
+    console.error(`Error fetching JSON: ${error.message}`, url); // Added: Log network errors
     return null;
   }
 }
@@ -62,7 +61,8 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
         if (idx >= list.length) break;
         try {
           out[idx] = await fn(list[idx], idx);
-        } catch {
+        } catch (error) {
+          console.error(`Error in pMap: ${error.message}`, list[idx]); // Added: Log errors in worker
           out[idx] = null;
         }
       }
@@ -72,9 +72,6 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   return out;
 }
 
-// ===============================
-// DATE FORMAT FIX (ONLY CHANGE)
-// ===============================
 function formatFullDate(dateStr) {
   if (!dateStr) return null;
 
@@ -84,10 +81,8 @@ function formatFullDate(dateStr) {
   return d.toISOString().slice(0, 10); // YYYY-MM-DD
 }
 
-// ===============================
-// MAIN FETCHER
-// ===============================
 async function fetchMovies() {
+  console.log(`Fetching movies from ${DATE_FROM} to ${DATE_TO}...`); // Added: Initial log
   const all = [];
 
   for (let page = 1; page <= MAX_PAGES; page++) {
@@ -105,11 +100,16 @@ async function fetchMovies() {
       `&page=${page}`;
 
     const j = await fetchJSON(url);
-    if (!j?.results?.length) break;
+    if (!j?.results?.length) {
+      console.warn(`No results on page ${page} or stopping early`); // Added: Warn for empty pages
+      break;
+    }
 
     all.push(...j.results);
     if (page >= j.total_pages) break;
   }
+
+  console.log(`Found ${all.length} movies to process.`); // Added: Log total results
 
   const mapped = await pMap(
     all,
@@ -117,6 +117,7 @@ async function fetchMovies() {
       if (!m?.id) return null;
 
       const usDate = await fetchUSReleaseDate(m.id);
+      console.log(`Movie ID: ${m.id}, US Release Date: ${usDate}`); // Added: Log US release date
       if (!usDate) return null;
       if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
@@ -129,86 +130,7 @@ async function fetchMovies() {
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
 
-        // ✅ FIXED: full date preserved
         releaseInfo: formatFullDate(usDate),
       };
     },
     TMDB_CONCURRENCY
-  );
-
-  const seen = new Set();
-  const out = [];
-
-  for (const item of mapped) {
-    if (!item) continue;
-    if (seen.has(item.id)) continue;
-    seen.add(item.id);
-    out.push(item);
-  }
-
-  return out.sort((a, b) =>
-    b.releaseInfo.localeCompare(a.releaseInfo)
-  );
-}
-
-// ===============================
-// META BUILDER
-// ===============================
-async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
-  if (!tmdbId) return null;
-
-  const movie = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
-  );
-  if (!movie) return null;
-
-  return {
-    meta: {
-      id: `tmdb:${movie.id}`,
-      type: "movie",
-      name: movie.title,
-      description: movie.overview || "",
-      poster: movie.poster_path
-        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
-        : null,
-      background: movie.backdrop_path
-        ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
-        : null,
-
-      // ✅ FIXED: full date preserved
-      released: formatFullDate(movie.release_date),
-
-      imdb: movie.imdb_id || null,
-    },
-  };
-}
-
-// ===============================
-// MAIN BUILD
-// ===============================
-async function build() {
-  console.log("Fetching movies…");
-  const movies = await fetchMovies();
-
-  fs.mkdirSync("./catalog/movie", { recursive: true });
-  fs.mkdirSync("./meta/movie", { recursive: true });
-
-  fs.writeFileSync(
-    "./catalog/movie/new_releases.json",
-    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
-  );
-
-  for (const m of movies) {
-    const meta = await buildMeta(m.id);
-    if (!meta) continue;
-    fs.writeFileSync(
-      `./meta/movie/${m.id}.json`,
-      JSON.stringify(meta, null, 2)
-    );
-  }
-
-  console.log("Done.");
-}
-
-build();
