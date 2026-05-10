@@ -11,7 +11,7 @@ const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
 
 // ===============================
-// DATE HELPERS
+// HELPERS
 // ===============================
 function daysAgo(n) {
   const d = new Date();
@@ -22,9 +22,6 @@ function daysAgo(n) {
 const DATE_FROM = daysAgo(DAYS_BACK);
 const DATE_TO = daysAgo(0);
 
-// ===============================
-// FETCH HELPERS
-// ===============================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
@@ -35,23 +32,13 @@ async function fetchJSON(url) {
   }
 }
 
-// ===============================
-// ALLOW +10 DAY WINDOW
-// ===============================
-function isAllowed(dateStr) {
+function isReleased(dateStr) {
   if (!dateStr) return false;
-
-  const date = new Date(dateStr).getTime();
-  const now = Date.now();
-
-  const TEN_DAYS = 10 * 24 * 60 * 60 * 1000;
-
-  // allow past + next 10 days
-  return date <= (now + TEN_DAYS);
+  return new Date(dateStr).getTime() <= Date.now();
 }
 
 // ===============================
-// EARLIEST US DIGITAL RELEASE ONLY
+// US DIGITAL ONLY RELEASE DATE
 // ===============================
 async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
@@ -71,7 +58,8 @@ async function fetchUSReleaseDate(id) {
 
   if (!digitalDates.length) return null;
 
-  return digitalDates[0]; // earliest digital
+  // earliest digital release
+  return digitalDates[0];
 }
 
 // ===============================
@@ -131,11 +119,11 @@ async function fetchMovies() {
 
     const usDate = await fetchUSReleaseDate(m.id);
 
-    // must have digital release
+    // ❌ must have digital release
     if (!usDate) return null;
 
-    // allow only past + next 10 days
-    if (!isAllowed(usDate)) return null;
+    // ❌ block future digital releases
+    if (!isReleased(usDate)) return null;
 
     return {
       id: `tmdb:${m.id}`,
@@ -160,7 +148,7 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // newest first
+  // newest digital first
   return out.sort((a, b) => {
     return new Date(b.releaseInfo) - new Date(a.releaseInfo);
   });
