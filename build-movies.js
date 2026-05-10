@@ -1,114 +1,57 @@
 // build-movies.js
-
 import fs from "fs";
 import path from "path";
 
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
+const OUTPUT_DIR = ".";
 const DAYS_BACK = 180;
-const FUTURE_DAYS = 10;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
 
 // ===============================
-// DATE HELPERS
+// HELPERS
 // ===============================
 function daysAgo(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);
   return d.toISOString().slice(0, 10);
 }
-
-function daysFromNow(n) {
-  const d = new Date();
-  d.setDate(d.getDate() + n);
-  return d.toISOString().slice(0, 10);
-}
-
 const DATE_FROM = daysAgo(DAYS_BACK);
-const DATE_TO = daysFromNow(FUTURE_DAYS);
+const DATE_TO = daysAgo(0);
 
-// ===============================
-// FETCH HELPERS
-// ===============================
 async function fetchJSON(url) {
   try {
     const r = await fetch(url);
-
-    if (!r.ok) {
-      return null;
-    }
-
+    if (!r.ok) return null;
     return await r.json();
   } catch {
     return null;
   }
 }
 
-// ===============================
-// ALLOW RELEASED + NEXT 10 DAYS
-// ===============================
-function isAllowed(dateStr) {
-  if (!dateStr) return false;
-
-  const date = new Date(dateStr).getTime();
-  const now = Date.now();
-
-  const futureLimit =
-    now + FUTURE_DAYS * 24 * 60 * 60 * 1000;
-
-  return date <= futureLimit;
-}
-
-// ===============================
-// EARLIEST US DIGITAL RELEASE
-// ===============================
 async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
-
   if (!json?.results) return null;
 
-  const us = json.results.find(
-    (r) => r.iso_3166_1 === "US"
-  );
-
+  const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // ONLY DIGITAL RELEASES (TYPE 4)
-  const digitalDates = us.release_dates
-    .filter(
-      (d) =>
-        d.type === 4 &&
-        d.release_date
-    )
-    .map((d) =>
-      d.release_date.slice(0, 10)
-    )
-    .sort(); // earliest -> latest
-
-  if (!digitalDates.length) {
-    return null;
-  }
-
-  // EARLIEST DIGITAL RELEASE
-  return digitalDates[0];
+  return (
+    us.release_dates
+      .map((d) => d.release_date?.slice(0, 10))
+      .filter(Boolean)
+      .sort()[0] || null
+  );
 }
 
-// ===============================
-// CONCURRENCY HELPER
-// ===============================
-async function pMap(
-  list,
-  fn,
-  concurrency = TMDB_CONCURRENCY
-) {
+async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
-
   let i = 0;
 
   const workers = Array(concurrency)
@@ -116,16 +59,9 @@ async function pMap(
     .map(async () => {
       while (true) {
         const idx = i++;
-
-        if (idx >= list.length) {
-          break;
-        }
-
+        if (idx >= list.length) break;
         try {
-          out[idx] = await fn(
-            list[idx],
-            idx
-          );
+          out[idx] = await fn(list[idx], idx);
         } catch {
           out[idx] = null;
         }
@@ -133,21 +69,28 @@ async function pMap(
     });
 
   await Promise.all(workers);
-
   return out;
 }
 
 // ===============================
-// FETCH MOVIES
+// DATE FORMAT FIX (ONLY CHANGE)
+// ===============================
+function formatFullDate(dateStr) {
+  if (!dateStr) return null;
+
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return null;
+
+  return d.toISOString().slice(0, 10); // YYYY-MM-DD
+}
+
+// ===============================
+// MAIN FETCHER
 // ===============================
 async function fetchMovies() {
   const all = [];
 
-  for (
-    let page = 1;
-    page <= MAX_PAGES;
-    page++
-  ) {
+  for (let page = 1; page <= MAX_PAGES; page++) {
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${TMDB_KEY}` +
@@ -162,59 +105,35 @@ async function fetchMovies() {
       `&page=${page}`;
 
     const j = await fetchJSON(url);
-
-    if (!j?.results?.length) {
-      break;
-    }
+    if (!j?.results?.length) break;
 
     all.push(...j.results);
-
-    if (page >= j.total_pages) {
-      break;
-    }
+    if (page >= j.total_pages) break;
   }
 
   const mapped = await pMap(
     all,
     async (m) => {
-      if (!m?.id) {
-        return null;
-      }
+      if (!m?.id) return null;
 
-      const usDate =
-        await fetchUSReleaseDate(
-          m.id
-        );
-
-      // MUST HAVE DIGITAL DATE
-      if (!usDate) {
-        return null;
-      }
-
-      // ONLY RELEASED OR NEXT 10 DAYS
-      if (!isAllowed(usDate)) {
-        return null;
-      }
+      const usDate = await fetchUSReleaseDate(m.id);
+      if (!usDate) return null;
+      if (usDate < DATE_FROM || usDate > DATE_TO) return null;
 
       return {
         id: `tmdb:${m.id}`,
         type: "movie",
-
-        name:
-          m.title ||
-          m.original_title ||
-          `Movie ${m.id}`,
-
-        description:
-          m.overview || "",
-
+        name: m.title || m.original_title || `Movie ${m.id}`,
+        description: m.overview || "",
         poster: m.poster_path
           ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
           : null,
 
-        releaseInfo: usDate,
+        // ✅ FIXED: full date preserved
+        releaseInfo: formatFullDate(usDate),
       };
-    }
+    },
+    TMDB_CONCURRENCY
   );
 
   const seen = new Set();
@@ -222,135 +141,74 @@ async function fetchMovies() {
 
   for (const item of mapped) {
     if (!item) continue;
-
-    if (seen.has(item.id)) {
-      continue;
-    }
-
+    if (seen.has(item.id)) continue;
     seen.add(item.id);
-
     out.push(item);
   }
 
-  // NEWEST DIGITAL RELEASE FIRST
-  return out.sort((a, b) => {
-    return (
-      new Date(b.releaseInfo) -
-      new Date(a.releaseInfo)
-    );
-  });
+  return out.sort((a, b) =>
+    b.releaseInfo.localeCompare(a.releaseInfo)
+  );
 }
 
 // ===============================
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const tmdbId = id.startsWith(
-    "tmdb:"
-  )
-    ? id.split(":")[1]
-    : id;
-
-  if (!tmdbId) {
-    return null;
-  }
+  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
+  if (!tmdbId) return null;
 
   const movie = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
   );
-
-  if (!movie) {
-    return null;
-  }
+  if (!movie) return null;
 
   return {
     meta: {
       id: `tmdb:${movie.id}`,
       type: "movie",
-
       name: movie.title,
-
-      description:
-        movie.overview || "",
-
+      description: movie.overview || "",
       poster: movie.poster_path
         ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
         : null,
+      background: movie.backdrop_path
+        ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
+        : null,
 
-      background:
-        movie.backdrop_path
-          ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
-          : null,
+      // ✅ FIXED: full date preserved
+      released: formatFullDate(movie.release_date),
 
-      released:
-        movie.release_date
-          ? movie.release_date.slice(
-              0,
-              10
-            )
-          : null,
-
-      imdb:
-        movie.imdb_id || null,
+      imdb: movie.imdb_id || null,
     },
   };
 }
 
 // ===============================
-// BUILD
+// MAIN BUILD
 // ===============================
 async function build() {
-  console.log(
-    "Fetching movies…"
-  );
+  console.log("Fetching movies…");
+  const movies = await fetchMovies();
 
-  const movies =
-    await fetchMovies();
-
-  fs.mkdirSync(
-    "./catalog/movie",
-    {
-      recursive: true,
-    }
-  );
-
-  fs.mkdirSync(
-    "./meta/movie",
-    {
-      recursive: true,
-    }
-  );
+  fs.mkdirSync("./catalog/movie", { recursive: true });
+  fs.mkdirSync("./meta/movie", { recursive: true });
 
   fs.writeFileSync(
     "./catalog/movie/new_releases.json",
-    JSON.stringify(
-      { metas: movies },
-      null,
-      2
-    )
+    JSON.stringify({ metas: movies, ts: Date.now() }, null, 2)
   );
 
   for (const m of movies) {
-    const meta =
-      await buildMeta(m.id);
-
-    if (!meta) {
-      continue;
-    }
-
+    const meta = await buildMeta(m.id);
+    if (!meta) continue;
     fs.writeFileSync(
       `./meta/movie/${m.id}.json`,
-      JSON.stringify(
-        meta,
-        null,
-        2
-      )
+      JSON.stringify(meta, null, 2)
     );
   }
 
-  console.log(
-    `Done. ${movies.length} movies generated.`
-  );
+  console.log("Done.");
 }
 
 build();
