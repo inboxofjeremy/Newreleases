@@ -9,6 +9,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1226863",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1307373",
       "type": "movie",
       "name": "Wasteman",
@@ -1097,14 +1105,6 @@
       "releaseInfo": "2025-12-23"
     },
     {
-      "id": "tmdb:1259102",
-      "type": "movie",
-      "name": "Eternity",
-      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
-      "releaseInfo": "2025-12-23"
-    },
-    {
       "id": "tmdb:1583500",
       "type": "movie",
       "name": "Elway",
@@ -1151,14 +1151,6 @@
       "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
       "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
       "releaseInfo": "2025-12-17"
-    },
-    {
-      "id": "tmdb:425274",
-      "type": "movie",
-      "name": "Now You See Me: Now You Don't",
-      "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "poster": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "releaseInfo": "2025-12-16"
     },
     {
       "id": "tmdb:1589905",
@@ -1481,27 +1473,11 @@
       "releaseInfo": "2025-11-21"
     },
     {
-      "id": "tmdb:1162337",
-      "type": "movie",
-      "name": "Blue Eyed Girl",
-      "description": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
-      "poster": "https://image.tmdb.org/t/p/w500/eznMwD1AyNK4fAqhKnAdQFoJWgm.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
       "id": "tmdb:1564232",
       "type": "movie",
       "name": "Sebastian Maniscalco: It Ain't Right",
       "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
       "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1559572",
-      "type": "movie",
-      "name": "ONE SHOT with Ed Sheeran",
-      "description": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
-      "poster": "https://image.tmdb.org/t/p/w500/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
@@ -1521,14 +1497,6 @@
       "releaseInfo": "2025-11-19"
     },
     {
-      "id": "tmdb:1363282",
-      "type": "movie",
-      "name": "The Carman Family Deaths",
-      "description": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
-      "poster": "https://image.tmdb.org/t/p/w500/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
-      "releaseInfo": "2025-11-19"
-    },
-    {
       "id": "tmdb:1323475",
       "type": "movie",
       "name": "Champagne Problems",
@@ -1545,28 +1513,12 @@
       "releaseInfo": "2025-11-18"
     },
     {
-      "id": "tmdb:1559760",
-      "type": "movie",
-      "name": "Thoughts & Prayers",
-      "description": "In a dystopic America, children are taught how to prepare for school shootings through elaborate drills. Yet what are intended as self-defense mechanisms are themselves deeply traumatic for students, parents, educators, and entire communities.",
-      "poster": "https://image.tmdb.org/t/p/w500/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
-      "releaseInfo": "2025-11-18"
-    },
-    {
       "id": "tmdb:1580253",
       "type": "movie",
       "name": "Hazbin Hotel: Live on Broadway",
       "description": "Hosted by series lead Erika Henningsen, at New York’s historic Majestic Theater, this concert event features performances of the show's hit songs from Seasons One and Two by Erika Henningsen, Blake Roman, Amir Talai, Christian Borle, Jessica Vosk, Jeremy Jordan, and Krystina Alabado, with special appearances by Stephanie Beatriz, Kimiko Glenn, Vivienne Medrano, Sam Haft, and Richard Horvitz.",
       "poster": "https://image.tmdb.org/t/p/w500/5GkJfdtw1aNh67Iunv8F6B3MR6K.jpg",
       "releaseInfo": "2025-11-17"
-    },
-    {
-      "id": "tmdb:1422004",
-      "type": "movie",
-      "name": "Bunny",
-      "description": "Two best friends rally the neighbors in their tenement building to help them hide a dead body over the best/worst night of their lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFPGHCC7yJrtoL6C3jlcXhutq3y.jpg",
-      "releaseInfo": "2025-11-14"
     },
     {
       "id": "tmdb:1310568",
@@ -1591,14 +1543,6 @@
       "description": "In an intimate and joyful story of love in the face of loss, celebrated poets Andrea Gibson and Megan Falley find strength—and unexpected hilarity—in what might be their final year together.",
       "poster": "https://image.tmdb.org/t/p/w500/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
       "releaseInfo": "2025-11-13"
-    },
-    {
-      "id": "tmdb:1401318",
-      "type": "movie",
-      "name": "A Merry Little Ex-Mas",
-      "description": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
-      "poster": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
-      "releaseInfo": "2025-11-12"
     },
     {
       "id": "tmdb:1480295",
