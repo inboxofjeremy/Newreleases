@@ -25,6 +25,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1439930",
+      "type": "movie",
+      "name": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/wjcPbV53ovhlogVFYdmkTDBooqg.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tmdb:1292415",
       "type": "movie",
       "name": "Beast",
@@ -45,7 +53,7 @@
       "type": "movie",
       "name": "The Roast of Kevin Hart",
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
-      "poster": "https://image.tmdb.org/t/p/w500/29Ydae6wXyk5z0fiJr0xlGE86Rx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/u3KvJf9QMQpDtdZaQUUszON4qjm.jpg",
       "releaseInfo": "2026-05-10"
     },
     {
@@ -69,7 +77,7 @@
       "type": "movie",
       "name": "Gary",
       "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -285,7 +293,7 @@
       "type": "movie",
       "name": "Sniper: No Nation",
       "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-      "poster": "https://image.tmdb.org/t/p/w500/sDqSKYmD8RifpagWzqJmayn82yC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
@@ -473,30 +481,6 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1401281",
-      "type": "movie",
-      "name": "The Testament of Ann Lee",
-      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
-      "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1413097",
-      "type": "movie",
-      "name": "Melania",
-      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
-      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
-      "releaseInfo": "2026-03-09"
-    },
-    {
       "id": "tmdb:1644807",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -537,6 +521,14 @@
       "releaseInfo": "2026-03-03"
     },
     {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
       "id": "tmdb:1260643",
       "type": "movie",
       "name": "Man on the Run",
@@ -561,14 +553,6 @@
       "releaseInfo": "2026-02-24"
     },
     {
-      "id": "tmdb:1128377",
-      "type": "movie",
-      "name": "In Cold Light",
-      "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
-      "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
       "id": "tmdb:846049",
       "type": "movie",
       "name": "The Dresden Sun",
@@ -590,6 +574,14 @@
       "name": "One Mile: Chapter One",
       "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
       "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
+      "id": "tmdb:1639000",
+      "type": "movie",
+      "name": "Famous Last Words: Eric Dane",
+      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
+      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
@@ -673,6 +665,30 @@
       "releaseInfo": "2026-02-06"
     },
     {
+      "id": "tmdb:1618945",
+      "type": "movie",
+      "name": "Yoh! Bestie",
+      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1620991",
+      "type": "movie",
+      "name": "The Investigation of Lucy Letby",
+      "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
+      "poster": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
+      "releaseInfo": "2026-02-04"
+    },
+    {
+      "id": "tmdb:1433842",
+      "type": "movie",
+      "name": "Relationship Goals",
+      "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+      "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+      "releaseInfo": "2026-02-04"
+    },
+    {
       "id": "tmdb:1548113",
       "type": "movie",
       "name": "The Muppet Show",
@@ -697,52 +713,36 @@
       "releaseInfo": "2026-01-30"
     },
     {
-      "id": "tmdb:1624183",
+      "id": "tmdb:1168190",
       "type": "movie",
-      "name": "Blackout",
-      "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
-      "releaseInfo": "2026-01-27"
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
-      "id": "tmdb:840464",
+      "id": "tmdb:1529419",
       "type": "movie",
-      "name": "Greenland 2: Migration",
-      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "releaseInfo": "2026-01-27"
+      "name": "Kumail Nanjiani: Night Thoughts",
+      "description": "After nearly a decade away, Kumail Nanjiani returns to Chicago, where he got his start in standup, in a new special that tackles anxiety, the perils of buying drugs pre-legalization, and most importantly, cat medication.",
+      "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+      "releaseInfo": "2025-12-19"
     },
     {
-      "id": "tmdb:1617852",
+      "id": "tmdb:1584125",
       "type": "movie",
-      "name": "Speed Faster",
-      "description": "Ace and his crew of elite street racers are forced into a high-stakes mission when a shadowy organization threatens someone close to him. In the aftermath of Four Amigos, they find themselves working for the infamous Church of Assassins, tasked with pulling off an impossible job. But as they push their limits, they uncover a chilling truth-failure was always part of the plan. Betrayal, speed, and survival collide in this adrenaline-fueled thriller where the real race isn't just for victory, but for their lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
-      "releaseInfo": "2026-01-23"
+      "name": "Breakdown: 1975",
+      "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+      "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+      "releaseInfo": "2025-12-19"
     },
     {
-      "id": "tmdb:1538718",
+      "id": "tmdb:1584619",
       "type": "movie",
-      "name": "Disneyland Handcrafted",
-      "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
-      "releaseInfo": "2026-01-22"
-    },
-    {
-      "id": "tmdb:1595481",
-      "type": "movie",
-      "name": "Kidnapped: Elizabeth Smart",
-      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
-      "releaseInfo": "2026-01-21"
-    },
-    {
-      "id": "tmdb:1610413",
-      "type": "movie",
-      "name": "One Last Adventure: The Making of Stranger Things 5",
-      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
-      "releaseInfo": "2026-01-12"
+      "name": "Murder in Monaco",
+      "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
+      "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+      "releaseInfo": "2025-12-17"
     },
     {
       "id": "tmdb:1199193",
@@ -753,20 +753,28 @@
       "releaseInfo": "2025-12-05"
     },
     {
-      "id": "tmdb:1392796",
+      "id": "tmdb:1556834",
       "type": "movie",
-      "name": "Diary of a Wimpy Kid: The Last Straw",
-      "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
-      "releaseInfo": "2025-12-05"
+      "name": "Lost Horizon",
+      "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPbMpXGTUhk39asHVye7VkBIdOz.jpg",
+      "releaseInfo": "2025-12-02"
     },
     {
-      "id": "tmdb:1580253",
+      "id": "tmdb:1430593",
       "type": "movie",
-      "name": "Hazbin Hotel: Live on Broadway",
-      "description": "Hosted by series lead Erika Henningsen, at New York’s historic Majestic Theater, this concert event features performances of the show's hit songs from Seasons One and Two by Erika Henningsen, Blake Roman, Amir Talai, Christian Borle, Jessica Vosk, Jeremy Jordan, and Krystina Alabado, with special appearances by Stephanie Beatriz, Kimiko Glenn, Vivienne Medrano, Sam Haft, and Richard Horvitz.",
-      "poster": "https://image.tmdb.org/t/p/w500/5GkJfdtw1aNh67Iunv8F6B3MR6K.jpg",
-      "releaseInfo": "2025-11-17"
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1550797",
+      "type": "movie",
+      "name": "Prep & Landing: The Snowball Protocol",
+      "description": "Christmas elves Lanny and Wayne panic when their holiday missions go awry, leaving Wayne thinking he's in BIG trouble with Santa and accidentally revealing other merry mishaps.",
+      "poster": "https://image.tmdb.org/t/p/w500/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg",
+      "releaseInfo": "2025-11-28"
     }
   ]
 }
