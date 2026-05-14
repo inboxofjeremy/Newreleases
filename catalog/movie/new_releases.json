@@ -25,6 +25,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1678844",
+      "type": "movie",
+      "name": "The Bus: A French Football Mutiny",
+      "description": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
+      "poster": "https://image.tmdb.org/t/p/w500/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+      "releaseInfo": "2026-05-13"
+    },
+    {
       "id": "tmdb:1439930",
       "type": "movie",
       "name": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
@@ -53,7 +61,7 @@
       "type": "movie",
       "name": "The Roast of Kevin Hart",
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
-      "poster": "https://image.tmdb.org/t/p/w500/u3KvJf9QMQpDtdZaQUUszON4qjm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oOHRYG7LD2wPSPIvBn4MWdyVnbv.jpg",
       "releaseInfo": "2026-05-10"
     },
     {
@@ -133,7 +141,7 @@
       "type": "movie",
       "name": "Apex",
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gqpXIE9fQNqMgEza73nOZy3aVMR.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -369,6 +377,14 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tmdb:1287141",
+      "type": "movie",
+      "name": "Pillion",
+      "description": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tmdb:1115544",
       "type": "movie",
       "name": "Mike & Nick & Nick & Alice",
@@ -404,7 +420,7 @@
       "id": "tmdb:1154538",
       "type": "movie",
       "name": "Nirvanna the Band the Show the Movie",
-      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008. Blah blah blah blah blah.",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
       "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
       "releaseInfo": "2026-03-24"
     },
@@ -825,6 +841,14 @@
       "releaseInfo": "2026-02-03"
     },
     {
+      "id": "tmdb:1488195",
+      "type": "movie",
+      "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
+      "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
+      "poster": "https://image.tmdb.org/t/p/w500/trqwtP3SaCPUonSe360y0oIprRi.jpg",
+      "releaseInfo": "2026-01-31"
+    },
+    {
       "id": "tmdb:1613335",
       "type": "movie",
       "name": "Miracle: The Boys of '80",
@@ -993,6 +1017,14 @@
       "releaseInfo": "2026-01-07"
     },
     {
+      "id": "tmdb:1400744",
+      "type": "movie",
+      "name": "Zodiac Killer Project",
+      "description": "Against the backdrop of deserted spaces, a filmmaker explores his abandoned Zodiac Killer documentary, delving into the true crime genre's inner workings at a saturation point.",
+      "poster": "https://image.tmdb.org/t/p/w500/x1ZOSia1JA6SnRyokBOoVje2L67.jpg",
+      "releaseInfo": "2026-01-06"
+    },
+    {
       "id": "tmdb:1601082",
       "type": "movie",
       "name": "Cheetahs Up Close with Bertie Gregory",
@@ -1017,6 +1049,14 @@
       "releaseInfo": "2025-12-30"
     },
     {
+      "id": "tmdb:967941",
+      "type": "movie",
+      "name": "Wicked: For Good",
+      "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
       "id": "tmdb:1601000",
       "type": "movie",
       "name": "Critical Incident: Death at the Border",
@@ -1038,6 +1078,14 @@
       "name": "Tom Segura: Teacher",
       "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
       "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+      "releaseInfo": "2025-12-24"
+    },
+    {
+      "id": "tmdb:1435092",
+      "type": "movie",
+      "name": "Goodbye June",
+      "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+      "poster": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
       "releaseInfo": "2025-12-24"
     },
     {
@@ -1113,6 +1161,38 @@
       "releaseInfo": "2025-12-14"
     },
     {
+      "id": "tmdb:1567893",
+      "type": "movie",
+      "name": "Sarah Squirm: Live + in the Flesh",
+      "description": "After four seasons (and counting) on Saturday Night Live, Sarah Sherman's unholy alter ego, Sarah Squirm, slithers onto your screen and rips off the straitjacket, unleashing a festering and hilarious hour of bodily fluids, open-wound confessionals, and jokes that will leave scars on your soul.",
+      "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
+      "id": "tmdb:1546050",
+      "type": "movie",
+      "name": "Lone Samurai",
+      "description": "A violent and reckless samurai is shipwrecked on a remote island left without an avenue for his rage. After undertaking a spiritual journey to appease his aggressive thoughts, he finds himself abducted by external demons taking the form of cannibals, putting his sense of reality and deadly talents to the test.",
+      "poster": "https://image.tmdb.org/t/p/w500/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
+      "id": "tmdb:1562010",
+      "type": "movie",
+      "name": "Taylor Swift | The Eras Tour | The Final Show",
+      "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+      "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
+      "id": "tmdb:1401778",
+      "type": "movie",
+      "name": "Turbulence",
+      "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
+      "poster": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
       "id": "tmdb:812583",
       "type": "movie",
       "name": "Wake Up Dead Man: A Knives Out Mystery",
@@ -1143,6 +1223,22 @@
       "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
       "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
       "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1505013",
+      "type": "movie",
+      "name": "Masaka Kids, A Rhythm Within",
+      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
+      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+      "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1586820",
+      "type": "movie",
+      "name": "Elmo and Mark Rober's Merry Giftmas",
+      "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
+      "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
+      "releaseInfo": "2025-12-08"
     },
     {
       "id": "tmdb:1591822",
@@ -1209,14 +1305,6 @@
       "releaseInfo": "2025-12-05"
     },
     {
-      "id": "tmdb:1069905",
-      "type": "movie",
-      "name": "Jay Kelly",
-      "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
-      "poster": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
       "id": "tmdb:1566269",
       "type": "movie",
       "name": "The First Snow of Fraggle Rock",
@@ -1273,20 +1361,28 @@
       "releaseInfo": "2025-12-01"
     },
     {
-      "id": "tmdb:1519084",
-      "type": "movie",
-      "name": "The Merchants of Joy",
-      "description": "In the city that never sleeps, five families hustle each winter to turn sidewalks into holiday outposts.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMxiz9KwVminT5HCGOubkcHsK0c.jpg",
-      "releaseInfo": "2025-12-01"
-    },
-    {
       "id": "tmdb:1588237",
       "type": "movie",
       "name": "The Lost Chapter: Yuki's Revenge",
       "description": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
       "poster": "https://image.tmdb.org/t/p/w500/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
       "releaseInfo": "2025-11-30"
+    },
+    {
+      "id": "tmdb:1430593",
+      "type": "movie",
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1330400",
+      "type": "movie",
+      "name": "Stone Creek Killer",
+      "description": "A small-town police chief pursues a serial killer, helped by a psychic's visions, while fighting to prove his own innocence.",
+      "poster": "https://image.tmdb.org/t/p/w500/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
+      "releaseInfo": "2025-11-28"
     },
     {
       "id": "tmdb:1550797",
@@ -1297,12 +1393,36 @@
       "releaseInfo": "2025-11-28"
     },
     {
+      "id": "tmdb:1588671",
+      "type": "movie",
+      "name": "Louvre Heist: Minute by Minute",
+      "description": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
+      "poster": "https://image.tmdb.org/t/p/w500/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
+      "id": "tmdb:1499744",
+      "type": "movie",
+      "name": "A Chuck E. Cheese Christmas",
+      "description": "When Chuck E. Cheese and Friends learn that Santa Claus has never experienced a Christmas party, because he is always exhausted from working on Christmas Eve, they set out to throw a surprise Christmas celebration for Santa as a 'thank you' for all the joy he brings to the world! The party also winds up doubling as a way to save their town from the meddling of a holiday-hating evildoer.",
+      "poster": "https://image.tmdb.org/t/p/w500/osuxNst45U4d7CT02uYHBI1B9nK.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
       "id": "tmdb:1429520",
       "type": "movie",
       "name": "Sidelined 2: Intercepted",
       "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
       "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
       "releaseInfo": "2025-11-27"
+    },
+    {
+      "id": "tmdb:1218762",
+      "type": "movie",
+      "name": "Jingle Bell Heist",
+      "description": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
+      "poster": "https://image.tmdb.org/t/p/w500/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
+      "releaseInfo": "2025-11-26"
     },
     {
       "id": "tmdb:1448560",
@@ -1321,12 +1441,68 @@
       "releaseInfo": "2025-11-24"
     },
     {
-      "id": "tmdb:1564232",
+      "id": "tmdb:1563925",
       "type": "movie",
-      "name": "Sebastian Maniscalco: It Ain't Right",
-      "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
+      "name": "Chris Hemsworth: A Road Trip to Remember",
+      "description": "In his most personal documentary yet, Chris Hemsworth turns the camera on his own family after his dad’s recent Alzheimer’s diagnosis. They embark on a road trip into their past, exploring the science of social connection and how it can support memory function. They revisit meaningful places and faces, capturing it all as a home movie, and reviving treasured recollections.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+      "releaseInfo": "2025-11-24"
+    },
+    {
+      "id": "tmdb:1162337",
+      "type": "movie",
+      "name": "Blue Eyed Girl",
+      "description": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
+      "poster": "https://image.tmdb.org/t/p/w500/eznMwD1AyNK4fAqhKnAdQFoJWgm.jpg",
       "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1559572",
+      "type": "movie",
+      "name": "ONE SHOT with Ed Sheeran",
+      "description": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
+      "poster": "https://image.tmdb.org/t/p/w500/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
+      "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1575382",
+      "type": "movie",
+      "name": "Merry Little Mystery",
+      "description": "Natasha Maxwell spends the holidays at her grandparent’s house in the tiny town of Roundtop, where she grew up. She happily takes over from her grandfather as the small town’s benevolent Secret Santa, covertly delivering gifts to deserving and grateful citizens. Meanwhile, while attempting to foil Adrian, an investigative reporter determined to reveal Natasha’s identity as the mystery gift giver, she ends up falling in love.",
+      "poster": "https://image.tmdb.org/t/p/w500/iDiGhoIyrlIa0JuSxLib7R5rlma.jpg",
+      "releaseInfo": "2025-11-19"
+    },
+    {
+      "id": "tmdb:1564460",
+      "type": "movie",
+      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
+      "description": "Demi Adejuyigbe explores authenticity through original songs, comedic bits, and a single backflip.",
+      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
+      "releaseInfo": "2025-11-19"
+    },
+    {
+      "id": "tmdb:1363282",
+      "type": "movie",
+      "name": "The Carman Family Deaths",
+      "description": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
+      "poster": "https://image.tmdb.org/t/p/w500/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
+      "releaseInfo": "2025-11-19"
+    },
+    {
+      "id": "tmdb:1323475",
+      "type": "movie",
+      "name": "Champagne Problems",
+      "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+      "poster": "https://image.tmdb.org/t/p/w500/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
+      "releaseInfo": "2025-11-19"
+    },
+    {
+      "id": "tmdb:1573773",
+      "type": "movie",
+      "name": "Gerry Dee: Funny You Should Say That",
+      "description": "With dry wit, Canadian comic Gerry Dee explores his perilous years as a schoolteacher, the pitfalls of open marriages and the truth about Santa.",
+      "poster": "https://image.tmdb.org/t/p/w500/lOxrMeq9dVN3YF6zmpgF3alfFGu.jpg",
+      "releaseInfo": "2025-11-18"
     },
     {
       "id": "tmdb:1580253",
@@ -1335,22 +1511,6 @@
       "description": "Hosted by series lead Erika Henningsen, at New York’s historic Majestic Theater, this concert event features performances of the show's hit songs from Seasons One and Two by Erika Henningsen, Blake Roman, Amir Talai, Christian Borle, Jessica Vosk, Jeremy Jordan, and Krystina Alabado, with special appearances by Stephanie Beatriz, Kimiko Glenn, Vivienne Medrano, Sam Haft, and Richard Horvitz.",
       "poster": "https://image.tmdb.org/t/p/w500/5GkJfdtw1aNh67Iunv8F6B3MR6K.jpg",
       "releaseInfo": "2025-11-17"
-    },
-    {
-      "id": "tmdb:1037925",
-      "type": "movie",
-      "name": "Bull Run",
-      "description": "Follows Bobby Sanders, an ex-pro-hockey-player-turned-junior-banker as he navigates the peculiar and somewhat surreal world of high finance and faces life's meaning within this gilded cage.",
-      "poster": "https://image.tmdb.org/t/p/w500/pa97Vu2Vy5oJWWxtxFZIXaQsSEU.jpg",
-      "releaseInfo": "2025-11-14"
-    },
-    {
-      "id": "tmdb:1480295",
-      "type": "movie",
-      "name": "Affinity",
-      "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
-      "releaseInfo": "2025-09-30"
     },
     {
       "id": "tmdb:1049574",
