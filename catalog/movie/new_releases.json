@@ -65,6 +65,14 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tmdb:1620034",
+      "type": "movie",
+      "name": "Marty, Life Is Short",
+      "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+      "poster": "https://image.tmdb.org/t/p/w500/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tmdb:1292415",
       "type": "movie",
       "name": "Beast",
@@ -141,7 +149,7 @@
       "type": "movie",
       "name": "Swapped",
       "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "poster": "https://image.tmdb.org/t/p/w500/te3zACrsYkS2x3mkjG6htLqhMo4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "releaseInfo": "2026-05-01"
     },
     {
@@ -273,6 +281,14 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1444249",
+      "type": "movie",
+      "name": "The Highest Stakes",
+      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1207162",
       "type": "movie",
       "name": "Rise of the Conqueror",
@@ -373,7 +389,7 @@
       "type": "movie",
       "name": "Pizza Movie",
       "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
-      "poster": "https://image.tmdb.org/t/p/w500/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
@@ -422,6 +438,22 @@
       "name": "Hannah Montana 20th Anniversary Special",
       "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
       "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:467905",
+      "type": "movie",
+      "name": "How to Make a Killing",
+      "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:1154538",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -513,6 +545,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1291335",
+      "type": "movie",
+      "name": "Solo Mio",
+      "description": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
       "id": "tmdb:1413097",
       "type": "movie",
       "name": "Melania",
@@ -545,6 +585,30 @@
       "releaseInfo": "2026-03-06"
     },
     {
+      "id": "tmdb:1265609",
+      "type": "movie",
+      "name": "War Machine",
+      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+      "releaseInfo": "2026-03-06"
+    },
+    {
+      "id": "tmdb:1422562",
+      "type": "movie",
+      "name": "The Moment",
+      "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
+      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "releaseInfo": "2026-03-03"
+    },
+    {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
       "id": "tmdb:1260643",
       "type": "movie",
       "name": "Man on the Run",
@@ -553,19 +617,19 @@
       "releaseInfo": "2026-02-25"
     },
     {
+      "id": "tmdb:799882",
+      "type": "movie",
+      "name": "The Bluff",
+      "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
+      "poster": "https://image.tmdb.org/t/p/w500/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
+      "releaseInfo": "2026-02-25"
+    },
+    {
       "id": "tmdb:1617908",
       "type": "movie",
       "name": "Taylor Tomlinson: Prodigal Daughter",
       "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
       "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
-      "id": "tmdb:1263012",
-      "type": "movie",
-      "name": "Dead Man's Wire",
-      "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
-      "poster": "https://image.tmdb.org/t/p/w500/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
       "releaseInfo": "2026-02-24"
     },
     {
@@ -601,6 +665,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1531626",
+      "type": "movie",
+      "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
+      "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:669356",
       "type": "movie",
       "name": "You Can't Win",
@@ -615,6 +687,14 @@
       "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
       "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-02-17"
+    },
+    {
+      "id": "tmdb:1442908",
+      "type": "movie",
+      "name": "The Singers",
+      "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
+      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "releaseInfo": "2026-02-13"
     },
     {
       "id": "tmdb:1515615",
@@ -657,11 +737,43 @@
       "releaseInfo": "2026-02-10"
     },
     {
-      "id": "tmdb:1620991",
+      "id": "tmdb:1288246",
       "type": "movie",
-      "name": "The Investigation of Lucy Letby",
-      "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
+      "name": "The Huntsman",
+      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
+      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1429605",
+      "type": "movie",
+      "name": "F Valentine's Day",
+      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1618945",
+      "type": "movie",
+      "name": "Yoh! Bestie",
+      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1596291",
+      "type": "movie",
+      "name": "Queen of Chess",
+      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1433842",
+      "type": "movie",
+      "name": "Relationship Goals",
+      "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+      "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -673,36 +785,108 @@
       "releaseInfo": "2026-02-04"
     },
     {
-      "id": "tmdb:1600513",
+      "id": "tmdb:1613335",
       "type": "movie",
-      "name": "Terri Joe: Missionary in Miami",
-      "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
-      "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
+      "name": "Miracle: The Boys of '80",
+      "description": "This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.",
+      "poster": "https://image.tmdb.org/t/p/w500/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
-      "id": "tmdb:1624183",
+      "id": "tmdb:1168190",
       "type": "movie",
-      "name": "Blackout",
-      "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
-      "releaseInfo": "2026-01-27"
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
-      "id": "tmdb:1610413",
+      "id": "tmdb:1084242",
       "type": "movie",
-      "name": "One Last Adventure: The Making of Stranger Things 5",
-      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
-      "releaseInfo": "2026-01-12"
+      "name": "Zootopia 2",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "releaseInfo": "2026-01-26"
     },
     {
-      "id": "tmdb:1589905",
+      "id": "tmdb:1599090",
       "type": "movie",
-      "name": "Robby Hoffman: Wake Up",
-      "description": "Breakout star Robby Hoffman hilariously pushes the limits of comedy with red-hot, controversial takes in her debut special.",
-      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
-      "releaseInfo": "2025-12-14"
+      "name": "Skyscraper Live",
+      "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
+      "poster": "https://image.tmdb.org/t/p/w500/hbURquxQUJXFfeqpjzmHekRmyqb.jpg",
+      "releaseInfo": "2026-01-23"
+    },
+    {
+      "id": "tmdb:1480860",
+      "type": "movie",
+      "name": "Bulls",
+      "description": "Two down-on-their-luck half-brothers run a failing dive bar in Indiana and get a shot at taking on England’s elite darts champions.",
+      "poster": "https://image.tmdb.org/t/p/w500/6X5bcc4vTGzwDpbpZBMRDPwdLwj.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
+      "id": "tmdb:1601082",
+      "type": "movie",
+      "name": "Cheetahs Up Close with Bertie Gregory",
+      "description": "Bertie arrives in the Serengeti as the spectacular wildebeest migration kicks off. He’s here to film the fastest land animal on Earth: the cheetah. As he gets close to a mother caring for her tiny cubs and a young group of males executing phenomenal hunts as a team, he learns about the unexpected challenges the species endures.",
+      "poster": "https://image.tmdb.org/t/p/w500/pSmSgFb1cnRQep0OzcuKWMYWeqR.jpg",
+      "releaseInfo": "2026-01-02"
+    },
+    {
+      "id": "tmdb:1591516",
+      "type": "movie",
+      "name": "Evil Influencer: The Jodi Hildebrandt Story",
+      "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
+      "poster": "https://image.tmdb.org/t/p/w500/rM3NLZgjs7vVWX3htMAWfwHypO8.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
+      "id": "tmdb:1312150",
+      "type": "movie",
+      "name": "Ricky Gervais: Mortality",
+      "description": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+      "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
+      "id": "tmdb:967941",
+      "type": "movie",
+      "name": "Wicked: For Good",
+      "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "releaseInfo": "2025-12-30"
+    },
+    {
+      "id": "tmdb:1601000",
+      "type": "movie",
+      "name": "Critical Incident: Death at the Border",
+      "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
+      "poster": "https://image.tmdb.org/t/p/w500/bLq4GRp4InjkipnWM5Bdzbkhg2P.jpg",
+      "releaseInfo": "2025-12-29"
+    },
+    {
+      "id": "tmdb:1588965",
+      "type": "movie",
+      "name": "Tom Segura: Teacher",
+      "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
+      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+      "releaseInfo": "2025-12-24"
+    },
+    {
+      "id": "tmdb:1601195",
+      "type": "movie",
+      "name": "Dave Chappelle: The Unstoppable...",
+      "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
+      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
+      "id": "tmdb:1584125",
+      "type": "movie",
+      "name": "Breakdown: 1975",
+      "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+      "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+      "releaseInfo": "2025-12-19"
     },
     {
       "id": "tmdb:1567893",
@@ -713,12 +897,28 @@
       "releaseInfo": "2025-12-12"
     },
     {
-      "id": "tmdb:1505013",
+      "id": "tmdb:1562010",
       "type": "movie",
-      "name": "Masaka Kids, A Rhythm Within",
-      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
-      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
-      "releaseInfo": "2025-12-09"
+      "name": "Taylor Swift | The Eras Tour | The Final Show",
+      "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+      "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+      "releaseInfo": "2025-12-12"
+    },
+    {
+      "id": "tmdb:1585476",
+      "type": "movie",
+      "name": "Kevin Costner Presents: The First Christmas",
+      "description": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
+      "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+      "releaseInfo": "2025-12-10"
+    },
+    {
+      "id": "tmdb:1591822",
+      "type": "movie",
+      "name": "Pandora: Fire and Ice",
+      "description": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/13YU9zVOD6unuZuiLapZTXQql4G.jpg",
+      "releaseInfo": "2025-12-08"
     },
     {
       "id": "tmdb:1199193",
@@ -727,6 +927,38 @@
       "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1379413",
+      "type": "movie",
+      "name": "Frontier Crucible",
+      "description": "In 1870s Arizona Territory, a desperately needed wagon full of medical supplies falls victim to an Apache attack. The only man who can guide it through is Merrick Beckford, but in order to get there, he’ll need to enlist the help of a trio of dangerous outlaws hellbent on survival. When they accidentally kill an Apache scout, all bets are off, and survival is the name of the game.",
+      "poster": "https://image.tmdb.org/t/p/w500/aRdbTNiklT1xsv6mk30ZXnkt0A1.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1566269",
+      "type": "movie",
+      "name": "The First Snow of Fraggle Rock",
+      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+      "releaseInfo": "2025-12-04"
+    },
+    {
+      "id": "tmdb:1581729",
+      "type": "movie",
+      "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
+      "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
+      "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
+      "releaseInfo": "2025-12-02"
+    },
+    {
+      "id": "tmdb:1430593",
+      "type": "movie",
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
     },
     {
       "id": "tmdb:1588671",
@@ -745,12 +977,20 @@
       "releaseInfo": "2025-11-27"
     },
     {
-      "id": "tmdb:1576878",
+      "id": "tmdb:1422166",
       "type": "movie",
-      "name": "Unseen Enemy",
-      "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
-      "releaseInfo": "2025-09-30"
+      "name": "The Age of Disclosure",
+      "description": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
+      "poster": "https://image.tmdb.org/t/p/w500/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
+      "releaseInfo": "2025-11-21"
+    },
+    {
+      "id": "tmdb:1049574",
+      "type": "movie",
+      "name": "Darkness of Man",
+      "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
+      "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
+      "releaseInfo": "2024-05-07"
     }
   ]
 }
