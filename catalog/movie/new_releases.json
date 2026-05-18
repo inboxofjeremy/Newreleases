@@ -969,6 +969,14 @@
       "releaseInfo": "2026-01-22"
     },
     {
+      "id": "tmdb:1595481",
+      "type": "movie",
+      "name": "Kidnapped: Elizabeth Smart",
+      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+      "releaseInfo": "2026-01-21"
+    },
+    {
       "id": "tmdb:991494",
       "type": "movie",
       "name": "The SpongeBob Movie: Search for SquarePants",
@@ -1177,6 +1185,14 @@
       "releaseInfo": "2025-12-19"
     },
     {
+      "id": "tmdb:1584125",
+      "type": "movie",
+      "name": "Breakdown: 1975",
+      "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+      "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+      "releaseInfo": "2025-12-19"
+    },
+    {
       "id": "tmdb:1584619",
       "type": "movie",
       "name": "Murder in Monaco",
@@ -1273,14 +1289,6 @@
       "releaseInfo": "2025-12-08"
     },
     {
-      "id": "tmdb:1591822",
-      "type": "movie",
-      "name": "Pandora: Fire and Ice",
-      "description": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/13YU9zVOD6unuZuiLapZTXQql4G.jpg",
-      "releaseInfo": "2025-12-08"
-    },
-    {
       "id": "tmdb:1199193",
       "type": "movie",
       "name": "Pose",
@@ -1335,14 +1343,6 @@
       "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
       "poster": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
       "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1566269",
-      "type": "movie",
-      "name": "The First Snow of Fraggle Rock",
-      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
-      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
-      "releaseInfo": "2025-12-04"
     },
     {
       "id": "tmdb:1261825",
@@ -1463,6 +1463,14 @@
       "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
       "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
       "releaseInfo": "2025-11-25"
+    },
+    {
+      "id": "tmdb:1581099",
+      "type": "movie",
+      "name": "Kevin Hart: Acting My Age",
+      "description": "Older, wiser — and still hilarious. Kevin Hart opens up about his midlife mishaps, from intimacy pills to the perils of unexpected injuries.",
+      "poster": "https://image.tmdb.org/t/p/w500/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+      "releaseInfo": "2025-11-24"
     },
     {
       "id": "tmdb:1563925",
