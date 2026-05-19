@@ -5,7 +5,15 @@
       "type": "movie",
       "name": "Normal",
       "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/pprU6QnlTblJd51s0IxTnh2DCFe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tmdb:1102883",
+      "type": "movie",
+      "name": "Mother Mary",
+      "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "poster": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -166,14 +174,6 @@
       "name": "Immortal Combat",
       "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
       "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tmdb:1567151",
-      "type": "movie",
-      "name": "Nikki Glaser: Good Girl",
-      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
-      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -437,7 +437,7 @@
       "type": "movie",
       "name": "Wardriver",
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
-      "poster": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
@@ -519,14 +519,6 @@
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
       "releaseInfo": "2026-03-15"
-    },
-    {
-      "id": "tmdb:1636891",
-      "type": "movie",
-      "name": "Mexicali",
-      "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
-      "releaseInfo": "2026-03-13"
     },
     {
       "id": "tmdb:1633264",
@@ -622,14 +614,6 @@
       "name": "In the Blink of an Eye",
       "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
       "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tmdb:1159206",
-      "type": "movie",
-      "name": "Father Mother Sister Brother",
-      "description": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
-      "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
@@ -841,14 +825,6 @@
       "releaseInfo": "2026-02-04"
     },
     {
-      "id": "tmdb:1433842",
-      "type": "movie",
-      "name": "Relationship Goals",
-      "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
-      "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "releaseInfo": "2026-02-04"
-    },
-    {
       "id": "tmdb:1548113",
       "type": "movie",
       "name": "The Muppet Show",
@@ -1014,14 +990,6 @@
       "name": "Song Sung Blue",
       "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
       "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
-      "id": "tmdb:1208348",
-      "type": "movie",
-      "name": "Rental Family",
-      "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
       "releaseInfo": "2026-01-13"
     },
     {
@@ -1233,14 +1201,6 @@
       "releaseInfo": "2025-12-12"
     },
     {
-      "id": "tmdb:812583",
-      "type": "movie",
-      "name": "Wake Up Dead Man: A Knives Out Mystery",
-      "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.",
-      "poster": "https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
       "id": "tmdb:1585476",
       "type": "movie",
       "name": "Kevin Costner Presents: The First Christmas",
@@ -1361,14 +1321,6 @@
       "releaseInfo": "2025-12-03"
     },
     {
-      "id": "tmdb:1578631",
-      "type": "movie",
-      "name": "With Love, Meghan: Holiday Celebration",
-      "description": "'Tis the season! Meghan shares her favorite holiday traditions, seasonal crafts and family recipes with friends old and new in this festive special.",
-      "poster": "https://image.tmdb.org/t/p/w500/jHEgYm0zSlqAduZy86Bf9Qg7v7.jpg",
-      "releaseInfo": "2025-12-03"
-    },
-    {
       "id": "tmdb:1441563",
       "type": "movie",
       "name": "My Secret Santa",
@@ -1382,14 +1334,6 @@
       "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
       "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
       "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
-      "releaseInfo": "2025-12-02"
-    },
-    {
-      "id": "tmdb:1556834",
-      "type": "movie",
-      "name": "Lost Horizon",
-      "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPbMpXGTUhk39asHVye7VkBIdOz.jpg",
       "releaseInfo": "2025-12-02"
     },
     {
@@ -1414,14 +1358,6 @@
       "name": "Tinsel Town",
       "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
       "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
-      "releaseInfo": "2025-11-28"
-    },
-    {
-      "id": "tmdb:1330400",
-      "type": "movie",
-      "name": "Stone Creek Killer",
-      "description": "A small-town police chief pursues a serial killer, helped by a psychic's visions, while fighting to prove his own innocence.",
-      "poster": "https://image.tmdb.org/t/p/w500/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
       "releaseInfo": "2025-11-28"
     },
     {
@@ -1465,43 +1401,11 @@
       "releaseInfo": "2025-11-26"
     },
     {
-      "id": "tmdb:1581099",
-      "type": "movie",
-      "name": "Kevin Hart: Acting My Age",
-      "description": "Older, wiser — and still hilarious. Kevin Hart opens up about his midlife mishaps, from intimacy pills to the perils of unexpected injuries.",
-      "poster": "https://image.tmdb.org/t/p/w500/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
-      "releaseInfo": "2025-11-24"
-    },
-    {
-      "id": "tmdb:1563925",
-      "type": "movie",
-      "name": "Chris Hemsworth: A Road Trip to Remember",
-      "description": "In his most personal documentary yet, Chris Hemsworth turns the camera on his own family after his dad’s recent Alzheimer’s diagnosis. They embark on a road trip into their past, exploring the science of social connection and how it can support memory function. They revisit meaningful places and faces, capturing it all as a home movie, and reviving treasured recollections.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
-      "releaseInfo": "2025-11-24"
-    },
-    {
       "id": "tmdb:1422166",
       "type": "movie",
       "name": "The Age of Disclosure",
       "description": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
       "poster": "https://image.tmdb.org/t/p/w500/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1162337",
-      "type": "movie",
-      "name": "Blue Eyed Girl",
-      "description": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
-      "poster": "https://image.tmdb.org/t/p/w500/eznMwD1AyNK4fAqhKnAdQFoJWgm.jpg",
-      "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1564232",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: It Ain't Right",
-      "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
       "releaseInfo": "2025-11-21"
     },
     {
