@@ -1097,14 +1097,6 @@
       "releaseInfo": "2025-12-30"
     },
     {
-      "id": "tmdb:967941",
-      "type": "movie",
-      "name": "Wicked: For Good",
-      "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-      "releaseInfo": "2025-12-30"
-    },
-    {
       "id": "tmdb:1601000",
       "type": "movie",
       "name": "Critical Incident: Death at the Border",
@@ -1289,6 +1281,14 @@
       "releaseInfo": "2025-12-08"
     },
     {
+      "id": "tmdb:1591822",
+      "type": "movie",
+      "name": "Pandora: Fire and Ice",
+      "description": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/13YU9zVOD6unuZuiLapZTXQql4G.jpg",
+      "releaseInfo": "2025-12-08"
+    },
+    {
       "id": "tmdb:1199193",
       "type": "movie",
       "name": "Pose",
@@ -1343,6 +1343,14 @@
       "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
       "poster": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1566269",
+      "type": "movie",
+      "name": "The First Snow of Fraggle Rock",
+      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+      "releaseInfo": "2025-12-04"
     },
     {
       "id": "tmdb:1261825",
@@ -1457,14 +1465,6 @@
       "releaseInfo": "2025-11-26"
     },
     {
-      "id": "tmdb:1448560",
-      "type": "movie",
-      "name": "Wildcat",
-      "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
-      "releaseInfo": "2025-11-25"
-    },
-    {
       "id": "tmdb:1581099",
       "type": "movie",
       "name": "Kevin Hart: Acting My Age",
@@ -1511,22 +1511,6 @@
       "description": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
       "poster": "https://image.tmdb.org/t/p/w500/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
       "releaseInfo": "2025-11-21"
-    },
-    {
-      "id": "tmdb:1575382",
-      "type": "movie",
-      "name": "Merry Little Mystery",
-      "description": "Natasha Maxwell spends the holidays at her grandparent’s house in the tiny town of Roundtop, where she grew up. She happily takes over from her grandfather as the small town’s benevolent Secret Santa, covertly delivering gifts to deserving and grateful citizens. Meanwhile, while attempting to foil Adrian, an investigative reporter determined to reveal Natasha’s identity as the mystery gift giver, she ends up falling in love.",
-      "poster": "https://image.tmdb.org/t/p/w500/iDiGhoIyrlIa0JuSxLib7R5rlma.jpg",
-      "releaseInfo": "2025-11-19"
-    },
-    {
-      "id": "tmdb:1564460",
-      "type": "movie",
-      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
-      "description": "Demi Adejuyigbe explores authenticity through original songs, comedic bits, and a single backflip.",
-      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
-      "releaseInfo": "2025-11-19"
     },
     {
       "id": "tmdb:1480295",
