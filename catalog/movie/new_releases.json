@@ -4,7 +4,7 @@
       "id": "tmdb:1380291",
       "type": "movie",
       "name": "Tom Clancy's Jack Ryan: Ghost War",
-      "description": "When an international covert mission unravels a deadly conspiracy, Ryan is forced back into the world of espionage to confront a rogue black-ops unit.",
+      "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
       "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
       "releaseInfo": "2026-05-20"
     },
@@ -14,14 +14,6 @@
       "name": "Normal",
       "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
       "poster": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tmdb:1102883",
-      "type": "movie",
-      "name": "Mother Mary",
-      "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-      "poster": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -401,6 +393,14 @@
       "releaseInfo": "2026-04-03"
     },
     {
+      "id": "tmdb:1171145",
+      "type": "movie",
+      "name": "Crime 101",
+      "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "poster": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "releaseInfo": "2026-04-01"
+    },
+    {
       "id": "tmdb:1660968",
       "type": "movie",
       "name": "Aaron Chen: Funny Garden",
@@ -414,14 +414,6 @@
       "name": "\"Wuthering Heights\"",
       "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
       "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
-      "id": "tmdb:83533",
-      "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
@@ -462,6 +454,14 @@
       "name": "Nirvanna the Band the Show the Movie",
       "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
       "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:1297842",
+      "type": "movie",
+      "name": "GOAT",
+      "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -537,11 +537,11 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tmdb:1291335",
+      "id": "tmdb:1119449",
       "type": "movie",
-      "name": "Solo Mio",
-      "description": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
-      "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
@@ -593,6 +593,14 @@
       "releaseInfo": "2026-03-03"
     },
     {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
       "id": "tmdb:1260643",
       "type": "movie",
       "name": "Man on the Run",
@@ -625,20 +633,12 @@
       "releaseInfo": "2026-02-24"
     },
     {
-      "id": "tmdb:1263012",
+      "id": "tmdb:1128377",
       "type": "movie",
-      "name": "Dead Man's Wire",
-      "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
-      "poster": "https://image.tmdb.org/t/p/w500/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
+      "name": "In Cold Light",
+      "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+      "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
       "releaseInfo": "2026-02-24"
-    },
-    {
-      "id": "tmdb:846049",
-      "type": "movie",
-      "name": "The Dresden Sun",
-      "description": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
-      "poster": "https://image.tmdb.org/t/p/w500/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
-      "releaseInfo": "2026-02-23"
     },
     {
       "id": "tmdb:1327690",
@@ -681,14 +681,6 @@
       "releaseInfo": "2026-02-17"
     },
     {
-      "id": "tmdb:1236153",
-      "type": "movie",
-      "name": "Mercy",
-      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
       "id": "tmdb:1442908",
       "type": "movie",
       "name": "The Singers",
@@ -713,6 +705,22 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1317672",
+      "type": "movie",
+      "name": "Love Me Love Me",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "releaseInfo": "2026-02-12"
+    },
+    {
+      "id": "tmdb:1628484",
+      "type": "movie",
+      "name": "Katt Williams: The Last Report",
+      "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
+      "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
       "id": "tmdb:1146344",
       "type": "movie",
       "name": "Misdirection",
@@ -721,11 +729,11 @@
       "releaseInfo": "2026-02-10"
     },
     {
-      "id": "tmdb:1317288",
+      "id": "tmdb:1288246",
       "type": "movie",
-      "name": "Marty Supreme",
-      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "name": "The Huntsman",
+      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
+      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -737,6 +745,14 @@
       "releaseInfo": "2026-02-10"
     },
     {
+      "id": "tmdb:1429605",
+      "type": "movie",
+      "name": "F Valentine's Day",
+      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1618945",
       "type": "movie",
       "name": "Yoh! Bestie",
@@ -745,35 +761,11 @@
       "releaseInfo": "2026-02-06"
     },
     {
-      "id": "tmdb:1596291",
-      "type": "movie",
-      "name": "Queen of Chess",
-      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
-      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
-      "releaseInfo": "2026-02-06"
-    },
-    {
-      "id": "tmdb:1620991",
-      "type": "movie",
-      "name": "The Investigation of Lucy Letby",
-      "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
-      "releaseInfo": "2026-02-04"
-    },
-    {
       "id": "tmdb:1433842",
       "type": "movie",
       "name": "Relationship Goals",
       "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
       "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "releaseInfo": "2026-02-04"
-    },
-    {
-      "id": "tmdb:1548113",
-      "type": "movie",
-      "name": "The Muppet Show",
-      "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -793,12 +785,12 @@
       "releaseInfo": "2026-01-30"
     },
     {
-      "id": "tmdb:1600513",
+      "id": "tmdb:1168190",
       "type": "movie",
-      "name": "Terri Joe: Missionary in Miami",
-      "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
-      "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
-      "releaseInfo": "2026-01-30"
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
       "id": "tmdb:1624183",
@@ -806,22 +798,6 @@
       "name": "Blackout",
       "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
       "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:840464",
-      "type": "movie",
-      "name": "Greenland 2: Migration",
-      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1206008",
-      "type": "movie",
-      "name": "Ella McCay",
-      "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
-      "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
       "releaseInfo": "2026-01-27"
     },
     {
@@ -841,20 +817,12 @@
       "releaseInfo": "2026-01-23"
     },
     {
-      "id": "tmdb:1538718",
+      "id": "tmdb:1595481",
       "type": "movie",
-      "name": "Disneyland Handcrafted",
-      "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
-      "releaseInfo": "2026-01-22"
-    },
-    {
-      "id": "tmdb:1306400",
-      "type": "movie",
-      "name": "Merrily We Roll Along",
-      "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
-      "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "releaseInfo": "2026-01-20"
+      "name": "Kidnapped: Elizabeth Smart",
+      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+      "releaseInfo": "2026-01-21"
     },
     {
       "id": "tmdb:1306368",
@@ -881,6 +849,14 @@
       "releaseInfo": "2026-01-12"
     },
     {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
       "id": "tmdb:1480860",
       "type": "movie",
       "name": "Bulls",
@@ -895,14 +871,6 @@
       "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
       "poster": "https://image.tmdb.org/t/p/w500/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
       "releaseInfo": "2026-01-09"
-    },
-    {
-      "id": "tmdb:1599078",
-      "type": "movie",
-      "name": "Marcello Hernández: American Boy",
-      "description": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
-      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026-01-07"
     },
     {
       "id": "tmdb:1591516",
@@ -929,76 +897,12 @@
       "releaseInfo": "2025-12-29"
     },
     {
-      "id": "tmdb:1588965",
-      "type": "movie",
-      "name": "Tom Segura: Teacher",
-      "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
-      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
-      "releaseInfo": "2025-12-24"
-    },
-    {
-      "id": "tmdb:1354518",
-      "type": "movie",
-      "name": "100 Nights of Hero",
-      "description": "When a charming house guest arrives at a remote castle, the delicate dynamic between a neglectful husband, his innocent bride Cherry and their devoted maid Hero is thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/yJKvHYz0b0ebfPh6LYBO3gGsccZ.jpg",
-      "releaseInfo": "2025-12-23"
-    },
-    {
-      "id": "tmdb:1259102",
-      "type": "movie",
-      "name": "Eternity",
-      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
-      "releaseInfo": "2025-12-23"
-    },
-    {
-      "id": "tmdb:1583500",
-      "type": "movie",
-      "name": "Elway",
-      "description": "Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
-      "releaseInfo": "2025-12-22"
-    },
-    {
-      "id": "tmdb:1497017",
-      "type": "movie",
-      "name": "Adult Swim's The Elephant",
-      "description": "Crafted in three parts by four animation superstars, Adult Swim's The Elephant brings to life a very human journey of self-discovery in varied styles.",
-      "poster": "https://image.tmdb.org/t/p/w500/vq50QGdUSAiUNC2f0BDdgyhUQGg.jpg",
-      "releaseInfo": "2025-12-20"
-    },
-    {
-      "id": "tmdb:1601195",
-      "type": "movie",
-      "name": "Dave Chappelle: The Unstoppable...",
-      "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
-      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
-      "releaseInfo": "2025-12-19"
-    },
-    {
-      "id": "tmdb:1529419",
-      "type": "movie",
-      "name": "Kumail Nanjiani: Night Thoughts",
-      "description": "After nearly a decade away, Kumail Nanjiani returns to Chicago, where he got his start in standup, in a new special that tackles anxiety, the perils of buying drugs pre-legalization, and most importantly, cat medication.",
-      "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
-      "releaseInfo": "2025-12-19"
-    },
-    {
       "id": "tmdb:1584125",
       "type": "movie",
       "name": "Breakdown: 1975",
       "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
       "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
       "releaseInfo": "2025-12-19"
-    },
-    {
-      "id": "tmdb:1567893",
-      "type": "movie",
-      "name": "Sarah Squirm: Live + in the Flesh",
-      "description": "After four seasons (and counting) on Saturday Night Live, Sarah Sherman's unholy alter ego, Sarah Squirm, slithers onto your screen and rips off the straitjacket, unleashing a festering and hilarious hour of bodily fluids, open-wound confessionals, and jokes that will leave scars on your soul.",
-      "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
-      "releaseInfo": "2025-12-12"
     },
     {
       "id": "tmdb:812583",
@@ -1017,28 +921,20 @@
       "releaseInfo": "2025-12-10"
     },
     {
-      "id": "tmdb:1505013",
+      "id": "tmdb:1255775",
       "type": "movie",
-      "name": "Masaka Kids, A Rhythm Within",
-      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
-      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+      "name": "Merv",
+      "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+      "releaseInfo": "2025-12-10"
+    },
+    {
+      "id": "tmdb:1584468",
+      "type": "movie",
+      "name": "Down River",
+      "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
       "releaseInfo": "2025-12-09"
-    },
-    {
-      "id": "tmdb:1586820",
-      "type": "movie",
-      "name": "Elmo and Mark Rober's Merry Giftmas",
-      "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
-      "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
-      "releaseInfo": "2025-12-08"
-    },
-    {
-      "id": "tmdb:1591822",
-      "type": "movie",
-      "name": "Pandora: Fire and Ice",
-      "description": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/13YU9zVOD6unuZuiLapZTXQql4G.jpg",
-      "releaseInfo": "2025-12-08"
     },
     {
       "id": "tmdb:1199193",
@@ -1046,22 +942,6 @@
       "name": "Pose",
       "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1547301",
-      "type": "movie",
-      "name": "Prompt",
-      "description": "When a young woman begins immersing herself in the arena of AI, her wildest and darkest fantasies become sensual realities. But the deeper she sinks into her online explorations, the closer she gets to the shocking truth.",
-      "poster": "https://image.tmdb.org/t/p/w500/AiEhp4sjeOImehd0PHO2Its9sPH.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1387382",
-      "type": "movie",
-      "name": "Hunting Season",
-      "description": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "releaseInfo": "2025-12-05"
     },
     {
@@ -1081,28 +961,20 @@
       "releaseInfo": "2025-12-05"
     },
     {
-      "id": "tmdb:1578631",
+      "id": "tmdb:1566269",
       "type": "movie",
-      "name": "With Love, Meghan: Holiday Celebration",
-      "description": "'Tis the season! Meghan shares her favorite holiday traditions, seasonal crafts and family recipes with friends old and new in this festive special.",
-      "poster": "https://image.tmdb.org/t/p/w500/jHEgYm0zSlqAduZy86Bf9Qg7v7.jpg",
-      "releaseInfo": "2025-12-03"
+      "name": "The First Snow of Fraggle Rock",
+      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+      "releaseInfo": "2025-12-04"
     },
     {
-      "id": "tmdb:1556834",
+      "id": "tmdb:1430593",
       "type": "movie",
-      "name": "Lost Horizon",
-      "description": "A former soldier, now working for hire, fights to rescue the innocent in a land torn by war. Facing ruthless enemies and betrayal, he struggles for survival, justice, and redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPbMpXGTUhk39asHVye7VkBIdOz.jpg",
-      "releaseInfo": "2025-12-02"
-    },
-    {
-      "id": "tmdb:1588237",
-      "type": "movie",
-      "name": "The Lost Chapter: Yuki's Revenge",
-      "description": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as \"Yuki's Revenge.\" Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
-      "poster": "https://image.tmdb.org/t/p/w500/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
-      "releaseInfo": "2025-11-30"
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
     },
     {
       "id": "tmdb:1330400",
@@ -1119,30 +991,6 @@
       "description": "Christmas elves Lanny and Wayne panic when their holiday missions go awry, leaving Wayne thinking he's in BIG trouble with Santa and accidentally revealing other merry mishaps.",
       "poster": "https://image.tmdb.org/t/p/w500/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg",
       "releaseInfo": "2025-11-28"
-    },
-    {
-      "id": "tmdb:1588671",
-      "type": "movie",
-      "name": "Louvre Heist: Minute by Minute",
-      "description": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
-      "releaseInfo": "2025-11-27"
-    },
-    {
-      "id": "tmdb:1429520",
-      "type": "movie",
-      "name": "Sidelined 2: Intercepted",
-      "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
-      "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
-      "releaseInfo": "2025-11-27"
-    },
-    {
-      "id": "tmdb:1049574",
-      "type": "movie",
-      "name": "Darkness of Man",
-      "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
-      "releaseInfo": "2024-05-07"
     }
   ]
 }
