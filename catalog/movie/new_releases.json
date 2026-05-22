@@ -433,6 +433,22 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tmdb:83533",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tmdb:1287141",
+      "type": "movie",
+      "name": "Pillion",
+      "description": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tmdb:1115544",
       "type": "movie",
       "name": "Mike & Nick & Nick & Alice",
@@ -561,6 +577,22 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1401281",
+      "type": "movie",
+      "name": "The Testament of Ann Lee",
+      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
+      "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
+      "id": "tmdb:1413097",
+      "type": "movie",
+      "name": "Melania",
+      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
+      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+      "releaseInfo": "2026-03-09"
+    },
+    {
       "id": "tmdb:1644807",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -593,6 +625,30 @@
       "releaseInfo": "2026-03-06"
     },
     {
+      "id": "tmdb:1422562",
+      "type": "movie",
+      "name": "The Moment",
+      "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
+      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "releaseInfo": "2026-03-03"
+    },
+    {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1159206",
+      "type": "movie",
+      "name": "Father Mother Sister Brother",
+      "description": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
+      "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
       "id": "tmdb:1260643",
       "type": "movie",
       "name": "Man on the Run",
@@ -615,6 +671,22 @@
       "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
       "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
       "releaseInfo": "2026-02-24"
+    },
+    {
+      "id": "tmdb:1128377",
+      "type": "movie",
+      "name": "In Cold Light",
+      "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+      "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+      "releaseInfo": "2026-02-24"
+    },
+    {
+      "id": "tmdb:846049",
+      "type": "movie",
+      "name": "The Dresden Sun",
+      "description": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
+      "poster": "https://image.tmdb.org/t/p/w500/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
+      "releaseInfo": "2026-02-23"
     },
     {
       "id": "tmdb:1327690",
@@ -657,14 +729,6 @@
       "releaseInfo": "2026-02-17"
     },
     {
-      "id": "tmdb:1236153",
-      "type": "movie",
-      "name": "Mercy",
-      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
       "id": "tmdb:1442908",
       "type": "movie",
       "name": "The Singers",
@@ -689,11 +753,27 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1317672",
+      "type": "movie",
+      "name": "Love Me Love Me",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "releaseInfo": "2026-02-12"
+    },
+    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
       "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
       "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1146344",
+      "type": "movie",
+      "name": "Misdirection",
+      "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+      "poster": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -713,11 +793,27 @@
       "releaseInfo": "2026-02-06"
     },
     {
-      "id": "tmdb:1433842",
+      "id": "tmdb:1618945",
       "type": "movie",
-      "name": "Relationship Goals",
-      "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
-      "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+      "name": "Yoh! Bestie",
+      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1596291",
+      "type": "movie",
+      "name": "Queen of Chess",
+      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
+      "id": "tmdb:1548113",
+      "type": "movie",
+      "name": "The Muppet Show",
+      "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
@@ -729,28 +825,60 @@
       "releaseInfo": "2026-01-30"
     },
     {
-      "id": "tmdb:1306400",
+      "id": "tmdb:1168190",
       "type": "movie",
-      "name": "Merrily We Roll Along",
-      "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
-      "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "releaseInfo": "2026-01-20"
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
-      "id": "tmdb:1435092",
+      "id": "tmdb:1306368",
       "type": "movie",
-      "name": "Goodbye June",
-      "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
-      "poster": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+      "name": "The Rip",
+      "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+      "poster": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+      "releaseInfo": "2026-01-16"
+    },
+    {
+      "id": "tmdb:1588965",
+      "type": "movie",
+      "name": "Tom Segura: Teacher",
+      "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
+      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
       "releaseInfo": "2025-12-24"
     },
     {
-      "id": "tmdb:1586820",
+      "id": "tmdb:1589905",
       "type": "movie",
-      "name": "Elmo and Mark Rober's Merry Giftmas",
-      "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
-      "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
-      "releaseInfo": "2025-12-08"
+      "name": "Robby Hoffman: Wake Up",
+      "description": "Breakout star Robby Hoffman hilariously pushes the limits of comedy with red-hot, controversial takes in her debut special.",
+      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
+      "releaseInfo": "2025-12-14"
+    },
+    {
+      "id": "tmdb:1255775",
+      "type": "movie",
+      "name": "Merv",
+      "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+      "releaseInfo": "2025-12-10"
+    },
+    {
+      "id": "tmdb:1584468",
+      "type": "movie",
+      "name": "Down River",
+      "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
+      "releaseInfo": "2025-12-09"
+    },
+    {
+      "id": "tmdb:1505013",
+      "type": "movie",
+      "name": "Masaka Kids, A Rhythm Within",
+      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
+      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+      "releaseInfo": "2025-12-09"
     },
     {
       "id": "tmdb:1199193",
@@ -759,6 +887,46 @@
       "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1593419",
+      "type": "movie",
+      "name": "The Making of Jay Kelly",
+      "description": "From the immersive opening shot to the emotional final line, go behind the scenes with director Noah Baumbach, George Clooney, Adam Sandler and more.",
+      "poster": "https://image.tmdb.org/t/p/w500/wdYWaCYcTmyAgTN2AHCrjYPi0cp.jpg",
+      "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1430593",
+      "type": "movie",
+      "name": "Tinsel Town",
+      "description": "A washed-up Hollywood action hero is tricked into starring in a small English town’s chaotic Christmas pantomime, where a straight-talking dance instructor and his estranged daughter just might help him rediscover the magic of the season.",
+      "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+      "releaseInfo": "2025-11-28"
+    },
+    {
+      "id": "tmdb:1429520",
+      "type": "movie",
+      "name": "Sidelined 2: Intercepted",
+      "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
+      "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+      "releaseInfo": "2025-11-27"
+    },
+    {
+      "id": "tmdb:1563925",
+      "type": "movie",
+      "name": "Chris Hemsworth: A Road Trip to Remember",
+      "description": "In his most personal documentary yet, Chris Hemsworth turns the camera on his own family after his dad’s recent Alzheimer’s diagnosis. They embark on a road trip into their past, exploring the science of social connection and how it can support memory function. They revisit meaningful places and faces, capturing it all as a home movie, and reviving treasured recollections.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+      "releaseInfo": "2025-11-24"
+    },
+    {
+      "id": "tmdb:1576878",
+      "type": "movie",
+      "name": "Unseen Enemy",
+      "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
+      "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
+      "releaseInfo": "2025-09-30"
     }
   ]
 }
