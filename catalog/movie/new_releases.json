@@ -637,7 +637,7 @@
       "type": "movie",
       "name": "Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0wD4Qxe0wulV0bxarsQ05PqDNF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nXWewAZxRAr9jYNe2uypLlyPehl.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1063,14 +1063,6 @@
       "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
       "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
       "releaseInfo": "2026-01-12"
-    },
-    {
-      "id": "tmdb:1601243",
-      "type": "movie",
-      "name": "Oscar Shaw",
-      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
-      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:1480860",
@@ -1511,6 +1503,14 @@
       "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
       "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
       "releaseInfo": "2024-05-07"
+    },
+    {
+      "id": "tmdb:1169368",
+      "type": "movie",
+      "name": "Safehouse",
+      "description": "After Carla’s brother is murdered, she goes on the run and becomes trapped in a cat-and-mouse game with the CIA, the government, and the cartel.",
+      "poster": "https://image.tmdb.org/t/p/w500/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg",
+      "releaseInfo": "2023-09-28"
     }
   ]
 }
