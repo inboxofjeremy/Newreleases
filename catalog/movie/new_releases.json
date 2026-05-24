@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:539745",
+      "type": "movie",
+      "name": "Animal Farm",
+      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
       "id": "tmdb:1368881",
       "type": "movie",
       "name": "Ladies First",
