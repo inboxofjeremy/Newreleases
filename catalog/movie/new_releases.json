@@ -41,6 +41,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1102883",
+      "type": "movie",
+      "name": "Mother Mary",
+      "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "poster": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1226863",
       "type": "movie",
       "name": "The Super Mario Galaxy Movie",
@@ -1065,6 +1073,14 @@
       "releaseInfo": "2026-01-12"
     },
     {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "releaseInfo": "2026-01-09"
+    },
+    {
       "id": "tmdb:1480860",
       "type": "movie",
       "name": "Bulls",
@@ -1473,14 +1489,6 @@
       "releaseInfo": "2025-11-27"
     },
     {
-      "id": "tmdb:1218762",
-      "type": "movie",
-      "name": "Jingle Bell Heist",
-      "description": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
-      "poster": "https://image.tmdb.org/t/p/w500/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
-      "releaseInfo": "2025-11-26"
-    },
-    {
       "id": "tmdb:1480295",
       "type": "movie",
       "name": "Affinity",
@@ -1503,14 +1511,6 @@
       "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
       "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
       "releaseInfo": "2024-05-07"
-    },
-    {
-      "id": "tmdb:1169368",
-      "type": "movie",
-      "name": "Safehouse",
-      "description": "After Carla’s brother is murdered, she goes on the run and becomes trapped in a cat-and-mouse game with the CIA, the government, and the cartel.",
-      "poster": "https://image.tmdb.org/t/p/w500/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg",
-      "releaseInfo": "2023-09-28"
     }
   ]
 }
