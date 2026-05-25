@@ -417,6 +417,14 @@
       "releaseInfo": "2026-04-03"
     },
     {
+      "id": "tmdb:1629369",
+      "type": "movie",
+      "name": "The Truth and Tragedy of Moriah Wilson",
+      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+      "releaseInfo": "2026-04-03"
+    },
+    {
       "id": "tmdb:1493859",
       "type": "movie",
       "name": "Pizza Movie",
@@ -1391,6 +1399,14 @@
       "description": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
       "poster": "https://image.tmdb.org/t/p/w500/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
       "releaseInfo": "2025-12-03"
+    },
+    {
+      "id": "tmdb:1581729",
+      "type": "movie",
+      "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
+      "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
+      "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
+      "releaseInfo": "2025-12-02"
     },
     {
       "id": "tmdb:1556834",
