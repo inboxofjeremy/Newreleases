@@ -181,7 +181,7 @@
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/yPV87cvDabRMTZs6NIbZLOufBLR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -417,14 +417,6 @@
       "releaseInfo": "2026-04-03"
     },
     {
-      "id": "tmdb:1629369",
-      "type": "movie",
-      "name": "The Truth and Tragedy of Moriah Wilson",
-      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
-      "releaseInfo": "2026-04-03"
-    },
-    {
       "id": "tmdb:1493859",
       "type": "movie",
       "name": "Pizza Movie",
@@ -505,19 +497,19 @@
       "releaseInfo": "2026-03-24"
     },
     {
-      "id": "tmdb:1154538",
-      "type": "movie",
-      "name": "Nirvanna the Band the Show the Movie",
-      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
-      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
       "id": "tmdb:1297842",
       "type": "movie",
       "name": "GOAT",
       "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:1154538",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -1169,14 +1161,6 @@
       "releaseInfo": "2025-12-23"
     },
     {
-      "id": "tmdb:1259102",
-      "type": "movie",
-      "name": "Eternity",
-      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
-      "releaseInfo": "2025-12-23"
-    },
-    {
       "id": "tmdb:1583500",
       "type": "movie",
       "name": "Elway",
@@ -1407,14 +1391,6 @@
       "description": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
       "poster": "https://image.tmdb.org/t/p/w500/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
       "releaseInfo": "2025-12-03"
-    },
-    {
-      "id": "tmdb:1581729",
-      "type": "movie",
-      "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
-      "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
-      "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
-      "releaseInfo": "2025-12-02"
     },
     {
       "id": "tmdb:1556834",
