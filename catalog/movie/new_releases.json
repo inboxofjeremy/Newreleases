@@ -465,14 +465,6 @@
       "releaseInfo": "2026-03-31"
     },
     {
-      "id": "tmdb:83533",
-      "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
       "id": "tmdb:1287141",
       "type": "movie",
       "name": "Pillion",
@@ -929,6 +921,14 @@
       "releaseInfo": "2026-01-31"
     },
     {
+      "id": "tmdb:1627824",
+      "type": "movie",
+      "name": "Rocky's Cat-astrophe",
+      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+      "releaseInfo": "2026-01-30"
+    },
+    {
       "id": "tmdb:1613335",
       "type": "movie",
       "name": "Miracle: The Boys of '80",
@@ -1017,14 +1017,6 @@
       "releaseInfo": "2026-01-21"
     },
     {
-      "id": "tmdb:991494",
-      "type": "movie",
-      "name": "The SpongeBob Movie: Search for SquarePants",
-      "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-      "releaseInfo": "2026-01-20"
-    },
-    {
       "id": "tmdb:1306400",
       "type": "movie",
       "name": "Merrily We Roll Along",
@@ -1033,36 +1025,12 @@
       "releaseInfo": "2026-01-20"
     },
     {
-      "id": "tmdb:1306368",
-      "type": "movie",
-      "name": "The Rip",
-      "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
-      "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tmdb:1584215",
-      "type": "movie",
-      "name": "The Internship",
-      "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
       "id": "tmdb:1371185",
       "type": "movie",
       "name": "Song Sung Blue",
       "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
       "poster": "https://image.tmdb.org/t/p/w500/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
       "releaseInfo": "2026-01-13"
-    },
-    {
-      "id": "tmdb:1610413",
-      "type": "movie",
-      "name": "One Last Adventure: The Making of Stranger Things 5",
-      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
-      "releaseInfo": "2026-01-12"
     },
     {
       "id": "tmdb:1601243",
@@ -1095,6 +1063,14 @@
       "description": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
       "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
       "releaseInfo": "2026-01-07"
+    },
+    {
+      "id": "tmdb:1566665",
+      "type": "movie",
+      "name": "12 Hours in October",
+      "description": "Inspired by the events of October 7, 2023, the film depicts the separate points of view of different characters as they face the terror and chaos of the first twelve hours of that fateful day.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg",
+      "releaseInfo": "2026-01-06"
     },
     {
       "id": "tmdb:1601082",
@@ -1199,14 +1175,6 @@
       "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
       "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
       "releaseInfo": "2025-12-19"
-    },
-    {
-      "id": "tmdb:1584619",
-      "type": "movie",
-      "name": "Murder in Monaco",
-      "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
-      "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
-      "releaseInfo": "2025-12-17"
     },
     {
       "id": "tmdb:1589905",
@@ -1353,22 +1321,6 @@
       "releaseInfo": "2025-12-04"
     },
     {
-      "id": "tmdb:1261825",
-      "type": "movie",
-      "name": "Oh. What. Fun.",
-      "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
-      "poster": "https://image.tmdb.org/t/p/w500/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
-      "releaseInfo": "2025-12-03"
-    },
-    {
-      "id": "tmdb:1578631",
-      "type": "movie",
-      "name": "With Love, Meghan: Holiday Celebration",
-      "description": "'Tis the season! Meghan shares her favorite holiday traditions, seasonal crafts and family recipes with friends old and new in this festive special.",
-      "poster": "https://image.tmdb.org/t/p/w500/jHEgYm0zSlqAduZy86Bf9Qg7v7.jpg",
-      "releaseInfo": "2025-12-03"
-    },
-    {
       "id": "tmdb:1441563",
       "type": "movie",
       "name": "My Secret Santa",
@@ -1463,14 +1415,6 @@
       "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
       "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1049574",
-      "type": "movie",
-      "name": "Darkness of Man",
-      "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
-      "releaseInfo": "2024-05-07"
     }
   ]
 }
