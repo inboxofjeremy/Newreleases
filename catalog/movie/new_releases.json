@@ -9,6 +9,14 @@
       "releaseInfo": "2026-05-26"
     },
     {
+      "id": "tmdb:1639683",
+      "type": "movie",
+      "name": "AEW Double or Nothing 2026",
+      "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
+      "poster": "https://image.tmdb.org/t/p/w500/9KrRjoJvjhhwLcb2XBfd6Ertgvp.jpg",
+      "releaseInfo": "2026-05-24"
+    },
+    {
       "id": "tmdb:1368881",
       "type": "movie",
       "name": "Ladies First",
@@ -913,14 +921,6 @@
       "releaseInfo": "2026-02-03"
     },
     {
-      "id": "tmdb:858024",
-      "type": "movie",
-      "name": "Hamnet",
-      "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
-      "releaseInfo": "2026-02-03"
-    },
-    {
       "id": "tmdb:1488195",
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
@@ -983,14 +983,6 @@
       "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
       "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
       "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1084242",
-      "type": "movie",
-      "name": "Zootopia 2",
-      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "releaseInfo": "2026-01-26"
     },
     {
       "id": "tmdb:1617852",
@@ -1249,22 +1241,6 @@
       "releaseInfo": "2025-12-12"
     },
     {
-      "id": "tmdb:1401778",
-      "type": "movie",
-      "name": "Turbulence",
-      "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
-      "poster": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
-      "id": "tmdb:812583",
-      "type": "movie",
-      "name": "Wake Up Dead Man: A Knives Out Mystery",
-      "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.",
-      "poster": "https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
       "id": "tmdb:1585476",
       "type": "movie",
       "name": "Kevin Costner Presents: The First Christmas",
@@ -1486,14 +1462,6 @@
       "name": "Affinity",
       "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
-      "releaseInfo": "2025-09-30"
-    },
-    {
-      "id": "tmdb:1576878",
-      "type": "movie",
-      "name": "Unseen Enemy",
-      "description": "An isolated private investigator is convinced by a friend to come out of hiding to help find her missing sister, putting him back in reach by those who want his family dead.",
-      "poster": "https://image.tmdb.org/t/p/w500/A5mQcSgBeML2OBQLCH6RXn7gNNy.jpg",
       "releaseInfo": "2025-09-30"
     },
     {
