@@ -36,7 +36,7 @@
       "id": "tmdb:1177767",
       "type": "movie",
       "name": "Mile End Kicks",
-      "description": "Grace Pine, a 22-year-old music critic, moves to Montreal to write a book on Alanis Morissette's Jagged Little Pill, but her plans are complicated when she becomes romantically involved with two members of an indie band she is covering and decides to become their publicist.",
+      "description": "Grace Pine, a 24-year-old music critic, moves to Montreal to write a book on Alanis Morissette's Jagged Little Pill, but her plans are complicated when she becomes romantically involved with two members of an indie band she is covering and decides to become their publicist.",
       "poster": "https://image.tmdb.org/t/p/w500/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
       "releaseInfo": "2026-05-19"
     },
@@ -1447,46 +1447,6 @@
       "description": "A small-town police chief pursues a serial killer, helped by a psychic's visions, while fighting to prove his own innocence.",
       "poster": "https://image.tmdb.org/t/p/w500/sAg254rEBdzBXqLysWTZkkcfGZV.jpg",
       "releaseInfo": "2025-11-28"
-    },
-    {
-      "id": "tmdb:1550797",
-      "type": "movie",
-      "name": "Prep & Landing: The Snowball Protocol",
-      "description": "Christmas elves Lanny and Wayne panic when their holiday missions go awry, leaving Wayne thinking he's in BIG trouble with Santa and accidentally revealing other merry mishaps.",
-      "poster": "https://image.tmdb.org/t/p/w500/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg",
-      "releaseInfo": "2025-11-28"
-    },
-    {
-      "id": "tmdb:1588671",
-      "type": "movie",
-      "name": "Louvre Heist: Minute by Minute",
-      "description": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
-      "releaseInfo": "2025-11-27"
-    },
-    {
-      "id": "tmdb:1499744",
-      "type": "movie",
-      "name": "A Chuck E. Cheese Christmas",
-      "description": "When Chuck E. Cheese and Friends learn that Santa Claus has never experienced a Christmas party, because he is always exhausted from working on Christmas Eve, they set out to throw a surprise Christmas celebration for Santa as a 'thank you' for all the joy he brings to the world! The party also winds up doubling as a way to save their town from the meddling of a holiday-hating evildoer.",
-      "poster": "https://image.tmdb.org/t/p/w500/osuxNst45U4d7CT02uYHBI1B9nK.jpg",
-      "releaseInfo": "2025-11-27"
-    },
-    {
-      "id": "tmdb:1429520",
-      "type": "movie",
-      "name": "Sidelined 2: Intercepted",
-      "description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
-      "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
-      "releaseInfo": "2025-11-27"
-    },
-    {
-      "id": "tmdb:1480295",
-      "type": "movie",
-      "name": "Affinity",
-      "description": "Chilean martial-arts star Marko Zaror is Bruno, an ex-SEAL struggling with PTSD. He lives a life in fear of his demons until one day when he discovers a beautiful woman with no past of her own. Together they begin to build a life, but when she disappears, Bruno must return to his violent past if he’s going to save her from a shocking conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
-      "releaseInfo": "2025-09-30"
     },
     {
       "id": "tmdb:1049574",
