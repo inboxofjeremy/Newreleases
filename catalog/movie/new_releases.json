@@ -33,6 +33,14 @@
       "releaseInfo": "2026-05-20"
     },
     {
+      "id": "tmdb:1684244",
+      "type": "movie",
+      "name": "Untold UK: Liverpool's Miracle of Istanbul",
+      "description": "At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1177767",
       "type": "movie",
       "name": "Mile End Kicks",
@@ -817,14 +825,6 @@
       "releaseInfo": "2026-02-13"
     },
     {
-      "id": "tmdb:1317672",
-      "type": "movie",
-      "name": "Love Me Love Me",
-      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
-      "releaseInfo": "2026-02-12"
-    },
-    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
@@ -863,14 +863,6 @@
       "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
       "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
       "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1429605",
-      "type": "movie",
-      "name": "F Valentine's Day",
-      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "releaseInfo": "2026-02-06"
     },
     {
       "id": "tmdb:1618945",
@@ -966,6 +958,14 @@
       "name": "Blackout",
       "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
       "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+      "releaseInfo": "2026-01-27"
+    },
+    {
+      "id": "tmdb:1599087",
+      "type": "movie",
+      "name": "Mike Epps: Delusional",
+      "description": "Follows comedian Mike Epps as he discusses how a little delusion and a lot of hustle made him a star.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vnxJozxtK9K65UYXH2RNsE2Edo.jpg",
       "releaseInfo": "2026-01-27"
     },
     {
