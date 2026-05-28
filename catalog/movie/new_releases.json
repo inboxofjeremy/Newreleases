@@ -609,14 +609,6 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
       "id": "tmdb:1291335",
       "type": "movie",
       "name": "Solo Mio",
@@ -1001,14 +993,6 @@
       "releaseInfo": "2026-01-27"
     },
     {
-      "id": "tmdb:1206008",
-      "type": "movie",
-      "name": "Ella McCay",
-      "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
-      "poster": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
       "id": "tmdb:1617852",
       "type": "movie",
       "name": "Speed Faster",
@@ -1157,7 +1141,7 @@
       "type": "movie",
       "name": "Critical Incident: Death at the Border",
       "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
-      "poster": "https://image.tmdb.org/t/p/w500/bLq4GRp4InjkipnWM5Bdzbkhg2P.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gThb7GuqTZ19EHgcvX3GSDdNBqJ.jpg",
       "releaseInfo": "2025-12-29"
     },
     {
