@@ -412,7 +412,7 @@
       "id": "tmdb:1492341",
       "type": "movie",
       "name": "Noah Kahan: Out of Body",
-      "description": "After rocketing to global fame, singer-songwriter Noah Kahan faces the pressure of making his next album and returns to his Vermont roots and family to get back in tune with himself.",
+      "description": "After rocketing to global fame, singer-songwriter Noah Kahan returns to his Vermont roots to get back in tune with himself.",
       "poster": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
       "releaseInfo": "2026-04-13"
     },
@@ -726,14 +726,6 @@
       "name": "In the Blink of an Eye",
       "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
       "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tmdb:1159206",
-      "type": "movie",
-      "name": "Father Mother Sister Brother",
-      "description": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
-      "poster": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
@@ -1455,22 +1447,6 @@
       "description": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
       "poster": "https://image.tmdb.org/t/p/w500/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
       "releaseInfo": "2025-12-03"
-    },
-    {
-      "id": "tmdb:1581729",
-      "type": "movie",
-      "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
-      "description": "From gifts gone wrong to family tradition fails, Matt Rife turns an unpredictable audience into an unscripted holiday special.",
-      "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
-      "releaseInfo": "2025-12-02"
-    },
-    {
-      "id": "tmdb:1558396",
-      "type": "movie",
-      "name": "American Sasquatch: Man, Myth or Monster",
-      "description": "American Sasquatch: Man, Myth, or Monster takes audiences on a groundbreaking investigation into one of the world's greatest mysteries. Created by former police detective and best-selling author of the Missing 411 series, Dave Paulides, the film combines cutting-edge science with gripping storytelling - from quantum physics and advanced DNA analysis to the insights of PhD researchers and respected institutions. With startling evidence that blurs the line between folklore and reality, viewers are invited to confront compelling facts that may forever change how we see the legendary hairy biped.",
-      "poster": "https://image.tmdb.org/t/p/w500/oCTU4hO9TT4SGJfDYqlzsyQoIln.jpg",
-      "releaseInfo": "2025-12-01"
     },
     {
       "id": "tmdb:1588237",
