@@ -201,14 +201,6 @@
       "releaseInfo": "2026-05-10"
     },
     {
-      "id": "tmdb:1257868",
-      "type": "movie",
-      "name": "Couples Weekend",
-      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
       "id": "tmdb:1330021",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
@@ -1253,7 +1245,7 @@
       "type": "movie",
       "name": "Adult Swim's The Elephant",
       "description": "Crafted in three parts by four animation superstars, Adult Swim's The Elephant brings to life a very human journey of self-discovery in varied styles.",
-      "poster": "https://image.tmdb.org/t/p/w500/vq50QGdUSAiUNC2f0BDdgyhUQGg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hesk0yJrkojyuZcyZ4KRxMtAQNK.jpg",
       "releaseInfo": "2025-12-20"
     },
     {
