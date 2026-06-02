@@ -9,6 +9,22 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:936075",
+      "type": "movie",
+      "name": "Michael",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "releaseInfo": "2026-06-09"
+    },
+    {
+      "id": "tmdb:1290792",
+      "type": "movie",
+      "name": "One Spoon of Chocolate",
+      "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There’s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons.",
+      "poster": "https://image.tmdb.org/t/p/w500/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tmdb:1122573",
       "type": "movie",
       "name": "In the Grey",
@@ -199,6 +215,14 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
+    },
+    {
+      "id": "tmdb:1257868",
+      "type": "movie",
+      "name": "Couples Weekend",
+      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tmdb:1330021",
