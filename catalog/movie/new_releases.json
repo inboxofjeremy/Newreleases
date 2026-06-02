@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:1122573",
+      "type": "movie",
+      "name": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tmdb:1662414",
       "type": "movie",
       "name": "Propeller One-Way Night Coach",
@@ -37,7 +45,7 @@
       "type": "movie",
       "name": "Over Your Dead Body",
       "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1431,14 +1439,6 @@
       "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
       "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
       "releaseInfo": "2025-12-04"
-    },
-    {
-      "id": "tmdb:1261825",
-      "type": "movie",
-      "name": "Oh. What. Fun.",
-      "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
-      "poster": "https://image.tmdb.org/t/p/w500/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
-      "releaseInfo": "2025-12-03"
     },
     {
       "id": "tmdb:1588237",
