@@ -25,6 +25,14 @@
       "releaseInfo": "2026-06-05"
     },
     {
+      "id": "tmdb:1380316",
+      "type": "movie",
+      "name": "Is God Is",
+      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tmdb:1122573",
       "type": "movie",
       "name": "In the Grey",
@@ -61,7 +69,7 @@
       "type": "movie",
       "name": "Over Your Dead Body",
       "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/qKEvzsSuxSXCya7aFQOeCBR9wmJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1113,14 +1121,6 @@
       "releaseInfo": "2026-01-20"
     },
     {
-      "id": "tmdb:1306400",
-      "type": "movie",
-      "name": "Merrily We Roll Along",
-      "description": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
-      "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "releaseInfo": "2026-01-20"
-    },
-    {
       "id": "tmdb:1306368",
       "type": "movie",
       "name": "The Rip",
@@ -1431,30 +1431,6 @@
       "description": "In 1870s Arizona Territory, a desperately needed wagon full of medical supplies falls victim to an Apache attack. The only man who can guide it through is Merrick Beckford, but in order to get there, he’ll need to enlist the help of a trio of dangerous outlaws hellbent on survival. When they accidentally kill an Apache scout, all bets are off, and survival is the name of the game.",
       "poster": "https://image.tmdb.org/t/p/w500/aRdbTNiklT1xsv6mk30ZXnkt0A1.jpg",
       "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1593419",
-      "type": "movie",
-      "name": "The Making of Jay Kelly",
-      "description": "From the immersive opening shot to the emotional final line, go behind the scenes with director Noah Baumbach, George Clooney, Adam Sandler and more.",
-      "poster": "https://image.tmdb.org/t/p/w500/wdYWaCYcTmyAgTN2AHCrjYPi0cp.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1392796",
-      "type": "movie",
-      "name": "Diary of a Wimpy Kid: The Last Straw",
-      "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
-      "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1566269",
-      "type": "movie",
-      "name": "The First Snow of Fraggle Rock",
-      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
-      "poster": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
-      "releaseInfo": "2025-12-04"
     },
     {
       "id": "tmdb:1588237",
