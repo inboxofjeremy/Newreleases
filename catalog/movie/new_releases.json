@@ -41,6 +41,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tmdb:1337592",
+      "type": "movie",
+      "name": "Erupcja",
+      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
+      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tmdb:1232667",
       "type": "movie",
       "name": "Miss You, Love You",
@@ -1055,6 +1063,14 @@
       "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
       "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
       "releaseInfo": "2026-01-28"
+    },
+    {
+      "id": "tmdb:1624183",
+      "type": "movie",
+      "name": "Blackout",
+      "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+      "releaseInfo": "2026-01-27"
     },
     {
       "id": "tmdb:1599087",
