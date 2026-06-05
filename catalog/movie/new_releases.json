@@ -17,11 +17,27 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:1358005",
+      "type": "movie",
+      "name": "Office Romance",
+      "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+      "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tmdb:1290792",
       "type": "movie",
       "name": "One Spoon of Chocolate",
       "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There’s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons.",
       "poster": "https://image.tmdb.org/t/p/w500/iiVuwRguusPeO2Mqmg68cpqq9ex.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tmdb:1288341",
+      "type": "movie",
+      "name": "Seven Snipers",
+      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -86,14 +102,6 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tmdb:1390300",
-      "type": "movie",
-      "name": "Over Your Dead Body",
-      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -825,14 +833,6 @@
       "releaseInfo": "2026-02-24"
     },
     {
-      "id": "tmdb:1290821",
-      "type": "movie",
-      "name": "Shelter",
-      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
       "id": "tmdb:1128377",
       "type": "movie",
       "name": "In Cold Light",
@@ -942,6 +942,14 @@
       "name": "Katt Williams: The Last Report",
       "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
       "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1146344",
+      "type": "movie",
+      "name": "Misdirection",
+      "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+      "poster": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -1055,14 +1063,6 @@
       "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
       "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
       "releaseInfo": "2026-01-30"
-    },
-    {
-      "id": "tmdb:1168190",
-      "type": "movie",
-      "name": "The Wrecking Crew",
-      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "releaseInfo": "2026-01-28"
     },
     {
       "id": "tmdb:1624183",
