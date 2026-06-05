@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "One Spoon of Chocolate",
       "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There’s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons.",
-      "poster": "https://image.tmdb.org/t/p/w500/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iiVuwRguusPeO2Mqmg68cpqq9ex.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -119,6 +119,14 @@
       "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
       "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
       "releaseInfo": "2026-05-22"
+    },
+    {
+      "id": "tmdb:1694958",
+      "type": "movie",
+      "name": "Dua Lipa: Live From Mexico",
+      "description": "Live from Mexico, a brand new concert film capturing the high-octane finale of the global Radical Optimism Tour at Mexico City's Estadio GNP Seguros",
+      "poster": "https://image.tmdb.org/t/p/w500/gTOfJRBUsSfuB2sPYPLPcn8ZPbo.jpg",
+      "releaseInfo": "2026-05-21"
     },
     {
       "id": "tmdb:1380291",
@@ -773,7 +781,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kwctIgKW5KQLOZfL2NNgtDnM7JD.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1078,6 +1086,14 @@
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
       "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "releaseInfo": "2026-01-27"
+    },
+    {
+      "id": "tmdb:1234731",
+      "type": "movie",
+      "name": "Anaconda",
+      "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "poster": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
       "releaseInfo": "2026-01-27"
     },
     {
