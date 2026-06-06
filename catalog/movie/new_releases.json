@@ -17,11 +17,19 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:1083884",
+      "type": "movie",
+      "name": "Signal One",
+      "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+      "poster": "https://image.tmdb.org/t/p/w500/dINJlQVlDCpsEVqhjFyOjpymxsg.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tmdb:1358005",
       "type": "movie",
       "name": "Office Romance",
       "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-      "poster": "https://image.tmdb.org/t/p/w500/2duDcM6TtrioPdXPilwajEe2qux.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -85,7 +93,7 @@
       "type": "movie",
       "name": "Emi Martínez: The Kid Who Stops Time",
       "description": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/yDbFSN7Jj0K4a7YFSV4OXQ4Lqhy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
       "releaseInfo": "2026-05-28"
     },
     {
@@ -797,7 +805,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/5txx39hgkMY6iskk3oOX7nU34bE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/niPqU1GGEqLoUUa8QnXNsbgGW0D.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
