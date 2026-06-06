@@ -105,6 +105,14 @@
       "releaseInfo": "2026-05-26"
     },
     {
+      "id": "tmdb:1390300",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster": "https://image.tmdb.org/t/p/w500/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
       "id": "tmdb:898704",
       "type": "movie",
       "name": "Desert Warrior",
@@ -182,14 +190,6 @@
       "name": "The Super Mario Galaxy Movie",
       "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tmdb:1307373",
-      "type": "movie",
-      "name": "Wasteman",
-      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -309,7 +309,7 @@
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -326,14 +326,6 @@
       "name": "No Ordinary Heist",
       "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
       "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
-      "releaseInfo": "2026-04-28"
-    },
-    {
-      "id": "tmdb:1327819",
-      "type": "movie",
-      "name": "Hoppers",
-      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "releaseInfo": "2026-04-28"
     },
     {
@@ -366,14 +358,6 @@
       "name": "Tow",
       "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
       "poster": "https://image.tmdb.org/t/p/w500/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
-      "releaseInfo": "2026-04-21"
-    },
-    {
-      "id": "tmdb:1383731",
-      "type": "movie",
-      "name": "Protector",
-      "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-04-21"
     },
     {
@@ -481,14 +465,6 @@
       "releaseInfo": "2026-04-14"
     },
     {
-      "id": "tmdb:1367642",
-      "type": "movie",
-      "name": "Reminders of Him",
-      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
       "id": "tmdb:1492341",
       "type": "movie",
       "name": "Noah Kahan: Out of Body",
@@ -577,27 +553,11 @@
       "releaseInfo": "2026-04-03"
     },
     {
-      "id": "tmdb:1171145",
-      "type": "movie",
-      "name": "Crime 101",
-      "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "poster": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-      "releaseInfo": "2026-04-01"
-    },
-    {
       "id": "tmdb:1660968",
       "type": "movie",
       "name": "Aaron Chen: Funny Garden",
       "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
       "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
-      "id": "tmdb:1316092",
-      "type": "movie",
-      "name": "\"Wuthering Heights\"",
-      "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
@@ -630,22 +590,6 @@
       "name": "Hannah Montana 20th Anniversary Special",
       "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
       "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
-      "id": "tmdb:467905",
-      "type": "movie",
-      "name": "How to Make a Killing",
-      "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
-      "id": "tmdb:1297842",
-      "type": "movie",
-      "name": "GOAT",
-      "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -721,22 +665,6 @@
       "releaseInfo": "2026-03-11"
     },
     {
-      "id": "tmdb:1439660",
-      "type": "movie",
-      "name": "Fukushima: A Nuclear Nightmare",
-      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
-      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
       "id": "tmdb:1291335",
       "type": "movie",
       "name": "Solo Mio",
@@ -775,22 +703,6 @@
       "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
       "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
       "releaseInfo": "2026-03-08"
-    },
-    {
-      "id": "tmdb:1381027",
-      "type": "movie",
-      "name": "Good Boy",
-      "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/nXWewAZxRAr9jYNe2uypLlyPehl.jpg",
-      "releaseInfo": "2026-03-06"
-    },
-    {
-      "id": "tmdb:1265609",
-      "type": "movie",
-      "name": "War Machine",
-      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/kwctIgKW5KQLOZfL2NNgtDnM7JD.jpg",
-      "releaseInfo": "2026-03-06"
     },
     {
       "id": "tmdb:1422562",
@@ -833,6 +745,14 @@
       "releaseInfo": "2026-02-24"
     },
     {
+      "id": "tmdb:1290821",
+      "type": "movie",
+      "name": "Shelter",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "releaseInfo": "2026-02-24"
+    },
+    {
       "id": "tmdb:1128377",
       "type": "movie",
       "name": "In Cold Light",
@@ -865,30 +785,6 @@
       "releaseInfo": "2026-02-20"
     },
     {
-      "id": "tmdb:1327688",
-      "type": "movie",
-      "name": "One Mile: Chapter One",
-      "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
-      "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1639000",
-      "type": "movie",
-      "name": "Famous Last Words: Eric Dane",
-      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1531626",
-      "type": "movie",
-      "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
-      "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
       "id": "tmdb:669356",
       "type": "movie",
       "name": "You Can't Win",
@@ -905,62 +801,6 @@
       "releaseInfo": "2026-02-17"
     },
     {
-      "id": "tmdb:1442908",
-      "type": "movie",
-      "name": "The Singers",
-      "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
-      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1515615",
-      "type": "movie",
-      "name": "Kissing Is the Easy Part",
-      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1243460",
-      "type": "movie",
-      "name": "Joe's College Road Trip",
-      "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1317672",
-      "type": "movie",
-      "name": "Love Me Love Me",
-      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
-      "releaseInfo": "2026-02-12"
-    },
-    {
-      "id": "tmdb:1628484",
-      "type": "movie",
-      "name": "Katt Williams: The Last Report",
-      "description": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
-      "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1146344",
-      "type": "movie",
-      "name": "Misdirection",
-      "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
-      "poster": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1288246",
-      "type": "movie",
-      "name": "The Huntsman",
-      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
-      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
@@ -975,22 +815,6 @@
       "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
       "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
       "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1429605",
-      "type": "movie",
-      "name": "F Valentine's Day",
-      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "releaseInfo": "2026-02-06"
-    },
-    {
-      "id": "tmdb:1618945",
-      "type": "movie",
-      "name": "Yoh! Bestie",
-      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
-      "releaseInfo": "2026-02-06"
     },
     {
       "id": "tmdb:1596291",
@@ -1041,14 +865,6 @@
       "releaseInfo": "2026-01-31"
     },
     {
-      "id": "tmdb:1627824",
-      "type": "movie",
-      "name": "Rocky's Cat-astrophe",
-      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
-      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
-      "releaseInfo": "2026-01-30"
-    },
-    {
       "id": "tmdb:1613335",
       "type": "movie",
       "name": "Miracle: The Boys of '80",
@@ -1063,6 +879,14 @@
       "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
       "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
       "releaseInfo": "2026-01-30"
+    },
+    {
+      "id": "tmdb:1168190",
+      "type": "movie",
+      "name": "The Wrecking Crew",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "releaseInfo": "2026-01-28"
     },
     {
       "id": "tmdb:1624183",
@@ -1407,14 +1231,6 @@
       "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
       "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
       "releaseInfo": "2025-12-08"
-    },
-    {
-      "id": "tmdb:1199193",
-      "type": "movie",
-      "name": "Pose",
-      "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "releaseInfo": "2025-12-05"
     },
     {
       "id": "tmdb:1049574",
