@@ -569,14 +569,6 @@
       "releaseInfo": "2026-04-07"
     },
     {
-      "id": "tmdb:1662432",
-      "type": "movie",
-      "name": "Finding Harry: The Craft Behind the Magic",
-      "description": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
-      "poster": "https://image.tmdb.org/t/p/w500/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
-      "releaseInfo": "2026-04-05"
-    },
-    {
       "id": "tmdb:1462146",
       "type": "movie",
       "name": "S4: The Bob Lazar Story",
@@ -993,6 +985,14 @@
       "releaseInfo": "2026-02-10"
     },
     {
+      "id": "tmdb:1351772",
+      "type": "movie",
+      "name": "Bight",
+      "description": "Two couples' daring foray into open relationships leads down a tumultuous path of jealousy, betrayal, and emotional devastation.",
+      "poster": "https://image.tmdb.org/t/p/w500/14e3WaORkMV1YkVpVLL3UJ6WzRC.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
       "id": "tmdb:1317288",
       "type": "movie",
       "name": "Marty Supreme",
@@ -1078,14 +1078,6 @@
       "name": "Rocky's Cat-astrophe",
       "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
       "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
-      "releaseInfo": "2026-01-30"
-    },
-    {
-      "id": "tmdb:1613335",
-      "type": "movie",
-      "name": "Miracle: The Boys of '80",
-      "description": "This is the story of the “Miracle on Ice,” when the 1980 US Hockey Team beat the USSR in the Olympic semi-finals at the height of the Cold War to bring home a gold medal. Their iconic underdog story is told with never-before-seen 16mm footage and firsthand reflections from the players who were brought back to the scene of their historic victory.",
-      "poster": "https://image.tmdb.org/t/p/w500/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
