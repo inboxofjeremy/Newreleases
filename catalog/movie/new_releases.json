@@ -17,11 +17,19 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:1285959",
+      "type": "movie",
+      "name": "The Passenger",
+      "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/heFjHLMVmYZWC4uhvPNI0idckwU.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tmdb:1083884",
       "type": "movie",
       "name": "Signal One",
       "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
-      "poster": "https://image.tmdb.org/t/p/w500/dINJlQVlDCpsEVqhjFyOjpymxsg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -1423,22 +1431,6 @@
       "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
       "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
       "releaseInfo": "2025-12-09"
-    },
-    {
-      "id": "tmdb:1505013",
-      "type": "movie",
-      "name": "Masaka Kids, A Rhythm Within",
-      "description": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
-      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
-      "releaseInfo": "2025-12-09"
-    },
-    {
-      "id": "tmdb:1586820",
-      "type": "movie",
-      "name": "Elmo and Mark Rober's Merry Giftmas",
-      "description": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
-      "poster": "https://image.tmdb.org/t/p/w500/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
-      "releaseInfo": "2025-12-08"
     },
     {
       "id": "tmdb:1199193",
