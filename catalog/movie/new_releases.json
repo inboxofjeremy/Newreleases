@@ -57,6 +57,14 @@
       "releaseInfo": "2026-06-05"
     },
     {
+      "id": "tmdb:1693002",
+      "type": "movie",
+      "name": "The Murder of Rachel Nickell",
+      "description": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
+      "poster": "https://image.tmdb.org/t/p/w500/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg",
+      "releaseInfo": "2026-06-04"
+    },
+    {
       "id": "tmdb:1380316",
       "type": "movie",
       "name": "Is God Is",
@@ -585,6 +593,14 @@
       "releaseInfo": "2026-04-03"
     },
     {
+      "id": "tmdb:1629369",
+      "type": "movie",
+      "name": "The Truth and Tragedy of Moriah Wilson",
+      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+      "releaseInfo": "2026-04-03"
+    },
+    {
       "id": "tmdb:1493859",
       "type": "movie",
       "name": "Pizza Movie",
@@ -805,7 +821,7 @@
       "type": "movie",
       "name": "War Machine",
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/niPqU1GGEqLoUUa8QnXNsbgGW0D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5txx39hgkMY6iskk3oOX7nU34bE.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -953,6 +969,14 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1317672",
+      "type": "movie",
+      "name": "Love Me Love Me",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "releaseInfo": "2026-02-12"
+    },
+    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
@@ -990,6 +1014,14 @@
       "name": "Marty Supreme",
       "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
       "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1140498",
+      "type": "movie",
+      "name": "Is This Thing On?",
+      "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
@@ -1110,14 +1142,6 @@
       "name": "Greenland 2: Migration",
       "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
       "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1234731",
-      "type": "movie",
-      "name": "Anaconda",
-      "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "poster": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
       "releaseInfo": "2026-01-27"
     },
     {
@@ -1391,30 +1415,6 @@
       "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
       "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
       "releaseInfo": "2025-12-12"
-    },
-    {
-      "id": "tmdb:1585476",
-      "type": "movie",
-      "name": "Kevin Costner Presents: The First Christmas",
-      "description": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
-      "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
-      "releaseInfo": "2025-12-10"
-    },
-    {
-      "id": "tmdb:1255775",
-      "type": "movie",
-      "name": "Merv",
-      "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
-      "poster": "https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
-      "releaseInfo": "2025-12-10"
-    },
-    {
-      "id": "tmdb:1584468",
-      "type": "movie",
-      "name": "Down River",
-      "description": "A sheriff and deputy probe a crime at an abandoned farmhouse in West Virginia's coal country. Their investigation uncovers dark secrets that endanger both the town and the sheriff's grip on reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/6nc1ovWJrJGOz3XQAuTlNm7ueki.jpg",
-      "releaseInfo": "2025-12-09"
     },
     {
       "id": "tmdb:1199193",
