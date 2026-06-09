@@ -153,6 +153,14 @@
       "releaseInfo": "2026-05-24"
     },
     {
+      "id": "tmdb:1698856",
+      "type": "movie",
+      "name": "Master of the Universe",
+      "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
       "id": "tmdb:1368881",
       "type": "movie",
       "name": "Ladies First",
@@ -197,7 +205,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/17xQjvbcot0zhv8q2MnXGPzs8BR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
