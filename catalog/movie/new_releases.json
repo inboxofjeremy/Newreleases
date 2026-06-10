@@ -81,14 +81,6 @@
       "releaseInfo": "2026-06-02"
     },
     {
-      "id": "tmdb:1337592",
-      "type": "movie",
-      "name": "Erupcja",
-      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
-      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
       "id": "tmdb:1232667",
       "type": "movie",
       "name": "Miss You, Love You",
@@ -353,6 +345,14 @@
       "releaseInfo": "2026-05-05"
     },
     {
+      "id": "tmdb:1007757",
+      "type": "movie",
+      "name": "Swapped",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "releaseInfo": "2026-05-01"
+    },
+    {
       "id": "tmdb:1624961",
       "type": "movie",
       "name": "No Ordinary Heist",
@@ -513,6 +513,14 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1367642",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1492341",
       "type": "movie",
       "name": "Noah Kahan: Out of Body",
@@ -543,6 +551,14 @@
       "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
       "poster": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
       "releaseInfo": "2026-04-09"
+    },
+    {
+      "id": "tmdb:1665224",
+      "type": "movie",
+      "name": "Sheng Wang: Purple",
+      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
+      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026-04-07"
     },
     {
       "id": "tmdb:1641319",
@@ -621,7 +637,7 @@
       "type": "movie",
       "name": "Avatar: Fire and Ash",
       "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
@@ -653,7 +669,7 @@
       "type": "movie",
       "name": "How to Make a Killing",
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -937,14 +953,6 @@
       "releaseInfo": "2026-02-13"
     },
     {
-      "id": "tmdb:1515615",
-      "type": "movie",
-      "name": "Kissing Is the Easy Part",
-      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
       "id": "tmdb:1243460",
       "type": "movie",
       "name": "Joe's College Road Trip",
@@ -1065,6 +1073,14 @@
       "releaseInfo": "2026-02-03"
     },
     {
+      "id": "tmdb:1488195",
+      "type": "movie",
+      "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
+      "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
+      "poster": "https://image.tmdb.org/t/p/w500/trqwtP3SaCPUonSe360y0oIprRi.jpg",
+      "releaseInfo": "2026-01-31"
+    },
+    {
       "id": "tmdb:1627824",
       "type": "movie",
       "name": "Rocky's Cat-astrophe",
@@ -1145,6 +1161,14 @@
       "releaseInfo": "2026-01-23"
     },
     {
+      "id": "tmdb:1538718",
+      "type": "movie",
+      "name": "Disneyland Handcrafted",
+      "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
+      "releaseInfo": "2026-01-22"
+    },
+    {
       "id": "tmdb:1595481",
       "type": "movie",
       "name": "Kidnapped: Elizabeth Smart",
@@ -1165,7 +1189,7 @@
       "type": "movie",
       "name": "The Rip",
       "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
       "releaseInfo": "2026-01-16"
     },
     {
