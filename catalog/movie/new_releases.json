@@ -17,6 +17,14 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tmdb:1693534",
+      "type": "movie",
+      "name": "Confessions II – The Film",
+      "description": "Follows a chaotic night out involving ambushing, worshipping, and pursuit that ultimately leads back to the dance floor.",
+      "poster": "https://image.tmdb.org/t/p/w500/k13xVzLmfSdzSLwKs1or8drgBzD.jpg",
+      "releaseInfo": "2026-06-08"
+    },
+    {
       "id": "tmdb:1285959",
       "type": "movie",
       "name": "The Passenger",
@@ -101,7 +109,7 @@
       "type": "movie",
       "name": "Emi Martínez: The Kid Who Stops Time",
       "description": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yDbFSN7Jj0K4a7YFSV4OXQ4Lqhy.jpg",
       "releaseInfo": "2026-05-28"
     },
     {
@@ -437,7 +445,7 @@
       "type": "movie",
       "name": "A Gorilla Story: Told by David Attenborough",
       "description": "Veteran naturalist Sir David Attenborough tells the story of a remarkable group of gorillas, from his first encounter in the '70s to the present day.",
-      "poster": "https://image.tmdb.org/t/p/w500/2gEOMu9Vo9DtkqzYF6s27ArjZDj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5X6VyjG0YYMbJu94l6xEY2YQvss.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -950,6 +958,14 @@
       "name": "The Singers",
       "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
       "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "releaseInfo": "2026-02-13"
+    },
+    {
+      "id": "tmdb:1515615",
+      "type": "movie",
+      "name": "Kissing Is the Easy Part",
+      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
+      "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
