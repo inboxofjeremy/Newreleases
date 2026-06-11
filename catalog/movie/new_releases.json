@@ -185,14 +185,6 @@
       "releaseInfo": "2026-05-21"
     },
     {
-      "id": "tmdb:1380291",
-      "type": "movie",
-      "name": "Tom Clancy's Jack Ryan: Ghost War",
-      "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-      "releaseInfo": "2026-05-20"
-    },
-    {
       "id": "tmdb:1684244",
       "type": "movie",
       "name": "Untold UK: Liverpool's Miracle of Istanbul",
@@ -431,6 +423,14 @@
       "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
       "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
       "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1243741",
+      "type": "movie",
+      "name": "Ballistic",
+      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "releaseInfo": "2026-04-17"
     },
     {
       "id": "tmdb:1659087",
@@ -958,6 +958,14 @@
       "name": "The Singers",
       "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
       "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "releaseInfo": "2026-02-13"
+    },
+    {
+      "id": "tmdb:1515615",
+      "type": "movie",
+      "name": "Kissing Is the Easy Part",
+      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
+      "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
