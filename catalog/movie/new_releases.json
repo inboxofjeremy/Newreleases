@@ -89,6 +89,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tmdb:1337592",
+      "type": "movie",
+      "name": "Erupcja",
+      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
+      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tmdb:1232667",
       "type": "movie",
       "name": "Miss You, Love You",
@@ -129,19 +137,19 @@
       "releaseInfo": "2026-05-26"
     },
     {
-      "id": "tmdb:1390300",
-      "type": "movie",
-      "name": "Over Your Dead Body",
-      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
       "id": "tmdb:898704",
       "type": "movie",
       "name": "Desert Warrior",
       "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
       "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tmdb:1390300",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1321,14 +1329,6 @@
       "releaseInfo": "2025-12-24"
     },
     {
-      "id": "tmdb:1435092",
-      "type": "movie",
-      "name": "Goodbye June",
-      "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
-      "poster": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-      "releaseInfo": "2025-12-24"
-    },
-    {
       "id": "tmdb:1583500",
       "type": "movie",
       "name": "Elway",
@@ -1383,30 +1383,6 @@
       "description": "Breakout star Robby Hoffman hilariously pushes the limits of comedy with red-hot, controversial takes in her debut special.",
       "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
       "releaseInfo": "2025-12-14"
-    },
-    {
-      "id": "tmdb:1567893",
-      "type": "movie",
-      "name": "Sarah Squirm: Live + in the Flesh",
-      "description": "After four seasons (and counting) on Saturday Night Live, Sarah Sherman's unholy alter ego, Sarah Squirm, slithers onto your screen and rips off the straitjacket, unleashing a festering and hilarious hour of bodily fluids, open-wound confessionals, and jokes that will leave scars on your soul.",
-      "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
-      "id": "tmdb:1546050",
-      "type": "movie",
-      "name": "Lone Samurai",
-      "description": "A violent and reckless samurai is shipwrecked on a remote island left without an avenue for his rage. After undertaking a spiritual journey to appease his aggressive thoughts, he finds himself abducted by external demons taking the form of cannibals, putting his sense of reality and deadly talents to the test.",
-      "poster": "https://image.tmdb.org/t/p/w500/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg",
-      "releaseInfo": "2025-12-12"
-    },
-    {
-      "id": "tmdb:1242705",
-      "type": "movie",
-      "name": "One More Shot",
-      "description": "New Years Eve. 1999. Minnie discovers a bottle of time travelling tequila. Each shot takes her back to the start of the night - giving her a bottle’s worth of shots to win back her old flame Joe, and change the course of her millennium.",
-      "poster": "https://image.tmdb.org/t/p/w500/5lYkkKgZxuafkpHkyyRazyHldth.jpg",
-      "releaseInfo": "2025-12-12"
     },
     {
       "id": "tmdb:1199193",
