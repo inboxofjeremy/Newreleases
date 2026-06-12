@@ -185,6 +185,14 @@
       "releaseInfo": "2026-05-21"
     },
     {
+      "id": "tmdb:1380291",
+      "type": "movie",
+      "name": "Tom Clancy's Jack Ryan: Ghost War",
+      "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+      "releaseInfo": "2026-05-20"
+    },
+    {
       "id": "tmdb:1684244",
       "type": "movie",
       "name": "Untold UK: Liverpool's Miracle of Istanbul",
