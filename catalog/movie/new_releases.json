@@ -25,6 +25,14 @@
       "releaseInfo": "2026-06-08"
     },
     {
+      "id": "tmdb:1361071",
+      "type": "movie",
+      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
+      "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
+      "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
+      "releaseInfo": "2026-06-07"
+    },
+    {
       "id": "tmdb:1285959",
       "type": "movie",
       "name": "The Passenger",
