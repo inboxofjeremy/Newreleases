@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:931285",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "releaseInfo": "2026-06-09"
+    },
+    {
       "id": "tmdb:936075",
       "type": "movie",
       "name": "Michael",
@@ -157,7 +165,7 @@
       "type": "movie",
       "name": "Over Your Dead Body",
       "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
