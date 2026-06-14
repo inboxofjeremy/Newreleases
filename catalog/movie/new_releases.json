@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1391074",
+      "type": "movie",
+      "name": "Busboys",
+      "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
+      "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+      "releaseInfo": "2026-06-16"
+    },
+    {
       "id": "tmdb:1699155",
       "type": "movie",
       "name": "Maternal Instinct",
@@ -141,7 +149,7 @@
       "type": "movie",
       "name": "Emi Martínez: The Kid Who Stops Time",
       "description": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/yDbFSN7Jj0K4a7YFSV4OXQ4Lqhy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
       "releaseInfo": "2026-05-28"
     },
     {
@@ -342,6 +350,14 @@
       "name": "Couples Weekend",
       "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
       "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
+      "id": "tmdb:1330021",
+      "type": "movie",
+      "name": "Remarkably Bright Creatures",
+      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "poster": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
       "releaseInfo": "2026-05-08"
     },
     {
