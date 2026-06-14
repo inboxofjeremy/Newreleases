@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1699155",
+      "type": "movie",
+      "name": "Maternal Instinct",
+      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "releaseInfo": "2026-06-12"
+    },
+    {
       "id": "tmdb:931285",
       "type": "movie",
       "name": "Mortal Kombat II",
@@ -27,7 +35,7 @@
     {
       "id": "tmdb:1693534",
       "type": "movie",
-      "name": "Confessions II – The Film",
+      "name": "Confessions II",
       "description": "Follows a chaotic night out involving ambushing, worshipping, and pursuit that ultimately leads back to the dance floor.",
       "poster": "https://image.tmdb.org/t/p/w500/r9xJtmh1Lb2xlVWvGIz10Gl1PjY.jpg",
       "releaseInfo": "2026-06-08"
@@ -93,7 +101,7 @@
       "type": "movie",
       "name": "Is God Is",
       "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "poster": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h4WzpIjTiOXwUna2lvEvfsp8jDM.jpg",
       "releaseInfo": "2026-06-02"
     },
     {
@@ -189,7 +197,7 @@
       "type": "movie",
       "name": "Ladies First",
       "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nbEJF9cWn0kyzzgreuNopPBj8cU.jpg",
       "releaseInfo": "2026-05-22"
     },
     {
@@ -229,7 +237,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -1233,14 +1241,6 @@
       "releaseInfo": "2026-01-13"
     },
     {
-      "id": "tmdb:1371185",
-      "type": "movie",
-      "name": "Song Sung Blue",
-      "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "poster": "https://image.tmdb.org/t/p/w500/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
       "id": "tmdb:1610413",
       "type": "movie",
       "name": "One Last Adventure: The Making of Stranger Things 5",
@@ -1301,7 +1301,7 @@
       "type": "movie",
       "name": "Evil Influencer: The Jodi Hildebrandt Story",
       "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
-      "poster": "https://image.tmdb.org/t/p/w500/rM3NLZgjs7vVWX3htMAWfwHypO8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
       "releaseInfo": "2025-12-30"
     },
     {
