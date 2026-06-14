@@ -129,6 +129,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tmdb:972232",
+      "type": "movie",
+      "name": "K-Pops!",
+      "description": "A washed-up musician travels to Korea to write for K-pop stars, discovering that his long-lost son is set to front one of the country’s hottest new groups. He then jumps at the opportunity to capitalize on his son’s stardom for his own renaissance, but learns that fatherhood is much more fulfilling and meaningful than stardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
+      "releaseInfo": "2026-05-30"
+    },
+    {
       "id": "tmdb:1232667",
       "type": "movie",
       "name": "Miss You, Love You",
