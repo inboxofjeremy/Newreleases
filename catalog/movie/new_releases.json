@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1284016",
+      "type": "movie",
+      "name": "Power Ballad",
+      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsDLLagSIyTu0Gi06QjVKDp2LI2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:1391074",
       "type": "movie",
       "name": "Busboys",
@@ -833,6 +841,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1413097",
+      "type": "movie",
+      "name": "Melania",
+      "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
+      "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+      "releaseInfo": "2026-03-09"
+    },
+    {
       "id": "tmdb:1644807",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -863,6 +879,14 @@
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
       "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
       "releaseInfo": "2026-03-06"
+    },
+    {
+      "id": "tmdb:1422562",
+      "type": "movie",
+      "name": "The Moment",
+      "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
+      "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+      "releaseInfo": "2026-03-03"
     },
     {
       "id": "tmdb:1032892",
