@@ -1129,14 +1129,6 @@
       "releaseInfo": "2026-02-04"
     },
     {
-      "id": "tmdb:1368166",
-      "type": "movie",
-      "name": "The Housemaid",
-      "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "releaseInfo": "2026-02-03"
-    },
-    {
       "id": "tmdb:1488195",
       "type": "movie",
       "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
@@ -1377,28 +1369,12 @@
       "releaseInfo": "2025-12-19"
     },
     {
-      "id": "tmdb:1584125",
-      "type": "movie",
-      "name": "Breakdown: 1975",
-      "description": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
-      "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
-      "releaseInfo": "2025-12-19"
-    },
-    {
       "id": "tmdb:1199193",
       "type": "movie",
       "name": "Pose",
       "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "releaseInfo": "2025-12-05"
-    },
-    {
-      "id": "tmdb:1049574",
-      "type": "movie",
-      "name": "Darkness of Man",
-      "description": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
-      "releaseInfo": "2024-05-07"
     }
   ]
 }
