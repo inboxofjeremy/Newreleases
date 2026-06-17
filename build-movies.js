@@ -36,7 +36,7 @@ async function fetchJSON(url) {
 }
 
 // ===============================
-// ALLOW +10 DAY WINDOW
+// ALLOW +2 DAY WINDOW
 // ===============================
 function isAllowed(dateStr) {
   if (!dateStr) return false;
@@ -44,10 +44,10 @@ function isAllowed(dateStr) {
   const date = new Date(dateStr).getTime();
   const now = Date.now();
 
-  const TEN_DAYS = 10 * 24 * 60 * 60 * 1000;
+  const TWO_DAYS = 2 * 24 * 60 * 60 * 1000;
 
   // allow past + next 10 days
-  return date <= (now + TEN_DAYS);
+  return date <= (now + TWO_DAYS);
 }
 
 // ===============================
