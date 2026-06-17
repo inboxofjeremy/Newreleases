@@ -17,6 +17,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1318413",
+      "type": "movie",
+      "name": "Pressure",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "poster": "https://image.tmdb.org/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
+      "releaseInfo": "2026-06-16"
+    },
+    {
       "id": "tmdb:1391074",
       "type": "movie",
       "name": "Busboys",
