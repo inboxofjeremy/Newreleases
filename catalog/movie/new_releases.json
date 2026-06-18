@@ -281,6 +281,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1307373",
+      "type": "movie",
+      "name": "Wasteman",
+      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1662317",
       "type": "movie",
       "name": "The Crash",
@@ -438,6 +446,14 @@
       "name": "Nikki Glaser: Good Girl",
       "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
       "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1318447",
+      "type": "movie",
+      "name": "Apex",
+      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -1049,22 +1065,6 @@
       "releaseInfo": "2026-02-10"
     },
     {
-      "id": "tmdb:1317288",
-      "type": "movie",
-      "name": "Marty Supreme",
-      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1140498",
-      "type": "movie",
-      "name": "Is This Thing On?",
-      "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "poster": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
       "id": "tmdb:1429605",
       "type": "movie",
       "name": "F Valentine's Day",
@@ -1111,14 +1111,6 @@
       "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
       "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
-    },
-    {
-      "id": "tmdb:1488195",
-      "type": "movie",
-      "name": "Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey",
-      "description": "When a mysterious toy company seeks to profit off the turtles' new hero status, the brothers follow the clues to New Jersey and make a shocking discovery in this all new original short.",
-      "poster": "https://image.tmdb.org/t/p/w500/trqwtP3SaCPUonSe360y0oIprRi.jpg",
-      "releaseInfo": "2026-01-31"
     },
     {
       "id": "tmdb:1627824",
@@ -1265,14 +1257,6 @@
       "releaseInfo": "2026-01-07"
     },
     {
-      "id": "tmdb:1566665",
-      "type": "movie",
-      "name": "12 Hours in October",
-      "description": "Inspired by the events of October 7, 2023, the film depicts the separate points of view of different characters as they face the terror and chaos of the first twelve hours of that fateful day.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg",
-      "releaseInfo": "2026-01-06"
-    },
-    {
       "id": "tmdb:1601082",
       "type": "movie",
       "name": "Cheetahs Up Close with Bertie Gregory",
@@ -1305,14 +1289,6 @@
       "releaseInfo": "2025-12-29"
     },
     {
-      "id": "tmdb:1516391",
-      "type": "movie",
-      "name": "Cover-Up",
-      "description": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
-      "poster": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
-      "releaseInfo": "2025-12-26"
-    },
-    {
       "id": "tmdb:1588965",
       "type": "movie",
       "name": "Tom Segura: Teacher",
@@ -1327,30 +1303,6 @@
       "description": "Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.",
       "poster": "https://image.tmdb.org/t/p/w500/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
       "releaseInfo": "2025-12-22"
-    },
-    {
-      "id": "tmdb:1497017",
-      "type": "movie",
-      "name": "Adult Swim's The Elephant",
-      "description": "Crafted in three parts by four animation superstars, Adult Swim's The Elephant brings to life a very human journey of self-discovery in varied styles.",
-      "poster": "https://image.tmdb.org/t/p/w500/hesk0yJrkojyuZcyZ4KRxMtAQNK.jpg",
-      "releaseInfo": "2025-12-20"
-    },
-    {
-      "id": "tmdb:1601195",
-      "type": "movie",
-      "name": "Dave Chappelle: The Unstoppable...",
-      "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
-      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
-      "releaseInfo": "2025-12-19"
-    },
-    {
-      "id": "tmdb:1529419",
-      "type": "movie",
-      "name": "Kumail Nanjiani: Night Thoughts",
-      "description": "After nearly a decade away, Kumail Nanjiani returns to Chicago, where he got his start in standup, in a new special that tackles anxiety, the perils of buying drugs pre-legalization, and most importantly, cat medication.",
-      "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
-      "releaseInfo": "2025-12-19"
     },
     {
       "id": "tmdb:1199193",
