@@ -137,14 +137,6 @@
       "releaseInfo": "2026-06-02"
     },
     {
-      "id": "tmdb:972232",
-      "type": "movie",
-      "name": "K-Pops!",
-      "description": "A washed-up musician travels to Korea to write for K-pop stars, discovering that his long-lost son is set to front one of the country’s hottest new groups. He then jumps at the opportunity to capitalize on his son’s stardom for his own renaissance, but learns that fatherhood is much more fulfilling and meaningful than stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
-      "releaseInfo": "2026-05-30"
-    },
-    {
       "id": "tmdb:1232667",
       "type": "movie",
       "name": "Miss You, Love You",
@@ -425,14 +417,6 @@
       "releaseInfo": "2026-04-28"
     },
     {
-      "id": "tmdb:1327819",
-      "type": "movie",
-      "name": "Hoppers",
-      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "releaseInfo": "2026-04-28"
-    },
-    {
       "id": "tmdb:1656061",
       "type": "movie",
       "name": "Immortal Combat",
@@ -462,14 +446,6 @@
       "name": "Tow",
       "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
       "poster": "https://image.tmdb.org/t/p/w500/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
-      "releaseInfo": "2026-04-21"
-    },
-    {
-      "id": "tmdb:1383731",
-      "type": "movie",
-      "name": "Protector",
-      "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-04-21"
     },
     {
@@ -705,14 +681,6 @@
       "releaseInfo": "2026-03-27"
     },
     {
-      "id": "tmdb:938150",
-      "type": "movie",
-      "name": "Wardriver",
-      "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
-      "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
       "id": "tmdb:1637319",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
@@ -809,14 +777,6 @@
       "releaseInfo": "2026-03-11"
     },
     {
-      "id": "tmdb:1439660",
-      "type": "movie",
-      "name": "Fukushima: A Nuclear Nightmare",
-      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
-      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
       "id": "tmdb:1119449",
       "type": "movie",
       "name": "Good Luck, Have Fun, Don't Die",
@@ -847,14 +807,6 @@
       "description": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
       "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
       "releaseInfo": "2026-03-09"
-    },
-    {
-      "id": "tmdb:1644807",
-      "type": "movie",
-      "name": "Harry Styles. One Night in Manchester.",
-      "description": "In a special one off concert in Manchester, recorded on the evening of March 6, Harry Styles played his new album, ‘Kiss All The Time. Disco, Occasionally.' for the very first time.",
-      "poster": "https://image.tmdb.org/t/p/w500/AigpusxLychNPHCdB8jRVTEQ1kS.jpg",
-      "releaseInfo": "2026-03-08"
     },
     {
       "id": "tmdb:1451867",
@@ -897,28 +849,12 @@
       "releaseInfo": "2026-02-27"
     },
     {
-      "id": "tmdb:1260643",
-      "type": "movie",
-      "name": "Man on the Run",
-      "description": "Paul McCartney forms new band Wings after Beatles breakup. Archival home footage shows his life with Linda, who influenced his music. The film follows Wings from formation through the 1970s, during which McCartney wrote hit songs.",
-      "poster": "https://image.tmdb.org/t/p/w500/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
-      "releaseInfo": "2026-02-25"
-    },
-    {
       "id": "tmdb:799882",
       "type": "movie",
       "name": "The Bluff",
       "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
       "poster": "https://image.tmdb.org/t/p/w500/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
       "releaseInfo": "2026-02-25"
-    },
-    {
-      "id": "tmdb:1617908",
-      "type": "movie",
-      "name": "Taylor Tomlinson: Prodigal Daughter",
-      "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
-      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
-      "releaseInfo": "2026-02-24"
     },
     {
       "id": "tmdb:1290821",
@@ -951,30 +887,6 @@
       "description": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
       "poster": "https://image.tmdb.org/t/p/w500/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
       "releaseInfo": "2026-02-23"
-    },
-    {
-      "id": "tmdb:1327690",
-      "type": "movie",
-      "name": "One Mile: Chapter Two",
-      "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
-      "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1327688",
-      "type": "movie",
-      "name": "One Mile: Chapter One",
-      "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
-      "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1639000",
-      "type": "movie",
-      "name": "Famous Last Words: Eric Dane",
-      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
-      "releaseInfo": "2026-02-20"
     },
     {
       "id": "tmdb:1531626",
@@ -1025,14 +937,6 @@
       "releaseInfo": "2026-02-13"
     },
     {
-      "id": "tmdb:1317672",
-      "type": "movie",
-      "name": "Love Me Love Me",
-      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
-      "releaseInfo": "2026-02-12"
-    },
-    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
@@ -1063,14 +967,6 @@
       "description": "Two couples' daring foray into open relationships leads down a tumultuous path of jealousy, betrayal, and emotional devastation.",
       "poster": "https://image.tmdb.org/t/p/w500/14e3WaORkMV1YkVpVLL3UJ6WzRC.jpg",
       "releaseInfo": "2026-02-10"
-    },
-    {
-      "id": "tmdb:1429605",
-      "type": "movie",
-      "name": "F Valentine's Day",
-      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "releaseInfo": "2026-02-06"
     },
     {
       "id": "tmdb:1618945",
