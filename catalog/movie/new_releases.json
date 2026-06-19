@@ -753,6 +753,14 @@
       "releaseInfo": "2026-03-24"
     },
     {
+      "id": "tmdb:1154538",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
       "id": "tmdb:1482168",
       "type": "movie",
       "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
@@ -993,6 +1001,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1088434",
+      "type": "movie",
+      "name": "Hellfire",
+      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "releaseInfo": "2026-02-17"
+    },
+    {
       "id": "tmdb:669356",
       "type": "movie",
       "name": "You Can't Win",
@@ -1141,7 +1157,7 @@
       "type": "movie",
       "name": "Terri Joe: Missionary in Miami",
       "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
-      "poster": "https://image.tmdb.org/t/p/w500/zLBz0HPcial4opOnThYmfW6piOu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kBuF8YuR6D1NVXCZDsH26D0TGuU.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
