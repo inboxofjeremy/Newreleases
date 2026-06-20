@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:614945",
+      "type": "movie",
+      "name": "Voicemails for Isabelle",
+      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
       "id": "tmdb:1716513",
       "type": "movie",
       "name": "Extreme Makeover: Homer Edition",
@@ -195,7 +203,7 @@
     {
       "id": "tmdb:898704",
       "type": "movie",
-      "name": "Wüstenkrieger",
+      "name": "Desert Warrior",
       "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
       "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
@@ -1319,14 +1327,6 @@
       "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
       "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
       "releaseInfo": "2025-12-24"
-    },
-    {
-      "id": "tmdb:1583500",
-      "type": "movie",
-      "name": "Elway",
-      "description": "Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
-      "releaseInfo": "2025-12-22"
     },
     {
       "id": "tmdb:1199193",
