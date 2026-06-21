@@ -1,11 +1,35 @@
 {
   "metas": [
     {
+      "id": "tmdb:1227877",
+      "type": "movie",
+      "name": "I Love Boosters",
+      "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tmdb:1284016",
+      "type": "movie",
+      "name": "Power Ballad",
+      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsDLLagSIyTu0Gi06QjVKDp2LI2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:614945",
       "type": "movie",
       "name": "Voicemails for Isabelle",
       "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
       "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tmdb:1558796",
+      "type": "movie",
+      "name": "Never Change!",
+      "description": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30's, they're being forced to return home and finish high school once and for all.",
+      "poster": "https://image.tmdb.org/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
@@ -681,11 +705,27 @@
       "releaseInfo": "2026-04-03"
     },
     {
+      "id": "tmdb:1629369",
+      "type": "movie",
+      "name": "The Truth and Tragedy of Moriah Wilson",
+      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+      "releaseInfo": "2026-04-03"
+    },
+    {
       "id": "tmdb:1493859",
       "type": "movie",
       "name": "Pizza Movie",
       "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
       "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+      "releaseInfo": "2026-04-03"
+    },
+    {
+      "id": "tmdb:1326036",
+      "type": "movie",
+      "name": "Addition",
+      "description": "Grace Lisa Vandenburg counts everything - the letters in her name, the poppy seeds on her orange cake. She counts because numbers hold the world together. But when a chance encounter with Seamus turns her world upside down, Grace's meticulously ordered life starts to unravel.",
+      "poster": "https://image.tmdb.org/t/p/w500/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
@@ -775,6 +815,14 @@
       "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
       "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
       "releaseInfo": "2026-03-20"
+    },
+    {
+      "id": "tmdb:1641817",
+      "type": "movie",
+      "name": "Mark Normand: None Too Pleased",
+      "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
+      "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
+      "releaseInfo": "2026-03-17"
     },
     {
       "id": "tmdb:1440049",
