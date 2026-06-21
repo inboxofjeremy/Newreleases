@@ -873,14 +873,6 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
       "id": "tmdb:1291335",
       "type": "movie",
       "name": "Solo Mio",
