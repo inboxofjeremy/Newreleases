@@ -25,6 +25,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1355496",
+      "type": "movie",
+      "name": "By Design",
+      "description": "A woman swaps bodies with a chair, and everyone likes her better as a chair.",
+      "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:614945",
       "type": "movie",
       "name": "Voicemails for Isabelle",
@@ -79,6 +87,14 @@
       "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
       "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
       "releaseInfo": "2026-06-16"
+    },
+    {
+      "id": "tmdb:1325614",
+      "type": "movie",
+      "name": "Badland Rising",
+      "description": "An ordinary bloke embarks on a 19-hour drive home, unaware of being pursued by two unhinged criminals. Once he discovers their motive, his journey turns into a brutal fight for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/u7rRl06V3320RSeBcircpaeePnr.jpg",
+      "releaseInfo": "2026-06-12"
     },
     {
       "id": "tmdb:1699155",
