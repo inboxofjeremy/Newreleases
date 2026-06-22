@@ -17,6 +17,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1515899",
+      "type": "movie",
+      "name": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "description": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+      "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:614945",
       "type": "movie",
       "name": "Voicemails for Isabelle",
