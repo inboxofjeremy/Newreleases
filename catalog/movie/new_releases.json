@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1301421",
+      "type": "movie",
+      "name": "The Sheep Detectives",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+      "releaseInfo": "2026-06-24"
+    },
+    {
       "id": "tmdb:1227877",
       "type": "movie",
       "name": "I Love Boosters",
@@ -1383,14 +1391,6 @@
       "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
       "poster": "https://image.tmdb.org/t/p/w500/gThb7GuqTZ19EHgcvX3GSDdNBqJ.jpg",
       "releaseInfo": "2025-12-29"
-    },
-    {
-      "id": "tmdb:1588965",
-      "type": "movie",
-      "name": "Tom Segura: Teacher",
-      "description": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
-      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
-      "releaseInfo": "2025-12-24"
     },
     {
       "id": "tmdb:1199193",
