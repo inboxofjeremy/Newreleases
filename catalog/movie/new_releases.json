@@ -9,6 +9,14 @@
       "releaseInfo": "2026-06-24"
     },
     {
+      "id": "tmdb:1340206",
+      "type": "movie",
+      "name": "Tuner",
+      "description": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:1227877",
       "type": "movie",
       "name": "I Love Boosters",
@@ -21,7 +29,7 @@
       "type": "movie",
       "name": "Power Ballad",
       "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "poster": "https://image.tmdb.org/t/p/w500/lsDLLagSIyTu0Gi06QjVKDp2LI2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -60,7 +68,7 @@
       "id": "tmdb:1558796",
       "type": "movie",
       "name": "Never Change!",
-      "description": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30's, they're being forced to return home and finish high school once and for all.",
+      "description": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30s, they're being forced to return home and finish high school once and for all.",
       "poster": "https://image.tmdb.org/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
       "releaseInfo": "2026-06-19"
     },
@@ -125,7 +133,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/zZtagf8mE4mdUqpWskVn23HaoiG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "releaseInfo": "2026-06-09"
     },
     {
@@ -405,7 +413,7 @@
       "type": "movie",
       "name": "Marty, Life Is Short",
       "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
-      "poster": "https://image.tmdb.org/t/p/w500/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
@@ -703,14 +711,6 @@
       "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
       "poster": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
       "releaseInfo": "2026-04-09"
-    },
-    {
-      "id": "tmdb:1665224",
-      "type": "movie",
-      "name": "Sheng Wang: Purple",
-      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
-      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
-      "releaseInfo": "2026-04-07"
     },
     {
       "id": "tmdb:1641319",
