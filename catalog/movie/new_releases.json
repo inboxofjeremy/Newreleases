@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1245859",
+      "type": "movie",
+      "name": "Savage House",
+      "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+      "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tmdb:1301421",
       "type": "movie",
       "name": "The Sheep Detectives",
@@ -12,8 +20,8 @@
       "id": "tmdb:1340206",
       "type": "movie",
       "name": "Tuner",
-      "description": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -29,7 +37,7 @@
       "type": "movie",
       "name": "Power Ballad",
       "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -389,7 +397,7 @@
       "type": "movie",
       "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
       "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/doRAgLMtD34F4fDPAKiVt2ixEiV.jpg",
       "releaseInfo": "2026-05-14"
     },
     {
@@ -934,14 +942,6 @@
       "name": "Solo Mio",
       "description": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1401281",
-      "type": "movie",
-      "name": "The Testament of Ann Lee",
-      "description": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers, who preached gender and social equality and was revered by her followers as the female Christ.",
-      "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
