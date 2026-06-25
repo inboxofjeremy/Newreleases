@@ -441,14 +441,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tmdb:1292415",
-      "type": "movie",
-      "name": "Beast",
-      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tmdb:1455079",
       "type": "movie",
       "name": "You, Me & Tuscany",
@@ -689,6 +681,22 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1616400",
+      "type": "movie",
+      "name": "#SKYKING",
+      "description": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1367642",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1492341",
       "type": "movie",
       "name": "Noah Kahan: Out of Body",
@@ -809,6 +817,22 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tmdb:1115544",
+      "type": "movie",
+      "name": "Mike & Nick & Nick & Alice",
+      "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tmdb:938150",
+      "type": "movie",
+      "name": "Wardriver",
+      "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
+      "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
       "id": "tmdb:1637319",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
@@ -887,6 +911,14 @@
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
       "releaseInfo": "2026-03-15"
+    },
+    {
+      "id": "tmdb:1636891",
+      "type": "movie",
+      "name": "Mexicali",
+      "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "releaseInfo": "2026-03-13"
     },
     {
       "id": "tmdb:1633264",
