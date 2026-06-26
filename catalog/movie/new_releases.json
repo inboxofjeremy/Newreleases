@@ -441,6 +441,14 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tmdb:1292415",
+      "type": "movie",
+      "name": "Beast",
+      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tmdb:1455079",
       "type": "movie",
       "name": "You, Me & Tuscany",
