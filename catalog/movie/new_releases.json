@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:1245859",
+      "id": "tmdb:1397385",
       "type": "movie",
-      "name": "Savage House",
-      "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
-      "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+      "name": "Little Brother",
+      "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+      "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "Power Ballad",
       "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "poster": "https://image.tmdb.org/t/p/w500/sLBDmLBZ2i0wy95PY519WboTlaF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -78,6 +78,14 @@
       "name": "Voicemails for Isabelle",
       "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
       "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tmdb:1593151",
+      "type": "movie",
+      "name": "Stepfather",
+      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
+      "poster": "https://image.tmdb.org/t/p/w500/3k1TEn6r22wegou8Bo6yrnbcC7x.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
@@ -145,6 +153,14 @@
       "releaseInfo": "2026-06-12"
     },
     {
+      "id": "tmdb:1710203",
+      "type": "movie",
+      "name": "Tony Hinchcliffe: Man of the People",
+      "description": "Tony Hinchcliffe takes center stage to prove no topic is too taboo and nothing is off-limits — not even the audience — in this razor-sharp special.",
+      "poster": "https://image.tmdb.org/t/p/w500/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
+      "releaseInfo": "2026-06-09"
+    },
+    {
       "id": "tmdb:931285",
       "type": "movie",
       "name": "Mortal Kombat II",
@@ -177,14 +193,6 @@
       "releaseInfo": "2026-06-07"
     },
     {
-      "id": "tmdb:1285959",
-      "type": "movie",
-      "name": "The Passenger",
-      "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
       "id": "tmdb:1083884",
       "type": "movie",
       "name": "Signal One",
@@ -213,7 +221,7 @@
       "type": "movie",
       "name": "Seven Snipers",
       "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -753,14 +761,6 @@
       "releaseInfo": "2026-04-07"
     },
     {
-      "id": "tmdb:1445363",
-      "type": "movie",
-      "name": "EPiC: Elvis Presley in Concert",
-      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-      "releaseInfo": "2026-04-07"
-    },
-    {
       "id": "tmdb:1662432",
       "type": "movie",
       "name": "Finding Harry: The Craft Behind the Magic",
@@ -977,11 +977,19 @@
       "releaseInfo": "2026-03-08"
     },
     {
+      "id": "tmdb:1451867",
+      "type": "movie",
+      "name": "Ghost Elephants",
+      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+      "releaseInfo": "2026-03-08"
+    },
+    {
       "id": "tmdb:1381027",
       "type": "movie",
       "name": "Good Boy",
       "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/nXWewAZxRAr9jYNe2uypLlyPehl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cEXT4bXOrM0pqrK714NP3M69cWW.jpg",
       "releaseInfo": "2026-03-06"
     },
     {
@@ -1007,14 +1015,6 @@
       "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
       "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
       "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tmdb:1260643",
-      "type": "movie",
-      "name": "Man on the Run",
-      "description": "Paul McCartney forms new band Wings after Beatles breakup. Archival home footage shows his life with Linda, who influenced his music. The film follows Wings from formation through the 1970s, during which McCartney wrote hit songs.",
-      "poster": "https://image.tmdb.org/t/p/w500/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
-      "releaseInfo": "2026-02-25"
     },
     {
       "id": "tmdb:799882",
