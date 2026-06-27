@@ -1,11 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1585580",
+      "type": "movie",
+      "name": "A Super Progressive Movie",
+      "description": "When their rainbow malfunctions, four progressives journey beyond the insulated “Naarm Bubble” into a real world led by Prime Minister Pauline Hanson, searching for their ideology’s most powerful weapon: the Victimhood.",
+      "poster": "https://image.tmdb.org/t/p/w500/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
+      "releaseInfo": "2026-06-29"
+    },
+    {
       "id": "tmdb:1397385",
       "type": "movie",
       "name": "Little Brother",
       "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
       "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
+      "id": "tmdb:1245859",
+      "type": "movie",
+      "name": "Savage House",
+      "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+      "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -191,6 +207,14 @@
       "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
       "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
       "releaseInfo": "2026-06-07"
+    },
+    {
+      "id": "tmdb:1285959",
+      "type": "movie",
+      "name": "The Passenger",
+      "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
+      "releaseInfo": "2026-06-05"
     },
     {
       "id": "tmdb:1083884",
@@ -595,7 +619,7 @@
     {
       "id": "tmdb:1383731",
       "type": "movie",
-      "name": "Protector",
+      "name": "Instinto protector",
       "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
       "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-04-21"
@@ -758,6 +782,14 @@
       "name": "Sniper: No Nation",
       "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
       "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
+      "id": "tmdb:1445363",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
@@ -1015,6 +1047,14 @@
       "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
       "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
       "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1260643",
+      "type": "movie",
+      "name": "Man on the Run",
+      "description": "Paul McCartney forms new band Wings after Beatles breakup. Archival home footage shows his life with Linda, who influenced his music. The film follows Wings from formation through the 1970s, during which McCartney wrote hit songs.",
+      "poster": "https://image.tmdb.org/t/p/w500/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
+      "releaseInfo": "2026-02-25"
     },
     {
       "id": "tmdb:799882",
