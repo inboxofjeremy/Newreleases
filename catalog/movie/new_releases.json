@@ -357,7 +357,7 @@
       "type": "movie",
       "name": "Master of the Universe",
       "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gcUI9aI8i8LmwivJiLTTgDBTC9r.jpg",
       "releaseInfo": "2026-05-22"
     },
     {
@@ -619,10 +619,18 @@
     {
       "id": "tmdb:1383731",
       "type": "movie",
-      "name": "Instinto protector",
+      "name": "Protector",
       "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
       "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1677550",
+      "type": "movie",
+      "name": "KillTonyMania",
+      "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+      "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
+      "releaseInfo": "2026-04-20"
     },
     {
       "id": "tmdb:1243741",
@@ -814,6 +822,14 @@
       "name": "Pizza Movie",
       "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
       "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+      "releaseInfo": "2026-04-03"
+    },
+    {
+      "id": "tmdb:1326036",
+      "type": "movie",
+      "name": "Addition",
+      "description": "Grace Lisa Vandenburg counts everything - the letters in her name, the poppy seeds on her orange cake. She counts because numbers hold the world together. But when a chance encounter with Seamus turns her world upside down, Grace's meticulously ordered life starts to unravel.",
+      "poster": "https://image.tmdb.org/t/p/w500/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
@@ -1255,6 +1271,14 @@
       "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
       "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
+    },
+    {
+      "id": "tmdb:1627824",
+      "type": "movie",
+      "name": "Rocky's Cat-astrophe",
+      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+      "releaseInfo": "2026-01-30"
     },
     {
       "id": "tmdb:1613335",
