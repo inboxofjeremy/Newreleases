@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1314481",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
       "id": "tmdb:1585580",
       "type": "movie",
       "name": "A Super Progressive Movie",
@@ -17,11 +25,27 @@
       "releaseInfo": "2026-06-26"
     },
     {
+      "id": "tmdb:880067",
+      "type": "movie",
+      "name": "Strung",
+      "description": "A talented violinist whose prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tmdb:1245859",
       "type": "movie",
       "name": "Savage House",
       "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
       "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -1431,22 +1455,6 @@
       "description": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
       "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
       "releaseInfo": "2025-12-30"
-    },
-    {
-      "id": "tmdb:1312150",
-      "type": "movie",
-      "name": "Ricky Gervais: Mortality",
-      "description": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
-      "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
-      "releaseInfo": "2025-12-30"
-    },
-    {
-      "id": "tmdb:1601000",
-      "type": "movie",
-      "name": "Critical Incident: Death at the Border",
-      "description": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
-      "poster": "https://image.tmdb.org/t/p/w500/gThb7GuqTZ19EHgcvX3GSDdNBqJ.jpg",
-      "releaseInfo": "2025-12-29"
     },
     {
       "id": "tmdb:1199193",
