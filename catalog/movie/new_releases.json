@@ -89,6 +89,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tmdb:1515899",
+      "type": "movie",
+      "name": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "description": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+      "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:1355496",
       "type": "movie",
       "name": "By Design",
@@ -199,6 +207,14 @@
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "releaseInfo": "2026-06-09"
+    },
+    {
+      "id": "tmdb:1693534",
+      "type": "movie",
+      "name": "Confessions II – The Film",
+      "description": "Follows a chaotic night out involving ambushing, worshipping, and pursuit that ultimately leads back to the dance floor.",
+      "poster": "https://image.tmdb.org/t/p/w500/r9xJtmh1Lb2xlVWvGIz10Gl1PjY.jpg",
+      "releaseInfo": "2026-06-08"
     },
     {
       "id": "tmdb:1361071",
@@ -351,6 +367,14 @@
       "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
       "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
       "releaseInfo": "2026-05-24"
+    },
+    {
+      "id": "tmdb:1675032",
+      "type": "movie",
+      "name": "Josh Johnson: Symphony",
+      "description": "In his first HBO comedy special, comedian Josh Johnson debuts original material about our shared experiences as humans – tackling topics like family, religion, and relationships through his unique point of view and signature creativity.",
+      "poster": "https://image.tmdb.org/t/p/w500/ycJcUb7vvUV4vtHOPAX0zgXxDeV.jpg",
+      "releaseInfo": "2026-05-22"
     },
     {
       "id": "tmdb:1698856",
@@ -529,6 +553,14 @@
       "releaseInfo": "2026-05-08"
     },
     {
+      "id": "tmdb:1330021",
+      "type": "movie",
+      "name": "Remarkably Bright Creatures",
+      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "poster": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
       "id": "tmdb:1421977",
       "type": "movie",
       "name": "Fantasy Life",
@@ -665,6 +697,14 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tmdb:1511057",
+      "type": "movie",
+      "name": "Roommates",
+      "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+      "poster": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up",
@@ -678,6 +718,22 @@
       "name": "Trevor Noah: Joy in the Trenches",
       "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
       "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1641965",
+      "type": "movie",
+      "name": "Untold: Jail Blazers",
+      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1444249",
+      "type": "movie",
+      "name": "The Highest Stakes",
+      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
@@ -719,6 +775,14 @@
       "description": "After rocketing to global fame, singer-songwriter Noah Kahan returns to his Vermont roots to get back in tune with himself.",
       "poster": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
       "releaseInfo": "2026-04-13"
+    },
+    {
+      "id": "tmdb:1604975",
+      "type": "movie",
+      "name": "AEW Dynasty 2026",
+      "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
+      "releaseInfo": "2026-04-12"
     },
     {
       "id": "tmdb:1472951",
@@ -767,6 +831,14 @@
       "description": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
       "poster": "https://image.tmdb.org/t/p/w500/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
       "releaseInfo": "2026-04-05"
+    },
+    {
+      "id": "tmdb:1657686",
+      "type": "movie",
+      "name": "NXT Stand & Deliver 2026",
+      "description": "Stand & Deliver 2026 was a professional wrestling event produced by World Wrestling Entertainment (WWE) for its NXT brand, held on April 4, 2026, at The Factory at The District in St. Louis, Missouri, marking the first edition to take place outside of WrestleMania week and NXT’s first standalone event to stream on YouTube in the United States. It was headlined by Joe Hendry (c) vs. Ethan Page vs. Ricky Saints vs. Tony D’Angelo in a Fatal Four Way match for the NXT Championship.",
+      "poster": "https://image.tmdb.org/t/p/w500/jv5WLIFqutx4FsPU6WlmnZT5ZFA.jpg",
+      "releaseInfo": "2026-04-04"
     },
     {
       "id": "tmdb:1462146",
