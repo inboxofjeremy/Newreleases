@@ -457,6 +457,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1226863",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1307373",
       "type": "movie",
       "name": "Wasteman",
@@ -477,7 +485,7 @@
       "type": "movie",
       "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
       "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-      "poster": "https://image.tmdb.org/t/p/w500/doRAgLMtD34F4fDPAKiVt2ixEiV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
       "releaseInfo": "2026-05-14"
     },
     {
@@ -1017,6 +1025,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1439660",
+      "type": "movie",
+      "name": "Fukushima: A Nuclear Nightmare",
+      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
       "id": "tmdb:1119449",
       "type": "movie",
       "name": "Good Luck, Have Fun, Don't Die",
@@ -1383,6 +1399,14 @@
       "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
       "poster": "https://image.tmdb.org/t/p/w500/hbURquxQUJXFfeqpjzmHekRmyqb.jpg",
       "releaseInfo": "2026-01-23"
+    },
+    {
+      "id": "tmdb:1538718",
+      "type": "movie",
+      "name": "Disneyland Handcrafted",
+      "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
+      "releaseInfo": "2026-01-22"
     },
     {
       "id": "tmdb:1595481",
