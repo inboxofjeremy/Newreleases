@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Devil Wears Prada 2",
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -15,6 +15,14 @@
       "description": "Melbourne is the last bastion of \"The Progressives,\" a society shielded from the outside world by a glowing rainbow \"virtue signal.\" When the shield begins to fail, an Aboriginal elder named Murray reveals the truth: the culture war was lost long ago, and only the legendary Victimhood can save them. Tasked with retrieving it is Pete, a downtrodden white man treated as the lowest rung of society. Joined by Murray, the vain Princess Stacey, and Social Justice Warrior Lance, Pete ventures into the \"real\" Australia for the first time, discovering it's nothing like he was told — while Prime Minister Pauline Hanson races to reach the weapon first.",
       "poster": "https://image.tmdb.org/t/p/w500/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
       "releaseInfo": "2026-06-29"
+    },
+    {
+      "id": "tmdb:1673179",
+      "type": "movie",
+      "name": "AEW x NJPW Forbidden Door 2026",
+      "description": "The 2026 Forbidden Door was a professional wrestling pay-per-view (PPV) event and supershow co-produced by the American promotion All Elite Wrestling (AEW), Mexican promotion Consejo Mundial de Lucha Libre (CMLL) and the Japanese promotions New Japan Pro-Wrestling (NJPW) and World Wonder Ring Stardom (Stardom). It was the fifth annual Forbidden Door event and took place on June 28, 2026 at SAP Center at San Jose in San Jose, California, USA.",
+      "poster": "https://image.tmdb.org/t/p/w500/wEZNwoizmtIBhtJcQbvQAfb73ax.jpg",
+      "releaseInfo": "2026-06-28"
     },
     {
       "id": "tmdb:1397385",
