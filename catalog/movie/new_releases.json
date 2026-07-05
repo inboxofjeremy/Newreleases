@@ -177,6 +177,14 @@
       "releaseInfo": "2026-06-17"
     },
     {
+      "id": "tmdb:1318413",
+      "type": "movie",
+      "name": "Pressure",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "poster": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "releaseInfo": "2026-06-16"
+    },
+    {
       "id": "tmdb:1391074",
       "type": "movie",
       "name": "Busboys",
@@ -951,14 +959,6 @@
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
       "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
       "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tmdb:1084187",
-      "type": "movie",
-      "name": "Pretty Lethal",
-      "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "poster": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-      "releaseInfo": "2026-03-25"
     },
     {
       "id": "tmdb:1637319",
