@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1280738",
+      "type": "movie",
+      "name": "The Furious",
+      "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "releaseInfo": "2026-07-07"
+    },
+    {
       "id": "tmdb:1202033",
       "type": "movie",
       "name": "Enola Holmes 3",
@@ -69,7 +77,7 @@
       "type": "movie",
       "name": "The Sheep Detectives",
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
       "releaseInfo": "2026-06-24"
     },
     {
@@ -1487,6 +1495,14 @@
       "description": "A legendary TV star solves a murder mystery at her country estate.",
       "poster": "https://image.tmdb.org/t/p/w500/zbaHOXKKGoSkZeAEBDwLnttp6I8.jpg",
       "releaseInfo": "2026-01-13"
+    },
+    {
+      "id": "tmdb:1610413",
+      "type": "movie",
+      "name": "One Last Adventure: The Making of Stranger Things 5",
+      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
+      "releaseInfo": "2026-01-12"
     },
     {
       "id": "tmdb:1601243",
