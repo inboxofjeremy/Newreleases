@@ -913,14 +913,6 @@
       "releaseInfo": "2026-04-03"
     },
     {
-      "id": "tmdb:1493859",
-      "type": "movie",
-      "name": "Pizza Movie",
-      "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
-      "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
-      "releaseInfo": "2026-04-03"
-    },
-    {
       "id": "tmdb:1326036",
       "type": "movie",
       "name": "Addition",
@@ -1047,14 +1039,6 @@
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
       "releaseInfo": "2026-03-15"
-    },
-    {
-      "id": "tmdb:1636891",
-      "type": "movie",
-      "name": "Mexicali",
-      "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
-      "releaseInfo": "2026-03-13"
     },
     {
       "id": "tmdb:1633264",
@@ -1233,22 +1217,6 @@
       "releaseInfo": "2026-02-20"
     },
     {
-      "id": "tmdb:1639000",
-      "type": "movie",
-      "name": "Famous Last Words: Eric Dane",
-      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1531626",
-      "type": "movie",
-      "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
-      "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
       "id": "tmdb:1088434",
       "type": "movie",
       "name": "Hellfire",
@@ -1262,14 +1230,6 @@
       "name": "You Can't Win",
       "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
       "poster": "https://image.tmdb.org/t/p/w500/h4MibstPDRiwot9A5324UBLZJoW.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1236153",
-      "type": "movie",
-      "name": "Mercy",
-      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-02-17"
     },
     {
