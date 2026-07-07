@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1280738",
-      "type": "movie",
-      "name": "The Furious",
-      "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "releaseInfo": "2026-07-07"
-    },
-    {
       "id": "tmdb:1725116",
       "type": "movie",
       "name": "Simpsley",
