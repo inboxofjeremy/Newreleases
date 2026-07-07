@@ -9,6 +9,14 @@
       "releaseInfo": "2026-07-07"
     },
     {
+      "id": "tmdb:1725116",
+      "type": "movie",
+      "name": "Simpsley",
+      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1705729",
       "type": "movie",
       "name": "Man of War",
@@ -69,7 +77,7 @@
       "type": "movie",
       "name": "Strung",
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wsAbahLUdjdLw5Za1Wug1w226ki.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
