@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1397485",
+      "type": "movie",
+      "name": "Girls Like Girls",
+      "description": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
+      "poster": "https://image.tmdb.org/t/p/w500/lFjtAAK5jCPXdcKIgpVJ54Hm0G0.jpg",
+      "releaseInfo": "2026-07-07"
+    },
+    {
       "id": "tmdb:1725116",
       "type": "movie",
       "name": "Simpsley",
