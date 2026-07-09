@@ -985,6 +985,14 @@
       "releaseInfo": "2026-03-27"
     },
     {
+      "id": "tmdb:1555160",
+      "type": "movie",
+      "name": "Jeff Ross: Take a Banana for the Ride",
+      "description": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
+      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
       "id": "tmdb:1637319",
       "type": "movie",
       "name": "Hannah Montana 20th Anniversary Special",
@@ -1222,14 +1230,6 @@
       "name": "In Cold Light",
       "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
       "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
-      "id": "tmdb:1263012",
-      "type": "movie",
-      "name": "Dead Man's Wire",
-      "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
-      "poster": "https://image.tmdb.org/t/p/w500/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
       "releaseInfo": "2026-02-24"
     },
     {
@@ -1519,22 +1519,6 @@
       "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
       "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
       "releaseInfo": "2026-01-12"
-    },
-    {
-      "id": "tmdb:1601243",
-      "type": "movie",
-      "name": "Oscar Shaw",
-      "description": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
-      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "releaseInfo": "2026-01-09"
-    },
-    {
-      "id": "tmdb:1480860",
-      "type": "movie",
-      "name": "Bulls",
-      "description": "Two down-on-their-luck half-brothers run a failing dive bar in Indiana and get a shot at taking on England’s elite darts champions.",
-      "poster": "https://image.tmdb.org/t/p/w500/6X5bcc4vTGzwDpbpZBMRDPwdLwj.jpg",
-      "releaseInfo": "2026-01-09"
     },
     {
       "id": "tmdb:1199193",
