@@ -41,6 +41,14 @@
       "releaseInfo": "2026-06-30"
     },
     {
+      "id": "tmdb:1431804",
+      "type": "movie",
+      "name": "40 Dates and 40 Nights",
+      "description": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
+      "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
       "id": "tmdb:1314481",
       "type": "movie",
       "name": "The Devil Wears Prada 2",
@@ -70,14 +78,6 @@
       "name": "Little Brother",
       "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
       "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tmdb:880067",
-      "type": "movie",
-      "name": "Strung",
-      "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsAbahLUdjdLw5Za1Wug1w226ki.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -961,6 +961,14 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tmdb:1115544",
+      "type": "movie",
+      "name": "Mike & Nick & Nick & Alice",
+      "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
       "id": "tmdb:938150",
       "type": "movie",
       "name": "Wardriver",
@@ -1006,6 +1014,14 @@
       "name": "GOAT",
       "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:1154538",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
