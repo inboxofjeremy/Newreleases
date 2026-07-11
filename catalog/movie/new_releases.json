@@ -81,6 +81,14 @@
       "releaseInfo": "2026-06-26"
     },
     {
+      "id": "tmdb:880067",
+      "type": "movie",
+      "name": "Strung",
+      "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsAbahLUdjdLw5Za1Wug1w226ki.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tmdb:1245859",
       "type": "movie",
       "name": "Savage House",
@@ -636,7 +644,7 @@
       "id": "tmdb:1688652",
       "type": "movie",
       "name": "Gary",
-      "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
+      "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlight moments of humor, small-town culture and the unpredictable nature of work travel. Their experience offers new perspectives on their friendship.",
       "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
       "releaseInfo": "2026-05-05"
     },
@@ -655,6 +663,14 @@
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
       "poster": "https://image.tmdb.org/t/p/w500/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
       "releaseInfo": "2026-05-05"
+    },
+    {
+      "id": "tmdb:1007757",
+      "type": "movie",
+      "name": "Swapped",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "releaseInfo": "2026-05-01"
     },
     {
       "id": "tmdb:1624961",
@@ -849,14 +865,6 @@
       "releaseInfo": "2026-04-12"
     },
     {
-      "id": "tmdb:1472951",
-      "type": "movie",
-      "name": "Infiltrate",
-      "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-      "releaseInfo": "2026-04-10"
-    },
-    {
       "id": "tmdb:1049471",
       "type": "movie",
       "name": "Outcome",
@@ -1039,6 +1047,14 @@
       "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
       "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
       "releaseInfo": "2026-03-20"
+    },
+    {
+      "id": "tmdb:1649758",
+      "type": "movie",
+      "name": "Meal Ticket",
+      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
+      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
+      "releaseInfo": "2026-03-19"
     },
     {
       "id": "tmdb:1641817",
@@ -1503,14 +1519,6 @@
       "description": "A legendary TV star solves a murder mystery at her country estate.",
       "poster": "https://image.tmdb.org/t/p/w500/zbaHOXKKGoSkZeAEBDwLnttp6I8.jpg",
       "releaseInfo": "2026-01-13"
-    },
-    {
-      "id": "tmdb:1610413",
-      "type": "movie",
-      "name": "One Last Adventure: The Making of Stranger Things 5",
-      "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "poster": "https://image.tmdb.org/t/p/w500/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
-      "releaseInfo": "2026-01-12"
     },
     {
       "id": "tmdb:1199193",
