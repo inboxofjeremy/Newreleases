@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:1541560",
+      "type": "movie",
+      "name": "Stop! That! Train!",
+      "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
+      "poster": "https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
+      "releaseInfo": "2026-07-14"
+    },
+    {
+      "id": "tmdb:1440050",
+      "type": "movie",
+      "name": "The Breadwinner",
+      "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "poster": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "releaseInfo": "2026-07-14"
+    },
+    {
       "id": "tmdb:1715492",
       "type": "movie",
       "name": "Shipwrecked: Nightmare at Sea",
@@ -57,6 +73,14 @@
       "releaseInfo": "2026-06-30"
     },
     {
+      "id": "tmdb:1674087",
+      "type": "movie",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
+      "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
       "id": "tmdb:1314481",
       "type": "movie",
       "name": "The Devil Wears Prada 2",
@@ -93,7 +117,15 @@
       "type": "movie",
       "name": "Strung",
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsAbahLUdjdLw5Za1Wug1w226ki.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
+      "id": "tmdb:1675177",
+      "type": "movie",
+      "name": "Chris & Martina: The Final Set",
+      "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
+      "poster": "https://image.tmdb.org/t/p/w500/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -142,6 +174,14 @@
       "name": "I Love Boosters",
       "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
       "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tmdb:1284016",
+      "type": "movie",
+      "name": "Power Ballad",
+      "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -383,6 +423,14 @@
       "description": "A blunt, grieving widow is forced to plan her husband’s funeral with a total stranger: her estranged gay son’s gay assistant. As they fumble through grief and their strange, darkly funny circumstances, buried secrets and long-held resentments surface, but their partnership becomes an unlikely conduit for connection, laughter, and healing for this mother and her unexpected surrogate son.",
       "poster": "https://image.tmdb.org/t/p/w500/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg",
       "releaseInfo": "2026-05-29"
+    },
+    {
+      "id": "tmdb:1662414",
+      "type": "movie",
+      "name": "Propeller One-Way Night Coach",
+      "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
+      "poster": "https://image.tmdb.org/t/p/w500/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+      "releaseInfo": "2026-05-28"
     },
     {
       "id": "tmdb:1686326",
@@ -665,6 +713,14 @@
       "releaseInfo": "2026-05-01"
     },
     {
+      "id": "tmdb:1624961",
+      "type": "movie",
+      "name": "No Ordinary Heist",
+      "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
+      "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
+      "releaseInfo": "2026-04-28"
+    },
+    {
       "id": "tmdb:1327819",
       "type": "movie",
       "name": "Hoppers",
@@ -806,6 +862,14 @@
       "name": "Rise of the Conqueror",
       "description": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
       "poster": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1596335",
+      "type": "movie",
+      "name": "The AI Doc: Or How I Became an Apocaloptimist",
+      "description": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
+      "poster": "https://image.tmdb.org/t/p/w500/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
@@ -1089,6 +1153,14 @@
       "releaseInfo": "2026-03-10"
     },
     {
+      "id": "tmdb:1439660",
+      "type": "movie",
+      "name": "Fukushima: A Nuclear Nightmare",
+      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
       "id": "tmdb:1119449",
       "type": "movie",
       "name": "Good Luck, Have Fun, Don't Die",
@@ -1198,6 +1270,14 @@
       "name": "Shelter",
       "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "releaseInfo": "2026-02-24"
+    },
+    {
+      "id": "tmdb:1128377",
+      "type": "movie",
+      "name": "In Cold Light",
+      "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+      "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
       "releaseInfo": "2026-02-24"
     },
     {
@@ -1430,6 +1510,14 @@
       "name": "Speed Faster",
       "description": "Ace and his crew of elite street racers are forced into a high-stakes mission when a shadowy organization threatens someone close to him. In the aftermath of Four Amigos, they find themselves working for the infamous Church of Assassins, tasked with pulling off an impossible job. But as they push their limits, they uncover a chilling truth-failure was always part of the plan. Betrayal, speed, and survival collide in this adrenaline-fueled thriller where the real race isn't just for victory, but for their lives.",
       "poster": "https://image.tmdb.org/t/p/w500/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
+      "releaseInfo": "2026-01-23"
+    },
+    {
+      "id": "tmdb:1599090",
+      "type": "movie",
+      "name": "Skyscraper Live",
+      "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
+      "poster": "https://image.tmdb.org/t/p/w500/hbURquxQUJXFfeqpjzmHekRmyqb.jpg",
       "releaseInfo": "2026-01-23"
     },
     {
