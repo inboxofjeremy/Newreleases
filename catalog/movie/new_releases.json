@@ -49,6 +49,14 @@
       "releaseInfo": "2026-07-03"
     },
     {
+      "id": "tmdb:1617191",
+      "type": "movie",
+      "name": "Summer's Last Resort",
+      "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/gSrOIFH90YYflkl1ldM7ftPhwTQ.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1202033",
       "type": "movie",
       "name": "Enola Holmes 3",
@@ -149,7 +157,7 @@
       "type": "movie",
       "name": "The Sheep Detectives",
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/TEaSqmI6TZQVimULYbingDIdXT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
       "releaseInfo": "2026-06-24"
     },
     {
@@ -817,14 +825,6 @@
       "releaseInfo": "2026-04-17"
     },
     {
-      "id": "tmdb:1511057",
-      "type": "movie",
-      "name": "Roommates",
-      "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "poster": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up",
@@ -1078,14 +1078,6 @@
       "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
       "description": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
       "poster": "https://image.tmdb.org/t/p/w500/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
-      "releaseInfo": "2026-03-20"
-    },
-    {
-      "id": "tmdb:875828",
-      "type": "movie",
-      "name": "Peaky Blinders: The Immortal Man",
-      "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
       "releaseInfo": "2026-03-20"
     },
     {
