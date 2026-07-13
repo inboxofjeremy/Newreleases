@@ -1537,30 +1537,6 @@
       "releaseInfo": "2026-01-21"
     },
     {
-      "id": "tmdb:1306368",
-      "type": "movie",
-      "name": "The Rip",
-      "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "poster": "https://image.tmdb.org/t/p/w500/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
-      "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tmdb:1584215",
-      "type": "movie",
-      "name": "The Internship",
-      "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
-      "id": "tmdb:1425567",
-      "type": "movie",
-      "name": "A Murder Between Friends",
-      "description": "A legendary TV star solves a murder mystery at her country estate.",
-      "poster": "https://image.tmdb.org/t/p/w500/zbaHOXKKGoSkZeAEBDwLnttp6I8.jpg",
-      "releaseInfo": "2026-01-13"
-    },
-    {
       "id": "tmdb:1199193",
       "type": "movie",
       "name": "Pose",
