@@ -97,6 +97,14 @@
       "releaseInfo": "2026-06-30"
     },
     {
+      "id": "tmdb:1585580",
+      "type": "movie",
+      "name": "A Super Progressive Movie",
+      "description": "Melbourne is the last bastion of \"The Progressives,\" a society shielded from the outside world by a glowing rainbow \"virtue signal.\" When the shield begins to fail, an Aboriginal elder named Murray reveals the truth: the culture war was lost long ago, and only the legendary Victimhood can save them. Tasked with retrieving it is Pete, a downtrodden white man treated as the lowest rung of society. Joined by Murray, the vain Princess Stacey, and Social Justice Warrior Lance, Pete ventures into the \"real\" Australia for the first time, discovering it's nothing like he was told — while Prime Minister Pauline Hanson races to reach the weapon first.",
+      "poster": "https://image.tmdb.org/t/p/w500/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
+      "releaseInfo": "2026-06-29"
+    },
+    {
       "id": "tmdb:1673179",
       "type": "movie",
       "name": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
@@ -149,7 +157,7 @@
       "type": "movie",
       "name": "The Sheep Detectives",
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
       "releaseInfo": "2026-06-24"
     },
     {
@@ -277,7 +285,7 @@
       "type": "movie",
       "name": "Maternal Instinct",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
@@ -1001,6 +1009,14 @@
       "releaseInfo": "2026-04-01"
     },
     {
+      "id": "tmdb:1660968",
+      "type": "movie",
+      "name": "Aaron Chen: Funny Garden",
+      "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
+      "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tmdb:1316092",
       "type": "movie",
       "name": "\"Wuthering Heights\"",
@@ -1230,6 +1246,14 @@
       "name": "Chris Fleming: Live at The Palace",
       "description": "From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special. A high-energy performer who seamlessly pivots from one everyday topic to another – from Trader Joe’s to Oreos, NPR, and dog breeds – Fleming bounds across the stage as he shares his unique takes on masculinity, conga lines, and more.",
       "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1032892",
+      "type": "movie",
+      "name": "In the Blink of an Eye",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
