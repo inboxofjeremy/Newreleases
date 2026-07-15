@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "Girls Like Girls",
       "description": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
-      "poster": "https://image.tmdb.org/t/p/w500/lFjtAAK5jCPXdcKIgpVJ54Hm0G0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg",
       "releaseInfo": "2026-07-07"
     },
     {
@@ -509,7 +509,7 @@
       "type": "movie",
       "name": "Master of the Universe",
       "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/a77OcLmarwiBJakOPPC36m58t4L.jpg",
       "releaseInfo": "2026-05-22"
     },
     {
@@ -1057,6 +1057,14 @@
       "releaseInfo": "2026-03-27"
     },
     {
+      "id": "tmdb:1084187",
+      "type": "movie",
+      "name": "Pretty Lethal",
+      "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "poster": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "releaseInfo": "2026-03-25"
+    },
+    {
       "id": "tmdb:1555160",
       "type": "movie",
       "name": "Jeff Ross: Take a Banana for the Ride",
@@ -1127,6 +1135,14 @@
       "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
       "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
       "releaseInfo": "2026-03-19"
+    },
+    {
+      "id": "tmdb:1641817",
+      "type": "movie",
+      "name": "Mark Normand: None Too Pleased",
+      "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
+      "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
+      "releaseInfo": "2026-03-17"
     },
     {
       "id": "tmdb:1440049",
@@ -1414,6 +1430,14 @@
       "name": "Misdirection",
       "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
       "poster": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
+      "releaseInfo": "2026-02-10"
+    },
+    {
+      "id": "tmdb:1288246",
+      "type": "movie",
+      "name": "The Huntsman",
+      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
+      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
       "releaseInfo": "2026-02-10"
     },
     {
