@@ -585,6 +585,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1102883",
+      "type": "movie",
+      "name": "Mother Mary",
+      "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1226863",
       "type": "movie",
       "name": "The Super Mario Galaxy Movie",
@@ -679,6 +687,14 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
+    },
+    {
+      "id": "tmdb:1257868",
+      "type": "movie",
+      "name": "Couples Weekend",
+      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tmdb:1330021",
@@ -854,6 +870,14 @@
       "name": "Balls Up",
       "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "releaseInfo": "2026-04-15"
+    },
+    {
+      "id": "tmdb:1625086",
+      "type": "movie",
+      "name": "Artemis: To the Moon and Back",
+      "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
+      "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
     },
     {
