@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:1284465",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1275779",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1228710",
+      "type": "movie",
+      "name": "The Mandalorian and Grogu",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
       "id": "tmdb:1318621",
       "type": "movie",
       "name": "Descendants: Wicked Wonderland",
@@ -15,6 +47,14 @@
       "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
       "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
       "releaseInfo": "2026-07-17"
+    },
+    {
+      "id": "tmdb:1731494",
+      "type": "movie",
+      "name": "The Odyssey: The Making of an Epic",
+      "description": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "releaseInfo": "2026-07-14"
     },
     {
       "id": "tmdb:1541560",
@@ -317,7 +357,7 @@
       "type": "movie",
       "name": "Blue Film",
       "description": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company. Over the course of one night, the two men engage in a war of words and emotions as they wrestle with the impact of a tainted and shared past.",
-      "poster": "https://image.tmdb.org/t/p/w500/7wECL45CnlFWsiadBHwArgVJ1nL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
@@ -581,7 +621,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/atllWe7IpGF28c8GOFlPjcGEzAH.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -1406,14 +1446,6 @@
       "name": "You Can't Win",
       "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
       "poster": "https://image.tmdb.org/t/p/w500/h4MibstPDRiwot9A5324UBLZJoW.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1236153",
-      "type": "movie",
-      "name": "Mercy",
-      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "releaseInfo": "2026-02-17"
     },
     {
