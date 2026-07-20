@@ -17,14 +17,6 @@
       "releaseInfo": "2026-07-21"
     },
     {
-      "id": "tmdb:1273221",
-      "type": "movie",
-      "name": "Scary Movie",
-      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "poster": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
       "id": "tmdb:454639",
       "type": "movie",
       "name": "Masters of the Universe",
@@ -38,6 +30,14 @@
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1184941",
+      "type": "movie",
+      "name": "Blue Heron",
+      "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -574,6 +574,14 @@
       "name": "Master of the Universe",
       "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
+      "id": "tmdb:1368881",
+      "type": "movie",
+      "name": "Ladies First",
+      "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
       "releaseInfo": "2026-05-22"
     },
     {
