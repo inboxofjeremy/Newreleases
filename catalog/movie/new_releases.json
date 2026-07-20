@@ -1425,6 +1425,14 @@
       "releaseInfo": "2026-02-20"
     },
     {
+      "id": "tmdb:1531626",
+      "type": "movie",
+      "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
+      "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:1088434",
       "type": "movie",
       "name": "Hellfire",
@@ -1623,14 +1631,6 @@
       "description": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
       "poster": "https://image.tmdb.org/t/p/w500/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
       "releaseInfo": "2026-01-22"
-    },
-    {
-      "id": "tmdb:1595481",
-      "type": "movie",
-      "name": "Kidnapped: Elizabeth Smart",
-      "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
-      "releaseInfo": "2026-01-21"
     },
     {
       "id": "tmdb:1199193",
