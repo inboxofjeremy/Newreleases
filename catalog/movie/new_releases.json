@@ -17,6 +17,14 @@
       "releaseInfo": "2026-07-21"
     },
     {
+      "id": "tmdb:1273221",
+      "type": "movie",
+      "name": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
       "id": "tmdb:454639",
       "type": "movie",
       "name": "Masters of the Universe",
@@ -569,14 +577,6 @@
       "releaseInfo": "2026-05-22"
     },
     {
-      "id": "tmdb:1368881",
-      "type": "movie",
-      "name": "Ladies First",
-      "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-      "releaseInfo": "2026-05-22"
-    },
-    {
       "id": "tmdb:1694958",
       "type": "movie",
       "name": "Dua Lipa: Live From Mexico",
@@ -814,14 +814,6 @@
       "name": "Immortal Combat",
       "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
       "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tmdb:1567151",
-      "type": "movie",
-      "name": "Nikki Glaser: Good Girl",
-      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
-      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -1094,14 +1086,6 @@
       "name": "Aaron Chen: Funny Garden",
       "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
       "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
-      "id": "tmdb:1316092",
-      "type": "movie",
-      "name": "\"Wuthering Heights\"",
-      "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
@@ -1422,6 +1406,14 @@
       "name": "One Mile: Chapter One",
       "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
       "poster": "https://image.tmdb.org/t/p/w500/j7APL8QvNJH4oXdwIaMcGqRQlbM.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
+      "id": "tmdb:1639000",
+      "type": "movie",
+      "name": "Famous Last Words: Eric Dane",
+      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
+      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
