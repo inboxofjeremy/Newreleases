@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
       "id": "tmdb:1284465",
       "type": "movie",
       "name": "The Death of Robin Hood",
@@ -14,14 +22,6 @@
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
-      "id": "tmdb:454639",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -825,6 +825,14 @@
       "releaseInfo": "2026-04-24"
     },
     {
+      "id": "tmdb:1567151",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
       "id": "tmdb:1318447",
       "type": "movie",
       "name": "Apex",
@@ -1094,6 +1102,14 @@
       "name": "Aaron Chen: Funny Garden",
       "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
       "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tmdb:1316092",
+      "type": "movie",
+      "name": "\"Wuthering Heights\"",
+      "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
