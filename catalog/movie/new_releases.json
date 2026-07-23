@@ -777,6 +777,14 @@
       "releaseInfo": "2026-05-05"
     },
     {
+      "id": "tmdb:1341137",
+      "type": "movie",
+      "name": "A Great Awakening",
+      "description": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
+      "poster": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+      "releaseInfo": "2026-05-05"
+    },
+    {
       "id": "tmdb:1325734",
       "type": "movie",
       "name": "The Drama",
