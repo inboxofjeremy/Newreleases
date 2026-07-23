@@ -1393,14 +1393,6 @@
       "releaseInfo": "2026-02-24"
     },
     {
-      "id": "tmdb:1128377",
-      "type": "movie",
-      "name": "In Cold Light",
-      "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
-      "poster": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
       "id": "tmdb:846049",
       "type": "movie",
       "name": "The Dresden Sun",
@@ -1623,22 +1615,6 @@
       "description": "Follows comedian Mike Epps as he discusses how a little delusion and a lot of hustle made him a star.",
       "poster": "https://image.tmdb.org/t/p/w500/4vnxJozxtK9K65UYXH2RNsE2Edo.jpg",
       "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1617852",
-      "type": "movie",
-      "name": "Speed Faster",
-      "description": "Ace and his crew of elite street racers are forced into a high-stakes mission when a shadowy organization threatens someone close to him. In the aftermath of Four Amigos, they find themselves working for the infamous Church of Assassins, tasked with pulling off an impossible job. But as they push their limits, they uncover a chilling truth-failure was always part of the plan. Betrayal, speed, and survival collide in this adrenaline-fueled thriller where the real race isn't just for victory, but for their lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
-      "releaseInfo": "2026-01-23"
-    },
-    {
-      "id": "tmdb:1599090",
-      "type": "movie",
-      "name": "Skyscraper Live",
-      "description": "No ropes. No fear. Free solo legend Alex Honnold risks it all in a high-stakes, live ascent of one of the world's tallest skyscrapers in Taipei, Taiwan.",
-      "poster": "https://image.tmdb.org/t/p/w500/hbURquxQUJXFfeqpjzmHekRmyqb.jpg",
-      "releaseInfo": "2026-01-23"
     },
     {
       "id": "tmdb:1199193",
