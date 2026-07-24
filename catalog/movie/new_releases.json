@@ -17,6 +17,14 @@
       "releaseInfo": "2026-07-21"
     },
     {
+      "id": "tmdb:1273221",
+      "type": "movie",
+      "name": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
       "id": "tmdb:1228710",
       "type": "movie",
       "name": "The Mandalorian and Grogu",
@@ -45,7 +53,7 @@
       "type": "movie",
       "name": "Heartstopper Forever",
       "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-      "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg",
       "releaseInfo": "2026-07-17"
     },
     {
@@ -279,6 +287,14 @@
       "description": "A woman swaps bodies with a chair, and everyone likes her better as a chair.",
       "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
       "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tmdb:614945",
+      "type": "movie",
+      "name": "Voicemails for Isabelle",
+      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "releaseInfo": "2026-06-19"
     },
     {
       "id": "tmdb:1593151",
@@ -705,6 +721,14 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tmdb:1455079",
+      "type": "movie",
+      "name": "You, Me & Tuscany",
+      "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tmdb:687163",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -781,7 +805,7 @@
       "type": "movie",
       "name": "The Drama",
       "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -854,6 +878,14 @@
       "name": "Tow",
       "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
       "poster": "https://image.tmdb.org/t/p/w500/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
+      "id": "tmdb:1383731",
+      "type": "movie",
+      "name": "Protector",
+      "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
       "releaseInfo": "2026-04-21"
     },
     {
@@ -1009,6 +1041,14 @@
       "releaseInfo": "2026-04-07"
     },
     {
+      "id": "tmdb:1641319",
+      "type": "movie",
+      "name": "Sniper: No Nation",
+      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+      "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
       "id": "tmdb:1445363",
       "type": "movie",
       "name": "EPiC: Elvis Presley in Concert",
@@ -1102,6 +1142,14 @@
       "name": "Refuge",
       "description": "Four estranged friends reunite on a fishing trip, but a missing child and a desperate father's accusation turn reunion into a deadly reckoning",
       "poster": "https://image.tmdb.org/t/p/w500/kCZa7fDEqvWbaCzji0PcoD52JdU.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tmdb:1115544",
+      "type": "movie",
+      "name": "Mike & Nick & Nick & Alice",
+      "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
@@ -1238,6 +1286,14 @@
       "name": "Derrick Stroup: Nostalgic",
       "description": "Stroup dives into his experience being a '90s kid in rural Alabama and everything that came along with it.",
       "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
+      "releaseInfo": "2026-03-10"
+    },
+    {
+      "id": "tmdb:1439660",
+      "type": "movie",
+      "name": "Fukushima: A Nuclear Nightmare",
+      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
