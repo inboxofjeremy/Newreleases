@@ -249,6 +249,14 @@
       "releaseInfo": "2026-06-24"
     },
     {
+      "id": "tmdb:1716365",
+      "type": "movie",
+      "name": "Ryan Hamilton: This Just Hit Me",
+      "description": "Leave it to Ryan Hamilton to get hit by a bus and have the last laugh — whether it's falling for his anesthesiologist or a dispensary trip with his mom.",
+      "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tmdb:1329471",
       "type": "movie",
       "name": "Carolina Caroline",
@@ -494,14 +502,6 @@
       "name": "Is God Is",
       "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
       "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
-      "id": "tmdb:1122573",
-      "type": "movie",
-      "name": "In the Grey",
-      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "releaseInfo": "2026-06-02"
     },
     {
@@ -1409,14 +1409,6 @@
       "releaseInfo": "2026-02-25"
     },
     {
-      "id": "tmdb:1617908",
-      "type": "movie",
-      "name": "Taylor Tomlinson: Prodigal Daughter",
-      "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
-      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
-      "releaseInfo": "2026-02-24"
-    },
-    {
       "id": "tmdb:1290821",
       "type": "movie",
       "name": "Shelter",
@@ -1463,14 +1455,6 @@
       "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
       "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
       "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1088434",
-      "type": "movie",
-      "name": "Hellfire",
-      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "releaseInfo": "2026-02-17"
     },
     {
       "id": "tmdb:669356",
@@ -1647,14 +1631,6 @@
       "description": "Follows comedian Mike Epps as he discusses how a little delusion and a lot of hustle made him a star.",
       "poster": "https://image.tmdb.org/t/p/w500/4vnxJozxtK9K65UYXH2RNsE2Edo.jpg",
       "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1199193",
-      "type": "movie",
-      "name": "Pose",
-      "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "releaseInfo": "2025-12-05"
     }
   ]
 }
