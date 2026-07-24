@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1723460",
+      "type": "movie",
+      "name": "A Toxic Love Story",
+      "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+      "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
       "id": "tmdb:454639",
       "type": "movie",
       "name": "Masters of the Universe",
@@ -1029,7 +1037,7 @@
       "type": "movie",
       "name": "Outcome",
       "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
-      "poster": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jpPBa89tz1OuC5rpWMQbeNNaAmC.jpg",
       "releaseInfo": "2026-04-09"
     },
     {
