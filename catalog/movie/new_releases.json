@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:980431",
+      "type": "movie",
+      "name": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "releaseInfo": "2026-07-25"
+    },
+    {
       "id": "tmdb:949838",
       "type": "movie",
       "name": "72 HOURS",
@@ -503,14 +511,6 @@
       "description": "Hannah and her non-binary teenager Frances visit her gay grandfather Jimpa in Amsterdam. Frances expresses a desire to stay with their grandfather for a year, challenging Hannah's parenting beliefs and forcing her to confront past issues.",
       "poster": "https://image.tmdb.org/t/p/w500/giSERsYBGUcfj9ctB0h9d5ympo8.jpg",
       "releaseInfo": "2026-06-04"
-    },
-    {
-      "id": "tmdb:1380316",
-      "type": "movie",
-      "name": "Is God Is",
-      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "releaseInfo": "2026-06-02"
     },
     {
       "id": "tmdb:1122573",
@@ -1041,14 +1041,6 @@
       "releaseInfo": "2026-04-13"
     },
     {
-      "id": "tmdb:1604975",
-      "type": "movie",
-      "name": "AEW Dynasty 2026",
-      "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
-      "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
-      "releaseInfo": "2026-04-12"
-    },
-    {
       "id": "tmdb:1049471",
       "type": "movie",
       "name": "Outcome",
@@ -1367,14 +1359,6 @@
       "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
       "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
       "releaseInfo": "2026-03-08"
-    },
-    {
-      "id": "tmdb:1381027",
-      "type": "movie",
-      "name": "Good Boy",
-      "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-      "releaseInfo": "2026-03-06"
     },
     {
       "id": "tmdb:1265609",
