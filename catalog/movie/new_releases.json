@@ -721,6 +721,14 @@
       "releaseInfo": "2026-05-15"
     },
     {
+      "id": "tmdb:1693346",
+      "type": "movie",
+      "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+      "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
+      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "releaseInfo": "2026-05-14"
+    },
+    {
       "id": "tmdb:1684240",
       "type": "movie",
       "name": "Jamie Vardy",
@@ -1449,6 +1457,14 @@
       "releaseInfo": "2026-02-23"
     },
     {
+      "id": "tmdb:1327690",
+      "type": "movie",
+      "name": "One Mile: Chapter Two",
+      "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
+      "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
       "id": "tmdb:1327688",
       "type": "movie",
       "name": "One Mile: Chapter One",
@@ -1494,14 +1510,6 @@
       "name": "Sweetness",
       "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
       "poster": "https://image.tmdb.org/t/p/w500/tmq66eU60fSFJUfqWwTwmdNT4wx.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1442908",
-      "type": "movie",
-      "name": "The Singers",
-      "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
-      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
