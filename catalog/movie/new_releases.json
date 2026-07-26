@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1081003",
+      "type": "movie",
+      "name": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "releaseInfo": "2026-07-28"
+    },
+    {
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
@@ -191,14 +199,6 @@
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tmdb:1585580",
-      "type": "movie",
-      "name": "A Super Progressive Movie",
-      "description": "Melbourne is the last bastion of \"The Progressives,\" a society shielded from the outside world by a glowing rainbow \"virtue signal.\" When the shield begins to fail, an Aboriginal elder named Murray reveals the truth: the culture war was lost long ago, and only the legendary Victimhood can save them. Tasked with retrieving it is Pete, a downtrodden white man treated as the lowest rung of society. Joined by Murray, the vain Princess Stacey, and Social Justice Warrior Lance, Pete ventures into the \"real\" Australia for the first time, discovering it's nothing like he was told — while Prime Minister Pauline Hanson races to reach the weapon first.",
-      "poster": "https://image.tmdb.org/t/p/w500/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
-      "releaseInfo": "2026-06-29"
     },
     {
       "id": "tmdb:1673179",
@@ -1409,14 +1409,6 @@
       "releaseInfo": "2026-02-27"
     },
     {
-      "id": "tmdb:1032892",
-      "type": "movie",
-      "name": "In the Blink of an Eye",
-      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
-      "poster": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
       "id": "tmdb:1260643",
       "type": "movie",
       "name": "Man on the Run",
@@ -1645,7 +1637,7 @@
       "type": "movie",
       "name": "Terri Joe: Missionary in Miami",
       "description": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
-      "poster": "https://image.tmdb.org/t/p/w500/kBuF8YuR6D1NVXCZDsH26D0TGuU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/2cNfetC40BtP2lyk5oOxJXEwm6e.jpg",
       "releaseInfo": "2026-01-30"
     },
     {
