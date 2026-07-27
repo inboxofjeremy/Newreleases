@@ -169,14 +169,6 @@
       "releaseInfo": "2026-07-03"
     },
     {
-      "id": "tmdb:1698863",
-      "type": "movie",
-      "name": "The Odyssey",
-      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
-      "releaseInfo": "2026-07-03"
-    },
-    {
       "id": "tmdb:1617191",
       "type": "movie",
       "name": "Summer's Last Resort",
@@ -645,7 +637,7 @@
       "type": "movie",
       "name": "Master of the Universe",
       "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3m8O5kxUlXjEi8YZ9mZ7QA0dg5Z.jpg",
       "releaseInfo": "2026-05-22"
     },
     {
@@ -1009,14 +1001,6 @@
       "releaseInfo": "2026-04-15"
     },
     {
-      "id": "tmdb:1666433",
-      "type": "movie",
-      "name": "Trevor Noah: Joy in the Trenches",
-      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
-      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
       "id": "tmdb:1641965",
       "type": "movie",
       "name": "Untold: Jail Blazers",
@@ -1030,6 +1014,14 @@
       "name": "The Highest Stakes",
       "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
       "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1666433",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
