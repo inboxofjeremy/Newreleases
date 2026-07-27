@@ -12,7 +12,7 @@
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture.",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "releaseInfo": "2026-07-25"
     },
@@ -54,6 +54,14 @@
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1273221",
+      "type": "movie",
+      "name": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -161,6 +169,14 @@
       "releaseInfo": "2026-07-03"
     },
     {
+      "id": "tmdb:1698863",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1617191",
       "type": "movie",
       "name": "Summer's Last Resort",
@@ -253,7 +269,7 @@
       "type": "movie",
       "name": "Savage House",
       "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
-      "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -1513,6 +1529,14 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1442908",
+      "type": "movie",
+      "name": "The Singers",
+      "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
+      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "releaseInfo": "2026-02-13"
+    },
+    {
       "id": "tmdb:1515615",
       "type": "movie",
       "name": "Kissing Is the Easy Part",
@@ -1585,14 +1609,6 @@
       "releaseInfo": "2026-02-06"
     },
     {
-      "id": "tmdb:1596291",
-      "type": "movie",
-      "name": "Queen of Chess",
-      "description": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
-      "poster": "https://image.tmdb.org/t/p/w500/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
-      "releaseInfo": "2026-02-06"
-    },
-    {
       "id": "tmdb:1620991",
       "type": "movie",
       "name": "The Investigation of Lucy Letby",
@@ -1647,22 +1663,6 @@
       "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
       "poster": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
       "releaseInfo": "2026-01-28"
-    },
-    {
-      "id": "tmdb:1624183",
-      "type": "movie",
-      "name": "Blackout",
-      "description": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
-      "releaseInfo": "2026-01-27"
-    },
-    {
-      "id": "tmdb:1599087",
-      "type": "movie",
-      "name": "Mike Epps: Delusional",
-      "description": "Follows comedian Mike Epps as he discusses how a little delusion and a lot of hustle made him a star.",
-      "poster": "https://image.tmdb.org/t/p/w500/4vnxJozxtK9K65UYXH2RNsE2Edo.jpg",
-      "releaseInfo": "2026-01-27"
     },
     {
       "id": "tmdb:1199193",
