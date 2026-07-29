@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -30,6 +30,14 @@
       "name": "72 HOURS",
       "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
       "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "releaseInfo": "2026-07-24"
+    },
+    {
+      "id": "tmdb:787844",
+      "type": "movie",
+      "name": "Newborn",
+      "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground.",
+      "poster": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -87,6 +95,14 @@
       "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
       "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
       "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1727780",
+      "type": "movie",
+      "name": "Borderline",
+      "description": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+      "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "releaseInfo": "2026-07-17"
     },
     {
       "id": "tmdb:1318621",
@@ -183,6 +199,14 @@
       "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
       "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tmdb:1202033",
+      "type": "movie",
+      "name": "Enola Holmes 3",
+      "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "releaseInfo": "2026-07-01"
     },
     {
       "id": "tmdb:1662958",
@@ -574,6 +598,14 @@
       "name": "Propeller One-Way Night Coach",
       "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
       "poster": "https://image.tmdb.org/t/p/w500/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+      "releaseInfo": "2026-05-28"
+    },
+    {
+      "id": "tmdb:1686326",
+      "type": "movie",
+      "name": "Emi Martínez: The Kid Who Stops Time",
+      "description": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
+      "poster": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
       "releaseInfo": "2026-05-28"
     },
     {
@@ -1033,6 +1065,22 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1616400",
+      "type": "movie",
+      "name": "#SKYKING",
+      "description": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tmdb:1367642",
+      "type": "movie",
+      "name": "Reminders of Him",
+      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1492341",
       "type": "movie",
       "name": "Noah Kahan: Out of Body",
@@ -1118,14 +1166,6 @@
       "name": "Pizza Movie",
       "description": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
       "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
-      "releaseInfo": "2026-04-03"
-    },
-    {
-      "id": "tmdb:1326036",
-      "type": "movie",
-      "name": "Addition",
-      "description": "Grace Lisa Vandenburg counts everything - the letters in her name, the poppy seeds on her orange cake. She counts because numbers hold the world together. But when a chance encounter with Seamus turns her world upside down, Grace's meticulously ordered life starts to unravel.",
-      "poster": "https://image.tmdb.org/t/p/w500/vGhd37yFzGBX7NLmKxv8LPvRo9c.jpg",
       "releaseInfo": "2026-04-03"
     },
     {
