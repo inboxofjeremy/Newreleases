@@ -9,6 +9,14 @@
       "releaseInfo": "2026-07-28"
     },
     {
+      "id": "tmdb:1284465",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "releaseInfo": "2026-07-28"
+    },
+    {
       "id": "tmdb:1705071",
       "type": "movie",
       "name": "AEW Redemption 2026",
@@ -23,6 +31,14 @@
       "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "releaseInfo": "2026-07-25"
+    },
+    {
+      "id": "tmdb:1732097",
+      "type": "movie",
+      "name": "Euphoria: A Look Back",
+      "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+      "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+      "releaseInfo": "2026-07-24"
     },
     {
       "id": "tmdb:949838",
@@ -86,14 +102,6 @@
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "poster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
-      "id": "tmdb:1184941",
-      "type": "movie",
-      "name": "Blue Heron",
-      "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
-      "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -687,14 +695,6 @@
       "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
       "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
       "releaseInfo": "2026-05-20"
-    },
-    {
-      "id": "tmdb:1684244",
-      "type": "movie",
-      "name": "Untold UK: Liverpool's Miracle of Istanbul",
-      "description": "At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg",
-      "releaseInfo": "2026-05-19"
     },
     {
       "id": "tmdb:1660612",
