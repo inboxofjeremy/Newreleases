@@ -21,16 +21,8 @@
       "type": "movie",
       "name": "The Death of Robin Hood",
       "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
       "releaseInfo": "2026-07-28"
-    },
-    {
-      "id": "tmdb:1705071",
-      "type": "movie",
-      "name": "AEW Redemption 2026",
-      "description": "Redemption 2026 was the inaugural edition of All Elite Wrestling's annual Redemption pay-per-view, held on July 26, 2026, at the Bell Centre in Montreal, Quebec, Canada. The event was co-headlined by Kenny Omega (c) vs. Kevin Knight for the AEW World Championship and Thekla (c) vs. Willow Nightingale for the AEW Women's World Championship.",
-      "poster": "https://image.tmdb.org/t/p/w500/1h7P8VpQ0PZef8RtlHNbFeWJmqI.jpg",
-      "releaseInfo": "2026-07-26"
     },
     {
       "id": "tmdb:980431",
@@ -199,6 +191,14 @@
       "description": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
       "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
       "releaseInfo": "2026-07-07"
+    },
+    {
+      "id": "tmdb:1723068",
+      "type": "movie",
+      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
+      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "releaseInfo": "2026-07-05"
     },
     {
       "id": "tmdb:1725116",
@@ -857,6 +857,14 @@
       "releaseInfo": "2026-05-10"
     },
     {
+      "id": "tmdb:1257868",
+      "type": "movie",
+      "name": "Couples Weekend",
+      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
       "id": "tmdb:1330021",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
@@ -1359,6 +1367,14 @@
       "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
       "releaseInfo": "2026-03-15"
+    },
+    {
+      "id": "tmdb:1636891",
+      "type": "movie",
+      "name": "Mexicali",
+      "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "releaseInfo": "2026-03-13"
     },
     {
       "id": "tmdb:1633264",
