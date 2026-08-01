@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1698575",
+      "type": "movie",
+      "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
+      "description": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
+      "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
+      "releaseInfo": "2026-07-30"
+    },
+    {
       "id": "tmdb:1458215",
       "type": "movie",
       "name": "The Gentleman Thief",
@@ -199,14 +207,6 @@
       "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
       "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
       "releaseInfo": "2026-07-05"
-    },
-    {
-      "id": "tmdb:1725116",
-      "type": "movie",
-      "name": "Simpsley",
-      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
-      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "releaseInfo": "2026-07-03"
     },
     {
       "id": "tmdb:1705729",
@@ -1566,14 +1566,6 @@
       "name": "Kissing Is the Easy Part",
       "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
       "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1243460",
-      "type": "movie",
-      "name": "Joe's College Road Trip",
-      "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
