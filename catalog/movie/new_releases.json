@@ -209,6 +209,14 @@
       "releaseInfo": "2026-07-05"
     },
     {
+      "id": "tmdb:1725116",
+      "type": "movie",
+      "name": "Simpsley",
+      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1705729",
       "type": "movie",
       "name": "Man of War",
@@ -1305,14 +1313,6 @@
       "releaseInfo": "2026-03-24"
     },
     {
-      "id": "tmdb:1154538",
-      "type": "movie",
-      "name": "Nirvanna the Band the Show the Movie",
-      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
-      "poster": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
       "id": "tmdb:1482168",
       "type": "movie",
       "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
@@ -1566,6 +1566,14 @@
       "name": "Kissing Is the Easy Part",
       "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
       "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
+      "releaseInfo": "2026-02-13"
+    },
+    {
+      "id": "tmdb:1243460",
+      "type": "movie",
+      "name": "Joe's College Road Trip",
+      "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
       "releaseInfo": "2026-02-13"
     },
     {
