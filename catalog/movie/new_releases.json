@@ -225,6 +225,14 @@
       "releaseInfo": "2026-07-03"
     },
     {
+      "id": "tmdb:1698863",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1617191",
       "type": "movie",
       "name": "Summer's Last Resort",
@@ -921,6 +929,14 @@
       "releaseInfo": "2026-05-05"
     },
     {
+      "id": "tmdb:1672938",
+      "type": "movie",
+      "name": "Making of Lord of the Flies",
+      "description": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast.",
+      "poster": "https://image.tmdb.org/t/p/w500/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
+      "releaseInfo": "2026-05-04"
+    },
+    {
       "id": "tmdb:1400923",
       "type": "movie",
       "name": "You, Always",
@@ -943,6 +959,22 @@
       "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
       "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
       "releaseInfo": "2026-04-28"
+    },
+    {
+      "id": "tmdb:1327819",
+      "type": "movie",
+      "name": "Hoppers",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "releaseInfo": "2026-04-28"
+    },
+    {
+      "id": "tmdb:1656061",
+      "type": "movie",
+      "name": "Immortal Combat",
+      "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+      "releaseInfo": "2026-04-24"
     },
     {
       "id": "tmdb:1567151",
@@ -1561,6 +1593,14 @@
       "releaseInfo": "2026-02-13"
     },
     {
+      "id": "tmdb:1317672",
+      "type": "movie",
+      "name": "Love Me Love Me",
+      "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "releaseInfo": "2026-02-12"
+    },
+    {
       "id": "tmdb:1628484",
       "type": "movie",
       "name": "Katt Williams: The Last Report",
@@ -1585,6 +1625,14 @@
       "releaseInfo": "2026-02-10"
     },
     {
+      "id": "tmdb:1429605",
+      "type": "movie",
+      "name": "F Valentine's Day",
+      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "releaseInfo": "2026-02-06"
+    },
+    {
       "id": "tmdb:1618945",
       "type": "movie",
       "name": "Yoh! Bestie",
@@ -1606,14 +1654,6 @@
       "name": "Relationship Goals",
       "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
       "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "releaseInfo": "2026-02-04"
-    },
-    {
-      "id": "tmdb:1548113",
-      "type": "movie",
-      "name": "The Muppet Show",
-      "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
       "releaseInfo": "2026-02-04"
     },
     {
