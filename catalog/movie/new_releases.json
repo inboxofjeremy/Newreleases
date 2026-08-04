@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1741109",
+      "type": "movie",
+      "name": "WWE SummerSlam 2026: Saturday",
+      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+      "poster": "https://image.tmdb.org/t/p/w500/mASBuCwVd01yqacg4dFBAwsWMAh.jpg",
+      "releaseInfo": "2026-08-01"
+    },
+    {
       "id": "tmdb:1698575",
       "type": "movie",
       "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
@@ -54,6 +62,14 @@
       "name": "72 HOURS",
       "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
       "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "releaseInfo": "2026-07-24"
+    },
+    {
+      "id": "tmdb:787844",
+      "type": "movie",
+      "name": "Newborn",
+      "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground.",
+      "poster": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -254,6 +270,22 @@
       "name": "40 Dates and 40 Nights",
       "description": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
       "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tmdb:1674087",
+      "type": "movie",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
+      "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tmdb:1314481",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -822,6 +854,14 @@
       "name": "You, Me & Tuscany",
       "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
       "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
@@ -1607,22 +1647,6 @@
       "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
       "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
       "releaseInfo": "2026-02-06"
-    },
-    {
-      "id": "tmdb:1620991",
-      "type": "movie",
-      "name": "The Investigation of Lucy Letby",
-      "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
-      "poster": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
-      "releaseInfo": "2026-02-04"
-    },
-    {
-      "id": "tmdb:1433842",
-      "type": "movie",
-      "name": "Relationship Goals",
-      "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
-      "poster": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "releaseInfo": "2026-02-04"
     },
     {
       "id": "tmdb:1627824",
