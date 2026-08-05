@@ -17,6 +17,14 @@
       "releaseInfo": "2026-08-01"
     },
     {
+      "id": "tmdb:1517868",
+      "type": "movie",
+      "name": "Maddie's Secret",
+      "description": "Maddie is a plucky dishwasher who leaps to viral superstardom at a trendy food content creation company. While her life seems picturesque — complete with an adoring husband, ride-or-die best friend and a cupboard full of woman-owned ethically-sourced chili crisp to boot — mounting professional pressures threaten to reawaken a hidden secret from her troubled past.",
+      "poster": "https://image.tmdb.org/t/p/w500/vADal7sH7E9xFr4w2k4V3EPSzF6.jpg",
+      "releaseInfo": "2026-07-31"
+    },
+    {
       "id": "tmdb:1698575",
       "type": "movie",
       "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
@@ -329,14 +337,6 @@
       "releaseInfo": "2026-06-26"
     },
     {
-      "id": "tmdb:1675177",
-      "type": "movie",
-      "name": "Chris & Martina: The Final Set",
-      "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
-      "poster": "https://image.tmdb.org/t/p/w500/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
       "id": "tmdb:1245859",
       "type": "movie",
       "name": "Savage House",
@@ -415,6 +415,14 @@
       "description": "A woman swaps bodies with a chair, and everyone likes her better as a chair.",
       "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
       "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tmdb:1405769",
+      "type": "movie",
+      "name": "I Can Only Imagine 2",
+      "description": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
+      "poster": "https://image.tmdb.org/t/p/w500/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
+      "releaseInfo": "2026-06-20"
     },
     {
       "id": "tmdb:614945",
@@ -617,14 +625,6 @@
       "releaseInfo": "2026-06-02"
     },
     {
-      "id": "tmdb:1122573",
-      "type": "movie",
-      "name": "In the Grey",
-      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
       "id": "tmdb:1337592",
       "type": "movie",
       "name": "Erupcja",
@@ -638,14 +638,6 @@
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
       "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
       "poster": "https://image.tmdb.org/t/p/w500/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
-      "releaseInfo": "2026-05-30"
-    },
-    {
-      "id": "tmdb:972232",
-      "type": "movie",
-      "name": "K-Pops!",
-      "description": "A washed-up musician travels to Korea to write for K-pop stars, discovering that his long-lost son is set to front one of the country’s hottest new groups. He then jumps at the opportunity to capitalize on his son’s stardom for his own renaissance, but learns that fatherhood is much more fulfilling and meaningful than stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
       "releaseInfo": "2026-05-30"
     },
     {
@@ -703,6 +695,14 @@
       "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
       "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tmdb:1639683",
+      "type": "movie",
+      "name": "AEW Double or Nothing 2026",
+      "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
+      "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
+      "releaseInfo": "2026-05-24"
     },
     {
       "id": "tmdb:1675032",
@@ -838,6 +838,14 @@
       "name": "Marty, Life Is Short",
       "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
       "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
+      "id": "tmdb:1292415",
+      "type": "movie",
+      "name": "Beast",
+      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
@@ -1295,6 +1303,14 @@
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
       "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
       "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tmdb:1465591",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "poster": "https://image.tmdb.org/t/p/w500/oYfRopdjpP6HdtBs4vDJDKemDmy.jpg",
+      "releaseInfo": "2026-03-26"
     },
     {
       "id": "tmdb:1555160",
