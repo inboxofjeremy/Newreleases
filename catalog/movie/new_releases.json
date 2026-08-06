@@ -337,6 +337,14 @@
       "releaseInfo": "2026-06-26"
     },
     {
+      "id": "tmdb:1675177",
+      "type": "movie",
+      "name": "Chris & Martina: The Final Set",
+      "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
+      "poster": "https://image.tmdb.org/t/p/w500/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tmdb:1245859",
       "type": "movie",
       "name": "Savage House",
@@ -609,19 +617,19 @@
       "releaseInfo": "2026-06-04"
     },
     {
-      "id": "tmdb:1286491",
-      "type": "movie",
-      "name": "Jimpa",
-      "description": "Hannah and her non-binary teenager Frances visit her gay grandfather Jimpa in Amsterdam. Frances expresses a desire to stay with their grandfather for a year, challenging Hannah's parenting beliefs and forcing her to confront past issues.",
-      "poster": "https://image.tmdb.org/t/p/w500/giSERsYBGUcfj9ctB0h9d5ympo8.jpg",
-      "releaseInfo": "2026-06-04"
-    },
-    {
       "id": "tmdb:1380316",
       "type": "movie",
       "name": "Is God Is",
       "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
       "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
+      "id": "tmdb:1122573",
+      "type": "movie",
+      "name": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "releaseInfo": "2026-06-02"
     },
     {
@@ -638,6 +646,14 @@
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
       "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
       "poster": "https://image.tmdb.org/t/p/w500/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
+      "releaseInfo": "2026-05-30"
+    },
+    {
+      "id": "tmdb:972232",
+      "type": "movie",
+      "name": "K-Pops!",
+      "description": "A washed-up musician travels to Korea to write for K-pop stars, discovering that his long-lost son is set to front one of the country’s hottest new groups. He then jumps at the opportunity to capitalize on his son’s stardom for his own renaissance, but learns that fatherhood is much more fulfilling and meaningful than stardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
       "releaseInfo": "2026-05-30"
     },
     {
@@ -862,14 +878,6 @@
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
-      "id": "tmdb:843342",
-      "type": "movie",
-      "name": "Hamlet",
-      "description": "When Hamlet returns for his father’s funeral, he is stunned to discover his uncle Claudius is marrying his newly widowed mother. Visited by his father’s ghost, Hamlet learns his brutal murder was at the hands of Claudius - and spirals into a quest for vengeance that exposes the rot at the heart of the family’s empire and threatens his own sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/7cBh6fWchOJY961A8F1rT98HDdA.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
@@ -1521,14 +1529,6 @@
       "releaseInfo": "2026-02-24"
     },
     {
-      "id": "tmdb:846049",
-      "type": "movie",
-      "name": "The Dresden Sun",
-      "description": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
-      "poster": "https://image.tmdb.org/t/p/w500/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
-      "releaseInfo": "2026-02-23"
-    },
-    {
       "id": "tmdb:1327690",
       "type": "movie",
       "name": "One Mile: Chapter Two",
@@ -1575,6 +1575,14 @@
       "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
       "poster": "https://image.tmdb.org/t/p/w500/4TqPDzW8xvJ9uP4iLQRVH3I9KE8.jpg",
       "releaseInfo": "2026-02-17"
+    },
+    {
+      "id": "tmdb:1297311",
+      "type": "movie",
+      "name": "Quantum Supremacy",
+      "description": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
+      "poster": "https://image.tmdb.org/t/p/w500/oU9td2mvEu04rLGlynziVmNo16b.jpg",
+      "releaseInfo": "2026-02-16"
     },
     {
       "id": "tmdb:1380895",
@@ -1633,27 +1641,11 @@
       "releaseInfo": "2026-02-10"
     },
     {
-      "id": "tmdb:1288246",
-      "type": "movie",
-      "name": "The Huntsman",
-      "description": "When an ICU nurse volunteers to help a coma patient accused of murdering six women, he’s drawn into a chilling web of lies, obsession, and deadly secrets as a detective races to stop the killer.",
-      "poster": "https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
-      "releaseInfo": "2026-02-10"
-    },
-    {
       "id": "tmdb:1429605",
       "type": "movie",
       "name": "F Valentine's Day",
       "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
       "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "releaseInfo": "2026-02-06"
-    },
-    {
-      "id": "tmdb:1618945",
-      "type": "movie",
-      "name": "Yoh! Bestie",
-      "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
       "releaseInfo": "2026-02-06"
     },
     {
