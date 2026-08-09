@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:950028",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tmdb:1315772",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
       "id": "tmdb:1741545",
       "type": "movie",
       "name": "WWE SummerSlam 2026: Sunday",
@@ -181,7 +197,7 @@
       "type": "movie",
       "name": "Stop! That! Train!",
       "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
-      "poster": "https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/p9f6ePFZZ7oF2Z9lMIw5Hgrnbme.jpg",
       "releaseInfo": "2026-07-14"
     },
     {
