@@ -785,6 +785,14 @@
       "releaseInfo": "2026-05-20"
     },
     {
+      "id": "tmdb:1701686",
+      "type": "movie",
+      "name": "World War Bigfoot",
+      "description": "When his platoon is ambushed during WWII, an American medic escapes into the nearby forest, relentlessly pursued by the enemy. While evading capture, he encounters an unbelievable creature, not knowing if it's friend or foe. It will take everything he has to survive as new alliances will be formed and loyalties will be tested.",
+      "poster": "https://image.tmdb.org/t/p/w500/k94AIYLUXkhT6j4nfxdK5s36bXh.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1684244",
       "type": "movie",
       "name": "Untold UK: Liverpool's Miracle of Istanbul",
@@ -1289,11 +1297,11 @@
       "releaseInfo": "2026-04-01"
     },
     {
-      "id": "tmdb:1660968",
+      "id": "tmdb:1430968",
       "type": "movie",
-      "name": "Aaron Chen: Funny Garden",
-      "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
-      "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
+      "name": "Idiotka",
+      "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
+      "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
       "releaseInfo": "2026-03-31"
     },
     {
@@ -1582,6 +1590,14 @@
       "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
       "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
       "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
+      "releaseInfo": "2026-02-20"
+    },
+    {
+      "id": "tmdb:1593157",
+      "type": "movie",
+      "name": "Sandiwara",
+      "description": "In a night market, five characters recount their own unique story and represent a facet of Malaysian culture rarely explored.",
+      "poster": "https://image.tmdb.org/t/p/w500/yupbUEKe1Np2IWmlKY2lvGt3Bdq.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
