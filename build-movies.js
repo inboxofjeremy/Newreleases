@@ -6,9 +6,10 @@ import path from "path";
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
+const MAX_ORIGINAL_AGE_DAYS = 730; // Drops catalog titles older than 2 years with new re-release dates
 const MAX_PAGES = 20;
-const TMDB_CONCURRENCY = 5;
-const MIN_VOTE_COUNT = 3;
+const TMDB_CONCURRENCY = 8;
+const MIN_VOTE_COUNT = 5;
 
 // ===============================
 // DATE HELPERS
@@ -122,6 +123,7 @@ async function fetchMovies() {
       `&language=en-US` +
       `&with_original_language=en` +
       `&region=US` +
+      `&with_release_type=4|3` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
       `&sort_by=release_date.desc` +
       `&release_date.gte=${DATE_FROM}` +
@@ -138,6 +140,15 @@ async function fetchMovies() {
 
   const mapped = await pMap(all, async (m) => {
     if (!m?.id) return null;
+
+    // FIX 1: Filter out old catalog films with modern re-releases
+    if (m.release_date) {
+      const originalReleaseTime = new Date(m.release_date).getTime();
+      const maxAgeMs = MAX_ORIGINAL_AGE_DAYS * 24 * 60 * 60 * 1000;
+      if (Date.now() - originalReleaseTime > maxAgeMs) {
+        return null;
+      }
+    }
 
     const usDate = await fetchUSReleaseDate(m.id);
 
@@ -179,7 +190,7 @@ async function fetchMovies() {
 // ===============================
 // META BUILDER
 // ===============================
-async function buildMeta(id) {
+async function buildMeta(id, usDate = null) {
   const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
   if (!tmdbId) return null;
 
@@ -202,9 +213,8 @@ async function buildMeta(id) {
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
 
-      released: movie.release_date
-        ? movie.release_date.slice(0, 10)
-        : null,
+      // FIX 2: Override the default primary release date with the calculated US date
+      released: usDate || (movie.release_date ? movie.release_date.slice(0, 10) : null),
 
       imdb: movie.imdb_id || null,
     },
@@ -228,7 +238,8 @@ async function build() {
   );
 
   for (const m of movies) {
-    const meta = await buildMeta(m.id);
+    // FIX 2: Pass m.releaseInfo as the 2nd argument to buildMeta
+    const meta = await buildMeta(m.id, m.releaseInfo);
     if (!meta) continue;
 
     fs.writeFileSync(
