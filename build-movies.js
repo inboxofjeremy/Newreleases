@@ -307,10 +307,10 @@ async function build() {
 
     // Sanitize filename for Windows OS compatibility (replaces 'tmdb:' with 'tmdb_')
     const safeFilename = m.id.replace(":", "_");
-    fs.writeFileSync(
-      `./meta/movie/${safeFilename}.json`,
-      JSON.stringify(meta, null, 2)
-    );
+   
+      fs.writeFileSync(`./meta/movie/${m.id}.json`, JSON.stringify(meta, null, 2));
+    
+
   }
 
   console.log("Done.");
