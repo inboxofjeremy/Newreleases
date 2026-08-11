@@ -287,7 +287,7 @@ async function build() {
   );
 
   for (const m of movies) {
-    const meta = await buildMeta(m.id, m.releaseInfo);
+    const meta = await buildMeta(m.id);
     if (!meta) continue;
 
     fs.writeFileSync(
