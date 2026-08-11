@@ -13,8 +13,8 @@ if (!TMDB_KEY) {
 
 const DAYS_BACK = 180;
 const MAX_PAGES_PER_CHUNK = 20;
-const TMDB_CONCURRENCY = 3;
-const MIN_VOTE_COUNT = 2;
+const TMDB_CONCURRENCY = 4;
+const MIN_VOTE_COUNT = 3;
 
 // ===============================
 // DATE HELPERS (Chunked to prevent TMDB pagination limit)
