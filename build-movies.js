@@ -9,22 +9,14 @@ const DAYS_BACK = 180;
 const EARLIEST_PRIMARY_YEAR = 2024; // Blocks classic catalog re-releases (e.g. Mars Attacks!)
 const MAX_PAGES_PER_CHUNK = 10;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 3; // Lower threshold to ensure new indie VODs are included
 
 // ===============================
 // DATE HELPERS
 // ===============================
-function daysAgo(n) {
-  const d = new Date();
-  d.setDate(d.getDate() - n);
-  return d.toISOString().slice(0, 10);
-}
-
-// Breaks DAYS_BACK into 30-day chunks to prevent hitting TMDB page limits
 function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = 30) {
   const chunks = [];
   let currentEnd = new Date();
-  currentEnd.setDate(currentEnd.getDate() + 2); // Allow +2 days for timezone/preview padding
+  currentEnd.setDate(currentEnd.getDate() + 2); // Timezone padding
 
   const finalStart = new Date();
   finalStart.setDate(finalStart.getDate() - totalDaysBack);
@@ -61,9 +53,6 @@ async function fetchJSON(url) {
   }
 }
 
-// ===============================
-// ALLOW 180-DAY WINDOW (+2 DAYS)
-// ===============================
 function isAllowed(dateStr) {
   if (!dateStr) return false;
 
@@ -71,43 +60,67 @@ function isAllowed(dateStr) {
   const now = Date.now();
 
   const minTime = now - DAYS_BACK * 24 * 60 * 60 * 1000;
-  const maxTime = now + 2 * 24 * 60 * 60 * 1000; // allow past + next 2 days
+  const maxTime = now + 2 * 24 * 60 * 60 * 1000; // Past + next 2 days
 
   return releaseTime >= minTime && releaseTime <= maxTime;
 }
 
 // ===============================
-// US RELEASE DATE HELPER
+// US/CA RELEASE DATE HELPER
 // ===============================
-async function fetchUSReleaseDate(id) {
+async function fetchReleaseDate(id) {
   const json = await fetchJSON(
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_API_KEY}`
   );
 
   if (!json?.results?.length) return null;
 
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
+  const regions = json.results.filter(
+    (r) => r.iso_3166_1 === "US" || r.iso_3166_1 === "CA"
+  );
+  if (!regions.length) return null;
 
-  // 1. Check for DIGITAL (type 4) - earliest digital
-  const digitalDates = us.release_dates
-    .filter((d) => d.type === 4 && d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
+  const candidateDates = [];
 
-  if (digitalDates.length) {
-    return digitalDates[0]; // earliest digital
+  for (const reg of regions) {
+    if (!reg.release_dates) continue;
+    for (const rd of reg.release_dates) {
+      if (rd.release_date) {
+        candidateDates.push({
+          date: rd.release_date.slice(0, 10),
+          type: rd.type,
+        });
+      }
+    }
   }
 
-  // 2. Fallback: Get the LATEST US release date overall
-  const allUsDates = us.release_dates
-    .filter((d) => d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
+  if (!candidateDates.length) return null;
+
+  // 1. Digital (Type 4) inside 180-day window
+  const validDigital = candidateDates
+    .filter((d) => d.type === 4 && isAllowed(d.date))
+    .map((d) => d.date)
     .sort();
 
-  if (!allUsDates.length) return null;
+  if (validDigital.length) return validDigital[0];
 
-  return allUsDates[allUsDates.length - 1]; // latest US release date
+  // 2. Theatrical / Limited (Type 3 or 2) inside 180-day window
+  const validTheatrical = candidateDates
+    .filter((d) => (d.type === 3 || d.type === 2) && isAllowed(d.date))
+    .map((d) => d.date)
+    .sort();
+
+  if (validTheatrical.length) return validTheatrical[0];
+
+  // 3. Any valid regional date inside 180-day window
+  const anyValid = candidateDates
+    .filter((d) => isAllowed(d.date))
+    .map((d) => d.date)
+    .sort();
+
+  if (anyValid.length) return anyValid[0];
+
+  return null;
 }
 
 // ===============================
@@ -142,33 +155,36 @@ async function fetchMovies() {
   const chunks = getDateChunks(DAYS_BACK, 30);
   const rawResultsMap = new Map();
 
-  // Multi-pass: Query each 30-day window to avoid truncation
-  for (const chunk of chunks) {
-    for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-      const url =
-        `https://api.themoviedb.org/3/discover/movie?` +
-        `api_key=${TMDB_API_KEY}` +
-        `&language=en-US` +
-        `&with_original_language=en` +
-        `&region=US` +
-        `&with_release_type=4|3` +
-        `&vote_count.gte=${MIN_VOTE_COUNT}` +
-        `&sort_by=release_date.desc` +
-        `&release_date.gte=${chunk.from}` +
-        `&release_date.lte=${chunk.to}` +
-        `&without_genres=27` +
-        `&page=${page}`;
+  // Query both US and CA regions explicitly with with_release_type so TMDB evaluates regional dates
+  const regions = ["US", "CA"];
 
-      const j = await fetchJSON(url);
-      if (!j?.results?.length) break;
+  for (const region of regions) {
+    for (const chunk of chunks) {
+      for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
+        const url =
+          `https://api.themoviedb.org/3/discover/movie?` +
+          `api_key=${TMDB_API_KEY}` +
+          `&language=en-US` +
+          `&with_original_language=en` +
+          `&region=${region}` +
+          `&with_release_type=2|3|4` +
+          `&sort_by=release_date.desc` +
+          `&release_date.gte=${chunk.from}` +
+          `&release_date.lte=${chunk.to}` +
+          `&without_genres=27` +
+          `&page=${page}`;
 
-      for (const movie of j.results) {
-        if (!rawResultsMap.has(movie.id)) {
-          rawResultsMap.set(movie.id, movie);
+        const j = await fetchJSON(url);
+        if (!j?.results?.length) break;
+
+        for (const movie of j.results) {
+          if (!rawResultsMap.has(movie.id)) {
+            rawResultsMap.set(movie.id, movie);
+          }
         }
-      }
 
-      if (page >= j.total_pages) break;
+        if (page >= j.total_pages) break;
+      }
     }
   }
 
@@ -177,7 +193,7 @@ async function fetchMovies() {
   const mapped = await pMap(rawList, async (m) => {
     if (!m?.id) return null;
 
-    // RULE 1: Filter out old catalog films with modern re-releases (e.g. Mars Attacks! 1996)
+    // RULE 1: Filter out old catalog films (e.g., Mars Attacks!)
     const primaryYear = m.release_date
       ? parseInt(m.release_date.slice(0, 4), 10)
       : 0;
@@ -186,12 +202,9 @@ async function fetchMovies() {
       return null;
     }
 
-    // RULE 2: Get precise US Digital/Theatrical date
-    const usDate = await fetchUSReleaseDate(m.id);
-    if (!usDate) return null;
-
-    // RULE 3: Ensure the US date falls inside the 180-day window
-    if (!isAllowed(usDate)) return null;
+    // RULE 2: Get precise US/CA date that falls inside the 180-day window
+    const targetDate = await fetchReleaseDate(m.id);
+    if (!targetDate) return null;
 
     return {
       id: `tmdb:${m.id}`,
@@ -202,7 +215,7 @@ async function fetchMovies() {
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
         : null,
 
-      releaseInfo: usDate,
+      releaseInfo: targetDate,
     };
   });
 
@@ -225,7 +238,7 @@ async function fetchMovies() {
 // ===============================
 // META BUILDER
 // ===============================
-async function buildMeta(id, usDate = null) {
+async function buildMeta(id, targetDate = null) {
   const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
   if (!tmdbId) return null;
 
@@ -248,8 +261,9 @@ async function buildMeta(id, usDate = null) {
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
 
-      // Override default theatrical date with calculated US Digital date
-      released: usDate || (movie.release_date ? movie.release_date.slice(0, 10) : null),
+      released:
+        targetDate ||
+        (movie.release_date ? movie.release_date.slice(0, 10) : null),
 
       imdb: movie.imdb_id || null,
     },
