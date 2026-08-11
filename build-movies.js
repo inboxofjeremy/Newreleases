@@ -13,9 +13,9 @@ if (!TMDB_KEY) {
 
 const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
-const MAX_PAGES_PER_CHUNK = 20;
+const MAX_PAGES_PER_CHUNK = 500; // Raised to TMDb's hard limit to prevent truncating busy weeks
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 3;
+const MIN_VOTE_COUNT = 0;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
@@ -76,7 +76,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// RELEASE DATE HELPER (Newest US Date)
+// RELEASE DATE HELPER (Newest US Date excluding Physical)
 // ===============================
 async function getEffectiveReleaseDate(movieObj) {
   const json = await fetchJSON(
@@ -87,12 +87,12 @@ async function getEffectiveReleaseDate(movieObj) {
     const us = json.results.find((r) => r.iso_3166_1 === "US");
     if (us?.release_dates?.length) {
       const allUsDates = us.release_dates
-        .filter((d) => d.release_date)
+        .filter((d) => d.release_date && d.type !== 5) // Exclude Physical (type 5)
         .map((d) => d.release_date.slice(0, 10))
         .sort();
 
       if (allUsDates.length) {
-        return allUsDates[allUsDates.length - 1]; // Pick the newest/latest US release date
+        return allUsDates[allUsDates.length - 1]; // Pick the newest/latest US release date excluding Physical
       }
     }
   }
