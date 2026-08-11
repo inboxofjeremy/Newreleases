@@ -31,6 +31,8 @@ jobs:
           fi
 
       - name: Run build
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node build-movies.js
 
       - name: Commit generated files
