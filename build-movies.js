@@ -6,7 +6,7 @@ import path from "path";
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
-const MAX_ORIGINAL_AGE_DAYS = 730; // Drops catalog titles older than 2 years with new re-release dates
+const MAX_ORIGINAL_AGE_DAYS = 730; // Drops catalog titles older than 2 years with modern re-releases
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
@@ -59,12 +59,30 @@ async function fetchUSReleaseDate(id) {
     `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
 
-  if (!json?.results) return null;
+  if (!json?.results?.length) return null;
+
+  // 1. Find the movie's EARLIEST global premiere date across all release types/countries
+  const allGlobalDates = json.results
+    .flatMap((r) => r.release_dates || [])
+    .filter((d) => d.release_date)
+    .map((d) => d.release_date.slice(0, 10))
+    .sort(); // earliest → latest
+
+  if (allGlobalDates.length) {
+    const earliestGlobalDate = allGlobalDates[0];
+    const originalReleaseTime = new Date(earliestGlobalDate).getTime();
+    const maxAgeMs = MAX_ORIGINAL_AGE_DAYS * 24 * 60 * 60 * 1000;
+
+    // Drop old catalog titles (e.g. 1996 films) that got recent VOD re-releases
+    if (Date.now() - originalReleaseTime > maxAgeMs) {
+      return null;
+    }
+  }
 
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // 1. Check for DIGITAL (type 4) - earliest digital
+  // 2. Check for DIGITAL (type 4) - earliest digital
   const digitalDates = us.release_dates
     .filter((d) => d.type === 4 && d.release_date)
     .map((d) => d.release_date.slice(0, 10))
@@ -74,11 +92,11 @@ async function fetchUSReleaseDate(id) {
     return digitalDates[0]; // earliest digital
   }
 
-  // 2. Fallback: If no digital, get the LATEST US release date overall
+  // 3. Fallback: If no digital, get the LATEST US release date overall
   const allUsDates = us.release_dates
     .filter((d) => d.release_date)
     .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
+    .sort();
 
   if (!allUsDates.length) return null;
 
@@ -141,18 +159,9 @@ async function fetchMovies() {
   const mapped = await pMap(all, async (m) => {
     if (!m?.id) return null;
 
-    // FIX 1: Filter out old catalog films with modern re-releases
-    if (m.release_date) {
-      const originalReleaseTime = new Date(m.release_date).getTime();
-      const maxAgeMs = MAX_ORIGINAL_AGE_DAYS * 24 * 60 * 60 * 1000;
-      if (Date.now() - originalReleaseTime > maxAgeMs) {
-        return null;
-      }
-    }
-
     const usDate = await fetchUSReleaseDate(m.id);
 
-    // must have a valid release date
+    // must have a valid release date (and pass the global age check)
     if (!usDate) return null;
 
     // allow only past + next 10 days
@@ -213,7 +222,7 @@ async function buildMeta(id, usDate = null) {
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
 
-      // FIX 2: Override the default primary release date with the calculated US date
+      // Override default theatrical date with calculated US Digital date
       released: usDate || (movie.release_date ? movie.release_date.slice(0, 10) : null),
 
       imdb: movie.imdb_id || null,
@@ -238,7 +247,6 @@ async function build() {
   );
 
   for (const m of movies) {
-    // FIX 2: Pass m.releaseInfo as the 2nd argument to buildMeta
     const meta = await buildMeta(m.id, m.releaseInfo);
     if (!meta) continue;
 
