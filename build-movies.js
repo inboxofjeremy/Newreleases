@@ -124,8 +124,8 @@ async function fetchMovies() {
       `&region=US` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
       `&sort_by=primary_release_date.desc` +
-      `&primary_release_date.gte=${DATE_FROM}` +
-      `&primary_release_date.lte=${DATE_TO}` +
+      `&release_date.gte=${DATE_FROM}` +
+      `&release_date.lte=${DATE_TO}` +
       `&without_genres=27` +
       `&page=${page}`;
 
