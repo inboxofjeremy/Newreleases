@@ -8,8 +8,8 @@ const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180; // How recent the US release must be
 const MAX_MOVIE_AGE_DAYS = 730; // Max age of the film's original premiere (2 years)
 const MAX_PAGES = 20;
-const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 5;
+const TMDB_CONCURRENCY = 4;
+const MIN_VOTE_COUNT = 3;
 
 // ===============================
 // DATE HELPERS
