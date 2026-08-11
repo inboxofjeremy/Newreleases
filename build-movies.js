@@ -15,7 +15,7 @@ const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 0;
+const MIN_VOTE_COUNT = 4;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
