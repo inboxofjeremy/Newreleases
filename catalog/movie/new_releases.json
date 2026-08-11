@@ -377,14 +377,6 @@
       "releaseInfo": "2026-06-26"
     },
     {
-      "id": "tmdb:1020047",
-      "type": "movie",
-      "name": "In the Hand of Dante",
-      "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
-      "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-      "releaseInfo": "2026-06-24"
-    },
-    {
       "id": "tmdb:1301421",
       "type": "movie",
       "name": "The Sheep Detectives",
@@ -841,14 +833,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tmdb:1226863",
-      "type": "movie",
-      "name": "The Super Mario Galaxy Movie",
-      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tmdb:1307373",
       "type": "movie",
       "name": "Wasteman",
@@ -863,14 +847,6 @@
       "description": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
       "poster": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
       "releaseInfo": "2026-05-15"
-    },
-    {
-      "id": "tmdb:1693346",
-      "type": "movie",
-      "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-      "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
-      "releaseInfo": "2026-05-14"
     },
     {
       "id": "tmdb:1684240",
@@ -1494,14 +1470,6 @@
       "name": "Harry Styles. One Night in Manchester.",
       "description": "In a special one off concert in Manchester, recorded on the evening of March 6, Harry Styles played his new album, ‘Kiss All The Time. Disco, Occasionally.' for the very first time.",
       "poster": "https://image.tmdb.org/t/p/w500/AigpusxLychNPHCdB8jRVTEQ1kS.jpg",
-      "releaseInfo": "2026-03-08"
-    },
-    {
-      "id": "tmdb:1451867",
-      "type": "movie",
-      "name": "Ghost Elephants",
-      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
-      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
       "releaseInfo": "2026-03-08"
     },
     {
