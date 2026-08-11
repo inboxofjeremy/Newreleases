@@ -12,14 +12,15 @@ if (!TMDB_KEY) {
 }
 
 const DAYS_BACK = 180;
+const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 0;
 
 // ===============================
-// DATE HELPERS (Chunked to prevent TMDB pagination limit)
+// DATE HELPERS (Fine-grained 7-day chunks)
 // ===============================
-function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = 30) {
+function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = CHUNK_SIZE_DAYS) {
   const chunks = [];
   let currentEnd = new Date();
   currentEnd.setDate(currentEnd.getDate() + 2);
@@ -75,7 +76,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// ROBUST RELEASE DATE HELPER
+// RELEASE DATE HELPER
 // ===============================
 async function getEffectiveReleaseDate(movieObj) {
   const json = await fetchJSON(
@@ -91,12 +92,11 @@ async function getEffectiveReleaseDate(movieObj) {
         .sort();
 
       if (allUsDates.length) {
-        return allUsDates[0]; // Earliest US release date
+        return allUsDates[0];
       }
     }
   }
 
-  // Fallback to primary release date
   if (movieObj.release_date) {
     return movieObj.release_date.slice(0, 10);
   }
@@ -133,16 +133,17 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 // FETCH MOVIES
 // ===============================
 async function fetchMovies() {
-  const chunks = getDateChunks(DAYS_BACK, 30);
+  const chunks = getDateChunks(DAYS_BACK, CHUNK_SIZE_DAYS);
   const rawResultsMap = new Map();
 
   for (const chunk of chunks) {
     for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-      // Broad discover query: relies on local validation instead of TMDB pre-filtering
       const url =
         `https://api.themoviedb.org/3/discover/movie?` +
         `api_key=${TMDB_KEY}` +
         `&language=en-US` +
+        `&with_original_language=en` +
+        `&region=US` +
         `&vote_count.gte=${MIN_VOTE_COUNT}` +
         `&sort_by=primary_release_date.desc` +
         `&primary_release_date.gte=${chunk.from}` +
@@ -251,7 +252,7 @@ async function build() {
 
   for (const m of movies) {
     const meta = await buildMeta(m.id);
-    if (!meta) continue;
+    if (-!meta) continue;
 
     fs.writeFileSync(
       `./meta/movie/${m.id}.json`,
