@@ -288,10 +288,9 @@ async function buildMeta(id, targetDate = null) {
 // BUILD
 // ===============================
 async function build() {
-  console.log("Starting build sequence...");
+  console.log("Fetching movies…");
 
   const movies = await fetchMovies();
-  console.log(`Successfully validated ${movies.length} releases in the 180-day window.`);
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
   fs.mkdirSync("./meta/movie", { recursive: true });
@@ -302,14 +301,13 @@ async function build() {
   );
 
   for (const m of movies) {
-    const meta = await buildMeta(m.id, m.released);
+    const meta = await buildMeta(m.id);
     if (!meta) continue;
 
-    // Sanitize filename for Windows OS compatibility (replaces 'tmdb:' with 'tmdb_')
-   
-      fs.writeFileSync(`./meta/movie/${m.id}.json`, JSON.stringify(meta, null, 2));
-    
-
+    fs.writeFileSync(
+      `./meta/movie/${m.id}.json`,
+      JSON.stringify(meta, null, 2)
+    );
   }
 
   console.log("Done.");
