@@ -15,7 +15,7 @@ const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 3;
+const MIN_VOTE_COUNT = 0;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
@@ -166,19 +166,31 @@ async function fetchMovies() {
   }
 
   const rawList = Array.from(rawResultsMap.values());
+  console.log(`Total unique items collected from Discover: ${rawList.length}`);
 
   const mapped = await pMap(rawList, async (m) => {
-    if (!m?.id) return null;
+    const title = m.title || m.original_title || `Movie ${m?.id}`;
+    if (!m?.id) {
+      console.log(`[Dropped] Missing ID for movie title: "${title}"`);
+      return null;
+    }
 
     const releaseDate = await getEffectiveReleaseDate(m);
 
-    if (!releaseDate) return null;
-    if (!isAllowed(releaseDate)) return null;
+    if (!releaseDate) {
+      console.log(`[Dropped] No release date found: "${title}" (ID: ${m.id})`);
+      return null;
+    }
+
+    if (!isAllowed(releaseDate)) {
+      console.log(`[Dropped] Date out of allowed window (${releaseDate}): "${title}" (ID: ${m.id})`);
+      return null;
+    }
 
     return {
       id: `tmdb:${m.id}`,
       type: "movie",
-      name: m.title || m.original_title || `Movie ${m.id}`,
+      name: title,
       description: m.overview || "",
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
@@ -192,10 +204,15 @@ async function fetchMovies() {
 
   for (const item of mapped) {
     if (!item) continue;
-    if (seen.has(item.id)) continue;
+    if (seen.has(item.id)) {
+      console.log(`[Dropped] Duplicate entry: "${item.name}" (ID: ${item.id})`);
+      continue;
+    }
     seen.add(item.id);
     out.push(item);
   }
+
+  console.log(`Total movies kept after filtering & deduplication: ${out.length}`);
 
   return out.sort((a, b) => {
     return new Date(b.releaseInfo) - new Date(a.releaseInfo);
