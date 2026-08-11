@@ -5,15 +5,22 @@ import path from "path";
 // CONFIG
 // ===============================
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
-const DAYS_BACK = 180;
-const EARLIEST_PRIMARY_YEAR = 2024; // Blocks classic catalog re-releases (e.g. Mars Attacks!)
+
+if (!TMDB_API_KEY) {
+  console.error("ERROR: TMDB_API_KEY environment variable is not set.");
+  process.exit(1);
+}
+
+const DAYS_BACK = 180;               // Output window: US/CA release in last 180 days
+const DISCOVER_DAYS_BACK = 365;      // Discovery window: Look back 1 year to catch festival drops
+const EARLIEST_PRIMARY_YEAR = 2024; // Blocks classic catalog re-releases
 const MAX_PAGES_PER_CHUNK = 10;
-const TMDB_CONCURRENCY = 8;
+const TMDB_CONCURRENCY = 4;          // Safer concurrency to prevent 429 rate limits
 
 // ===============================
 // DATE HELPERS
 // ===============================
-function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = 30) {
+function getDateChunks(totalDaysBack = DISCOVER_DAYS_BACK, chunkSizeDays = 30) {
   const chunks = [];
   let currentEnd = new Date();
   currentEnd.setDate(currentEnd.getDate() + 2); // Timezone padding
@@ -41,16 +48,31 @@ function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = 30) {
 }
 
 // ===============================
-// FETCH HELPERS
+// FETCH HELPERS WITH RETRIES
 // ===============================
-async function fetchJSON(url) {
-  try {
-    const r = await fetch(url);
-    if (!r.ok) return null;
-    return await r.json();
-  } catch {
-    return null;
+async function fetchJSON(url, retries = 3, delayMs = 500) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const r = await fetch(url);
+
+      if (r.status === 429) {
+        // Rate limited - wait and retry
+        console.warn(`[HTTP 429] Rate limited. Retrying in ${delayMs * attempt}ms...`);
+        await new Promise((res) => setTimeout(res, delayMs * attempt));
+        continue;
+      }
+
+      if (!r.ok) {
+        return null;
+      }
+
+      return await r.json();
+    } catch (err) {
+      if (attempt === retries) return null;
+      await new Promise((res) => setTimeout(res, delayMs));
+    }
   }
+  return null;
 }
 
 function isAllowed(dateStr) {
@@ -124,7 +146,7 @@ async function fetchReleaseDate(id) {
 }
 
 // ===============================
-// CONCURRENCY
+// CONCURRENCY MAP HELPER
 // ===============================
 async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
   const out = new Array(list.length);
@@ -152,57 +174,54 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 // FETCH MOVIES
 // ===============================
 async function fetchMovies() {
-  const chunks = getDateChunks(DAYS_BACK, 30);
+  const chunks = getDateChunks(DISCOVER_DAYS_BACK, 30);
   const rawResultsMap = new Map();
 
-  // Query both US and CA regions explicitly with with_release_type so TMDB evaluates regional dates
-  const regions = ["US", "CA"];
+  console.log(`Scanning TMDB across ${chunks.length} date chunks...`);
 
-  for (const region of regions) {
-    for (const chunk of chunks) {
-      for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-        const url =
-          `https://api.themoviedb.org/3/discover/movie?` +
-          `api_key=${TMDB_API_KEY}` +
-          `&language=en-US` +
-          `&with_original_language=en` +
-          `&region=${region}` +
-          `&with_release_type=2|3|4` +
-          `&sort_by=release_date.desc` +
-          `&release_date.gte=${chunk.from}` +
-          `&release_date.lte=${chunk.to}` +
-          `&without_genres=27` +
-          `&page=${page}`;
+  for (const chunk of chunks) {
+    for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
+      const params = new URLSearchParams({
+        api_key: TMDB_API_KEY,
+        language: "en-US",
+        with_original_language: "en",
+        sort_by: "release_date.desc",
+        "release_date.gte": chunk.from,
+        "release_date.lte": chunk.to,
+        without_genres: "27",
+        page: String(page),
+      });
 
-        const j = await fetchJSON(url);
-        if (!j?.results?.length) break;
+      const url = `https://api.themoviedb.org/3/discover/movie?${params.toString()}`;
+      const j = await fetchJSON(url);
 
-        for (const movie of j.results) {
-          if (!rawResultsMap.has(movie.id)) {
-            rawResultsMap.set(movie.id, movie);
-          }
+      if (!j?.results?.length) break;
+
+      for (const movie of j.results) {
+        if (!rawResultsMap.has(movie.id)) {
+          rawResultsMap.set(movie.id, movie);
         }
-
-        if (page >= j.total_pages) break;
       }
+
+      if (page >= j.total_pages) break;
     }
   }
 
   const rawList = Array.from(rawResultsMap.values());
+  console.log(`Discovered ${rawList.length} raw candidate movies. Verifying US/CA release dates...`);
 
   const mapped = await pMap(rawList, async (m) => {
     if (!m?.id) return null;
 
-    // RULE 1: Filter out old catalog films (e.g., Mars Attacks!)
+    // Filter out vintage catalog films with modern re-releases
     const primaryYear = m.release_date
       ? parseInt(m.release_date.slice(0, 4), 10)
       : 0;
 
-    if (primaryYear < EARLIEST_PRIMARY_YEAR) {
+    if (primaryYear && primaryYear < EARLIEST_PRIMARY_YEAR) {
       return null;
     }
 
-    // RULE 2: Get precise US/CA date that falls inside the 180-day window
     const targetDate = await fetchReleaseDate(m.id);
     if (!targetDate) return null;
 
@@ -214,7 +233,7 @@ async function fetchMovies() {
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
         : null,
-
+      released: targetDate,
       releaseInfo: targetDate,
     };
   });
@@ -229,10 +248,7 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // Newest first
-  return out.sort((a, b) => {
-    return new Date(b.releaseInfo) - new Date(a.releaseInfo);
-  });
+  return out.sort((a, b) => new Date(b.released) - new Date(a.released));
 }
 
 // ===============================
@@ -260,11 +276,9 @@ async function buildMeta(id, targetDate = null) {
       background: movie.backdrop_path
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
-
       released:
         targetDate ||
         (movie.release_date ? movie.release_date.slice(0, 10) : null),
-
       imdb: movie.imdb_id || null,
     },
   };
@@ -274,9 +288,10 @@ async function buildMeta(id, targetDate = null) {
 // BUILD
 // ===============================
 async function build() {
-  console.log("Fetching movies…");
+  console.log("Starting build sequence...");
 
   const movies = await fetchMovies();
+  console.log(`Successfully validated ${movies.length} releases in the 180-day window.`);
 
   fs.mkdirSync("./catalog/movie", { recursive: true });
   fs.mkdirSync("./meta/movie", { recursive: true });
@@ -287,11 +302,13 @@ async function build() {
   );
 
   for (const m of movies) {
-    const meta = await buildMeta(m.id);
+    const meta = await buildMeta(m.id, m.released);
     if (!meta) continue;
 
+    // Sanitize filename for Windows OS compatibility (replaces 'tmdb:' with 'tmdb_')
+    const safeFilename = m.id.replace(":", "_");
     fs.writeFileSync(
-      `./meta/movie/${m.id}.json`,
+      `./meta/movie/${safeFilename}.json`,
       JSON.stringify(meta, null, 2)
     );
   }
