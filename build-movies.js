@@ -3,7 +3,7 @@ import fs from "fs";
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = "YOUR_TMDB_API_KEY";
+const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const DAYS_BACK = 180;
 const MIN_VOTE_COUNT = 3; // Lowered slightly so new indie VODs aren't dropped
 const EARLIEST_ORIGINAL_YEAR = 2024; // Blocks old catalog movies (Mars Attacks, etc.)
