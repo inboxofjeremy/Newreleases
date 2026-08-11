@@ -51,7 +51,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// EARLIEST US DIGITAL RELEASE ONLY
+// US RELEASE DATE HELPER
 // ===============================
 async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
@@ -63,15 +63,25 @@ async function fetchUSReleaseDate(id) {
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // ONLY DIGITAL (type 4)
+  // 1. Check for DIGITAL (type 4) - earliest digital
   const digitalDates = us.release_dates
     .filter((d) => d.type === 4 && d.release_date)
     .map((d) => d.release_date.slice(0, 10))
     .sort(); // earliest → latest
 
-  if (!digitalDates.length) return null;
+  if (digitalDates.length) {
+    return digitalDates[0]; // earliest digital
+  }
 
-  return digitalDates[0]; // earliest digital
+  // 2. Fallback: If no digital, get the LATEST US release date overall
+  const allUsDates = us.release_dates
+    .filter((d) => d.release_date)
+    .map((d) => d.release_date.slice(0, 10))
+    .sort(); // earliest → latest
+
+  if (!allUsDates.length) return null;
+
+  return allUsDates[allUsDates.length - 1]; // latest US release date
 }
 
 // ===============================
@@ -131,7 +141,7 @@ async function fetchMovies() {
 
     const usDate = await fetchUSReleaseDate(m.id);
 
-    // must have digital release
+    // must have a valid release date
     if (!usDate) return null;
 
     // allow only past + next 10 days
