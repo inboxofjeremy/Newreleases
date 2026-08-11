@@ -75,7 +75,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// FIXED RELEASE DATE HELPER (Uses Earliest US Date)
+// ROBUST RELEASE DATE HELPER
 // ===============================
 async function getEffectiveReleaseDate(movieObj) {
   const json = await fetchJSON(
@@ -88,10 +88,10 @@ async function getEffectiveReleaseDate(movieObj) {
       const allUsDates = us.release_dates
         .filter((d) => d.release_date)
         .map((d) => d.release_date.slice(0, 10))
-        .sort(); // Sorts earliest to latest
+        .sort();
 
       if (allUsDates.length) {
-        return allUsDates[0]; // Uses the EARLIEST US release date (theatrical/premiere)
+        return allUsDates[0]; // Earliest US release date
       }
     }
   }
@@ -138,16 +138,15 @@ async function fetchMovies() {
 
   for (const chunk of chunks) {
     for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
+      // Broad discover query: relies on local validation instead of TMDB pre-filtering
       const url =
         `https://api.themoviedb.org/3/discover/movie?` +
         `api_key=${TMDB_KEY}` +
         `&language=en-US` +
-        `&with_original_language=en` +
-        `&region=US` +
         `&vote_count.gte=${MIN_VOTE_COUNT}` +
-        `&sort_by=release_date.desc` +
-        `&release_date.gte=${chunk.from}` +
-        `&release_date.lte=${chunk.to}` +
+        `&sort_by=primary_release_date.desc` +
+        `&primary_release_date.gte=${chunk.from}` +
+        `&primary_release_date.lte=${chunk.to}` +
         `&without_genres=27` +
         `&page=${page}`;
 
