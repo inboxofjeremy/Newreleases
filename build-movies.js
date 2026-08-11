@@ -7,8 +7,8 @@ import path from "path";
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
-const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 5;
+const TMDB_CONCURRENCY = 5;
+const MIN_VOTE_COUNT = 3;
 
 // ===============================
 // DATE HELPERS
@@ -123,7 +123,7 @@ async function fetchMovies() {
       `&with_original_language=en` +
       `&region=US` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
-      `&sort_by=primary_release_date.desc` +
+      `&sort_by=release_date.desc` +
       `&release_date.gte=${DATE_FROM}` +
       `&release_date.lte=${DATE_TO}` +
       `&without_genres=27` +
