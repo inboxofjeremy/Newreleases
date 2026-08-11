@@ -15,7 +15,7 @@ const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 500; // Raised to TMDb's hard limit to prevent truncating busy weeks
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 0;
+const MIN_VOTE_COUNT = 3;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
