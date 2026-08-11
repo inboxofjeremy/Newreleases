@@ -15,7 +15,7 @@ const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 0;
+const MIN_VOTE_COUNT = 3;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
@@ -76,7 +76,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// RELEASE DATE HELPER
+// RELEASE DATE HELPER (Newest US Date)
 // ===============================
 async function getEffectiveReleaseDate(movieObj) {
   const json = await fetchJSON(
@@ -92,7 +92,7 @@ async function getEffectiveReleaseDate(movieObj) {
         .sort();
 
       if (allUsDates.length) {
-        return allUsDates[0];
+        return allUsDates[allUsDates.length - 1]; // Pick the newest/latest US release date
       }
     }
   }
@@ -138,7 +138,6 @@ async function fetchMovies() {
 
   for (const chunk of chunks) {
     for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-      // Querying with both primary_release_date and release_date parameters combined
       const url =
         `https://api.themoviedb.org/3/discover/movie?` +
         `api_key=${TMDB_KEY}` +
