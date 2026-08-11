@@ -9,6 +9,14 @@
       "releaseInfo": "2026-08-11"
     },
     {
+      "id": "tmdb:1612018",
+      "type": "movie",
+      "name": "Jackass: Best and Last",
+      "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
       "id": "tmdb:950028",
       "type": "movie",
       "name": "The Invite",
@@ -17,19 +25,19 @@
       "releaseInfo": "2026-08-11"
     },
     {
+      "id": "tmdb:1315772",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
       "id": "tmdb:1465557",
       "type": "movie",
       "name": "Our Hero, Balthazar",
       "description": "Eager to impress his activist crush, a wealthy New York teenager follows an online connection to Texas, where he's convinced he can stop an act of extreme violence.",
       "poster": "https://image.tmdb.org/t/p/w500/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -177,6 +185,14 @@
       "releaseInfo": "2026-07-29"
     },
     {
+      "id": "tmdb:1081003",
+      "type": "movie",
+      "name": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "releaseInfo": "2026-07-28"
+    },
+    {
       "id": "tmdb:1284465",
       "type": "movie",
       "name": "The Death of Robin Hood",
@@ -281,6 +297,38 @@
       "releaseInfo": "2026-07-22"
     },
     {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
+      "id": "tmdb:1275779",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1273221",
+      "type": "movie",
+      "name": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tmdb:1228710",
+      "type": "movie",
+      "name": "The Mandalorian and Grogu",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
       "id": "tmdb:1184941",
       "type": "movie",
       "name": "Blue Heron",
@@ -358,14 +406,6 @@
       "name": "The Breadwinner",
       "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
       "poster": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "releaseInfo": "2026-07-14"
-    },
-    {
-      "id": "tmdb:1242332",
-      "type": "movie",
-      "name": "Normal",
-      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
       "releaseInfo": "2026-07-14"
     },
     {
@@ -505,6 +545,14 @@
       "releaseInfo": "2026-07-03"
     },
     {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tmdb:1202033",
       "type": "movie",
       "name": "Enola Holmes 3",
@@ -638,6 +686,14 @@
       "name": "In the Hand of Dante",
       "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
       "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+      "releaseInfo": "2026-06-24"
+    },
+    {
+      "id": "tmdb:1301421",
+      "type": "movie",
+      "name": "The Sheep Detectives",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
       "releaseInfo": "2026-06-24"
     },
     {
@@ -782,14 +838,6 @@
       "name": "Busboys",
       "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
       "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
-      "releaseInfo": "2026-06-16"
-    },
-    {
-      "id": "tmdb:1455079",
-      "type": "movie",
-      "name": "You, Me & Tuscany",
-      "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
       "releaseInfo": "2026-06-16"
     },
     {
@@ -1265,6 +1313,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "poster": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tmdb:1307373",
       "type": "movie",
       "name": "Wasteman",
@@ -1334,6 +1390,14 @@
       "name": "Marty, Life Is Short",
       "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
       "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
+      "id": "tmdb:1455079",
+      "type": "movie",
+      "name": "You, Me & Tuscany",
+      "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
@@ -1649,27 +1713,11 @@
       "releaseInfo": "2026-04-21"
     },
     {
-      "id": "tmdb:467914",
-      "type": "movie",
-      "name": "The Land of Sometimes",
-      "description": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
-      "releaseInfo": "2026-04-21"
-    },
-    {
       "id": "tmdb:1383731",
       "type": "movie",
       "name": "Protector",
       "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
       "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "releaseInfo": "2026-04-21"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2026-04-21"
     },
     {
@@ -1902,6 +1950,14 @@
       "name": "Untold: Chess Mates",
       "description": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
       "poster": "https://image.tmdb.org/t/p/w500/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
+      "id": "tmdb:467914",
+      "type": "movie",
+      "name": "The Land of Sometimes",
+      "description": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
@@ -2385,11 +2441,11 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tmdb:1297311",
+      "id": "tmdb:1119449",
       "type": "movie",
-      "name": "Quantum Supremacy",
-      "description": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
-      "poster": "https://image.tmdb.org/t/p/w500/oU9td2mvEu04rLGlynziVmNo16b.jpg",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
@@ -2735,6 +2791,14 @@
       "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
       "poster": "https://image.tmdb.org/t/p/w500/4TqPDzW8xvJ9uP4iLQRVH3I9KE8.jpg",
       "releaseInfo": "2026-02-17"
+    },
+    {
+      "id": "tmdb:1297311",
+      "type": "movie",
+      "name": "Quantum Supremacy",
+      "description": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
+      "poster": "https://image.tmdb.org/t/p/w500/oU9td2mvEu04rLGlynziVmNo16b.jpg",
+      "releaseInfo": "2026-02-16"
     },
     {
       "id": "tmdb:1625901",
