@@ -15,7 +15,7 @@ const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
 const MAX_PAGES_PER_CHUNK = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 3;
+const MIN_VOTE_COUNT = 0;
 
 // ===============================
 // DATE HELPERS (Fine-grained 7-day chunks)
@@ -138,16 +138,15 @@ async function fetchMovies() {
 
   for (const chunk of chunks) {
     for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-      // region=US removed to prevent TMDB discover from prematurely dropping unmapped regional releases
       const url =
         `https://api.themoviedb.org/3/discover/movie?` +
         `api_key=${TMDB_KEY}` +
         `&language=en-US` +
         `&with_original_language=en` +
         `&vote_count.gte=${MIN_VOTE_COUNT}` +
-        `&sort_by=primary_release_date.desc` +
-        `&primary_release_date.gte=${chunk.from}` +
-        `&primary_release_date.lte=${chunk.to}` +
+        `&sort_by=release_date.desc` +
+        `&release_date.gte=${chunk.from}` +
+        `&release_date.lte=${chunk.to}` +
         `&without_genres=27` +
         `&page=${page}`;
 
