@@ -5,8 +5,8 @@ import path from "path";
 // CONFIG
 // ===============================
 const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
-const DAYS_BACK = 180;
-const MAX_ORIGINAL_AGE_DAYS = 730; // Drops catalog titles older than 2 years with modern re-releases
+const DAYS_BACK = 180; // How recent the US release must be
+const MAX_MOVIE_AGE_DAYS = 730; // Max age of the film's original premiere (2 years)
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 5;
@@ -21,7 +21,7 @@ function daysAgo(n) {
 }
 
 const DATE_FROM = daysAgo(DAYS_BACK);
-const DATE_TO = daysAgo(0);
+const PRIMARY_DATE_FROM = daysAgo(MAX_MOVIE_AGE_DAYS);
 
 // ===============================
 // FETCH HELPERS
@@ -37,18 +37,18 @@ async function fetchJSON(url) {
 }
 
 // ===============================
-// ALLOW +2 DAY WINDOW
+// VERIFY US RELEASE IS WITHIN 180-DAY WINDOW
 // ===============================
 function isAllowed(dateStr) {
   if (!dateStr) return false;
 
-  const date = new Date(dateStr).getTime();
+  const releaseTime = new Date(dateStr).getTime();
   const now = Date.now();
 
-  const TWO_DAYS = 2 * 24 * 60 * 60 * 1000;
+  const minTime = now - DAYS_BACK * 24 * 60 * 60 * 1000;
+  const maxTime = now + 2 * 24 * 60 * 60 * 1000; // allow past + next 2 days
 
-  // allow past + next 10 days
-  return date <= (now + TWO_DAYS);
+  return releaseTime >= minTime && releaseTime <= maxTime;
 }
 
 // ===============================
@@ -61,28 +61,10 @@ async function fetchUSReleaseDate(id) {
 
   if (!json?.results?.length) return null;
 
-  // 1. Find the movie's EARLIEST global premiere date across all release types/countries
-  const allGlobalDates = json.results
-    .flatMap((r) => r.release_dates || [])
-    .filter((d) => d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
-
-  if (allGlobalDates.length) {
-    const earliestGlobalDate = allGlobalDates[0];
-    const originalReleaseTime = new Date(earliestGlobalDate).getTime();
-    const maxAgeMs = MAX_ORIGINAL_AGE_DAYS * 24 * 60 * 60 * 1000;
-
-    // Drop old catalog titles (e.g. 1996 films) that got recent VOD re-releases
-    if (Date.now() - originalReleaseTime > maxAgeMs) {
-      return null;
-    }
-  }
-
   const us = json.results.find((r) => r.iso_3166_1 === "US");
   if (!us?.release_dates?.length) return null;
 
-  // 2. Check for DIGITAL (type 4) - earliest digital
+  // 1. Check for DIGITAL (type 4) - earliest digital
   const digitalDates = us.release_dates
     .filter((d) => d.type === 4 && d.release_date)
     .map((d) => d.release_date.slice(0, 10))
@@ -92,7 +74,7 @@ async function fetchUSReleaseDate(id) {
     return digitalDates[0]; // earliest digital
   }
 
-  // 3. Fallback: If no digital, get the LATEST US release date overall
+  // 2. Fallback: If no digital, get the LATEST US release date overall
   const allUsDates = us.release_dates
     .filter((d) => d.release_date)
     .map((d) => d.release_date.slice(0, 10))
@@ -135,17 +117,17 @@ async function fetchMovies() {
   const all = [];
 
   for (let page = 1; page <= MAX_PAGES; page++) {
+    // primary_release_date.gte ensures TMDB blocks old catalog titles (like 1996's Mars Attacks)
+    // while including films originally premiered at festivals in the last 2 years
     const url =
       `https://api.themoviedb.org/3/discover/movie?` +
       `api_key=${TMDB_KEY}` +
       `&language=en-US` +
       `&with_original_language=en` +
       `&region=US` +
-      `&with_release_type=4|3` +
       `&vote_count.gte=${MIN_VOTE_COUNT}` +
-      `&sort_by=release_date.desc` +
-      `&release_date.gte=${DATE_FROM}` +
-      `&release_date.lte=${DATE_TO}` +
+      `&sort_by=primary_release_date.desc` +
+      `&primary_release_date.gte=${PRIMARY_DATE_FROM}` +
       `&without_genres=27` +
       `&page=${page}`;
 
@@ -161,10 +143,10 @@ async function fetchMovies() {
 
     const usDate = await fetchUSReleaseDate(m.id);
 
-    // must have a valid release date (and pass the global age check)
+    // must have a valid US release date
     if (!usDate) return null;
 
-    // allow only past + next 10 days
+    // ensure the US release date falls inside the 180-day window
     if (!isAllowed(usDate)) return null;
 
     return {
