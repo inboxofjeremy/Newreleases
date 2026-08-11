@@ -13,8 +13,8 @@ if (!TMDB_KEY) {
 
 const DAYS_BACK = 180;
 const MAX_PAGES_PER_CHUNK = 20;
-const TMDB_CONCURRENCY = 4;
-const MIN_VOTE_COUNT = 3;
+const TMDB_CONCURRENCY = 8;
+const MIN_VOTE_COUNT = 0;
 
 // ===============================
 // DATE HELPERS (Chunked to prevent TMDB pagination limit)
@@ -22,7 +22,7 @@ const MIN_VOTE_COUNT = 3;
 function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = 30) {
   const chunks = [];
   let currentEnd = new Date();
-  currentEnd.setDate(currentEnd.getDate() + 2); // padding for timezone/future drops
+  currentEnd.setDate(currentEnd.getDate() + 2);
 
   const finalStart = new Date();
   finalStart.setDate(finalStart.getDate() - totalDaysBack);
@@ -71,42 +71,37 @@ function isAllowed(dateStr) {
   const TWO_DAYS = 2 * 24 * 60 * 60 * 1000;
   const minTime = now - DAYS_BACK * 24 * 60 * 60 * 1000;
 
-  // allow within DAYS_BACK window + next 2 days
   return date >= minTime && date <= (now + TWO_DAYS);
 }
 
 // ===============================
-// US RELEASE DATE HELPER
+// FIXED RELEASE DATE HELPER (Uses Earliest US Date)
 // ===============================
-async function fetchUSReleaseDate(id) {
+async function getEffectiveReleaseDate(movieObj) {
   const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
+    `https://api.themoviedb.org/3/movie/${movieObj.id}/release_dates?api_key=${TMDB_KEY}`
   );
 
-  if (!json?.results) return null;
+  if (json?.results) {
+    const us = json.results.find((r) => r.iso_3166_1 === "US");
+    if (us?.release_dates?.length) {
+      const allUsDates = us.release_dates
+        .filter((d) => d.release_date)
+        .map((d) => d.release_date.slice(0, 10))
+        .sort(); // Sorts earliest to latest
 
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
-
-  // 1. Check for DIGITAL (type 4) - earliest digital
-  const digitalDates = us.release_dates
-    .filter((d) => d.type === 4 && d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
-
-  if (digitalDates.length) {
-    return digitalDates[0]; // earliest digital
+      if (allUsDates.length) {
+        return allUsDates[0]; // Uses the EARLIEST US release date (theatrical/premiere)
+      }
+    }
   }
 
-  // 2. Fallback: If no digital, get the LATEST US release date overall
-  const allUsDates = us.release_dates
-    .filter((d) => d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
+  // Fallback to primary release date
+  if (movieObj.release_date) {
+    return movieObj.release_date.slice(0, 10);
+  }
 
-  if (!allUsDates.length) return null;
-
-  return allUsDates[allUsDates.length - 1]; // latest US release date
+  return null;
 }
 
 // ===============================
@@ -174,13 +169,10 @@ async function fetchMovies() {
   const mapped = await pMap(rawList, async (m) => {
     if (!m?.id) return null;
 
-    const usDate = await fetchUSReleaseDate(m.id);
+    const releaseDate = await getEffectiveReleaseDate(m);
 
-    // must have a valid release date
-    if (!usDate) return null;
-
-    // allow only past + next 2 days
-    if (!isAllowed(usDate)) return null;
+    if (!releaseDate) return null;
+    if (!isAllowed(releaseDate)) return null;
 
     return {
       id: `tmdb:${m.id}`,
@@ -190,8 +182,7 @@ async function fetchMovies() {
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
         : null,
-
-      releaseInfo: usDate,
+      releaseInfo: releaseDate,
     };
   });
 
@@ -205,7 +196,6 @@ async function fetchMovies() {
     out.push(item);
   }
 
-  // newest first
   return out.sort((a, b) => {
     return new Date(b.releaseInfo) - new Date(a.releaseInfo);
   });
@@ -236,11 +226,9 @@ async function buildMeta(id) {
       background: movie.backdrop_path
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
-
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-
       imdb: movie.imdb_id || null,
     },
   };
