@@ -25,6 +25,30 @@
       "releaseInfo": "2026-08-11"
     },
     {
+      "id": "tmdb:675871",
+      "type": "movie",
+      "name": "Super Troopers 3",
+      "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "releaseInfo": "2026-08-07"
+    },
+    {
+      "id": "tmdb:1433367",
+      "type": "movie",
+      "name": "One Night Only",
+      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+      "releaseInfo": "2026-08-07"
+    },
+    {
+      "id": "tmdb:969681",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "releaseInfo": "2026-08-06"
+    },
+    {
       "id": "tmdb:1741545",
       "type": "movie",
       "name": "WWE SummerSlam 2026: Sunday",
@@ -39,6 +63,14 @@
       "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
       "poster": "https://image.tmdb.org/t/p/w500/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
       "releaseInfo": "2026-08-01"
+    },
+    {
+      "id": "tmdb:1288059",
+      "type": "movie",
+      "name": "I Want Your Sex",
+      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "releaseInfo": "2026-07-31"
     },
     {
       "id": "tmdb:1517868",
@@ -97,11 +129,27 @@
       "releaseInfo": "2026-07-24"
     },
     {
+      "id": "tmdb:87513",
+      "type": "movie",
+      "name": "Motor City",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+      "releaseInfo": "2026-07-24"
+    },
+    {
       "id": "tmdb:949838",
       "type": "movie",
       "name": "72 HOURS",
       "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
       "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "releaseInfo": "2026-07-24"
+    },
+    {
+      "id": "tmdb:1130948",
+      "type": "movie",
+      "name": "Rosebush Pruning",
+      "description": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "poster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -185,6 +233,14 @@
       "releaseInfo": "2026-07-17"
     },
     {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "releaseInfo": "2026-07-17"
+    },
+    {
       "id": "tmdb:1468683",
       "type": "movie",
       "name": "Heartstopper Forever",
@@ -233,11 +289,27 @@
       "releaseInfo": "2026-07-10"
     },
     {
+      "id": "tmdb:1404304",
+      "type": "movie",
+      "name": "The Isolate Thief",
+      "description": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+      "poster": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
       "id": "tmdb:1381202",
       "type": "movie",
       "name": "The Outer Threat",
       "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
       "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
+      "id": "tmdb:1108427",
+      "type": "movie",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "releaseInfo": "2026-07-10"
     },
     {
@@ -286,6 +358,14 @@
       "name": "Summer's Last Resort",
       "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tmdb:1308767",
+      "type": "movie",
+      "name": "Young Washington",
+      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -345,11 +425,27 @@
       "releaseInfo": "2026-06-27"
     },
     {
+      "id": "tmdb:1594914",
+      "type": "movie",
+      "name": "Lucky Strike",
+      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+      "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tmdb:1397385",
       "type": "movie",
       "name": "Little Brother",
       "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
       "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
+      "id": "tmdb:1279493",
+      "type": "movie",
+      "name": "The Get Out",
+      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -374,6 +470,14 @@
       "name": "Savage House",
       "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
       "poster": "https://image.tmdb.org/t/p/w500/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
+      "id": "tmdb:1399525",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "Two desperate men take jobs aboard an old fishing boat that mysteriously reappears after vanishing 30 years before. But when they return from their voyage, why is nothing as they remember it?",
+      "poster": "https://image.tmdb.org/t/p/w500/baFW06cijsli2OFewKgEIFpuFc2.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -481,6 +585,14 @@
       "releaseInfo": "2026-06-19"
     },
     {
+      "id": "tmdb:1084244",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
       "id": "tmdb:1558796",
       "type": "movie",
       "name": "Never Change!",
@@ -519,6 +631,14 @@
       "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
       "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
       "releaseInfo": "2026-06-16"
+    },
+    {
+      "id": "tmdb:1686831",
+      "type": "movie",
+      "name": "Texas Two-Step",
+      "description": "Olivia returns to Texas to help her aunt with her country music bar that's fallen on hard times and reconnects with Luke, her childhood sweetheart turned cowboy, and her passion for dancing.",
+      "poster": "https://image.tmdb.org/t/p/w500/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
+      "releaseInfo": "2026-06-13"
     },
     {
       "id": "tmdb:1325614",
@@ -638,6 +758,14 @@
       "name": "Seven Snipers",
       "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
       "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tmdb:677558",
+      "type": "movie",
+      "name": "The Last Whale Singer",
+      "description": "When a monstrous creature escapes from a melting iceberg, a self-doubting teenage humpback whale must face his greatest fears and dive into the darkest depths with his friends, to discover the mystical song that can save the oceans from destruction.",
+      "poster": "https://image.tmdb.org/t/p/w500/yIDPrKCgiG49cULhITKxeZywISe.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -777,6 +905,14 @@
       "releaseInfo": "2026-05-22"
     },
     {
+      "id": "tmdb:1484620",
+      "type": "movie",
+      "name": "Everybody to Kenmure Street",
+      "description": "In May 2021, a UK Home Office dawn raid triggers one of the most spontaneous and successful acts of civil resistance in recent memory. In Pollokshields, Scotland’s most diverse neighbourhood, hundreds of residents rush to the streets to stop the deportation of their neighbours.",
+      "poster": "https://image.tmdb.org/t/p/w500/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
       "id": "tmdb:1694958",
       "type": "movie",
       "name": "Dua Lipa: Live from Mexico",
@@ -857,6 +993,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tmdb:1285669",
+      "type": "movie",
+      "name": "LifeHack",
+      "description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet-and a danger beyond their computer screens.",
+      "poster": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
+      "releaseInfo": "2026-05-15"
+    },
+    {
       "id": "tmdb:1662317",
       "type": "movie",
       "name": "The Crash",
@@ -929,6 +1073,14 @@
       "releaseInfo": "2026-05-10"
     },
     {
+      "id": "tmdb:1409853",
+      "type": "movie",
+      "name": "Neglected",
+      "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
+      "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
       "id": "tmdb:1257868",
       "type": "movie",
       "name": "Couples Weekend",
@@ -951,6 +1103,14 @@
       "description": "An anxious New York law school dropout stumbles into a job babysitting his psychiatrist's three granddaughters and falls for the girls' mother, an actress in a rocky marriage.",
       "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
       "releaseInfo": "2026-05-08"
+    },
+    {
+      "id": "tmdb:1642859",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "releaseInfo": "2026-05-07"
     },
     {
       "id": "tmdb:1688652",
@@ -993,6 +1153,22 @@
       "releaseInfo": "2026-05-04"
     },
     {
+      "id": "tmdb:1575806",
+      "type": "movie",
+      "name": "Kentucky Roses",
+      "description": "Kentucky Roses follows Sadie, a Churchill Downs greenhouse worker dreaming of designing the iconic Kentucky Derby rose garland, and Ash, the son of the track's CEO who is trying to hide his identity to prove his own worth.** When a storm damages the venue two weeks before the big race, the pair must team up to repair the iconic Twin Spires and save the traditional rose blanket. Along the way, they discover a 1932 connection between their families whose romance was torn apart by class differences, forcing them to navigate past history to find their own future together.",
+      "poster": "https://image.tmdb.org/t/p/w500/2Et03jKQ7fhQvQhA2Znkk1kVctY.jpg",
+      "releaseInfo": "2026-05-02"
+    },
+    {
+      "id": "tmdb:1469164",
+      "type": "movie",
+      "name": "Casa Grande",
+      "description": "A prodigal daughter rejoins her family at their farm during a difficult time, as her ailing father faces both a terminal diagnosis and mounting pressure from competitors. Old wounds resurface as they grapple with what lies ahead.",
+      "poster": "https://image.tmdb.org/t/p/w500/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
+      "releaseInfo": "2026-05-01"
+    },
+    {
       "id": "tmdb:1400923",
       "type": "movie",
       "name": "You, Always",
@@ -1017,6 +1193,14 @@
       "releaseInfo": "2026-05-01"
     },
     {
+      "id": "tmdb:1650789",
+      "type": "movie",
+      "name": "The Story of Everything",
+      "description": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
+      "poster": "https://image.tmdb.org/t/p/w500/vajGff87GT6JfCi45K4bPquLbom.jpg",
+      "releaseInfo": "2026-04-30"
+    },
+    {
       "id": "tmdb:1624961",
       "type": "movie",
       "name": "No Ordinary Heist",
@@ -1031,6 +1215,14 @@
       "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "releaseInfo": "2026-04-28"
+    },
+    {
+      "id": "tmdb:1645579",
+      "type": "movie",
+      "name": "I'll Be Seeing You",
+      "description": "When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director.",
+      "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
+      "releaseInfo": "2026-04-25"
     },
     {
       "id": "tmdb:1656061",
@@ -1049,11 +1241,27 @@
       "releaseInfo": "2026-04-24"
     },
     {
+      "id": "tmdb:1364137",
+      "type": "movie",
+      "name": "Dirty Hands",
+      "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin’s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they’re going to survive until morning.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
       "id": "tmdb:1318447",
       "type": "movie",
       "name": "Apex",
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
       "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tmdb:1242265",
+      "type": "movie",
+      "name": "Fuze",
+      "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "poster": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -1063,6 +1271,14 @@
       "description": "At the center of Bitcoin lies the greatest unsolved mystery of the digital age. Who created it, and who is Satoshi Nakamoto? Finding Satoshi presents the conclusion reached after a four-year, evidence-based investigation, drawing on original reporting and rare access to key figures in crypto to uncover the human ideas, motivations, and philosophy behind the code that reshaped global finance.",
       "poster": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
       "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1641966",
+      "type": "movie",
+      "name": "Untold: The Shooting at Hawthorne Hill",
+      "description": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
+      "poster": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+      "releaseInfo": "2026-04-21"
     },
     {
       "id": "tmdb:1244517",
@@ -1087,6 +1303,14 @@
       "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
       "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
       "releaseInfo": "2026-04-20"
+    },
+    {
+      "id": "tmdb:1645241",
+      "type": "movie",
+      "name": "To Philly with Love",
+      "description": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
+      "releaseInfo": "2026-04-18"
     },
     {
       "id": "tmdb:1243741",
@@ -1127,6 +1351,14 @@
       "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
       "poster": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
       "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tmdb:949536",
+      "type": "movie",
+      "name": "Kill Code",
+      "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
+      "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+      "releaseInfo": "2026-04-16"
     },
     {
       "id": "tmdb:1084577",
@@ -1177,6 +1409,14 @@
       "releaseInfo": "2026-04-14"
     },
     {
+      "id": "tmdb:1400357",
+      "type": "movie",
+      "name": "The Christophers",
+      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
       "id": "tmdb:1596335",
       "type": "movie",
       "name": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -1217,6 +1457,14 @@
       "releaseInfo": "2026-04-12"
     },
     {
+      "id": "tmdb:1645237",
+      "type": "movie",
+      "name": "A Little Park Music",
+      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
+      "releaseInfo": "2026-04-11"
+    },
+    {
       "id": "tmdb:1049471",
       "type": "movie",
       "name": "Outcome",
@@ -1230,6 +1478,14 @@
       "name": "Sheng Wang: Purple",
       "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
       "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
+      "id": "tmdb:1641962",
+      "type": "movie",
+      "name": "Untold: Chess Mates",
+      "description": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
+      "poster": "https://image.tmdb.org/t/p/w500/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
@@ -1305,12 +1561,28 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tmdb:1641961",
+      "type": "movie",
+      "name": "Untold: The Death & Life of Lamar Odom",
+      "description": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tmdb:1430968",
       "type": "movie",
       "name": "Idiotka",
       "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
       "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
       "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tmdb:1628524",
+      "type": "movie",
+      "name": "A Royal Setting",
+      "description": "Ruby, a world-renowned gemologist, is hired by Prince Luca to restore the crown jewels and design his crown, challenging tradition and complicating his relationship with his mother, the queen.",
+      "poster": "https://image.tmdb.org/t/p/w500/hyjbxAfB9XlFogKM7BENqdNMa77.jpg",
+      "releaseInfo": "2026-03-28"
     },
     {
       "id": "tmdb:1643294",
@@ -1342,6 +1614,14 @@
       "name": "Wardriver",
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
       "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tmdb:1381151",
+      "type": "movie",
+      "name": "Holy Days",
+      "description": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
+      "poster": "https://image.tmdb.org/t/p/w500/bQuH4CVkdKoHtOksYu8q4g3nsNa.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
@@ -1383,6 +1663,22 @@
       "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
       "poster": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
       "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tmdb:1628522",
+      "type": "movie",
+      "name": "Two for Tee",
+      "description": "Tee is a Chinese American pottery artist who meets new community center handyman Will. As she learns about her family's traditions through art, can she and Will save the center from closure?",
+      "poster": "https://image.tmdb.org/t/p/w500/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg",
+      "releaseInfo": "2026-03-21"
+    },
+    {
+      "id": "tmdb:1513996",
+      "type": "movie",
+      "name": "Maya & Samar",
+      "description": "Set in contemporary Athens, Maya and Samar tells the story of two young women from conflicting cultures whose brief yet torrid affair endangers the life of one, while propelling the other to instant online fame.",
+      "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
+      "releaseInfo": "2026-03-20"
     },
     {
       "id": "tmdb:1482168",
@@ -1446,6 +1742,22 @@
       "name": "Mexicali",
       "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
       "poster": "https://image.tmdb.org/t/p/w500/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "releaseInfo": "2026-03-13"
+    },
+    {
+      "id": "tmdb:1366906",
+      "type": "movie",
+      "name": "The Gates",
+      "description": "Three friends' road trip turns terrifying when they witness a murder in a gated community. Trapped inside, hunted by residents who blame them, their bond fractures as a charismatic yet sinister patriarch closes in.",
+      "poster": "https://image.tmdb.org/t/p/w500/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg",
+      "releaseInfo": "2026-03-13"
+    },
+    {
+      "id": "tmdb:874860",
+      "type": "movie",
+      "name": "Storm Rider: Legend of Hammerhead",
+      "description": "Centuries after the Great Flood, riders compete in death races on the water to secure shelter for their people behind the walls of Argos. Rebellious storm riders Neb and Ana look to uncover hidden truths by breaking through the storm.",
+      "poster": "https://image.tmdb.org/t/p/w500/uTgR40KTd72HEMbjma7JvIfVxUV.jpg",
       "releaseInfo": "2026-03-13"
     },
     {
@@ -1521,11 +1833,67 @@
       "releaseInfo": "2026-03-06"
     },
     {
+      "id": "tmdb:1595531",
+      "type": "movie",
+      "name": "Othello",
+      "description": "Moorish general Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his lieutenant Michael Cassio when in reality it's all part of a scheme orchestrated by bitter ensign Iago. Filmed live at the Theatre Royal Haymarket in London especially for the big screen.",
+      "poster": "https://image.tmdb.org/t/p/w500/bT1ytTU75H6mM6ScqMyPgb4R3T9.jpg",
+      "releaseInfo": "2026-03-04"
+    },
+    {
+      "id": "tmdb:1642494",
+      "type": "movie",
+      "name": "Murder in the Highland Manor",
+      "description": "Kate takes a job as a live-in tutor at a secluded Scottish estate for a mother and daughter who’ve escaped domestic abuse. But when she discovers the previous au pair mysteriously disappeared, Kate becomes embroiled in the family’s deadly secrets.",
+      "poster": "https://image.tmdb.org/t/p/w500/rsZpzA7Ssu9m3X3fCcEDxjPXFet.jpg",
+      "releaseInfo": "2026-03-01"
+    },
+    {
+      "id": "tmdb:1608620",
+      "type": "movie",
+      "name": "Romance at Hope Ranch",
+      "description": "Hope Morgan sets out to begin a new chapter of her life—fulfilling her childhood dream of running a ranch in the picturesque town of Ruidoso, New Mexico and reviving the beloved Giddy Up Gala.",
+      "poster": "https://image.tmdb.org/t/p/w500/arwU50Da8nL7xgPQHAwZjV4aQMo.jpg",
+      "releaseInfo": "2026-02-28"
+    },
+    {
       "id": "tmdb:1632879",
       "type": "movie",
       "name": "Chris Fleming: Live at The Palace",
       "description": "From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special. A high-energy performer who seamlessly pivots from one everyday topic to another – from Trader Joe’s to Oreos, NPR, and dog breeds – Fleming bounds across the stage as he shares his unique takes on masculinity, conga lines, and more.",
       "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1517305",
+      "type": "movie",
+      "name": "The Napa Boys",
+      "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
+      "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1422117",
+      "type": "movie",
+      "name": "For Worse",
+      "description": "Lauren, a newly divorced, sober mom, feels like she has a new lease on life after joining her first acting class and starting a fling with her hot, young scene partner. However, when they attend their Gen Z classmate's wedding together, things begin to fall apart, and Lauren finds herself behaving like a drunk 25-year-old bridesmaid. Luckily after a disastrous night she stumbles into a new day and a new beginning.",
+      "poster": "https://image.tmdb.org/t/p/w500/4ZvIRyfGADA3x5RnankHEtTMLE7.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:1130875",
+      "type": "movie",
+      "name": "Operation Taco Gary's",
+      "description": "Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/soKwdOugcT1XRVd7KpvTMSflz0D.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tmdb:662707",
+      "type": "movie",
+      "name": "Starbright",
+      "description": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
+      "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
@@ -1551,6 +1919,14 @@
       "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
       "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
       "releaseInfo": "2026-02-24"
+    },
+    {
+      "id": "tmdb:1608619",
+      "type": "movie",
+      "name": "The Stars Between Us",
+      "description": "Seven years ago, Kim made a connection with a stranger during an eclipse event. Now a fledgling news reporter, Kim returns to Illinois for this year's eclipse, unaware that their paths may cross again.",
+      "poster": "https://image.tmdb.org/t/p/w500/yltItS6duf9MfSVn45oUupFu1oO.jpg",
+      "releaseInfo": "2026-02-21"
     },
     {
       "id": "tmdb:1327690",
@@ -1617,6 +1993,14 @@
       "releaseInfo": "2026-02-16"
     },
     {
+      "id": "tmdb:1608616",
+      "type": "movie",
+      "name": "Because of Cupid",
+      "description": "Best friends Naomi and Marcus participate in a Valentine's Day mocktail competition but things go awry when Cupid interferes with a love potion that affects Marcus and several of their friends.",
+      "poster": "https://image.tmdb.org/t/p/w500/qLcGqmRs8pMUxYshdqXy7ECg7BX.jpg",
+      "releaseInfo": "2026-02-14"
+    },
+    {
       "id": "tmdb:1380895",
       "type": "movie",
       "name": "Sweetness",
@@ -1673,12 +2057,28 @@
       "releaseInfo": "2026-01-30"
     },
     {
+      "id": "tmdb:1335666",
+      "type": "movie",
+      "name": "Glenrothan",
+      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
+      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
+      "releaseInfo": "2026-01-11"
+    },
+    {
       "id": "tmdb:1199193",
       "type": "movie",
       "name": "Pose",
       "description": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
       "releaseInfo": "2025-12-05"
+    },
+    {
+      "id": "tmdb:1437610",
+      "type": "movie",
+      "name": "Whitetail",
+      "description": "When Jen's old boyfriend Oscar returns to her small town in Ireland, she is forced to face the tragedy that marked them for life.",
+      "poster": "https://image.tmdb.org/t/p/w500/1qatuvU5qaBbJEnQ6emdUHr2Iiq.jpg",
+      "releaseInfo": "2025-10-19"
     }
   ]
 }
