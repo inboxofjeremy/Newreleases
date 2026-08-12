@@ -161,14 +161,6 @@
       "releaseInfo": "2026-07-31"
     },
     {
-      "id": "tmdb:1288059",
-      "type": "movie",
-      "name": "I Want Your Sex",
-      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "releaseInfo": "2026-07-31"
-    },
-    {
       "id": "tmdb:1517868",
       "type": "movie",
       "name": "Maddie's Secret",
@@ -519,6 +511,14 @@
       "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
       "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
       "releaseInfo": "2026-07-05"
+    },
+    {
+      "id": "tmdb:1657502",
+      "type": "movie",
+      "name": "Ramy Youssef: In Love",
+      "description": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+      "releaseInfo": "2026-07-04"
     },
     {
       "id": "tmdb:1725116",
@@ -2113,6 +2113,14 @@
       "releaseInfo": "2026-03-30"
     },
     {
+      "id": "tmdb:1658283",
+      "type": "movie",
+      "name": "Robot Girls",
+      "description": "When a robot girl companion fails to listen to its developer, the developer uses an advanced model to train the robot girl. But when the training turns deadly, the developer finds himself in trouble.",
+      "poster": "https://image.tmdb.org/t/p/w500/iCDcyrxK42nitpbArEIcLCjNfxN.jpg",
+      "releaseInfo": "2026-03-30"
+    },
+    {
       "id": "tmdb:1646341",
       "type": "movie",
       "name": "Rory McIlroy: The Masters Wait",
@@ -2145,14 +2153,6 @@
       "releaseInfo": "2026-03-27"
     },
     {
-      "id": "tmdb:1573688",
-      "type": "movie",
-      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
-      "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
-      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
       "id": "tmdb:1465751",
       "type": "movie",
       "name": "She Dances",
@@ -2166,6 +2166,14 @@
       "name": "Empire of Lies",
       "description": "When a mysterious young woman comes to interview a paranoid man living in rural isolation, he is forced to confront his part in his daughter's murder.",
       "poster": "https://image.tmdb.org/t/p/w500/2uAFDuOCv6jjbRolZQDnVsbjU8n.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tmdb:1573688",
+      "type": "movie",
+      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
+      "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
+      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
