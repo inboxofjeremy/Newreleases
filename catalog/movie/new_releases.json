@@ -585,6 +585,14 @@
       "releaseInfo": "2026-06-30"
     },
     {
+      "id": "tmdb:1279493",
+      "type": "movie",
+      "name": "The Get Out",
+      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
       "id": "tmdb:1431804",
       "type": "movie",
       "name": "40 Dates and 40 Nights",
@@ -646,14 +654,6 @@
       "name": "Little Brother",
       "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
       "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tmdb:1279493",
-      "type": "movie",
-      "name": "The Get Out",
-      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -1829,7 +1829,7 @@
       "type": "movie",
       "name": "Truly Naked",
       "description": "An introverted teen, who has only ever experienced sex through the lens while working for his father’s pornography business, must step out from behind the camera when a feisty classmate challenges him to embrace a real connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/bGbCNEGn0kLwamrEEWysowzhGDJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/y23B9EnC0LDw8zMKlpXJauyLH7k.jpg",
       "releaseInfo": "2026-04-15"
     },
     {
