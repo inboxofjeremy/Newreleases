@@ -1,11 +1,35 @@
 {
   "metas": [
     {
+      "id": "tmdb:1101383",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tmdb:1185806",
+      "type": "movie",
+      "name": "PAW Patrol: The Dino Movie",
+      "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tmdb:1596260",
       "type": "movie",
       "name": "Night Nurse",
       "description": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
       "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tmdb:1476682",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -20,7 +44,7 @@
       "id": "tmdb:950028",
       "type": "movie",
       "name": "The Invite",
-      "description": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
@@ -446,14 +470,6 @@
       "name": "The Outer Threat",
       "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
       "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-      "releaseInfo": "2026-07-10"
-    },
-    {
-      "id": "tmdb:1476682",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "releaseInfo": "2026-07-10"
     },
     {
@@ -998,14 +1014,6 @@
       "name": "Seven Snipers",
       "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
       "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
-      "id": "tmdb:677558",
-      "type": "movie",
-      "name": "The Last Whale Singer",
-      "description": "When a monstrous creature escapes from a melting iceberg, a self-doubting teenage humpback whale must face his greatest fears and dive into the darkest depths with his friends, to discover the mystical song that can save the oceans from destruction.",
-      "poster": "https://image.tmdb.org/t/p/w500/yIDPrKCgiG49cULhITKxeZywISe.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -2497,14 +2505,6 @@
       "releaseInfo": "2026-03-06"
     },
     {
-      "id": "tmdb:1265609",
-      "type": "movie",
-      "name": "War Machine",
-      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-      "releaseInfo": "2026-03-06"
-    },
-    {
       "id": "tmdb:1595531",
       "type": "movie",
       "name": "Othello",
@@ -2815,54 +2815,6 @@
       "description": "Best friends Naomi and Marcus participate in a Valentine's Day mocktail competition but things go awry when Cupid interferes with a love potion that affects Marcus and several of their friends.",
       "poster": "https://image.tmdb.org/t/p/w500/qLcGqmRs8pMUxYshdqXy7ECg7BX.jpg",
       "releaseInfo": "2026-02-14"
-    },
-    {
-      "id": "tmdb:1380895",
-      "type": "movie",
-      "name": "Sweetness",
-      "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1631285",
-      "type": "movie",
-      "name": "Discipline",
-      "description": "The film examines girlhood as inherited performance-costumes worn before identity forms. Mona frames femininity as simultaneous nurture and constraint, exploring how intimacy between girls and garments becomes predetermined theatre. Clothing functions as ritual and control, dictating movement before self-knowledge arrives.",
-      "poster": "https://image.tmdb.org/t/p/w500/vi3ZmURc3qMdrUCnFDtYpJkPhqM.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1515615",
-      "type": "movie",
-      "name": "Kissing Is the Easy Part",
-      "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1241046",
-      "type": "movie",
-      "name": "A Prayer for the Dying",
-      "description": "In 1870 Friendship, Wisconsin, a small town of Scandinavian settlers still suffering the repercussions of the recent Civil War. When faced with a new and even deadlier threat, one man is forced to make a harrowing choice: save his young family or defend the community that gave him a second chance at life and meaning.",
-      "poster": "https://image.tmdb.org/t/p/w500/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1429605",
-      "type": "movie",
-      "name": "F Valentine's Day",
-      "description": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tmdb:1243460",
-      "type": "movie",
-      "name": "Joe's College Road Trip",
-      "description": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "poster": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
-      "releaseInfo": "2026-02-13"
     }
   ]
 }
