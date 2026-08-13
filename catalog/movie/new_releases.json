@@ -649,6 +649,14 @@
       "releaseInfo": "2026-06-28"
     },
     {
+      "id": "tmdb:1721405",
+      "type": "movie",
+      "name": "Single Black Tenant",
+      "description": "Esme finally believes her luck has turned after landing an affordable apartment in a quiet neighborhood. But her relief quickly gives way to fear when she begins to suspect she's living with a killer who is trying to frame her for murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/nFx221x58iY1EL91amMN2J8274H.jpg",
+      "releaseInfo": "2026-06-27"
+    },
+    {
       "id": "tmdb:1720282",
       "type": "movie",
       "name": "WWE Night of Champions 2026",
@@ -1710,6 +1718,14 @@
       "name": "Orangutan",
       "description": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
       "poster": "https://image.tmdb.org/t/p/w500/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tmdb:1624613",
+      "type": "movie",
+      "name": "Lainey Wilson: Keepin' Country Cool",
+      "description": "Lainey Wilson redefines what it means to be a modern country star while exploring her struggles and triumphs at a pivotal career moment.",
+      "poster": "https://image.tmdb.org/t/p/w500/axIiOZ0yVD258CTpbw7mTF9h6Ph.jpg",
       "releaseInfo": "2026-04-22"
     },
     {
