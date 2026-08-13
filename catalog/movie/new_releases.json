@@ -9,6 +9,14 @@
       "releaseInfo": "2026-08-14"
     },
     {
+      "id": "tmdb:1432474",
+      "type": "movie",
+      "name": "Nimrods",
+      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+      "poster": "https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tmdb:1185806",
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
@@ -199,6 +207,14 @@
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "releaseInfo": "2026-07-29"
+    },
+    {
+      "id": "tmdb:1723570",
+      "type": "movie",
+      "name": "Mary Beth Barone: Galaxy Brain",
+      "description": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
+      "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+      "releaseInfo": "2026-07-28"
     },
     {
       "id": "tmdb:1081003",
@@ -750,14 +766,6 @@
       "name": "Power Ballad",
       "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
       "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
-      "id": "tmdb:1355496",
-      "type": "movie",
-      "name": "By Design",
-      "description": "A woman swaps bodies with a chair, and everyone likes her better as a chair.",
-      "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -1325,7 +1333,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -1356,7 +1364,7 @@
       "id": "tmdb:1285669",
       "type": "movie",
       "name": "LifeHack",
-      "description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet-and a danger beyond their computer screens.",
+      "description": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet - and a danger beyond their computer screens.",
       "poster": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
       "releaseInfo": "2026-05-15"
     },
@@ -2153,6 +2161,14 @@
       "releaseInfo": "2026-03-27"
     },
     {
+      "id": "tmdb:1573688",
+      "type": "movie",
+      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
+      "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
+      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
       "id": "tmdb:1465751",
       "type": "movie",
       "name": "She Dances",
@@ -2166,14 +2182,6 @@
       "name": "Empire of Lies",
       "description": "When a mysterious young woman comes to interview a paranoid man living in rural isolation, he is forced to confront his part in his daughter's murder.",
       "poster": "https://image.tmdb.org/t/p/w500/2uAFDuOCv6jjbRolZQDnVsbjU8n.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tmdb:1573688",
-      "type": "movie",
-      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
-      "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
-      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
@@ -2454,14 +2462,6 @@
       "name": "Midwinter Break",
       "description": "Longtime retired couple Stella and Gerry realise that their relationship has reached a crossroads while on holiday in Amsterdam. After so much time and so many memories, long-held promises and deeply concealed wounds threaten to come to light and force them to confront their future.",
       "poster": "https://image.tmdb.org/t/p/w500/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "releaseInfo": "2026-03-10"
     },
     {
@@ -2753,14 +2753,6 @@
       "releaseInfo": "2026-02-20"
     },
     {
-      "id": "tmdb:1593157",
-      "type": "movie",
-      "name": "Sandiwara",
-      "description": "In a night market, five characters recount their own unique story and represent a facet of Malaysian culture rarely explored.",
-      "poster": "https://image.tmdb.org/t/p/w500/yupbUEKe1Np2IWmlKY2lvGt3Bdq.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
       "id": "tmdb:1088434",
       "type": "movie",
       "name": "Hellfire",
@@ -2807,22 +2799,6 @@
       "description": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
       "poster": "https://image.tmdb.org/t/p/w500/oU9td2mvEu04rLGlynziVmNo16b.jpg",
       "releaseInfo": "2026-02-16"
-    },
-    {
-      "id": "tmdb:1625901",
-      "type": "movie",
-      "name": "The Dating App Killer: The Monica White Story",
-      "description": "A divorcee reenters the dating pool by creating an online profile, but when her match displays unsettling behavior and a series of women from the same dating site go missing, she must save herself from becoming the next victim.",
-      "poster": "https://image.tmdb.org/t/p/w500/wyu5CdFptyz7ZxmgwcHMMhR5tt0.jpg",
-      "releaseInfo": "2026-02-14"
-    },
-    {
-      "id": "tmdb:1608616",
-      "type": "movie",
-      "name": "Because of Cupid",
-      "description": "Best friends Naomi and Marcus participate in a Valentine's Day mocktail competition but things go awry when Cupid interferes with a love potion that affects Marcus and several of their friends.",
-      "poster": "https://image.tmdb.org/t/p/w500/qLcGqmRs8pMUxYshdqXy7ECg7BX.jpg",
-      "releaseInfo": "2026-02-14"
     }
   ]
 }
