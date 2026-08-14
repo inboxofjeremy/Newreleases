@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "Nimrods",
       "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-      "poster": "https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -30,6 +30,14 @@
       "name": "PAW Patrol: The Dino Movie",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
       "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tmdb:1339175",
+      "type": "movie",
+      "name": "The Birthday Party",
+      "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
+      "poster": "https://image.tmdb.org/t/p/w500/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -677,7 +685,7 @@
       "type": "movie",
       "name": "Lucky Strike",
       "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -727,6 +735,14 @@
       "description": "From early sketches to standout performances, Mayall's fearless comedy bursts with energy and intent, capturing a pivotal moment in British comedy while delivering pure entertainment.",
       "poster": "https://image.tmdb.org/t/p/w500/u01paGs0YEyUea8a3q9MyV9IMJ0.jpg",
       "releaseInfo": "2026-06-25"
+    },
+    {
+      "id": "tmdb:1721723",
+      "type": "movie",
+      "name": "Stitch & Angel's Perfect Summer Day",
+      "description": "Stitch & Angel decide to have the perfect summer day! When they try to play volleyball, drink smoothies, and build sandcastles, Stitch's chaos gets the best of them! Eventually Experiments 626 (Stitch) and 624 (Angel) learn that what makes the perfect summer day is enjoying it TOGETHER. Celebrate 626 Day with Stitch and Angel!",
+      "poster": "https://image.tmdb.org/t/p/w500/fUkGBKzOwTTcXIlWkJR5NEfgWis.jpg",
+      "releaseInfo": "2026-06-24"
     },
     {
       "id": "tmdb:1020047",
@@ -1809,6 +1825,14 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tmdb:1472844",
+      "type": "movie",
+      "name": "Everyone Is Lying to You for Money",
+      "description": "With any and all things crypto being pushed by celebrities, influencers, and politicians alike, actor-turned-author and director Ben McKenzie decides to investigate. Leveraging his celebrity status to gain access to eager prospectors, McKenzie finds himself unraveling the loosely regulated world of cryptocurrency. This skeptical but evenhanded take on the present and future of what we consider money gives a firsthand account of the chaotic financial frontier of our time.",
+      "poster": "https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tmdb:1427653",
       "type": "movie",
       "name": "Departures",
@@ -1873,28 +1897,12 @@
       "releaseInfo": "2026-04-15"
     },
     {
-      "id": "tmdb:1084577",
-      "type": "movie",
-      "name": "Balls Up",
-      "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "releaseInfo": "2026-04-15"
-    },
-    {
       "id": "tmdb:1625086",
       "type": "movie",
       "name": "Artemis: To the Moon and Back",
       "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
       "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tmdb:1641965",
-      "type": "movie",
-      "name": "Untold: Jail Blazers",
-      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
-      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tmdb:1444249",
@@ -1990,6 +1998,14 @@
       "name": "Sheng Wang: Purple",
       "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
       "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
+      "id": "tmdb:1647508",
+      "type": "movie",
+      "name": "Winter: Battleground",
+      "description": "Hunted by an AI-controlled regime, a rogue soldier hiding in the forest must outfight elite assassins, cybernetic soldiers, and corrupted machines to stop an artificial intelligence from seizing total control of America.",
+      "poster": "https://image.tmdb.org/t/p/w500/3IKLg61qUiSsA1tx7SS50XJWa01.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
