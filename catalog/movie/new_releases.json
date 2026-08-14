@@ -1,11 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1493400",
+      "type": "movie",
+      "name": "Camp Rock 3",
+      "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+      "poster": "https://image.tmdb.org/t/p/w500/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tmdb:1101383",
       "type": "movie",
       "name": "The End of Oak Street",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -269,7 +277,7 @@
       "type": "movie",
       "name": "On the Sea",
       "description": "Jack has been married to Maggie for over half his life. He works as a Hand Raker on the mussel beds in North Wales alongside his younger brother, Dyfan, and Dyfan’s three sons. Jack has always assumed that his own boy, Tom, will join the family business on leaving school but Tom’s resistance to follow in his footsteps creates familial tension. Tensions are further inflamed by the arrival of an itinerant deckhand, Daniel, who makes known his feelings for Jack. In this remote, rural community where life revolves around Church and fishery, Jack is faced with an impossible dilemma. On The Sea is a beautiful, sensual and at times, tragic exploration of masculinity, place and desire.",
-      "poster": "https://image.tmdb.org/t/p/w500/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -742,6 +750,14 @@
       "name": "Ryan Hamilton: This Just Hit Me",
       "description": "Leave it to Ryan Hamilton to get hit by a bus and have the last laugh — whether it's falling for his anesthesiologist or a dispensary trip with his mom.",
       "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tmdb:1699970",
+      "type": "movie",
+      "name": "The Welcome Table",
+      "description": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters.",
+      "poster": "https://image.tmdb.org/t/p/w500/bDprEGBOo509wnq0iwb6OlmOiW0.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
