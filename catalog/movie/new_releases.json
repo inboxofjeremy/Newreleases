@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1504358",
+      "type": "movie",
+      "name": "Don't Say Good Luck",
+      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tmdb:1493400",
       "type": "movie",
       "name": "Camp Rock 3",
@@ -39,6 +47,14 @@
       "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
       "poster": "https://image.tmdb.org/t/p/w500/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
       "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tmdb:1736415",
+      "type": "movie",
+      "name": "Rory Scovel: Show Must Go On",
+      "description": "With a hypothetical home invasion, a biblical reenactment, and his late dad's final wish, Rory Scovel delivers unrelenting laughs in this raucous stand-up special filmed at The Neptune in Seattle, Washington.",
+      "poster": "https://image.tmdb.org/t/p/w500/iTiECR1UXAFCQ4IRPPwfbg2Zcjy.jpg",
+      "releaseInfo": "2026-08-11"
     },
     {
       "id": "tmdb:1596260",
@@ -1393,6 +1409,14 @@
       "releaseInfo": "2026-05-18"
     },
     {
+      "id": "tmdb:1665429",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "description": "Lisa Ann Walter's long-awaited debut comedy special takes on feral Gen-Xers, self-loathing, and navigating a backsliding America, via the no-filter lens of a grown-ass woman who has been paying attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
+      "releaseInfo": "2026-05-15"
+    },
+    {
       "id": "tmdb:1433634",
       "type": "movie",
       "name": "Agatha's Almanac",
@@ -1897,12 +1921,28 @@
       "releaseInfo": "2026-04-15"
     },
     {
+      "id": "tmdb:1084577",
+      "type": "movie",
+      "name": "Balls Up",
+      "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "releaseInfo": "2026-04-15"
+    },
+    {
       "id": "tmdb:1625086",
       "type": "movie",
       "name": "Artemis: To the Moon and Back",
       "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
       "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
+    },
+    {
+      "id": "tmdb:1641965",
+      "type": "movie",
+      "name": "Untold: Jail Blazers",
+      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tmdb:1444249",
@@ -2839,14 +2879,6 @@
       "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
       "poster": "https://image.tmdb.org/t/p/w500/4TqPDzW8xvJ9uP4iLQRVH3I9KE8.jpg",
       "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1297311",
-      "type": "movie",
-      "name": "Quantum Supremacy",
-      "description": "In a future threatened by rogue robots and an all-powerful AI, Captain Monroe and his crew race to prevent humanity's downfall in Quantum Supremacy.",
-      "poster": "https://image.tmdb.org/t/p/w500/oU9td2mvEu04rLGlynziVmNo16b.jpg",
-      "releaseInfo": "2026-02-16"
     }
   ]
 }
