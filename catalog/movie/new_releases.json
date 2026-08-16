@@ -17,6 +17,22 @@
       "releaseInfo": "2026-08-18"
     },
     {
+      "id": "tmdb:1361969",
+      "type": "movie",
+      "name": "All Night Wrong",
+      "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
+      "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tmdb:1226699",
+      "type": "movie",
+      "name": "The Wrong Girls",
+      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tmdb:1504358",
       "type": "movie",
       "name": "Don't Say Good Luck",
@@ -61,7 +77,7 @@
       "type": "movie",
       "name": "The Birthday Party",
       "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
-      "poster": "https://image.tmdb.org/t/p/w500/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1431,6 +1447,14 @@
       "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
       "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
       "releaseInfo": "2026-05-14"
+    },
+    {
+      "id": "tmdb:1693646",
+      "type": "movie",
+      "name": "Wrestling with Trump",
+      "description": "Satirist Munya Chawawa immerses himself in US wrestling and MAGA politics, uncovering the links between Donald Trump and the world of body slams, spandex and the power of kayfabe.",
+      "poster": "https://image.tmdb.org/t/p/w500/sUxlnEq3iLkgJ3Rb98oX2saSrq5.jpg",
+      "releaseInfo": "2026-05-12"
     },
     {
       "id": "tmdb:1684240",
