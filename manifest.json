@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "name": "New Releases",
   "description": "TMDB latest movies catalog",
-  "resources": ["catalog", "meta"],
-  "types": ["movie"],
+  "resources": ["catalog"],
+  "types": ["Movie"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "Movie",
       "id": "new_releases",
       "name": "New Releases"
     }
