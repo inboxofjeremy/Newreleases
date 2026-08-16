@@ -1,10 +1,19 @@
 {
-  "id": "org.jeremy.newreleases",
+  "id": "org.mycustomnewreleases",
   "version": "1.0.0",
   "name": "New Releases",
-  "description": "TMDB latest movies catalog",
-  "resources": ["catalog"],
-  "types": ["movie"],
+  "description": "Custom Movie Releases Addon",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb"
+  ],
   "catalogs": [
     {
       "type": "movie",
@@ -12,5 +21,8 @@
       "name": "New Releases"
     }
   ],
-  "idPrefixes": ["tt", "tmdb:"]
+  "behaviorHints": {
+    "configurable": false,
+    "adult": false
+  }
 }
