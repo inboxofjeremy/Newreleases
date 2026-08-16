@@ -13,7 +13,7 @@ if (!TMDB_KEY) {
 
 const DAYS_BACK = 180;
 const CHUNK_SIZE_DAYS = 7;
-const MAX_PAGES_PER_CHUNK = 500; // Raised to TMDb's hard limit to prevent truncating busy weeks
+const MAX_PAGES_PER_CHUNK = 500;
 const TMDB_CONCURRENCY = 8;
 const MIN_VOTE_COUNT = 3;
 
@@ -92,7 +92,7 @@ async function getEffectiveReleaseDate(movieObj) {
         .sort();
 
       if (allUsDates.length) {
-        return allUsDates[allUsDates.length - 1]; // Pick the newest/latest US release date excluding Physical
+        return allUsDates[allUsDates.length - 1];
       }
     }
   }
@@ -188,7 +188,7 @@ async function fetchMovies() {
     }
 
     return {
-      id: `tmdb:${m.id}`,
+      id: `tmdb_${m.id}`, // Using underscore instead of colon for GitHub Pages compatibility
       type: "movie",
       name: title,
       description: m.overview || "",
@@ -223,7 +223,7 @@ async function fetchMovies() {
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
+  const tmdbId = id.startsWith("tmdb_") ? id.split("_")[1] : id;
   if (!tmdbId) return null;
 
   const movie = await fetchJSON(
@@ -234,7 +234,7 @@ async function buildMeta(id) {
 
   return {
     meta: {
-      id: `tmdb:${movie.id}`,
+      id: `tmdb_${movie.id}`,
       type: "movie",
       name: movie.title,
       description: movie.overview || "",
@@ -247,7 +247,7 @@ async function buildMeta(id) {
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-      imdb_id: movie.imdb_id || null, // Correct Stremio property name
+      imdb_id: movie.imdb_id || null,
     },
   };
 }
@@ -272,11 +272,9 @@ async function build() {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
-    // GitHub Pages / static routing safe representation (%3A)
-    const safeFileName = m.id.replace(/:/g, "%3A");
-
+    // Directly write file using tmdb_12345.json structure
     fs.writeFileSync(
-      `./meta/movie/${safeFileName}.json`,
+      `./meta/movie/${m.id}.json`,
       JSON.stringify(meta, null, 2)
     );
   }
