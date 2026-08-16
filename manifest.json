@@ -4,10 +4,10 @@
   "name": "New Releases",
   "description": "TMDB latest movies catalog",
   "resources": ["catalog"],
-  "types": ["Movie"],
+  "types": ["movie"],
   "catalogs": [
     {
-      "type": "Movie",
+      "type": "movie",
       "id": "new_releases",
       "name": "New Releases"
     }
