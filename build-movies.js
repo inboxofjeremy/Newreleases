@@ -51,7 +51,7 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// EARLIEST US DIGITAL RELEASE & IMDB ID
+// RELEASE DATE & IMDB ID HELPER
 // ===============================
 async function fetchMovieDetails(id) {
   const [releaseJson, movieJson] = await Promise.all([
@@ -59,19 +59,38 @@ async function fetchMovieDetails(id) {
     fetchJSON(`https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_KEY}&language=en-US`)
   ]);
 
-  // 1. Check US Digital Release Date (Type 4)
   const us = releaseJson?.results?.find((r) => r.iso_3166_1 === "US");
-  const digitalDates = us?.release_dates
-    ? us.release_dates
-        .filter((d) => d.type === 4 && d.release_date)
-        .map((d) => d.release_date.slice(0, 10))
-        .sort()
-    : [];
+  
+  let targetDate = null;
+  if (us?.release_dates?.length) {
+    // 1. Try Digital release (type 4) first
+    const digitalDates = us.release_dates
+      .filter((d) => d.type === 4 && d.release_date)
+      .map((d) => d.release_date.slice(0, 10))
+      .sort();
 
-  const usDate = digitalDates.length ? digitalDates[0] : null;
+    if (digitalDates.length) {
+      targetDate = digitalDates[0];
+    } else {
+      // 2. Fallback to Theatrical release (type 3) if no digital date exists yet
+      const theatricalDates = us.release_dates
+        .filter((d) => d.type === 3 && d.release_date)
+        .map((d) => d.release_date.slice(0, 10))
+        .sort();
+
+      if (theatricalDates.length) {
+        targetDate = theatricalDates[0];
+      }
+    }
+  }
+
+  // Fallback to TMDB main release_date if nothing else is found
+  if (!targetDate && movieJson?.release_date) {
+    targetDate = movieJson.release_date.slice(0, 10);
+  }
 
   return {
-    usDate,
+    usDate: targetDate,
     imdb_id: movieJson?.imdb_id || null,
   };
 }
@@ -133,7 +152,7 @@ async function fetchMovies() {
 
     const { usDate, imdb_id } = await fetchMovieDetails(m.id);
 
-    // must have digital release
+    // must have a valid release date
     if (!usDate) return null;
 
     // allow only past + next 2 days
@@ -174,7 +193,6 @@ async function fetchMovies() {
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  // Handle both tt... and tmdb:... IDs
   const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : null;
 
   let movie = null;
@@ -240,7 +258,6 @@ async function build() {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
-    // Safe filename without illegal colons (e.g. tt1234567.json or tmdb_12345.json)
     const safeFilename = m.id.includes(":") ? m.id.replace(":", "_") : m.id;
 
     fs.writeFileSync(
