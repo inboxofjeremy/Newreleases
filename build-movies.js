@@ -247,7 +247,7 @@ async function buildMeta(id) {
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-      imdb: movie.imdb_id || null,
+      imdb_id: movie.imdb_id || null, // Correct Stremio property name
     },
   };
 }
@@ -272,8 +272,11 @@ async function build() {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
+    // GitHub Pages / static routing safe representation (%3A)
+    const safeFileName = m.id.replace(/:/g, "%3A");
+
     fs.writeFileSync(
-      `./meta/movie/${m.id}.json`,
+      `./meta/movie/${safeFileName}.json`,
       JSON.stringify(meta, null, 2)
     );
   }
