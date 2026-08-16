@@ -4,7 +4,7 @@ import path from "path";
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
+const TMDB_KEY = process.env.TMDB_API_KEY || "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
 const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
@@ -46,7 +46,7 @@ function isAllowed(dateStr) {
 
   const TWO_DAYS = 2 * 24 * 60 * 60 * 1000;
 
-  // allow past + next 10 days
+  // allow past + next 2 days
   return date <= (now + TWO_DAYS);
 }
 
@@ -134,7 +134,7 @@ async function fetchMovies() {
     // must have digital release
     if (!usDate) return null;
 
-    // allow only past + next 10 days
+    // allow only past + next 2 days
     if (!isAllowed(usDate)) return null;
 
     return {
@@ -145,7 +145,6 @@ async function fetchMovies() {
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
         : null,
-
       releaseInfo: usDate,
     };
   });
@@ -191,12 +190,11 @@ async function buildMeta(id) {
       background: movie.backdrop_path
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
-
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-
-      imdb: movie.imdb_id || null,
+      imdb_id: movie.imdb_id || null, // Fixed for stream scraping addons
+      imdb: movie.imdb_id || null,    // Fallback compatibility
     },
   };
 }
