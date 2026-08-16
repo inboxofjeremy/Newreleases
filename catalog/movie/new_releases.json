@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tmdb:1084244",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "releaseInfo": "2026-08-18"
+    },
+    {
       "id": "tmdb:1504358",
       "type": "movie",
       "name": "Don't Say Good Luck",
@@ -822,14 +830,6 @@
       "name": "I Can Only Imagine 2",
       "description": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
       "poster": "https://image.tmdb.org/t/p/w500/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
-      "releaseInfo": "2026-06-20"
-    },
-    {
-      "id": "tmdb:467905",
-      "type": "movie",
-      "name": "How to Make a Killing",
-      "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "poster": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
       "releaseInfo": "2026-06-20"
     },
     {
@@ -2823,46 +2823,6 @@
       "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
       "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
       "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tmdb:1088434",
-      "type": "movie",
-      "name": "Hellfire",
-      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1622032",
-      "type": "movie",
-      "name": "Sommore: Chandelier Fly",
-      "description": "Get ready for comedic royalty as the Undisputed Queen of Comedy, Sommore, returns to Detroit for her 7th special, performing up close and personal at the Garden Theatre, recorded on June 28th.",
-      "poster": "https://image.tmdb.org/t/p/w500/tHPMQFFmAMdTwg9s2hDlsSIyW2a.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1620814",
-      "type": "movie",
-      "name": "The Darkest Web",
-      "description": "For US agent Greg Squire and a dedicated network of specialist undercover investigators around the world, the mission is clear: track and catch serial paedophiles who operate across the dark web with the same sophistication and secrecy as international organised crime syndicates. Increasingly, these offenders are far younger than the stereotypical image of a paedophile - tech-savvy young adults who exploit digital anonymity with alarming ease.",
-      "poster": "https://image.tmdb.org/t/p/w500/viQxAwBsx353fWp1x4wr0dI8GIk.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:1442908",
-      "type": "movie",
-      "name": "The Singers",
-      "description": "An impromptu singing contest at a dive bar turns a lonely night into a soul-baring moment of shared harmony.",
-      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
-      "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tmdb:669356",
-      "type": "movie",
-      "name": "You Can't Win",
-      "description": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
-      "poster": "https://image.tmdb.org/t/p/w500/4TqPDzW8xvJ9uP4iLQRVH3I9KE8.jpg",
-      "releaseInfo": "2026-02-17"
     }
   ]
 }
