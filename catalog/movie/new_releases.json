@@ -9,6 +9,14 @@
       "releaseInfo": "2026-08-18"
     },
     {
+      "id": "tmdb:1399525",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "Two desperate men take jobs aboard an old fishing boat that mysteriously reappears after vanishing 30 years before. But when they return from their voyage, why is nothing as they remember it?",
+      "poster": "https://image.tmdb.org/t/p/w500/baFW06cijsli2OFewKgEIFpuFc2.jpg",
+      "releaseInfo": "2026-08-18"
+    },
+    {
       "id": "tmdb:1504358",
       "type": "movie",
       "name": "Don't Say Good Luck",
@@ -726,14 +734,6 @@
       "name": "Savage House",
       "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
       "poster": "https://image.tmdb.org/t/p/w500/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tmdb:1399525",
-      "type": "movie",
-      "name": "Rose of Nevada",
-      "description": "Two desperate men take jobs aboard an old fishing boat that mysteriously reappears after vanishing 30 years before. But when they return from their voyage, why is nothing as they remember it?",
-      "poster": "https://image.tmdb.org/t/p/w500/baFW06cijsli2OFewKgEIFpuFc2.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
