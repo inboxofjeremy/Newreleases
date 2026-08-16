@@ -51,27 +51,29 @@ function isAllowed(dateStr) {
 }
 
 // ===============================
-// EARLIEST US DIGITAL RELEASE ONLY
+// EARLIEST US DIGITAL RELEASE & IMDB ID
 // ===============================
-async function fetchUSReleaseDate(id) {
-  const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
-  );
+async function fetchMovieDetails(id) {
+  const [releaseJson, movieJson] = await Promise.all([
+    fetchJSON(`https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`),
+    fetchJSON(`https://api.themoviedb.org/3/movie/${id}?api_key=${TMDB_KEY}&language=en-US`)
+  ]);
 
-  if (!json?.results) return null;
+  // 1. Check US Digital Release Date (Type 4)
+  const us = releaseJson?.results?.find((r) => r.iso_3166_1 === "US");
+  const digitalDates = us?.release_dates
+    ? us.release_dates
+        .filter((d) => d.type === 4 && d.release_date)
+        .map((d) => d.release_date.slice(0, 10))
+        .sort()
+    : [];
 
-  const us = json.results.find((r) => r.iso_3166_1 === "US");
-  if (!us?.release_dates?.length) return null;
+  const usDate = digitalDates.length ? digitalDates[0] : null;
 
-  // ONLY DIGITAL (type 4)
-  const digitalDates = us.release_dates
-    .filter((d) => d.type === 4 && d.release_date)
-    .map((d) => d.release_date.slice(0, 10))
-    .sort(); // earliest → latest
-
-  if (!digitalDates.length) return null;
-
-  return digitalDates[0]; // earliest digital
+  return {
+    usDate,
+    imdb_id: movieJson?.imdb_id || null,
+  };
 }
 
 // ===============================
@@ -129,7 +131,7 @@ async function fetchMovies() {
   const mapped = await pMap(all, async (m) => {
     if (!m?.id) return null;
 
-    const usDate = await fetchUSReleaseDate(m.id);
+    const { usDate, imdb_id } = await fetchMovieDetails(m.id);
 
     // must have digital release
     if (!usDate) return null;
@@ -137,8 +139,11 @@ async function fetchMovies() {
     // allow only past + next 2 days
     if (!isAllowed(usDate)) return null;
 
+    // Use IMDb ID if available so stream addons recognize it instantly, fallback to tmdb:id
+    const itemId = imdb_id || `tmdb:${m.id}`;
+
     return {
-      id: `tmdb:${m.id}`,
+      id: itemId,
       type: "movie",
       name: m.title || m.original_title || `Movie ${m.id}`,
       description: m.overview || "",
@@ -169,18 +174,34 @@ async function fetchMovies() {
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
-  if (!tmdbId) return null;
+  // Handle both tt... and tmdb:... IDs
+  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : null;
 
-  const movie = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
-  );
+  let movie = null;
+  if (tmdbId) {
+    movie = await fetchJSON(
+      `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&language=en-US`
+    );
+  } else {
+    // If id is an IMDb ID (tt...), find TMDB ID first
+    const findJson = await fetchJSON(
+      `https://api.themoviedb.org/3/find/${id}?api_key=${TMDB_KEY}&external_source=imdb_id`
+    );
+    const tmdbMovieResult = findJson?.movie_results?.[0];
+    if (tmdbMovieResult) {
+      movie = await fetchJSON(
+        `https://api.themoviedb.org/3/movie/${tmdbMovieResult.id}?api_key=${TMDB_KEY}&language=en-US`
+      );
+    }
+  }
 
   if (!movie) return null;
 
+  const primaryId = movie.imdb_id || `tmdb:${movie.id}`;
+
   return {
     meta: {
-      id: `tmdb:${movie.id}`,
+      id: primaryId,
       type: "movie",
       name: movie.title,
       description: movie.overview || "",
@@ -193,8 +214,8 @@ async function buildMeta(id) {
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-      imdb_id: movie.imdb_id || null, // Fixed for stream scraping addons
-      imdb: movie.imdb_id || null,    // Fallback compatibility
+      imdb_id: movie.imdb_id || null,
+      imdb: movie.imdb_id || null,
     },
   };
 }
@@ -219,8 +240,11 @@ async function build() {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
+    // Safe filename without illegal colons (e.g. tt1234567.json or tmdb_12345.json)
+    const safeFilename = m.id.includes(":") ? m.id.replace(":", "_") : m.id;
+
     fs.writeFileSync(
-      `./meta/movie/${m.id}.json`,
+      `./meta/movie/${safeFilename}.json`,
       JSON.stringify(meta, null, 2)
     );
   }
