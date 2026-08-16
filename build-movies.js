@@ -4,48 +4,23 @@ import path from "path";
 // ===============================
 // CONFIG
 // ===============================
-const TMDB_KEY = process.env.TMDB_API_KEY;
-
-if (!TMDB_KEY) {
-  console.error("ERROR: TMDB_API_KEY environment variable is not set.");
-  process.exit(1);
-}
-
+const TMDB_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const DAYS_BACK = 180;
-const CHUNK_SIZE_DAYS = 7;
-const MAX_PAGES_PER_CHUNK = 500;
+const MAX_PAGES = 20;
 const TMDB_CONCURRENCY = 8;
-const MIN_VOTE_COUNT = 3;
+const MIN_VOTE_COUNT = 5;
 
 // ===============================
-// DATE HELPERS (Fine-grained 7-day chunks)
+// DATE HELPERS
 // ===============================
-function getDateChunks(totalDaysBack = DAYS_BACK, chunkSizeDays = CHUNK_SIZE_DAYS) {
-  const chunks = [];
-  let currentEnd = new Date();
-  currentEnd.setDate(currentEnd.getDate() + 2);
-
-  const finalStart = new Date();
-  finalStart.setDate(finalStart.getDate() - totalDaysBack);
-
-  while (currentEnd > finalStart) {
-    let currentStart = new Date(currentEnd);
-    currentStart.setDate(currentStart.getDate() - chunkSizeDays);
-
-    if (currentStart < finalStart) {
-      currentStart = new Date(finalStart);
-    }
-
-    chunks.push({
-      from: currentStart.toISOString().slice(0, 10),
-      to: currentEnd.toISOString().slice(0, 10),
-    });
-
-    currentEnd = new Date(currentStart);
-  }
-
-  return chunks;
+function daysAgo(n) {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  return d.toISOString().slice(0, 10);
 }
+
+const DATE_FROM = daysAgo(DAYS_BACK);
+const DATE_TO = daysAgo(0);
 
 // ===============================
 // FETCH HELPERS
@@ -70,38 +45,33 @@ function isAllowed(dateStr) {
   const now = Date.now();
 
   const TWO_DAYS = 2 * 24 * 60 * 60 * 1000;
-  const minTime = now - DAYS_BACK * 24 * 60 * 60 * 1000;
 
-  return date >= minTime && date <= (now + TWO_DAYS);
+  // allow past + next 10 days
+  return date <= (now + TWO_DAYS);
 }
 
 // ===============================
-// RELEASE DATE HELPER (Newest US Date excluding Physical)
+// EARLIEST US DIGITAL RELEASE ONLY
 // ===============================
-async function getEffectiveReleaseDate(movieObj) {
+async function fetchUSReleaseDate(id) {
   const json = await fetchJSON(
-    `https://api.themoviedb.org/3/movie/${movieObj.id}/release_dates?api_key=${TMDB_KEY}`
+    `https://api.themoviedb.org/3/movie/${id}/release_dates?api_key=${TMDB_KEY}`
   );
 
-  if (json?.results) {
-    const us = json.results.find((r) => r.iso_3166_1 === "US");
-    if (us?.release_dates?.length) {
-      const allUsDates = us.release_dates
-        .filter((d) => d.release_date && d.type !== 5) // Exclude Physical (type 5)
-        .map((d) => d.release_date.slice(0, 10))
-        .sort();
+  if (!json?.results) return null;
 
-      if (allUsDates.length) {
-        return allUsDates[allUsDates.length - 1];
-      }
-    }
-  }
+  const us = json.results.find((r) => r.iso_3166_1 === "US");
+  if (!us?.release_dates?.length) return null;
 
-  if (movieObj.release_date) {
-    return movieObj.release_date.slice(0, 10);
-  }
+  // ONLY DIGITAL (type 4)
+  const digitalDates = us.release_dates
+    .filter((d) => d.type === 4 && d.release_date)
+    .map((d) => d.release_date.slice(0, 10))
+    .sort(); // earliest → latest
 
-  return null;
+  if (!digitalDates.length) return null;
+
+  return digitalDates[0]; // earliest digital
 }
 
 // ===============================
@@ -133,69 +103,50 @@ async function pMap(list, fn, concurrency = TMDB_CONCURRENCY) {
 // FETCH MOVIES
 // ===============================
 async function fetchMovies() {
-  const chunks = getDateChunks(DAYS_BACK, CHUNK_SIZE_DAYS);
-  const rawResultsMap = new Map();
+  const all = [];
 
-  for (const chunk of chunks) {
-    for (let page = 1; page <= MAX_PAGES_PER_CHUNK; page++) {
-      const url =
-        `https://api.themoviedb.org/3/discover/movie?` +
-        `api_key=${TMDB_KEY}` +
-        `&language=en-US` +
-        `&with_original_language=en` +
-        `&vote_count.gte=${MIN_VOTE_COUNT}` +
-        `&sort_by=primary_release_date.desc` +
-        `&primary_release_date.gte=${chunk.from}` +
-        `&primary_release_date.lte=${chunk.to}` +
-        `&release_date.gte=${chunk.from}` +
-        `&release_date.lte=${chunk.to}` +
-        `&without_genres=27` +
-        `&page=${page}`;
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    const url =
+      `https://api.themoviedb.org/3/discover/movie?` +
+      `api_key=${TMDB_KEY}` +
+      `&language=en-US` +
+      `&with_original_language=en` +
+      `&region=US` +
+      `&vote_count.gte=${MIN_VOTE_COUNT}` +
+      `&sort_by=primary_release_date.desc` +
+      `&primary_release_date.gte=${DATE_FROM}` +
+      `&primary_release_date.lte=${DATE_TO}` +
+      `&without_genres=27` +
+      `&page=${page}`;
 
-      const j = await fetchJSON(url);
-      if (!j?.results?.length) break;
+    const j = await fetchJSON(url);
+    if (!j?.results?.length) break;
 
-      for (const movie of j.results) {
-        if (!rawResultsMap.has(movie.id)) {
-          rawResultsMap.set(movie.id, movie);
-        }
-      }
-
-      if (page >= j.total_pages) break;
-    }
+    all.push(...j.results);
+    if (page >= j.total_pages) break;
   }
 
-  const rawList = Array.from(rawResultsMap.values());
-  console.log(`Total unique items collected from Discover: ${rawList.length}`);
+  const mapped = await pMap(all, async (m) => {
+    if (!m?.id) return null;
 
-  const mapped = await pMap(rawList, async (m) => {
-    const title = m.title || m.original_title || `Movie ${m?.id}`;
-    if (!m?.id) {
-      console.log(`[Dropped] Missing ID for movie title: "${title}"`);
-      return null;
-    }
+    const usDate = await fetchUSReleaseDate(m.id);
 
-    const releaseDate = await getEffectiveReleaseDate(m);
+    // must have digital release
+    if (!usDate) return null;
 
-    if (!releaseDate) {
-      console.log(`[Dropped] No release date found: "${title}" (ID: ${m.id})`);
-      return null;
-    }
-
-    if (!isAllowed(releaseDate)) {
-      console.log(`[Dropped] Date out of allowed window (${releaseDate}): "${title}" (ID: ${m.id})`);
-      return null;
-    }
+    // allow only past + next 10 days
+    if (!isAllowed(usDate)) return null;
 
     return {
-      id: `tmdb_${m.id}`, // Using underscore instead of colon for GitHub Pages compatibility
+      id: `tmdb:${m.id}`,
       type: "movie",
-      name: title,
+      name: m.title || m.original_title || `Movie ${m.id}`,
       description: m.overview || "",
       poster: m.poster_path
         ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
         : null,
-      releaseInfo: releaseDate,
+
+      releaseInfo: usDate,
     };
   });
 
@@ -204,16 +155,12 @@ async function fetchMovies() {
 
   for (const item of mapped) {
     if (!item) continue;
-    if (seen.has(item.id)) {
-      console.log(`[Dropped] Duplicate entry: "${item.name}" (ID: ${item.id})`);
-      continue;
-    }
+    if (seen.has(item.id)) continue;
     seen.add(item.id);
     out.push(item);
   }
 
-  console.log(`Total movies kept after filtering & deduplication: ${out.length}`);
-
+  // newest first
   return out.sort((a, b) => {
     return new Date(b.releaseInfo) - new Date(a.releaseInfo);
   });
@@ -223,7 +170,7 @@ async function fetchMovies() {
 // META BUILDER
 // ===============================
 async function buildMeta(id) {
-  const tmdbId = id.startsWith("tmdb_") ? id.split("_")[1] : id;
+  const tmdbId = id.startsWith("tmdb:") ? id.split(":")[1] : id;
   if (!tmdbId) return null;
 
   const movie = await fetchJSON(
@@ -234,7 +181,7 @@ async function buildMeta(id) {
 
   return {
     meta: {
-      id: `tmdb_${movie.id}`,
+      id: `tmdb:${movie.id}`,
       type: "movie",
       name: movie.title,
       description: movie.overview || "",
@@ -244,10 +191,12 @@ async function buildMeta(id) {
       background: movie.backdrop_path
         ? `https://image.tmdb.org/t/p/original${movie.backdrop_path}`
         : null,
+
       released: movie.release_date
         ? movie.release_date.slice(0, 10)
         : null,
-      imdb_id: movie.imdb_id || null,
+
+      imdb: movie.imdb_id || null,
     },
   };
 }
@@ -272,7 +221,6 @@ async function build() {
     const meta = await buildMeta(m.id);
     if (!meta) continue;
 
-    // Directly write file using tmdb_12345.json structure
     fs.writeFileSync(
       `./meta/movie/${m.id}.json`,
       JSON.stringify(meta, null, 2)
