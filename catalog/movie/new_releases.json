@@ -17,6 +17,14 @@
       "releaseInfo": "2026-08-18"
     },
     {
+      "id": "tt35060353",
+      "type": "movie",
+      "name": "The Wrong Girls",
+      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tt36590417",
       "type": "movie",
       "name": "Don't Say Good Luck",
@@ -101,7 +109,7 @@
       "type": "movie",
       "name": "Minions & Monsters",
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/aTmwK4yKzM52spczHFeuWldfzo7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -255,6 +263,14 @@
       "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
       "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
       "releaseInfo": "2026-07-23"
+    },
+    {
+      "id": "tt43660866",
+      "type": "movie",
+      "name": "My Grandfather Charles Manson",
+      "description": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy?",
+      "poster": "https://image.tmdb.org/t/p/w500/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+      "releaseInfo": "2026-07-22"
     },
     {
       "id": "tt43619305",
@@ -590,6 +606,14 @@
       "name": "Carolina Caroline",
       "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
       "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Tuner",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -961,6 +985,14 @@
       "releaseInfo": "2026-05-22"
     },
     {
+      "id": "tt34611082",
+      "type": "movie",
+      "name": "Ladies First",
+      "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
       "id": "tt36966956",
       "type": "movie",
       "name": "Everybody to Kenmure Street",
@@ -974,6 +1006,14 @@
       "name": "Dua Lipa: Live from Mexico",
       "description": "Live from Mexico, a brand new concert film capturing the high-octane finale of the global Radical Optimism Tour at Mexico City's Estadio GNP Seguros",
       "poster": "https://image.tmdb.org/t/p/w500/gTOfJRBUsSfuB2sPYPLPcn8ZPbo.jpg",
+      "releaseInfo": "2026-05-21"
+    },
+    {
+      "id": "tt32499466",
+      "type": "movie",
+      "name": "Finding Emily",
+      "description": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/jIjj0H2kobklKcyNHyrDj6WD2xw.jpg",
       "releaseInfo": "2026-05-21"
     },
     {
@@ -1281,6 +1321,30 @@
       "releaseInfo": "2026-04-28"
     },
     {
+      "id": "tt38058112",
+      "type": "movie",
+      "name": "I'll Be Seeing You",
+      "description": "When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director.",
+      "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
+      "releaseInfo": "2026-04-25"
+    },
+    {
+      "id": "tt39315819",
+      "type": "movie",
+      "name": "Immortal Combat",
+      "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tt38575417",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
       "id": "tt31689648",
       "type": "movie",
       "name": "Dirty Hands",
@@ -1351,6 +1415,14 @@
       "description": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
       "poster": "https://image.tmdb.org/t/p/w500/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
       "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tt41378543",
+      "type": "movie",
+      "name": "Ramy Youssef: In Love",
+      "description": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+      "releaseInfo": "2026-04-17"
     },
     {
       "id": "tt41561164",
@@ -1558,14 +1630,6 @@
       "name": "Sniper: No Nation",
       "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
       "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
-      "releaseInfo": "2026-04-07"
-    },
-    {
-      "id": "tt35003538",
-      "type": "movie",
-      "name": "EPiC: Elvis Presley in Concert",
-      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
