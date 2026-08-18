@@ -73,6 +73,14 @@
       "releaseInfo": "2026-08-14"
     },
     {
+      "id": "tt32212403",
+      "type": "movie",
+      "name": "Sunny Dancer",
+      "description": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+      "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+      "releaseInfo": "2026-08-12"
+    },
+    {
       "id": "tt38906892",
       "type": "movie",
       "name": "Night Nurse",
@@ -137,12 +145,28 @@
       "releaseInfo": "2026-08-07"
     },
     {
+      "id": "tt29512655",
+      "type": "movie",
+      "name": "Rage of Stars",
+      "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "releaseInfo": "2026-08-06"
+    },
+    {
       "id": "tt43657327",
       "type": "movie",
       "name": "Big Chicken: A Fast Food Conspiracy",
       "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it.",
       "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
       "releaseInfo": "2026-08-05"
+    },
+    {
+      "id": "tt43729889",
+      "type": "movie",
+      "name": "Storm on Sesame Street",
+      "description": "In the Storm on Sesame Street special, Elmo and his friends work together to get ready for a big storm, learning how to be prepared, have courage, and calm their bodies and minds when things feel scary. After the storm passes, Sesame Street looks different, and everyone pitches in to help their neighbors rebuild their homes. With the help of the neighborhood, including celebrity guests Post Malone and Michelle Buteau, Elmo and Abby set out to make a difference, and discover that small acts of kindness, and support from friends, can make the biggest difference of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
+      "releaseInfo": "2026-08-03"
     },
     {
       "id": "tt43732886",
@@ -433,30 +457,6 @@
       "releaseInfo": "2026-07-05"
     },
     {
-      "id": "tt43140642",
-      "type": "movie",
-      "name": "Simpsley",
-      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
-      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "releaseInfo": "2026-07-03"
-    },
-    {
-      "id": "tt34584846",
-      "type": "movie",
-      "name": "Man of War",
-      "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-      "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "releaseInfo": "2026-07-03"
-    },
-    {
-      "id": "tt41605854",
-      "type": "movie",
-      "name": "The Odyssey",
-      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
-      "releaseInfo": "2026-07-03"
-    },
-    {
       "id": "tt39371050",
       "type": "movie",
       "name": "Summer's Last Resort",
@@ -510,14 +510,6 @@
       "name": "Bang My Box: The Robin Byrd Story",
       "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
       "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -841,14 +833,6 @@
       "releaseInfo": "2026-06-05"
     },
     {
-      "id": "tt36926359",
-      "type": "movie",
-      "name": "Seven Snipers",
-      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
       "id": "tt42192165",
       "type": "movie",
       "name": "The Murder of Rachel Nickell",
@@ -934,14 +918,6 @@
       "name": "Untold UK: Vinnie Jones",
       "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
       "poster": "https://image.tmdb.org/t/p/w500/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt2467700",
-      "type": "movie",
-      "name": "Animal Farm",
-      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1705,14 +1681,6 @@
       "releaseInfo": "2026-03-31"
     },
     {
-      "id": "tt35677327",
-      "type": "movie",
-      "name": "Idiotka",
-      "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
-      "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
       "id": "tt34966562",
       "type": "movie",
       "name": "The Christophers",
@@ -1742,6 +1710,14 @@
       "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
       "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
       "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
+      "releaseInfo": "2026-03-27"
+    },
+    {
+      "id": "tt31193382",
+      "type": "movie",
+      "name": "She Dances",
+      "description": "A father and his distant teenage daughter road-trip to a dance competition, confronting their shared grief over a family tragedy.",
+      "poster": "https://image.tmdb.org/t/p/w500/i2cNnJg1pkez7b4B1DUAjUdJ1FD.jpg",
       "releaseInfo": "2026-03-27"
     },
     {
@@ -1777,14 +1753,6 @@
       "releaseInfo": "2026-03-27"
     },
     {
-      "id": "tt21870816",
-      "type": "movie",
-      "name": "Billy Idol Should Be Dead",
-      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
-      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
-      "releaseInfo": "2026-03-26"
-    },
-    {
       "id": "tt39901552",
       "type": "movie",
       "name": "Jeff Ross: Take a Banana for the Ride",
@@ -1798,6 +1766,14 @@
       "name": "Hannah Montana 20th Anniversary Special",
       "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
       "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tt7395324",
+      "type": "movie",
+      "name": "Past Life",
+      "description": "When an unemployed reporter is hypnotized as part of a past life regression event, he wakes not with memories of life as royalty or some other glamorous person, but instead finds himself haunted by the memories of a serial killer.",
+      "poster": "https://image.tmdb.org/t/p/w500/tiLqp9ML5lTpmERlRj16jwMfuFL.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
@@ -1828,7 +1804,7 @@
       "id": "tt31190636",
       "type": "movie",
       "name": "Maya & Samar",
-      "description": "Set in contemporary Athens, Maya and Samar tells the story of two young women from conflicting cultures whose brief yet torrid affair endangers the life of one, while propelling the other to instant online fame.",
+      "description": "In contemporary Athens, two young women from conflicting cultures embark on a brief yet torrid affair that endangers the life of one, while propelling the other to instant online fame.",
       "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
       "releaseInfo": "2026-03-20"
     },
@@ -1969,14 +1945,6 @@
       "releaseInfo": "2026-03-08"
     },
     {
-      "id": "tt35237771",
-      "type": "movie",
-      "name": "Ghost Elephants",
-      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
-      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
-      "releaseInfo": "2026-03-08"
-    },
-    {
       "id": "tt32569057",
       "type": "movie",
       "name": "Mother's Pride",
@@ -2038,14 +2006,6 @@
       "name": "Chris Fleming: Live at The Palace",
       "description": "From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special. A high-energy performer who seamlessly pivots from one everyday topic to another – from Trader Joe’s to Oreos, NPR, and dog breeds – Fleming bounds across the stage as he shares his unique takes on masculinity, conga lines, and more.",
       "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt37532179",
-      "type": "movie",
-      "name": "The Napa Boys",
-      "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
-      "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
@@ -2151,14 +2111,6 @@
       "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
       "poster": "https://image.tmdb.org/t/p/w500/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
       "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tt39565775",
-      "type": "movie",
-      "name": "Rocky's Cat-astrophe",
-      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
-      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
-      "releaseInfo": "2026-01-30"
     },
     {
       "id": "tt29713815",
