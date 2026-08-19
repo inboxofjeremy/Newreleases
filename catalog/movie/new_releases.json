@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tt27706593",
+      "type": "movie",
+      "name": "The Rivals of Amziah King",
+      "description": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt27844906",
+      "type": "movie",
+      "name": "Rosebush Pruning",
+      "description": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "poster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt7734244",
+      "type": "movie",
+      "name": "The Magic Faraway Tree",
+      "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+      "poster": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
       "id": "tt29355505",
       "type": "movie",
       "name": "Toy Story 5",
@@ -457,6 +489,30 @@
       "releaseInfo": "2026-07-05"
     },
     {
+      "id": "tt43140642",
+      "type": "movie",
+      "name": "Simpsley",
+      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tt34584846",
+      "type": "movie",
+      "name": "Man of War",
+      "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+      "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tt41605854",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
       "id": "tt39371050",
       "type": "movie",
       "name": "Summer's Last Resort",
@@ -510,6 +566,14 @@
       "name": "Bang My Box: The Robin Byrd Story",
       "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
       "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tt33612209",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -631,14 +695,6 @@
       "description": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
       "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg",
       "releaseInfo": "2026-06-23"
-    },
-    {
-      "id": "tt34888646",
-      "type": "movie",
-      "name": "I Can Only Imagine 2",
-      "description": "Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.",
-      "poster": "https://image.tmdb.org/t/p/w500/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
-      "releaseInfo": "2026-06-20"
     },
     {
       "id": "tt10375624",
@@ -833,6 +889,14 @@
       "releaseInfo": "2026-06-05"
     },
     {
+      "id": "tt36926359",
+      "type": "movie",
+      "name": "Seven Snipers",
+      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tt42192165",
       "type": "movie",
       "name": "The Murder of Rachel Nickell",
@@ -918,6 +982,14 @@
       "name": "Untold UK: Vinnie Jones",
       "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
       "poster": "https://image.tmdb.org/t/p/w500/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tt2467700",
+      "type": "movie",
+      "name": "Animal Farm",
+      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1681,6 +1753,14 @@
       "releaseInfo": "2026-03-31"
     },
     {
+      "id": "tt35677327",
+      "type": "movie",
+      "name": "Idiotka",
+      "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
+      "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
       "id": "tt34966562",
       "type": "movie",
       "name": "The Christophers",
@@ -1753,6 +1833,14 @@
       "releaseInfo": "2026-03-27"
     },
     {
+      "id": "tt21870816",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
+      "releaseInfo": "2026-03-26"
+    },
+    {
       "id": "tt39901552",
       "type": "movie",
       "name": "Jeff Ross: Take a Banana for the Ride",
@@ -1799,14 +1887,6 @@
       "description": "Tee is a Chinese American pottery artist who meets new community center handyman Will. As she learns about her family's traditions through art, can she and Will save the center from closure?",
       "poster": "https://image.tmdb.org/t/p/w500/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg",
       "releaseInfo": "2026-03-21"
-    },
-    {
-      "id": "tt31190636",
-      "type": "movie",
-      "name": "Maya & Samar",
-      "description": "In contemporary Athens, two young women from conflicting cultures embark on a brief yet torrid affair that endangers the life of one, while propelling the other to instant online fame.",
-      "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
-      "releaseInfo": "2026-03-20"
     },
     {
       "id": "tt36971084",
@@ -1945,6 +2025,14 @@
       "releaseInfo": "2026-03-08"
     },
     {
+      "id": "tt35237771",
+      "type": "movie",
+      "name": "Ghost Elephants",
+      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+      "releaseInfo": "2026-03-08"
+    },
+    {
       "id": "tt32569057",
       "type": "movie",
       "name": "Mother's Pride",
@@ -2009,6 +2097,14 @@
       "releaseInfo": "2026-02-27"
     },
     {
+      "id": "tt37532179",
+      "type": "movie",
+      "name": "The Napa Boys",
+      "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
+      "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
       "id": "tt35663059",
       "type": "movie",
       "name": "On the Hunt",
@@ -2039,14 +2135,6 @@
       "description": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
       "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
       "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt26931594",
-      "type": "movie",
-      "name": "Man on the Run",
-      "description": "Paul McCartney forms new band Wings after Beatles breakup. Archival home footage shows his life with Linda, who influenced his music. The film follows Wings from formation through the 1970s, during which McCartney wrote hit songs.",
-      "poster": "https://image.tmdb.org/t/p/w500/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
-      "releaseInfo": "2026-02-25"
     },
     {
       "id": "tt39367471",
@@ -2081,22 +2169,6 @@
       "releaseInfo": "2026-02-20"
     },
     {
-      "id": "tt40035852",
-      "type": "movie",
-      "name": "Famous Last Words: Eric Dane",
-      "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tt39793801",
-      "type": "movie",
-      "name": "Descendants/ZOMBIES Worlds Collide - Concert Special",
-      "description": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
       "id": "tt14507394",
       "type": "movie",
       "name": "Hellfire",
@@ -2111,6 +2183,14 @@
       "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
       "poster": "https://image.tmdb.org/t/p/w500/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
       "releaseInfo": "2026-02-13"
+    },
+    {
+      "id": "tt39565775",
+      "type": "movie",
+      "name": "Rocky's Cat-astrophe",
+      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+      "releaseInfo": "2026-01-30"
     },
     {
       "id": "tt29713815",
