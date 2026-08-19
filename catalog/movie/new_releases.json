@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Mutiny",
+      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
