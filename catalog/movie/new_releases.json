@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Mutiny",
       "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4zWwbVV31Qss578iJdVECyhMslB.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -713,6 +713,14 @@
       "releaseInfo": "2026-06-19"
     },
     {
+      "id": "tt43596160",
+      "type": "movie",
+      "name": "7 Piano Sketches",
+      "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
+      "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
       "id": "tt42353154",
       "type": "movie",
       "name": "Stepfather",
@@ -751,6 +759,14 @@
       "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
       "poster": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
       "releaseInfo": "2026-06-17"
+    },
+    {
+      "id": "tt32547691",
+      "type": "movie",
+      "name": "Pressure",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "poster": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "releaseInfo": "2026-06-16"
     },
     {
       "id": "tt34705112",
@@ -1129,14 +1145,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tt29028515",
-      "type": "movie",
-      "name": "Wasteman",
-      "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tt32135632",
       "type": "movie",
       "name": "LifeHack",
@@ -1289,6 +1297,14 @@
       "releaseInfo": "2026-05-05"
     },
     {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "The Drama",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "releaseInfo": "2026-05-05"
+    },
+    {
       "id": "tt40383471",
       "type": "movie",
       "name": "Making of Lord of the Flies",
@@ -1433,14 +1449,6 @@
       "releaseInfo": "2026-04-21"
     },
     {
-      "id": "tt34471850",
-      "type": "movie",
-      "name": "Protector",
-      "description": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "releaseInfo": "2026-04-21"
-    },
-    {
       "id": "tt41973417",
       "type": "movie",
       "name": "KillTonyMania",
@@ -1462,6 +1470,14 @@
       "name": "Ramy Youssef: In Love",
       "description": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
       "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt41561164",
+      "type": "movie",
+      "name": "Paul Smith: Pablo Live",
+      "description": "From one of the UK’s most viral stand-up comedians, in his debut special, “Paul Smith: Pablo Live” is the show you’ve all been waiting for. Filmed live at the 3Olympia Theatre in Dublin, it’s packed full of Smith’s signature, unflinching, laugh out loud comedy. Featuring a mix of his trademark audience roasting, razor-sharp wit and hilarious true stories of his everyday life, from spending money in the most irresponsible way possible, why boys are better than girls and raising kids without leading by example, this is the full, unfiltered Paul Smith experience, and you won't want to miss a minute of it.",
+      "poster": "https://image.tmdb.org/t/p/w500/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -1985,22 +2001,6 @@
       "releaseInfo": "2026-03-10"
     },
     {
-      "id": "tt35919514",
-      "type": "movie",
-      "name": "Fukushima: A Nuclear Nightmare",
-      "description": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
-      "poster": "https://image.tmdb.org/t/p/w500/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tt7374950",
-      "type": "movie",
-      "name": "Midwinter Break",
-      "description": "Longtime retired couple Stella and Gerry realise that their relationship has reached a crossroads while on holiday in Amsterdam. After so much time and so many memories, long-held promises and deeply concealed wounds threaten to come to light and force them to confront their future.",
-      "poster": "https://image.tmdb.org/t/p/w500/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
-      "releaseInfo": "2026-03-10"
-    },
-    {
       "id": "tt40341984",
       "type": "movie",
       "name": "Harry Styles. One Night in Manchester.",
@@ -2063,6 +2063,14 @@
       "description": "Kate takes a job as a live-in tutor at a secluded Scottish estate for a mother and daughter who’ve escaped domestic abuse. But when she discovers the previous au pair mysteriously disappeared, Kate becomes embroiled in the family’s deadly secrets.",
       "poster": "https://image.tmdb.org/t/p/w500/rsZpzA7Ssu9m3X3fCcEDxjPXFet.jpg",
       "releaseInfo": "2026-03-01"
+    },
+    {
+      "id": "tt39300788",
+      "type": "movie",
+      "name": "Romance at Hope Ranch",
+      "description": "Hope Morgan sets out to begin a new chapter of her life—fulfilling her childhood dream of running a ranch in the picturesque town of Ruidoso, New Mexico and reviving the beloved Giddy Up Gala.",
+      "poster": "https://image.tmdb.org/t/p/w500/arwU50Da8nL7xgPQHAwZjV4aQMo.jpg",
+      "releaseInfo": "2026-02-28"
     },
     {
       "id": "tt39765131",
@@ -2134,14 +2142,6 @@
       "name": "One Mile: Chapter Two",
       "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
       "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
-      "id": "tt24326458",
-      "type": "movie",
-      "name": "One Mile: Chapter One",
-      "description": "After being released from special forces, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
-      "poster": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
       "releaseInfo": "2026-02-20"
     },
     {
