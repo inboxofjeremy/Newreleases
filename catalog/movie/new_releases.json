@@ -41,6 +41,14 @@
       "releaseInfo": "2026-08-21"
     },
     {
+      "id": "tt32889884",
+      "type": "movie",
+      "name": "Freefall: A Reckoning for Boeing",
+      "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
+      "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+      "releaseInfo": "2026-08-19"
+    },
+    {
       "id": "tt29355505",
       "type": "movie",
       "name": "Toy Story 5",
@@ -62,6 +70,14 @@
       "name": "The Wrong Girls",
       "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt33070884",
+      "type": "movie",
+      "name": "The Brink of War",
+      "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -126,14 +142,6 @@
       "name": "Night Nurse",
       "description": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
       "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -470,14 +478,6 @@
       "name": "The Outer Threat",
       "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
       "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-      "releaseInfo": "2026-07-10"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "releaseInfo": "2026-07-10"
     },
     {
