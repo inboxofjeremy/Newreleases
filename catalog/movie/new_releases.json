@@ -1,11 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt33305867",
+      "type": "movie",
+      "name": "Spa Weekend",
+      "description": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
       "id": "tt32338669",
       "type": "movie",
       "name": "Mutiny",
       "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -446,6 +454,14 @@
       "name": "Stop! That! Train!",
       "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
       "poster": "https://image.tmdb.org/t/p/w500/7t69fo096Ddre1fEmCitxTdQ89v.jpg",
+      "releaseInfo": "2026-07-14"
+    },
+    {
+      "id": "tt34459219",
+      "type": "movie",
+      "name": "The Breadwinner",
+      "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "poster": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
       "releaseInfo": "2026-07-14"
     },
     {
@@ -1854,6 +1870,14 @@
       "name": "Jeff Ross: Take a Banana for the Ride",
       "description": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
       "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+      "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tt39389429",
+      "type": "movie",
+      "name": "Hannah Montana 20th Anniversary Special",
+      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
+      "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
