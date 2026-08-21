@@ -449,14 +449,6 @@
       "releaseInfo": "2026-07-14"
     },
     {
-      "id": "tt34459219",
-      "type": "movie",
-      "name": "The Breadwinner",
-      "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "poster": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "releaseInfo": "2026-07-14"
-    },
-    {
       "id": "tt43595399",
       "type": "movie",
       "name": "Shipwrecked: Nightmare at Sea",
@@ -1233,6 +1225,14 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tt34966562",
+      "type": "movie",
+      "name": "The Christophers",
+      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -1749,7 +1749,7 @@
       "type": "movie",
       "name": "The Sheriffs of Savage Wells",
       "description": "The eccentric town of Savage Wells is looking for a sheriff. Paisley Bell has done the job before and is ready to prove she can do it again. Cade O’Brien, the most famous sheriff in Wyoming Territory, arrives in town, vying for the job as well. Sparks fly as the sheriffs go head-to-head, and the bantering rivals begin to feel like something more than just competitors. But when violent criminals threaten the people they care about, they’ll have to set aside their differences to save the town.",
-      "poster": "https://image.tmdb.org/t/p/w500/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sVrVzynNg4KMvnx5uN0inzvshm5.jpg",
       "releaseInfo": "2026-04-01"
     },
     {
@@ -1775,14 +1775,6 @@
       "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
       "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
       "releaseInfo": "2026-03-31"
-    },
-    {
-      "id": "tt34966562",
-      "type": "movie",
-      "name": "The Christophers",
-      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
-      "releaseInfo": "2026-03-30"
     },
     {
       "id": "tt39601861",
@@ -1862,14 +1854,6 @@
       "name": "Jeff Ross: Take a Banana for the Ride",
       "description": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
       "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
-      "id": "tt39389429",
-      "type": "movie",
-      "name": "Hannah Montana 20th Anniversary Special",
-      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
-      "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
