@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt2012616",
+      "type": "movie",
+      "name": "Motor City",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
       "id": "tt33305867",
       "type": "movie",
       "name": "Spa Weekend",
@@ -334,14 +342,6 @@
       "name": "Euphoria: A Look Back",
       "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
       "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
-      "releaseInfo": "2026-07-24"
-    },
-    {
-      "id": "tt2012616",
-      "type": "movie",
-      "name": "Motor City",
-      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
