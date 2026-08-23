@@ -73,6 +73,14 @@
       "releaseInfo": "2026-08-18"
     },
     {
+      "id": "tt35636239",
+      "type": "movie",
+      "name": "Lady",
+      "description": "A lonely, narcissistic aristocrat dupes a struggling, opportunistic director into filming her every move. Her obsession with the spotlight takes a surreal turn when she starts becoming... invisible.",
+      "poster": "https://image.tmdb.org/t/p/w500/fXsTO5Wa11VtIyVMdoQOpeioSVx.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tt35060353",
       "type": "movie",
       "name": "The Wrong Girls",
@@ -135,6 +143,14 @@
       "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
       "poster": "https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt42009731",
+      "type": "movie",
+      "name": "Travis Barker: Louder Than Fear",
+      "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
+      "poster": "https://image.tmdb.org/t/p/w500/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
+      "releaseInfo": "2026-08-13"
     },
     {
       "id": "tt32212403",
@@ -669,7 +685,7 @@
       "type": "movie",
       "name": "The Sheep Detectives",
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
       "releaseInfo": "2026-06-24"
     },
     {
@@ -692,7 +708,7 @@
       "id": "tt33296751",
       "type": "movie",
       "name": "Tuner",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "description": "A talented piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
