@@ -21,7 +21,7 @@
       "type": "movie",
       "name": "Mutiny",
       "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -141,7 +141,7 @@
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jqxuYbNEaaGJNxmoj2n4vNyehRB.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -197,7 +197,7 @@
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hFLVVF6GSfFkvDlht6iCsCcFjrh.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -285,7 +285,7 @@
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "releaseInfo": "2026-07-31"
     },
     {
@@ -651,7 +651,7 @@
     {
       "id": "tt15532464",
       "type": "movie",
-      "name": "Help",
+      "name": "Strung",
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
       "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
       "releaseInfo": "2026-06-26"
@@ -1157,7 +1157,7 @@
       "type": "movie",
       "name": "Normal",
       "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/38n0tIc9c1cn5C3IMhjnIFJtwfz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -2057,6 +2057,14 @@
       "releaseInfo": "2026-03-06"
     },
     {
+      "id": "tt34381258",
+      "type": "movie",
+      "name": "Good Boy",
+      "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
+      "poster": "https://image.tmdb.org/t/p/w500/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
+      "releaseInfo": "2026-03-06"
+    },
+    {
       "id": "tt34378234",
       "type": "movie",
       "name": "Whitetail",
@@ -2143,14 +2151,6 @@
       "description": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
       "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
       "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt39367471",
-      "type": "movie",
-      "name": "Taylor Tomlinson: Prodigal Daughter",
-      "description": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
-      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
-      "releaseInfo": "2026-02-24"
     },
     {
       "id": "tt24326462",
