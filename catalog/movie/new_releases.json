@@ -5,7 +5,15 @@
       "type": "movie",
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
+      "id": "tt32333324",
+      "type": "movie",
+      "name": "Batman: Knightfall Part 1: Knightfall",
+      "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+      "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
@@ -159,14 +167,6 @@
       "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
       "poster": "https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt42009731",
-      "type": "movie",
-      "name": "Travis Barker: Louder Than Fear",
-      "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
-      "poster": "https://image.tmdb.org/t/p/w500/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
-      "releaseInfo": "2026-08-13"
     },
     {
       "id": "tt32212403",
@@ -598,14 +598,6 @@
       "name": "The Get Out",
       "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
       "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tt33219707",
-      "type": "movie",
-      "name": "40 Dates and 40 Nights",
-      "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1457,22 +1449,6 @@
       "releaseInfo": "2026-04-24"
     },
     {
-      "id": "tt31689648",
-      "type": "movie",
-      "name": "Dirty Hands",
-      "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin’s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they’re going to survive until morning.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tt16431404",
-      "type": "movie",
-      "name": "Apex",
-      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
       "id": "tmdb:1513734",
       "type": "movie",
       "name": "The Dreaminess",
@@ -1977,22 +1953,6 @@
       "releaseInfo": "2026-03-17"
     },
     {
-      "id": "tt40542910",
-      "type": "movie",
-      "name": "Inside the Rage Machine",
-      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
-      "releaseInfo": "2026-03-16"
-    },
-    {
-      "id": "tt39345599",
-      "type": "movie",
-      "name": "The Plastic Detox",
-      "description": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
-      "poster": "https://image.tmdb.org/t/p/w500/1FuExEaXy9ejGGm6VHCdirvk6zg.jpg",
-      "releaseInfo": "2026-03-16"
-    },
-    {
       "id": "tt39182438",
       "type": "movie",
       "name": "AEW Revolution 2026",
@@ -2099,7 +2059,7 @@
     {
       "id": "tt40837826",
       "type": "movie",
-      "name": "Diabolical - The Epstein Files",
+      "name": "Diabolical: The Epstein Files",
       "description": "It's the scandal that has shocked Americans and rocked the Trump administration. A legal and political saga that has shattered fundamental beliefs that all are equal in the eyes of the law. What do the Epstein Files reveal?",
       "poster": "https://image.tmdb.org/t/p/w500/wFXoZsIqEZPpJgdDlJdFFzWplhk.jpg",
       "releaseInfo": "2026-03-02"
