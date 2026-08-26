@@ -105,14 +105,6 @@
       "releaseInfo": "2026-08-18"
     },
     {
-      "id": "tt35674521",
-      "type": "movie",
-      "name": "Rose of Nevada",
-      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
-      "releaseInfo": "2026-08-18"
-    },
-    {
       "id": "tt35636239",
       "type": "movie",
       "name": "Lady",
@@ -665,14 +657,6 @@
       "releaseInfo": "2026-06-27"
     },
     {
-      "id": "tt19035928",
-      "type": "movie",
-      "name": "Lucky Strike",
-      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
       "id": "tt34888871",
       "type": "movie",
       "name": "Little Brother",
@@ -742,14 +726,6 @@
       "name": "Tuner",
       "description": "A talented piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
-      "id": "tt30827810",
-      "type": "movie",
-      "name": "I Love Boosters",
-      "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
-      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -1889,6 +1865,14 @@
       "releaseInfo": "2026-03-27"
     },
     {
+      "id": "tt21870816",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
+      "releaseInfo": "2026-03-26"
+    },
+    {
       "id": "tt39901552",
       "type": "movie",
       "name": "Jeff Ross: Take a Banana for the Ride",
@@ -1919,14 +1903,6 @@
       "description": "Hockey prodigy Dean Youngblood joins the Hamilton Mustangs and has to deal with toxic behavior during his journey to the National Hockey League draft.",
       "poster": "https://image.tmdb.org/t/p/w500/jEX9tAjzlQG165Uymjv6CrACEmU.jpg",
       "releaseInfo": "2026-03-24"
-    },
-    {
-      "id": "tt31189814",
-      "type": "movie",
-      "name": "Fuze",
-      "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-      "poster": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-      "releaseInfo": "2026-03-23"
     },
     {
       "id": "tt39601847",
@@ -1966,14 +1942,6 @@
       "name": "Mark Normand: None Too Pleased",
       "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
       "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
-      "releaseInfo": "2026-03-17"
-    },
-    {
-      "id": "tt34890320",
-      "type": "movie",
-      "name": "Preschool",
-      "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
-      "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
@@ -2134,14 +2102,6 @@
       "name": "The Napa Boys",
       "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
       "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt21870816",
-      "type": "movie",
-      "name": "Billy Idol Should Be Dead",
-      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
-      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
