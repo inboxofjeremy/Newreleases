@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "releaseInfo": "2026-08-28"
+    },
+    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
@@ -92,8 +100,8 @@
       "id": "tt35674521",
       "type": "movie",
       "name": "Rose of Nevada",
-      "description": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
+      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
       "releaseInfo": "2026-08-18"
     },
     {
@@ -102,6 +110,14 @@
       "name": "Lady",
       "description": "A lonely, narcissistic aristocrat dupes a struggling, opportunistic director into filming her every move. Her obsession with the spotlight takes a surreal turn when she starts becoming... invisible.",
       "poster": "https://image.tmdb.org/t/p/w500/fXsTO5Wa11VtIyVMdoQOpeioSVx.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt18316986",
+      "type": "movie",
+      "name": "All Night Wrong",
+      "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
+      "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -157,7 +173,7 @@
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-      "poster": "https://image.tmdb.org/t/p/w500/uXT1Uwze8N1TcgqUIsYCqaEPKea.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -167,6 +183,14 @@
       "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
       "poster": "https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt42009731",
+      "type": "movie",
+      "name": "Travis Barker: Louder Than Fear",
+      "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
+      "poster": "https://image.tmdb.org/t/p/w500/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
+      "releaseInfo": "2026-08-13"
     },
     {
       "id": "tt32212403",
@@ -598,6 +622,14 @@
       "name": "The Get Out",
       "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
       "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tt33219707",
+      "type": "movie",
+      "name": "40 Dates and 40 Nights",
+      "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
+      "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1353,14 +1385,6 @@
       "releaseInfo": "2026-05-05"
     },
     {
-      "id": "tt40383471",
-      "type": "movie",
-      "name": "Making of Lord of the Flies",
-      "description": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast.",
-      "poster": "https://image.tmdb.org/t/p/w500/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
-      "releaseInfo": "2026-05-04"
-    },
-    {
       "id": "tt39276947",
       "type": "movie",
       "name": "Kentucky Roses",
@@ -1446,6 +1470,22 @@
       "name": "Nikki Glaser: Good Girl",
       "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
       "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tt31689648",
+      "type": "movie",
+      "name": "Dirty Hands",
+      "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin’s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they’re going to survive until morning.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tt16431404",
+      "type": "movie",
+      "name": "Apex",
+      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "releaseInfo": "2026-04-24"
     },
     {
@@ -1849,14 +1889,6 @@
       "releaseInfo": "2026-03-27"
     },
     {
-      "id": "tt14734016",
-      "type": "movie",
-      "name": "Holy Days",
-      "description": "When young Brian discovers plans to close a convent of delightfully eccentric nuns, he sets off with them on a wild road trip across New Zealand to save their home.",
-      "poster": "https://image.tmdb.org/t/p/w500/bQuH4CVkdKoHtOksYu8q4g3nsNa.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
       "id": "tt21870816",
       "type": "movie",
       "name": "Billy Idol Should Be Dead",
@@ -1951,6 +1983,22 @@
       "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
       "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
+    },
+    {
+      "id": "tt40542910",
+      "type": "movie",
+      "name": "Inside the Rage Machine",
+      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
+      "releaseInfo": "2026-03-16"
+    },
+    {
+      "id": "tt39345599",
+      "type": "movie",
+      "name": "The Plastic Detox",
+      "description": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
+      "poster": "https://image.tmdb.org/t/p/w500/1FuExEaXy9ejGGm6VHCdirvk6zg.jpg",
+      "releaseInfo": "2026-03-16"
     },
     {
       "id": "tt39182438",
