@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt21285562",
+      "type": "movie",
+      "name": "The Dog Stars",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "poster": "https://image.tmdb.org/t/p/w500/yQBfTOqJdS4SMayBIcaXw2JUnI9.jpg",
+      "releaseInfo": "2026-08-28"
+    },
+    {
       "id": "tt1756855",
       "type": "movie",
       "name": "Coyote vs. Acme",
@@ -158,14 +166,6 @@
       "name": "The End of Oak Street",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt34895535",
-      "type": "movie",
-      "name": "Nimrods",
-      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-      "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1889,14 +1889,6 @@
       "releaseInfo": "2026-03-27"
     },
     {
-      "id": "tt21870816",
-      "type": "movie",
-      "name": "Billy Idol Should Be Dead",
-      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
-      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
-      "releaseInfo": "2026-03-26"
-    },
-    {
       "id": "tt39901552",
       "type": "movie",
       "name": "Jeff Ross: Take a Banana for the Ride",
@@ -2142,6 +2134,14 @@
       "name": "The Napa Boys",
       "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
       "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
+      "releaseInfo": "2026-02-27"
+    },
+    {
+      "id": "tt21870816",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
       "releaseInfo": "2026-02-27"
     },
     {
