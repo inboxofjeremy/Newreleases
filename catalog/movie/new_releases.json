@@ -17,6 +17,14 @@
       "releaseInfo": "2026-08-28"
     },
     {
+      "id": "tt43141030",
+      "type": "movie",
+      "name": "Yellow Mirror",
+      "description": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
+      "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
       "id": "tt37654096",
       "type": "movie",
       "name": "The Last Sunrise",
@@ -25,11 +33,19 @@
       "releaseInfo": "2026-08-26"
     },
     {
+      "id": "tt43700434",
+      "type": "movie",
+      "name": "Untold: The Testimony of Vince Young",
+      "description": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
+      "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
@@ -1745,6 +1761,14 @@
       "releaseInfo": "2026-04-07"
     },
     {
+      "id": "tt3517106",
+      "type": "movie",
+      "name": "The Land of Sometimes",
+      "description": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
       "id": "tt39538786",
       "type": "movie",
       "name": "Sniper: No Nation",
@@ -2111,14 +2135,6 @@
       "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
       "poster": "https://image.tmdb.org/t/p/w500/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
       "releaseInfo": "2026-02-13"
-    },
-    {
-      "id": "tt32298494",
-      "type": "movie",
-      "name": "Late Fame",
-      "description": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria.",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "releaseInfo": "2016-08-26"
     }
   ]
 }
