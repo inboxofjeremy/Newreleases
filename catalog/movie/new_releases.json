@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Dog Stars",
       "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "poster": "https://image.tmdb.org/t/p/w500/yQBfTOqJdS4SMayBIcaXw2JUnI9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
@@ -17,11 +17,19 @@
       "releaseInfo": "2026-08-28"
     },
     {
+      "id": "tt37654096",
+      "type": "movie",
+      "name": "The Last Sunrise",
+      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
@@ -37,7 +45,7 @@
       "type": "movie",
       "name": "LEGO Disney Princess: Magical Mayhem",
       "description": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
-      "poster": "https://image.tmdb.org/t/p/w500/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -45,7 +53,7 @@
       "type": "movie",
       "name": "Spa Weekend",
       "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -102,6 +110,14 @@
       "name": "Toy Story 5",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "releaseInfo": "2026-08-18"
+    },
+    {
+      "id": "tt35674521",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
       "releaseInfo": "2026-08-18"
     },
     {
@@ -181,7 +197,7 @@
       "type": "movie",
       "name": "Travis Barker: Louder Than Fear",
       "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
-      "poster": "https://image.tmdb.org/t/p/w500/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
       "releaseInfo": "2026-08-13"
     },
     {
@@ -657,6 +673,14 @@
       "releaseInfo": "2026-06-27"
     },
     {
+      "id": "tt19035928",
+      "type": "movie",
+      "name": "Lucky Strike",
+      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tt34888871",
       "type": "movie",
       "name": "Little Brother",
@@ -726,6 +750,14 @@
       "name": "Tuner",
       "description": "A talented piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tt30827810",
+      "type": "movie",
+      "name": "I Love Boosters",
+      "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -1006,14 +1038,6 @@
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
       "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
       "poster": "https://image.tmdb.org/t/p/w500/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
-      "releaseInfo": "2026-05-30"
-    },
-    {
-      "id": "tt19896510",
-      "type": "movie",
-      "name": "K-Pops!",
-      "description": "A washed-up musician travels to Korea to write for K-pop stars, discovering that his long-lost son is set to front one of the country’s hottest new groups. He then jumps at the opportunity to capitalize on his son’s stardom for his own renaissance, but learns that fatherhood is much more fulfilling and meaningful than stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
       "releaseInfo": "2026-05-30"
     },
     {
@@ -1801,14 +1825,6 @@
       "releaseInfo": "2026-03-31"
     },
     {
-      "id": "tt35677327",
-      "type": "movie",
-      "name": "Idiotka",
-      "description": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
-      "poster": "https://image.tmdb.org/t/p/w500/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
-      "releaseInfo": "2026-03-31"
-    },
-    {
       "id": "tt39601861",
       "type": "movie",
       "name": "A Royal Setting",
@@ -1863,14 +1879,6 @@
       "description": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
       "poster": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
       "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tt21870816",
-      "type": "movie",
-      "name": "Billy Idol Should Be Dead",
-      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
-      "poster": "https://image.tmdb.org/t/p/w500/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
-      "releaseInfo": "2026-03-26"
     },
     {
       "id": "tt39901552",
@@ -1942,6 +1950,14 @@
       "name": "Mark Normand: None Too Pleased",
       "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
       "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
+      "releaseInfo": "2026-03-17"
+    },
+    {
+      "id": "tt34890320",
+      "type": "movie",
+      "name": "Preschool",
+      "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
+      "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
@@ -2025,14 +2041,6 @@
       "releaseInfo": "2026-03-08"
     },
     {
-      "id": "tt35237771",
-      "type": "movie",
-      "name": "Ghost Elephants",
-      "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
-      "poster": "https://image.tmdb.org/t/p/w500/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
-      "releaseInfo": "2026-03-08"
-    },
-    {
       "id": "tt32569057",
       "type": "movie",
       "name": "Mother's Pride",
@@ -2089,62 +2097,6 @@
       "releaseInfo": "2026-02-28"
     },
     {
-      "id": "tt39765131",
-      "type": "movie",
-      "name": "Chris Fleming: Live at The Palace",
-      "description": "From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special. A high-energy performer who seamlessly pivots from one everyday topic to another – from Trader Joe’s to Oreos, NPR, and dog breeds – Fleming bounds across the stage as he shares his unique takes on masculinity, conga lines, and more.",
-      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt37532179",
-      "type": "movie",
-      "name": "The Napa Boys",
-      "description": "Jack Jr, Miles Jr and the whole gang are back for one last wine-soaked journey prompted by the mysterious \"Sommelier.\" Joined this time by Puck, a fan of The Napa Boys comics, the group will learn about love, loss, friendship and viticulture.",
-      "poster": "https://image.tmdb.org/t/p/w500/l1tuVJGyEgyjKH71ySIG5zJas4S.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt35663059",
-      "type": "movie",
-      "name": "On the Hunt",
-      "description": "A former military woman takes on a ruthless criminal underworld in a race against time to find her missing daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt31590095",
-      "type": "movie",
-      "name": "For Worse",
-      "description": "Lauren, a newly divorced, sober mom, feels like she has a new lease on life after joining her first acting class and starting a fling with her hot, young scene partner. However, when they attend their Gen Z classmate's wedding together, things begin to fall apart, and Lauren finds herself behaving like a drunk 25-year-old bridesmaid. Luckily after a disastrous night she stumbles into a new day and a new beginning.",
-      "poster": "https://image.tmdb.org/t/p/w500/4ZvIRyfGADA3x5RnankHEtTMLE7.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt19393076",
-      "type": "movie",
-      "name": "Operation Taco Gary's",
-      "description": "Two brothers uncover an alien invasion hidden inside a fast-food chain and must save Earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/soKwdOugcT1XRVd7KpvTMSflz0D.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt1742179",
-      "type": "movie",
-      "name": "Starbright",
-      "description": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
-      "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
-      "releaseInfo": "2026-02-27"
-    },
-    {
-      "id": "tt24326462",
-      "type": "movie",
-      "name": "One Mile: Chapter Two",
-      "description": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
-      "poster": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-      "releaseInfo": "2026-02-20"
-    },
-    {
       "id": "tt14507394",
       "type": "movie",
       "name": "Hellfire",
@@ -2161,12 +2113,12 @@
       "releaseInfo": "2026-02-13"
     },
     {
-      "id": "tt39565775",
+      "id": "tt32298494",
       "type": "movie",
-      "name": "Rocky's Cat-astrophe",
-      "description": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
-      "poster": "https://image.tmdb.org/t/p/w500/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
-      "releaseInfo": "2026-01-30"
+      "name": "Late Fame",
+      "description": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria.",
+      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "releaseInfo": "2016-08-26"
     }
   ]
 }
