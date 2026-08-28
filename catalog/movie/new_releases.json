@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
@@ -373,7 +373,7 @@
       "type": "movie",
       "name": "The Death of Robin Hood",
       "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -605,7 +605,7 @@
       "type": "movie",
       "name": "The Odyssey",
       "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uEFU8pd2lVWpnHOUqhQE0WdPKEt.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -889,14 +889,6 @@
       "releaseInfo": "2026-06-12"
     },
     {
-      "id": "tt31434090",
-      "type": "movie",
-      "name": "Badland Rising",
-      "description": "An ordinary bloke embarks on a 19-hour drive home, unaware of being pursued by two unhinged criminals. Once he discovers their motive, his journey turns into a brutal fight for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/u7rRl06V3320RSeBcircpaeePnr.jpg",
-      "releaseInfo": "2026-06-12"
-    },
-    {
       "id": "tt30796568",
       "type": "movie",
       "name": "This Tempting Madness",
@@ -924,7 +916,7 @@
       "id": "tt34915693",
       "type": "movie",
       "name": "Blue Film",
-      "description": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company. Over the course of one night, the two men engage in a war of words and emotions as they wrestle with the impact of a tainted and shared past.",
+      "description": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.",
       "poster": "https://image.tmdb.org/t/p/w500/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
       "releaseInfo": "2026-06-12"
     },
@@ -1569,6 +1561,14 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tt36733913",
+      "type": "movie",
+      "name": "Everyone Is Lying to You for Money",
+      "description": "With any and all things crypto being pushed by celebrities, influencers, and politicians alike, actor-turned-author and director Ben McKenzie decides to investigate. Leveraging his celebrity status to gain access to eager prospectors, McKenzie finds himself unraveling the loosely regulated world of cryptocurrency. This skeptical but evenhanded take on the present and future of what we consider money gives a firsthand account of the chaotic financial frontier of our time.",
+      "poster": "https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tt35820335",
       "type": "movie",
       "name": "Departures",
@@ -2111,14 +2111,6 @@
       "description": "Kate takes a job as a live-in tutor at a secluded Scottish estate for a mother and daughter who’ve escaped domestic abuse. But when she discovers the previous au pair mysteriously disappeared, Kate becomes embroiled in the family’s deadly secrets.",
       "poster": "https://image.tmdb.org/t/p/w500/rsZpzA7Ssu9m3X3fCcEDxjPXFet.jpg",
       "releaseInfo": "2026-03-01"
-    },
-    {
-      "id": "tt39300788",
-      "type": "movie",
-      "name": "Romance at Hope Ranch",
-      "description": "Hope Morgan sets out to begin a new chapter of her life—fulfilling her childhood dream of running a ranch in the picturesque town of Ruidoso, New Mexico and reviving the beloved Giddy Up Gala.",
-      "poster": "https://image.tmdb.org/t/p/w500/arwU50Da8nL7xgPQHAwZjV4aQMo.jpg",
-      "releaseInfo": "2026-02-28"
     },
     {
       "id": "tt14507394",
