@@ -501,7 +501,7 @@
       "type": "movie",
       "name": "Heartstopper Forever",
       "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-      "poster": "https://image.tmdb.org/t/p/w500/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
       "releaseInfo": "2026-07-17"
     },
     {
@@ -1529,6 +1529,14 @@
       "releaseInfo": "2026-04-21"
     },
     {
+      "id": "tt21045208",
+      "type": "movie",
+      "name": "Tow",
+      "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
+      "poster": "https://image.tmdb.org/t/p/w500/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
+      "releaseInfo": "2026-04-21"
+    },
+    {
       "id": "tt41973417",
       "type": "movie",
       "name": "KillTonyMania",
@@ -1727,14 +1735,6 @@
       "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
       "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
       "releaseInfo": "2026-04-12"
-    },
-    {
-      "id": "tt40336496",
-      "type": "movie",
-      "name": "A Little Park Music",
-      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
-      "poster": "https://image.tmdb.org/t/p/w500/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
-      "releaseInfo": "2026-04-11"
     },
     {
       "id": "tt23724682",
