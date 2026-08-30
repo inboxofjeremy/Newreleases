@@ -113,14 +113,6 @@
       "releaseInfo": "2026-08-21"
     },
     {
-      "id": "tt33095251",
-      "type": "movie",
-      "name": "Tony",
-      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
       "id": "tt27844906",
       "type": "movie",
       "name": "Rosebush Pruning",
@@ -135,6 +127,14 @@
       "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
       "poster": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
       "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt43676563",
+      "type": "movie",
+      "name": "Novak Djokovic: The Wolf in Winter",
+      "description": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
+      "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+      "releaseInfo": "2026-08-20"
     },
     {
       "id": "tt32889884",
@@ -769,14 +769,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt33365126",
-      "type": "movie",
-      "name": "Carolina Caroline",
-      "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
       "id": "tt33296751",
       "type": "movie",
       "name": "Tuner",
@@ -975,14 +967,6 @@
       "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
       "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
       "releaseInfo": "2026-06-07"
-    },
-    {
-      "id": "tt32298956",
-      "type": "movie",
-      "name": "The Passenger",
-      "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "releaseInfo": "2026-06-05"
     },
     {
       "id": "tt21109170",
@@ -1743,14 +1727,6 @@
       "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
       "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
       "releaseInfo": "2026-04-12"
-    },
-    {
-      "id": "tt40336496",
-      "type": "movie",
-      "name": "A Little Park Music",
-      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
-      "poster": "https://image.tmdb.org/t/p/w500/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
-      "releaseInfo": "2026-04-11"
     },
     {
       "id": "tt23724682",
