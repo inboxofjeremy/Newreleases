@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt32332915",
+      "type": "movie",
+      "name": "I Want Your Sex",
+      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt35566934",
+      "type": "movie",
+      "name": "One Last Deal",
+      "description": "Jimmy Banks is an old school agent who desperately needs to get his star player one last big payday before Jimmy’s life, and his client’s reputation, comes tumbling down.",
+      "poster": "https://image.tmdb.org/t/p/w500/oCWWd5ux3QTGmnHIjJUdzckAxPp.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
       "id": "tt11561116",
       "type": "movie",
       "name": "The Whisper Man",
@@ -1737,6 +1753,14 @@
       "releaseInfo": "2026-04-12"
     },
     {
+      "id": "tt40336496",
+      "type": "movie",
+      "name": "A Little Park Music",
+      "description": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
+      "poster": "https://image.tmdb.org/t/p/w500/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
+      "releaseInfo": "2026-04-11"
+    },
+    {
       "id": "tt23724682",
       "type": "movie",
       "name": "Outcome",
@@ -2103,14 +2127,6 @@
       "description": "Brothers Cal and Ty, embark on a cross-country trek to meet the father they’ve never known, and the only family they have left. Along with Cal’s long-term girlfriend Ellie and a new guitar named Stevie, the trio are forced to navigate uncertain futures on a 2000-mile journey in a car on its last leg. Along the way they discover what, and who, it’s worth showing up for.",
       "poster": "https://image.tmdb.org/t/p/w500/1E0Iy5CRaxR8AiaGYmuRH2ng4NS.jpg",
       "releaseInfo": "2026-03-03"
-    },
-    {
-      "id": "tt40837826",
-      "type": "movie",
-      "name": "Diabolical: The Epstein Files",
-      "description": "It's the scandal that has shocked Americans and rocked the Trump administration. A legal and political saga that has shattered fundamental beliefs that all are equal in the eyes of the law. What do the Epstein Files reveal?",
-      "poster": "https://image.tmdb.org/t/p/w500/wFXoZsIqEZPpJgdDlJdFFzWplhk.jpg",
-      "releaseInfo": "2026-03-02"
     },
     {
       "id": "tt14507394",
