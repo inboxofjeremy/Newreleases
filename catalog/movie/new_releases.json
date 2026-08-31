@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "Coyote vs. Acme",
       "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
@@ -321,6 +321,14 @@
       "releaseInfo": "2026-08-05"
     },
     {
+      "id": "tt32104007",
+      "type": "movie",
+      "name": "Young Washington",
+      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "releaseInfo": "2026-08-04"
+    },
+    {
       "id": "tt43729889",
       "type": "movie",
       "name": "Storm on Sesame Street",
@@ -389,7 +397,7 @@
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -646,14 +654,6 @@
       "name": "Summer's Last Resort",
       "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
-      "releaseInfo": "2026-07-03"
-    },
-    {
-      "id": "tt32104007",
-      "type": "movie",
-      "name": "Young Washington",
-      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-      "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -973,7 +973,7 @@
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "releaseInfo": "2026-06-09"
     },
     {
