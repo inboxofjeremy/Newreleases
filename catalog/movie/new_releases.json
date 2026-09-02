@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt31189814",
+      "type": "movie",
+      "name": "Fuze",
+      "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "poster": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt31190636",
+      "type": "movie",
+      "name": "Maya & Samar",
+      "description": "In contemporary Athens, two young women from conflicting cultures embark on a brief yet torrid affair that endangers the life of one, while propelling the other to instant online fame.",
+      "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -1993,14 +2009,6 @@
       "releaseInfo": "2026-03-20"
     },
     {
-      "id": "tt15574124",
-      "type": "movie",
-      "name": "Peaky Blinders: The Immortal Man",
-      "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "releaseInfo": "2026-03-20"
-    },
-    {
       "id": "tt40232255",
       "type": "movie",
       "name": "Meal Ticket",
@@ -2111,22 +2119,6 @@
       "description": "A comedy about a failing pub, a divided community and a grieving family whose lives are changed by brewing real ale and entering the Great British Beer Awards.",
       "poster": "https://image.tmdb.org/t/p/w500/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
       "releaseInfo": "2026-03-06"
-    },
-    {
-      "id": "tt34381258",
-      "type": "movie",
-      "name": "Good Boy",
-      "description": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "poster": "https://image.tmdb.org/t/p/w500/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-      "releaseInfo": "2026-03-06"
-    },
-    {
-      "id": "tt34378234",
-      "type": "movie",
-      "name": "Whitetail",
-      "description": "When Jen's old boyfriend Oscar returns to her small town in Ireland, she is forced to face the tragedy that marked them for life.",
-      "poster": "https://image.tmdb.org/t/p/w500/1qatuvU5qaBbJEnQ6emdUHr2Iiq.jpg",
-      "releaseInfo": "2026-03-05"
     },
     {
       "id": "tt14507394",
