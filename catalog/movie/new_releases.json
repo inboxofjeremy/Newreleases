@@ -265,6 +265,14 @@
       "releaseInfo": "2026-08-14"
     },
     {
+      "id": "tt36590417",
+      "type": "movie",
+      "name": "Don't Say Good Luck",
+      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tt6743524",
       "type": "movie",
       "name": "Camp Rock 3",
@@ -445,7 +453,7 @@
       "type": "movie",
       "name": "The Gentleman Thief",
       "description": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -693,7 +701,7 @@
       "type": "movie",
       "name": "Man of War",
       "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-      "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/8N3H6JxSt7v8mR2O3z18abe4Qyr.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -885,7 +893,7 @@
       "type": "movie",
       "name": "Voicemails for Isabelle",
       "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
@@ -1095,6 +1103,14 @@
       "description": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
       "poster": "https://image.tmdb.org/t/p/w500/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg",
       "releaseInfo": "2026-06-04"
+    },
+    {
+      "id": "tt34379307",
+      "type": "movie",
+      "name": "Is God Is",
+      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+      "releaseInfo": "2026-06-02"
     },
     {
       "id": "tt27681354",
@@ -1830,6 +1846,14 @@
       "name": "The Land of Sometimes",
       "description": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
       "poster": "https://image.tmdb.org/t/p/w500/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
+      "id": "tt39538786",
+      "type": "movie",
+      "name": "Sniper: No Nation",
+      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+      "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
