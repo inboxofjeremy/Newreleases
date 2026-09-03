@@ -17,6 +17,14 @@
       "releaseInfo": "2026-09-04"
     },
     {
+      "id": "tt34564059",
+      "type": "movie",
+      "name": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -29,7 +37,7 @@
       "type": "movie",
       "name": "Just Play Dead",
       "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-      "poster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
       "releaseInfo": "2026-09-01"
     },
     {
@@ -245,7 +253,7 @@
       "type": "movie",
       "name": "The Brink of War",
       "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1985,14 +1993,6 @@
       "releaseInfo": "2026-03-24"
     },
     {
-      "id": "tt22005882",
-      "type": "movie",
-      "name": "Youngblood",
-      "description": "Hockey prodigy Dean Youngblood joins the Hamilton Mustangs and has to deal with toxic behavior during his journey to the National Hockey League draft.",
-      "poster": "https://image.tmdb.org/t/p/w500/jEX9tAjzlQG165Uymjv6CrACEmU.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
       "id": "tt39601847",
       "type": "movie",
       "name": "Two for Tee",
@@ -2113,28 +2113,12 @@
       "releaseInfo": "2026-03-08"
     },
     {
-      "id": "tt32569057",
-      "type": "movie",
-      "name": "Mother's Pride",
-      "description": "A comedy about a failing pub, a divided community and a grieving family whose lives are changed by brewing real ale and entering the Great British Beer Awards.",
-      "poster": "https://image.tmdb.org/t/p/w500/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
-      "releaseInfo": "2026-03-06"
-    },
-    {
       "id": "tt14507394",
       "type": "movie",
       "name": "Hellfire",
       "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
       "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
       "releaseInfo": "2026-02-17"
-    },
-    {
-      "id": "tt31988779",
-      "type": "movie",
-      "name": "Sweetness",
-      "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
-      "releaseInfo": "2026-02-13"
     }
   ]
 }
