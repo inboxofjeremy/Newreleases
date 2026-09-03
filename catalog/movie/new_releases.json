@@ -25,6 +25,14 @@
       "releaseInfo": "2026-09-02"
     },
     {
+      "id": "tt43679852",
+      "type": "movie",
+      "name": "LEGO Star Wars: The Mandalorian",
+      "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -254,14 +262,6 @@
       "name": "The Brink of War",
       "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
       "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt36590417",
-      "type": "movie",
-      "name": "Don't Say Good Luck",
-      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1097,14 +1097,6 @@
       "releaseInfo": "2026-06-04"
     },
     {
-      "id": "tt34379307",
-      "type": "movie",
-      "name": "Is God Is",
-      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
       "id": "tt27681354",
       "type": "movie",
       "name": "In the Grey",
@@ -1838,14 +1830,6 @@
       "name": "The Land of Sometimes",
       "description": "Twins Alfie and Elise find a magical Wish Watch on Christmas Eve and are swept by the Wish Collector into the musical Land of Sometimes, where they learn that wishes have consequences.",
       "poster": "https://image.tmdb.org/t/p/w500/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
-      "releaseInfo": "2026-04-07"
-    },
-    {
-      "id": "tt39538786",
-      "type": "movie",
-      "name": "Sniper: No Nation",
-      "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-      "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
       "releaseInfo": "2026-04-07"
     },
     {
