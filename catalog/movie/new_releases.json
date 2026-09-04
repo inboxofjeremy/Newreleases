@@ -49,12 +49,28 @@
       "releaseInfo": "2026-09-02"
     },
     {
+      "id": "tt35670577",
+      "type": "movie",
+      "name": "Bucking Fastard",
+      "description": "Two sisters, Jean and Joan Holbrooke, are so close to each other that they speak in unison, love the same man, and have the same dreams. They even make the same slip of tongue in unison. We cannot see the world as they see it, but we do see how the world reacts to them – through the courts and the press, through those that want to help and those who want to use them, through the eyes of beasts both tame and wild, and even through their own echoes in the core of the earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/6NVZPz2tkFkIYYX1Ji26vesxhR5.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "poster": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
       "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43700441",
+      "type": "movie",
+      "name": "Untold: Raygun: Breaking Badly",
+      "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+      "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "releaseInfo": "2026-09-01"
     },
     {
       "id": "tt36948232",
@@ -145,22 +161,6 @@
       "releaseInfo": "2026-08-25"
     },
     {
-      "id": "tt2012616",
-      "type": "movie",
-      "name": "Motor City",
-      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
-      "releaseInfo": "2026-08-25"
-    },
-    {
-      "id": "tt32333324",
-      "type": "movie",
-      "name": "Batman: Knightfall Part 1: Knightfall",
-      "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
-      "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-      "releaseInfo": "2026-08-25"
-    },
-    {
       "id": "tt43689138",
       "type": "movie",
       "name": "LEGO Disney Princess: Magical Mayhem",
@@ -225,14 +225,6 @@
       "releaseInfo": "2026-08-19"
     },
     {
-      "id": "tt29355505",
-      "type": "movie",
-      "name": "Toy Story 5",
-      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "releaseInfo": "2026-08-18"
-    },
-    {
       "id": "tt35674521",
       "type": "movie",
       "name": "Rose of Nevada",
@@ -254,6 +246,14 @@
       "name": "All Night Wrong",
       "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
       "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt35060353",
+      "type": "movie",
+      "name": "The Wrong Girls",
+      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -281,7 +281,7 @@
       "releaseInfo": "2026-08-14"
     },
     {
-      "id": "tt29356163",
+      "id": "tmdb:1185806",
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
@@ -297,7 +297,7 @@
       "releaseInfo": "2026-08-14"
     },
     {
-      "id": "tt42009731",
+      "id": "tmdb:1695225",
       "type": "movie",
       "name": "Travis Barker: Louder Than Fear",
       "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
@@ -313,43 +313,11 @@
       "releaseInfo": "2026-08-12"
     },
     {
-      "id": "tt38906892",
-      "type": "movie",
-      "name": "Night Nurse",
-      "description": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
-      "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt39316472",
+      "id": "tmdb:1612018",
       "type": "movie",
       "name": "Jackass: Best and Last",
       "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
       "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt32890033",
-      "type": "movie",
-      "name": "Minions & Monsters",
-      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -359,6 +327,14 @@
       "description": "Eager to impress his activist crush, a wealthy New York teenager follows an online connection to Texas, where he's convinced he can stop an act of extreme violence.",
       "poster": "https://image.tmdb.org/t/p/w500/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
       "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt38353630",
+      "type": "movie",
+      "name": "Three Housewives and a Body",
+      "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man.",
+      "poster": "https://image.tmdb.org/t/p/w500/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
+      "releaseInfo": "2026-08-09"
     },
     {
       "id": "tt8820258",
@@ -383,14 +359,6 @@
       "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it.",
       "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
       "releaseInfo": "2026-08-05"
-    },
-    {
-      "id": "tt32104007",
-      "type": "movie",
-      "name": "Young Washington",
-      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-      "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-      "releaseInfo": "2026-08-04"
     },
     {
       "id": "tt43729889",
@@ -433,14 +401,6 @@
       "releaseInfo": "2026-07-31"
     },
     {
-      "id": "tt37675037",
-      "type": "movie",
-      "name": "Maddie's Secret",
-      "description": "Plucky dishwasher Maddie vaults into viral superstardom at a trendy food content company, but beneath her seemingly picture-perfect life, mounting professional pressures threaten to expose a dark secret from her past.",
-      "poster": "https://image.tmdb.org/t/p/w500/vADal7sH7E9xFr4w2k4V3EPSzF6.jpg",
-      "releaseInfo": "2026-07-31"
-    },
-    {
       "id": "tt42839367",
       "type": "movie",
       "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
@@ -457,28 +417,12 @@
       "releaseInfo": "2026-07-28"
     },
     {
-      "id": "tt8814476",
+      "id": "tmdb:1081003",
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "poster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
       "releaseInfo": "2026-07-28"
-    },
-    {
-      "id": "tt32273171",
-      "type": "movie",
-      "name": "The Death of Robin Hood",
-      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "releaseInfo": "2026-07-28"
-    },
-    {
-      "id": "tt18259538",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "releaseInfo": "2026-07-25"
     },
     {
       "id": "tt43683795",
@@ -497,11 +441,11 @@
       "releaseInfo": "2026-07-24"
     },
     {
-      "id": "tt36304003",
+      "id": "tt18259538",
       "type": "movie",
-      "name": "72 HOURS",
-      "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "name": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -518,6 +462,14 @@
       "name": "The Dink",
       "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
       "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "releaseInfo": "2026-07-23"
+    },
+    {
+      "id": "tt2012616",
+      "type": "movie",
+      "name": "Motor City",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
       "releaseInfo": "2026-07-23"
     },
     {
@@ -575,6 +527,14 @@
       "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
       "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
       "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tt36304003",
+      "type": "movie",
+      "name": "72 HOURS",
+      "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "releaseInfo": "2026-07-20"
     },
     {
       "id": "tt28638842",
@@ -641,22 +601,6 @@
       "releaseInfo": "2026-07-10"
     },
     {
-      "id": "tt32377397",
-      "type": "movie",
-      "name": "Mockbuster",
-      "description": "A struggling filmmaker’s opportunity collides with chaos and compromise when Sharknado’s notorious studio, The Asylum, invites him to direct a \"mockbuster.\"",
-      "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
-      "releaseInfo": "2026-07-10"
-    },
-    {
-      "id": "tt35051162",
-      "type": "movie",
-      "name": "The Isolate Thief",
-      "description": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
-      "poster": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "releaseInfo": "2026-07-10"
-    },
-    {
       "id": "tt43616650",
       "type": "movie",
       "name": "Jeff Arcuri: Nice to Meet You",
@@ -665,28 +609,12 @@
       "releaseInfo": "2026-07-07"
     },
     {
-      "id": "tt32432654",
+      "id": "tmdb:1397485",
       "type": "movie",
       "name": "Girls Like Girls",
       "description": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
       "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
       "releaseInfo": "2026-07-07"
-    },
-    {
-      "id": "tt43438551",
-      "type": "movie",
-      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
-      "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
-      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-      "releaseInfo": "2026-07-05"
-    },
-    {
-      "id": "tt43140642",
-      "type": "movie",
-      "name": "Simpsley",
-      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
-      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "releaseInfo": "2026-07-03"
     },
     {
       "id": "tt34584846",
@@ -713,38 +641,6 @@
       "releaseInfo": "2026-07-03"
     },
     {
-      "id": "tt32278481",
-      "type": "movie",
-      "name": "Enola Holmes 3",
-      "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "releaseInfo": "2026-07-01"
-    },
-    {
-      "id": "tt41376508",
-      "type": "movie",
-      "name": "Louis C.K.: Ridiculous",
-      "description": "From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.",
-      "poster": "https://image.tmdb.org/t/p/w500/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tt32321803",
-      "type": "movie",
-      "name": "The Get Out",
-      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tt33219707",
-      "type": "movie",
-      "name": "40 Dates and 40 Nights",
-      "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/eApzPVSmVzRs8GkJX4FSquxi7RN.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
       "id": "tt41702551",
       "type": "movie",
       "name": "Bang My Box: The Robin Byrd Story",
@@ -769,7 +665,7 @@
       "releaseInfo": "2026-06-28"
     },
     {
-      "id": "tt42089279",
+      "id": "tmdb:1720282",
       "type": "movie",
       "name": "WWE Night of Champions 2026",
       "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
@@ -777,23 +673,7 @@
       "releaseInfo": "2026-06-27"
     },
     {
-      "id": "tt19035928",
-      "type": "movie",
-      "name": "Lucky Strike",
-      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tt34888871",
-      "type": "movie",
-      "name": "Little Brother",
-      "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
-      "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tt15532464",
+      "id": "tmdb:880067",
       "type": "movie",
       "name": "Strung",
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
@@ -833,7 +713,7 @@
       "releaseInfo": "2026-06-24"
     },
     {
-      "id": "tt42898211",
+      "id": "tmdb:1716365",
       "type": "movie",
       "name": "Ryan Hamilton: This Just Hit Me",
       "description": "Leave it to Ryan Hamilton to get hit by a bus and have the last laugh — whether it's falling for his anesthesiologist or a dispensary trip with his mom.",
@@ -881,46 +761,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt10375624",
-      "type": "movie",
-      "name": "Voicemails for Isabelle",
-      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "poster": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt43596160",
-      "type": "movie",
-      "name": "7 Piano Sketches",
-      "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
-      "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42941113",
-      "type": "movie",
-      "name": "Land of Wolves",
-      "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42353154",
-      "type": "movie",
-      "name": "Stepfather",
-      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
-      "poster": "https://image.tmdb.org/t/p/w500/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt35309713",
-      "type": "movie",
-      "name": "Citizen Vigilante",
-      "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-      "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
       "id": "tt37899019",
       "type": "movie",
       "name": "Never Change!",
@@ -934,14 +774,6 @@
       "name": "Extreme Makeover: Homer Edition",
       "description": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
       "poster": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-      "releaseInfo": "2026-06-17"
-    },
-    {
-      "id": "tt36958376",
-      "type": "movie",
-      "name": "Your Fault: London",
-      "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
       "releaseInfo": "2026-06-17"
     },
     {
@@ -1022,14 +854,6 @@
       "name": "Mortal Kombat II",
       "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "releaseInfo": "2026-06-09"
-    },
-    {
-      "id": "tt11378946",
-      "type": "movie",
-      "name": "Michael",
-      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "releaseInfo": "2026-06-09"
     },
     {
@@ -1174,14 +998,6 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt13570066",
-      "type": "movie",
-      "name": "Desert Warrior",
-      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1481,6 +1297,22 @@
       "releaseInfo": "2026-05-02"
     },
     {
+      "id": "tt35887288",
+      "type": "movie",
+      "name": "Casa Grande",
+      "description": "A prodigal daughter rejoins her family at their farm during a difficult time, as her ailing father faces both a terminal diagnosis and mounting pressure from competitors. Old wounds resurface as they grapple with what lies ahead.",
+      "poster": "https://image.tmdb.org/t/p/w500/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
+      "releaseInfo": "2026-05-01"
+    },
+    {
+      "id": "tt34984613",
+      "type": "movie",
+      "name": "You, Always",
+      "description": "Ethan is a devoted best friend who soon realises he has long been in love with Dr Jen Bell. However, Jen’s world is turned upside down by the arrival of a charismatic author named Patrick.",
+      "poster": "https://image.tmdb.org/t/p/w500/qpnJSPZxdr307Dn7dvKdEYMjbRG.jpg",
+      "releaseInfo": "2026-05-01"
+    },
+    {
       "id": "tt29552248",
       "type": "movie",
       "name": "Swapped",
@@ -1559,14 +1391,6 @@
       "description": "During a long and lonely drive, Scott Corbyn when he finds an isolated hotel to spend the night  and meets the mysterious Bethany Belline",
       "poster": "https://image.tmdb.org/t/p/w500/nRH0WAkLAzIocTeOeiFvlFVYDHq.jpg",
       "releaseInfo": "2026-04-23"
-    },
-    {
-      "id": "tt40548010",
-      "type": "movie",
-      "name": "Finding Satoshi",
-      "description": "At the center of Bitcoin lies the greatest unsolved mystery of the digital age. Who created it, and who is Satoshi Nakamoto? Finding Satoshi presents the conclusion reached after a four-year, evidence-based investigation, drawing on original reporting and rare access to key figures in crypto to uncover the human ideas, motivations, and philosophy behind the code that reshaped global finance.",
-      "poster": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
-      "releaseInfo": "2026-04-22"
     },
     {
       "id": "tt40224422",
@@ -2103,6 +1927,14 @@
       "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
       "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
       "releaseInfo": "2026-02-17"
+    },
+    {
+      "id": "tt36934619",
+      "type": "movie",
+      "name": "How to Lose a Popularity Contest",
+      "description": "A rebellious student and a perfectionist overachiever form an unlikely alliance in their race for student body president, discovering unexpected feelings along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
+      "releaseInfo": "2026-01-16"
     }
   ]
 }
