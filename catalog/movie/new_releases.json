@@ -17,6 +17,14 @@
       "releaseInfo": "2026-09-04"
     },
     {
+      "id": "tt37752275",
+      "type": "movie",
+      "name": "Clash of the Thundermans",
+      "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+      "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "releaseInfo": "2026-09-03"
+    },
+    {
       "id": "tt28014327",
       "type": "movie",
       "name": "Mayday",
@@ -246,14 +254,6 @@
       "name": "All Night Wrong",
       "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
       "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt35060353",
-      "type": "movie",
-      "name": "The Wrong Girls",
-      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -741,7 +741,7 @@
       "type": "movie",
       "name": "40 Dates and 40 Nights",
       "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eApzPVSmVzRs8GkJX4FSquxi7RN.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1479,22 +1479,6 @@
       "description": "Kentucky Roses follows Sadie, a Churchill Downs greenhouse worker dreaming of designing the iconic Kentucky Derby rose garland, and Ash, the son of the track's CEO who is trying to hide his identity to prove his own worth.** When a storm damages the venue two weeks before the big race, the pair must team up to repair the iconic Twin Spires and save the traditional rose blanket. Along the way, they discover a 1932 connection between their families whose romance was torn apart by class differences, forcing them to navigate past history to find their own future together.",
       "poster": "https://image.tmdb.org/t/p/w500/2Et03jKQ7fhQvQhA2Znkk1kVctY.jpg",
       "releaseInfo": "2026-05-02"
-    },
-    {
-      "id": "tt35887288",
-      "type": "movie",
-      "name": "Casa Grande",
-      "description": "A prodigal daughter rejoins her family at their farm during a difficult time, as her ailing father faces both a terminal diagnosis and mounting pressure from competitors. Old wounds resurface as they grapple with what lies ahead.",
-      "poster": "https://image.tmdb.org/t/p/w500/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
-      "releaseInfo": "2026-05-01"
-    },
-    {
-      "id": "tt34984613",
-      "type": "movie",
-      "name": "You, Always",
-      "description": "Ethan is a devoted best friend who soon realises he has long been in love with Dr Jen Bell. However, Jen’s world is turned upside down by the arrival of a charismatic author named Patrick.",
-      "poster": "https://image.tmdb.org/t/p/w500/qpnJSPZxdr307Dn7dvKdEYMjbRG.jpg",
-      "releaseInfo": "2026-05-01"
     },
     {
       "id": "tt29552248",
