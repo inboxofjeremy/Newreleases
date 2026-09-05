@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt34379051",
+      "type": "movie",
+      "name": "By Any Means",
+      "description": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt31189814",
       "type": "movie",
       "name": "Fuze",
@@ -245,7 +253,7 @@
       "type": "movie",
       "name": "Toy Story 5",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9VWplgfRcYkUao9QGQXUP3rWQK7.jpg",
       "releaseInfo": "2026-08-18"
     },
     {
@@ -2135,14 +2143,6 @@
       "description": "Stroup dives into his experience being a '90s kid in rural Alabama and everything that came along with it.",
       "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
       "releaseInfo": "2026-03-10"
-    },
-    {
-      "id": "tt40341984",
-      "type": "movie",
-      "name": "Harry Styles. One Night in Manchester.",
-      "description": "In a special one off concert in Manchester, recorded on the evening of March 6, Harry Styles played his new album, ‘Kiss All The Time. Disco, Occasionally.' for the very first time.",
-      "poster": "https://image.tmdb.org/t/p/w500/AigpusxLychNPHCdB8jRVTEQ1kS.jpg",
-      "releaseInfo": "2026-03-08"
     },
     {
       "id": "tt14507394",
