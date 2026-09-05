@@ -329,6 +329,14 @@
       "releaseInfo": "2026-08-14"
     },
     {
+      "id": "tt42009731",
+      "type": "movie",
+      "name": "Travis Barker: Louder Than Fear",
+      "description": "After surviving a devastating plane crash that nearly took his life, legendary and electrifying drummer Travis Barker embarks on a raw and redemptive journey in this intimate portrait of the man behind the tattoos who transformed pain into power.",
+      "poster": "https://image.tmdb.org/t/p/w500/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
+      "releaseInfo": "2026-08-13"
+    },
+    {
       "id": "tt32212403",
       "type": "movie",
       "name": "Sunny Dancer",
@@ -337,11 +345,19 @@
       "releaseInfo": "2026-08-12"
     },
     {
-      "id": "tmdb:1596260",
+      "id": "tt38906892",
       "type": "movie",
       "name": "Night Nurse",
       "description": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
       "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt36834010",
+      "type": "movie",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -589,7 +605,7 @@
       "type": "movie",
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -609,7 +625,7 @@
       "releaseInfo": "2026-07-17"
     },
     {
-      "id": "tmdb:1318621",
+      "id": "tt34477910",
       "type": "movie",
       "name": "Descendants: Wicked Wonderland",
       "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
@@ -665,6 +681,14 @@
       "releaseInfo": "2026-07-10"
     },
     {
+      "id": "tt32377397",
+      "type": "movie",
+      "name": "Mockbuster",
+      "description": "A struggling filmmaker’s opportunity collides with chaos and compromise when Sharknado’s notorious studio, The Asylum, invites him to direct a \"mockbuster.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
       "id": "tt35051162",
       "type": "movie",
       "name": "The Isolate Thief",
@@ -673,12 +697,12 @@
       "releaseInfo": "2026-07-10"
     },
     {
-      "id": "tt36834010",
+      "id": "tt43616650",
       "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "releaseInfo": "2026-07-09"
+      "name": "Jeff Arcuri: Nice to Meet You",
+      "description": "Jeff Arcuri's rapid-fire wit is nonstop as he balances outrageous jokes with heartfelt reflections on making his wife laugh during her cancer journey.",
+      "poster": "https://image.tmdb.org/t/p/w500/pn5pu5LWufLymW6Szq6Nx0Tf93f.jpg",
+      "releaseInfo": "2026-07-07"
     },
     {
       "id": "tt32432654",
@@ -697,7 +721,15 @@
       "releaseInfo": "2026-07-05"
     },
     {
-      "id": "tmdb:1705729",
+      "id": "tt43140642",
+      "type": "movie",
+      "name": "Simpsley",
+      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tt34584846",
       "type": "movie",
       "name": "Man of War",
       "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
@@ -705,7 +737,7 @@
       "releaseInfo": "2026-07-03"
     },
     {
-      "id": "tmdb:1698863",
+      "id": "tt41605854",
       "type": "movie",
       "name": "The Odyssey",
       "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
@@ -2047,6 +2079,14 @@
       "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
       "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
+    },
+    {
+      "id": "tt40542910",
+      "type": "movie",
+      "name": "Inside the Rage Machine",
+      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
+      "releaseInfo": "2026-03-16"
     },
     {
       "id": "tt39345599",
