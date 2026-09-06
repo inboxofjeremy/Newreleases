@@ -33,6 +33,14 @@
       "releaseInfo": "2026-09-04"
     },
     {
+      "id": "tt32268691",
+      "type": "movie",
+      "name": "Onslaught",
+      "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt31189814",
       "type": "movie",
       "name": "Fuze",
@@ -61,7 +69,7 @@
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster": "https://image.tmdb.org/t/p/w500/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "releaseInfo": "2026-09-03"
     },
     {
@@ -70,6 +78,14 @@
       "name": "The Runner",
       "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt44322266",
+      "type": "movie",
+      "name": "Turning Point: Generation 9/11",
+      "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
@@ -131,7 +147,7 @@
     {
       "id": "tt38066519",
       "type": "movie",
-      "name": "AEW All In 2026: London",
+      "name": "AEW All In: London",
       "description": "All In 2026, also promoted as All In London, was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on August 30, 2026, at Wembley Stadium in London, England. The event featured AEW Men's and Women's World Championship matches earned by the winners of the 2026 Owen Hart Foundation Tournament.",
       "poster": "https://image.tmdb.org/t/p/w500/y0GWktbAm0KZolM1Yv3H1crDWIw.jpg",
       "releaseInfo": "2026-08-30"
@@ -271,6 +287,22 @@
       "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
       "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
       "releaseInfo": "2026-08-19"
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "releaseInfo": "2026-08-18"
+    },
+    {
+      "id": "tt35674521",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
+      "releaseInfo": "2026-08-18"
     },
     {
       "id": "tt35636239",
@@ -457,14 +489,6 @@
       "releaseInfo": "2026-08-02"
     },
     {
-      "id": "tt43732885",
-      "type": "movie",
-      "name": "WWE SummerSlam 2026: Saturday",
-      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
-      "poster": "https://image.tmdb.org/t/p/w500/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
-      "releaseInfo": "2026-08-01"
-    },
-    {
       "id": "tt39163015",
       "type": "movie",
       "name": "Time and Water",
@@ -649,6 +673,22 @@
       "releaseInfo": "2026-07-17"
     },
     {
+      "id": "tt36619926",
+      "type": "movie",
+      "name": "Heartstopper Forever",
+      "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+      "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "releaseInfo": "2026-07-17"
+    },
+    {
+      "id": "tt43677301",
+      "type": "movie",
+      "name": "The Odyssey: The Making of an Epic",
+      "description": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "releaseInfo": "2026-07-14"
+    },
+    {
       "id": "tt38128726",
       "type": "movie",
       "name": "Stop! That! Train!",
@@ -815,14 +855,6 @@
       "description": "The 2026 Forbidden Door was a professional wrestling pay-per-view (PPV) event and supershow co-produced by the American promotion All Elite Wrestling (AEW), Mexican promotion Consejo Mundial de Lucha Libre (CMLL) and the Japanese promotions New Japan Pro-Wrestling (NJPW) and World Wonder Ring Stardom (Stardom). It was the fifth annual Forbidden Door event and took place on June 28, 2026 at SAP Center at San Jose in San Jose, California, USA.",
       "poster": "https://image.tmdb.org/t/p/w500/wpLMH4rzHzeal7aWxyn9DM2k6mj.jpg",
       "releaseInfo": "2026-06-28"
-    },
-    {
-      "id": "tt42089279",
-      "type": "movie",
-      "name": "WWE Night of Champions 2026",
-      "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
-      "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
-      "releaseInfo": "2026-06-27"
     },
     {
       "id": "tt19035928",
@@ -993,6 +1025,14 @@
       "releaseInfo": "2026-06-17"
     },
     {
+      "id": "tt36958376",
+      "type": "movie",
+      "name": "Your Fault: London",
+      "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+      "releaseInfo": "2026-06-17"
+    },
+    {
       "id": "tt32547691",
       "type": "movie",
       "name": "Pressure",
@@ -1102,14 +1142,6 @@
       "name": "The Passenger",
       "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
       "poster": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
-      "id": "tt21109170",
-      "type": "movie",
-      "name": "Signal One",
-      "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
-      "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -1601,6 +1633,14 @@
       "releaseInfo": "2026-04-24"
     },
     {
+      "id": "tt31689648",
+      "type": "movie",
+      "name": "Dirty Hands",
+      "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin’s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they’re going to survive until morning.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
       "id": "tt16431404",
       "type": "movie",
       "name": "Apex",
@@ -1835,7 +1875,7 @@
     {
       "id": "tt39196126",
       "type": "movie",
-      "name": "AEW Dynasty 2026",
+      "name": "AEW Dynasty",
       "description": "Dynasty 2026 was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on April 12, 2026, at Rogers Arena in Vancouver, British Columbia, Canada. The show was headlined by MJF (c) vs. Kenny Omega for the AEW World Championship, dubbed \"The Devil vs. The God of Pro Wrestling.\"",
       "poster": "https://image.tmdb.org/t/p/w500/675fEoxLTqAARuKH7FYxJK9iNlP.jpg",
       "releaseInfo": "2026-04-12"
@@ -2047,14 +2087,6 @@
       "description": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
       "poster": "https://image.tmdb.org/t/p/w500/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
       "releaseInfo": "2026-03-20"
-    },
-    {
-      "id": "tt40232255",
-      "type": "movie",
-      "name": "Meal Ticket",
-      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
-      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
-      "releaseInfo": "2026-03-19"
     },
     {
       "id": "tt40145204",
