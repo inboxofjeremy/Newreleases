@@ -1,6 +1,30 @@
 {
   "metas": [
     {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Mutiny",
+      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "name": "One Night Only",
+      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "poster": "https://image.tmdb.org/t/p/w500/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
       "id": "tt34379051",
       "type": "movie",
       "name": "By Any Means",
@@ -37,7 +61,7 @@
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
       "releaseInfo": "2026-09-03"
     },
     {
@@ -695,6 +719,14 @@
       "description": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
       "poster": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
       "releaseInfo": "2026-07-10"
+    },
+    {
+      "id": "tt42669039",
+      "type": "movie",
+      "name": "Summer Sparks",
+      "description": "Follows a single father and a single mom at Camp Evergreen during a summer cook-off, where cooking mishaps and heartfelt moments lead to an unexpected romantic connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/azL8xUAXTnW700ffzchkKmUCvp8.jpg",
+      "releaseInfo": "2026-07-07"
     },
     {
       "id": "tt43616650",
