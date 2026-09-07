@@ -28,7 +28,7 @@
       "id": "tt34379051",
       "type": "movie",
       "name": "By Any Means",
-      "description": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.",
+      "description": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
       "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
       "releaseInfo": "2026-09-04"
     },
@@ -69,7 +69,7 @@
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
       "releaseInfo": "2026-09-03"
     },
     {
@@ -489,6 +489,14 @@
       "releaseInfo": "2026-08-02"
     },
     {
+      "id": "tt43732885",
+      "type": "movie",
+      "name": "WWE SummerSlam 2026: Saturday",
+      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+      "poster": "https://image.tmdb.org/t/p/w500/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
+      "releaseInfo": "2026-08-01"
+    },
+    {
       "id": "tt39163015",
       "type": "movie",
       "name": "Time and Water",
@@ -551,6 +559,14 @@
       "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "releaseInfo": "2026-07-28"
+    },
+    {
+      "id": "tt43708434",
+      "type": "movie",
+      "name": "Instadocs: The Prediction Games",
+      "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
+      "poster": "https://image.tmdb.org/t/p/w500/i7zOhb65F4kxCUuqY1uYfrIpFej.jpg",
+      "releaseInfo": "2026-07-26"
     },
     {
       "id": "tt18259538",
@@ -857,6 +873,14 @@
       "releaseInfo": "2026-06-28"
     },
     {
+      "id": "tt42089279",
+      "type": "movie",
+      "name": "WWE Night of Champions 2026",
+      "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
+      "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
+      "releaseInfo": "2026-06-27"
+    },
+    {
       "id": "tt19035928",
       "type": "movie",
       "name": "Lucky Strike",
@@ -1142,6 +1166,14 @@
       "name": "The Passenger",
       "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
       "poster": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tt21109170",
+      "type": "movie",
+      "name": "Signal One",
+      "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+      "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -2089,6 +2121,14 @@
       "releaseInfo": "2026-03-20"
     },
     {
+      "id": "tt40232255",
+      "type": "movie",
+      "name": "Meal Ticket",
+      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
+      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
+      "releaseInfo": "2026-03-19"
+    },
+    {
       "id": "tt40145204",
       "type": "movie",
       "name": "Mark Normand: None Too Pleased",
@@ -2159,22 +2199,6 @@
       "description": "Centuries after the Great Flood, riders compete in death races on the water to secure shelter for their people behind the walls of Argos. Rebellious storm riders Neb and Ana look to uncover hidden truths by breaking through the storm.",
       "poster": "https://image.tmdb.org/t/p/w500/uTgR40KTd72HEMbjma7JvIfVxUV.jpg",
       "releaseInfo": "2026-03-13"
-    },
-    {
-      "id": "tt39792948",
-      "type": "movie",
-      "name": "Louis Theroux: Inside the Manosphere",
-      "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
-      "poster": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
-      "releaseInfo": "2026-03-11"
-    },
-    {
-      "id": "tt40205709",
-      "type": "movie",
-      "name": "Derrick Stroup: Nostalgic",
-      "description": "Stroup dives into his experience being a '90s kid in rural Alabama and everything that came along with it.",
-      "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
-      "releaseInfo": "2026-03-10"
     },
     {
       "id": "tt14507394",
