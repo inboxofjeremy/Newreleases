@@ -137,6 +137,14 @@
       "releaseInfo": "2026-09-01"
     },
     {
+      "id": "tt35060353",
+      "type": "movie",
+      "name": "The Wrong Girls",
+      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
       "id": "tt32332915",
       "type": "movie",
       "name": "I Want Your Sex",
@@ -241,6 +249,14 @@
       "releaseInfo": "2026-08-21"
     },
     {
+      "id": "tt33305867",
+      "type": "movie",
+      "name": "Spa Weekend",
+      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
@@ -305,6 +321,14 @@
       "releaseInfo": "2026-08-18"
     },
     {
+      "id": "tt39149951",
+      "type": "movie",
+      "name": "American Doctor",
+      "description": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth.",
+      "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
       "id": "tt35636239",
       "type": "movie",
       "name": "Lady",
@@ -318,14 +342,6 @@
       "name": "All Night Wrong",
       "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
       "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt35060353",
-      "type": "movie",
-      "name": "The Wrong Girls",
-      "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1921,6 +1937,14 @@
       "releaseInfo": "2026-04-11"
     },
     {
+      "id": "tt29218808",
+      "type": "movie",
+      "name": "Infiltrate",
+      "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+      "releaseInfo": "2026-04-10"
+    },
+    {
       "id": "tt23724682",
       "type": "movie",
       "name": "Outcome",
@@ -2031,6 +2055,14 @@
       "description": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
       "poster": "https://image.tmdb.org/t/p/w500/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
       "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tt41103545",
+      "type": "movie",
+      "name": "Chernobyl: 48 Hours To Escape",
+      "description": "Witnesses, survivors and front-line heroes recall the first days of the Chernobyl disaster of April 1986. Featuring rare archive footage of the world's worst ever nuclear accident.",
+      "poster": "https://image.tmdb.org/t/p/w500/xJbD8e19ejw3ymNVuzT06cGKY81.jpg",
+      "releaseInfo": "2026-03-28"
     },
     {
       "id": "tt39601861",
