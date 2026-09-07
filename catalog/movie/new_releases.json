@@ -25,6 +25,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt21452628",
+      "type": "movie",
+      "name": "The Girl in the River",
+      "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
+      "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt34379051",
       "type": "movie",
       "name": "By Any Means",
@@ -230,14 +238,6 @@
       "name": "LEGO Disney Princess: Magical Mayhem",
       "description": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
       "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
-      "id": "tt33305867",
-      "type": "movie",
-      "name": "Spa Weekend",
-      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
