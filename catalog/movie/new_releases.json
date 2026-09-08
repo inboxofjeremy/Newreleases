@@ -41,14 +41,6 @@
       "releaseInfo": "2026-09-04"
     },
     {
-      "id": "tt32268691",
-      "type": "movie",
-      "name": "Onslaught",
-      "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "releaseInfo": "2026-09-04"
-    },
-    {
       "id": "tt31189814",
       "type": "movie",
       "name": "Fuze",
@@ -142,6 +134,14 @@
       "name": "The Wrong Girls",
       "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt33070884",
+      "type": "movie",
+      "name": "The Brink of War",
+      "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
       "releaseInfo": "2026-09-01"
     },
     {
@@ -342,14 +342,6 @@
       "name": "All Night Wrong",
       "description": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
       "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt33070884",
-      "type": "movie",
-      "name": "The Brink of War",
-      "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1902,14 +1894,6 @@
       "name": "#SKYKING",
       "description": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
-      "id": "tt33714084",
-      "type": "movie",
-      "name": "Reminders of Him",
-      "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
