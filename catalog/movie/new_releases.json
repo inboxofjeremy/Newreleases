@@ -37,7 +37,15 @@
       "type": "movie",
       "name": "By Any Means",
       "description": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/33wobiMyK5L99htHYjlZ1YAeK2F.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt31189814",
+      "type": "movie",
+      "name": "Fuze",
+      "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "poster": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -101,7 +109,7 @@
       "type": "movie",
       "name": "Fall 2: Deadpoint",
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
@@ -295,6 +303,14 @@
       "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
       "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
       "releaseInfo": "2026-08-19"
+    },
+    {
+      "id": "tt43698006",
+      "type": "movie",
+      "name": "Kelsey Cook: Happy Hour",
+      "description": "In this candid and clever stand-up special, Kelsey Cook explores \"hangxiety,\" relives a plane bathroom nightmare and breaks down dating a literal Chad.",
+      "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+      "releaseInfo": "2026-08-18"
     },
     {
       "id": "tt29355505",
@@ -615,6 +631,22 @@
       "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
       "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
       "releaseInfo": "2026-07-23"
+    },
+    {
+      "id": "tt43660866",
+      "type": "movie",
+      "name": "My Grandfather Charles Manson",
+      "description": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy?",
+      "poster": "https://image.tmdb.org/t/p/w500/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
+      "id": "tt43619305",
+      "type": "movie",
+      "name": "A Toxic Love Story",
+      "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+      "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "releaseInfo": "2026-07-22"
     },
     {
       "id": "tt0427340",
@@ -1201,6 +1233,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tt27681354",
+      "type": "movie",
+      "name": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tt33712666",
       "type": "movie",
       "name": "Erupcja",
@@ -1417,6 +1457,14 @@
       "releaseInfo": "2026-05-14"
     },
     {
+      "id": "tt41777258",
+      "type": "movie",
+      "name": "Jamie Vardy",
+      "description": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tt36042156",
       "type": "movie",
       "name": "The Punisher: One Last Kill",
@@ -1526,6 +1574,14 @@
       "name": "Gary",
       "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlight moments of humor, small-town culture and the unpredictable nature of work travel. Their experience offers new perspectives on their friendship.",
       "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+      "releaseInfo": "2026-05-05"
+    },
+    {
+      "id": "tt39847629",
+      "type": "movie",
+      "name": "Lorne",
+      "description": "An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.",
+      "poster": "https://image.tmdb.org/t/p/w500/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -1702,6 +1758,14 @@
       "name": "Paul Smith: Pablo Live",
       "description": "From one of the UK’s most viral stand-up comedians, in his debut special, “Paul Smith: Pablo Live” is the show you’ve all been waiting for. Filmed live at the 3Olympia Theatre in Dublin, it’s packed full of Smith’s signature, unflinching, laugh out loud comedy. Featuring a mix of his trademark audience roasting, razor-sharp wit and hilarious true stories of his everyday life, from spending money in the most irresponsible way possible, why boys are better than girls and raising kids without leading by example, this is the full, unfiltered Paul Smith experience, and you won't want to miss a minute of it.",
       "poster": "https://image.tmdb.org/t/p/w500/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt36733913",
+      "type": "movie",
+      "name": "Everyone Is Lying to You for Money",
+      "description": "With any and all things crypto being pushed by celebrities, influencers, and politicians alike, actor-turned-author and director Ben McKenzie decides to investigate. Leveraging his celebrity status to gain access to eager prospectors, McKenzie finds himself unraveling the loosely regulated world of cryptocurrency. This skeptical but evenhanded take on the present and future of what we consider money gives a firsthand account of the chaotic financial frontier of our time.",
+      "poster": "https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -2063,6 +2127,14 @@
       "description": "When an unemployed reporter is hypnotized as part of a past life regression event, he wakes not with memories of life as royalty or some other glamorous person, but instead finds himself haunted by the memories of a serial killer.",
       "poster": "https://image.tmdb.org/t/p/w500/tiLqp9ML5lTpmERlRj16jwMfuFL.jpg",
       "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tt39601847",
+      "type": "movie",
+      "name": "Two for Tee",
+      "description": "Tee is a Chinese American pottery artist who meets new community center handyman Will. As she learns about her family's traditions through art, can she and Will save the center from closure?",
+      "poster": "https://image.tmdb.org/t/p/w500/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg",
+      "releaseInfo": "2026-03-21"
     },
     {
       "id": "tt36971084",
