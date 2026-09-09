@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-      "poster": "https://image.tmdb.org/t/p/w500/5HkrK2U1n1cQMymG7sIJ2XbEZPi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -705,6 +705,14 @@
       "releaseInfo": "2026-07-21"
     },
     {
+      "id": "tt27666105",
+      "type": "movie",
+      "name": "Splash City",
+      "description": "Two brothers on diverging paths struggle to survive amidst the pressures of their community.",
+      "poster": "https://image.tmdb.org/t/p/w500/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
+      "releaseInfo": "2026-07-20"
+    },
+    {
       "id": "tt28638842",
       "type": "movie",
       "name": "Borderline",
@@ -807,14 +815,6 @@
       "description": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
       "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
       "releaseInfo": "2026-07-07"
-    },
-    {
-      "id": "tt43438551",
-      "type": "movie",
-      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
-      "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
-      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-      "releaseInfo": "2026-07-05"
     },
     {
       "id": "tt43140642",
@@ -1326,14 +1326,6 @@
       "name": "Desert Warrior",
       "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
       "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt34685692",
-      "type": "movie",
-      "name": "Over Your Dead Body",
-      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1871,14 +1863,6 @@
       "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
       "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tt40224401",
-      "type": "movie",
-      "name": "Untold: Jail Blazers",
-      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
-      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tt36052167",
