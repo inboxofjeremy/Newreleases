@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Practical Magic 2",
       "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "releaseInfo": "2026-09-11"
     },
     {
@@ -61,7 +61,7 @@
       "type": "movie",
       "name": "By Any Means",
       "description": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/33wobiMyK5L99htHYjlZ1YAeK2F.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -217,14 +217,6 @@
       "releaseInfo": "2026-08-28"
     },
     {
-      "id": "tt32499466",
-      "type": "movie",
-      "name": "Finding Emily",
-      "description": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
-      "releaseInfo": "2026-08-28"
-    },
-    {
       "id": "tt43141030",
       "type": "movie",
       "name": "Yellow Mirror",
@@ -348,8 +340,8 @@
       "id": "tt35674521",
       "type": "movie",
       "name": "Rose of Nevada",
-      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
+      "description": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
       "releaseInfo": "2026-08-18"
     },
     {
@@ -817,6 +809,14 @@
       "releaseInfo": "2026-07-07"
     },
     {
+      "id": "tt43438551",
+      "type": "movie",
+      "name": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "description": "In Mexico’s Pacific waters, Bertie Gregory goes in search of one of the ocean’s most iconic predators: the hammerhead shark. Once abundant in these seas, hammerhead numbers have plummeted, making sightings increasingly rare. Bertie investigates what’s driving the hammerhead decline, and how protected waters offer hope for the future. His journey culminates in a rare and unforgettable encounter that shines a light on the future of one of the world’s most famous sharks.",
+      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "releaseInfo": "2026-07-05"
+    },
+    {
       "id": "tt43140642",
       "type": "movie",
       "name": "Simpsley",
@@ -988,7 +988,7 @@
       "id": "tt33296751",
       "type": "movie",
       "name": "Tuner",
-      "description": "A talented piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
@@ -1133,7 +1133,7 @@
       "type": "movie",
       "name": "Maternal Instinct",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
@@ -1326,6 +1326,14 @@
       "name": "Desert Warrior",
       "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
       "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tt34685692",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "poster": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -1863,6 +1871,14 @@
       "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
       "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
+    },
+    {
+      "id": "tt40224401",
+      "type": "movie",
+      "name": "Untold: Jail Blazers",
+      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tt36052167",
