@@ -17,6 +17,22 @@
       "releaseInfo": "2026-09-11"
     },
     {
+      "id": "tt36152310",
+      "type": "movie",
+      "name": "Oasis: Don't Look Back in Anger",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "releaseInfo": "2026-09-09"
+    },
+    {
+      "id": "tt38061210",
+      "type": "movie",
+      "name": "Why Did I Get Married Again?",
+      "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+      "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "releaseInfo": "2026-09-09"
+    },
+    {
       "id": "tt43700444",
       "type": "movie",
       "name": "Untold Mr. T: I Pity the Fool",
@@ -46,14 +62,6 @@
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
       "poster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-      "releaseInfo": "2026-09-08"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -198,14 +206,6 @@
       "name": "The Whisper Man",
       "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
       "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "releaseInfo": "2026-08-28"
-    },
-    {
-      "id": "tt21285562",
-      "type": "movie",
-      "name": "The Dog Stars",
-      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
@@ -593,6 +593,14 @@
       "releaseInfo": "2026-07-26"
     },
     {
+      "id": "tt18259538",
+      "type": "movie",
+      "name": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "releaseInfo": "2026-07-25"
+    },
+    {
       "id": "tt43683795",
       "type": "movie",
       "name": "Euphoria: A Look Back",
@@ -623,6 +631,14 @@
       "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground.",
       "poster": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
       "releaseInfo": "2026-07-24"
+    },
+    {
+      "id": "tt33499146",
+      "type": "movie",
+      "name": "The Dink",
+      "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "releaseInfo": "2026-07-23"
     },
     {
       "id": "tt43660866",
@@ -937,6 +953,14 @@
       "releaseInfo": "2026-06-26"
     },
     {
+      "id": "tt1333644",
+      "type": "movie",
+      "name": "In the Hand of Dante",
+      "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
+      "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+      "releaseInfo": "2026-06-24"
+    },
+    {
       "id": "tt32565993",
       "type": "movie",
       "name": "The Sheep Detectives",
@@ -1105,6 +1129,14 @@
       "releaseInfo": "2026-06-12"
     },
     {
+      "id": "tt42863533",
+      "type": "movie",
+      "name": "Maternal Instinct",
+      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
+      "releaseInfo": "2026-06-12"
+    },
+    {
       "id": "tt32275326",
       "type": "movie",
       "name": "Find Your Friends",
@@ -1239,14 +1271,6 @@
       "description": "",
       "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
       "releaseInfo": "2026-05-31"
-    },
-    {
-      "id": "tt43122943",
-      "type": "movie",
-      "name": "Instadocs: Alex Murdaugh, Unconvicted",
-      "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
-      "poster": "https://image.tmdb.org/t/p/w500/3hhrFvWvcH6k11j7ZXS2c749Ywp.jpg",
-      "releaseInfo": "2026-05-30"
     },
     {
       "id": "tt30343126",
