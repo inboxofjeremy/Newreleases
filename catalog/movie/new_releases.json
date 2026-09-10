@@ -25,6 +25,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt14119302",
+      "type": "movie",
+      "name": "Hot Spot",
+      "description": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/sJEhuRJmGGuhzSHAHjgWiZGPIv.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
       "id": "tt32338669",
       "type": "movie",
       "name": "Mutiny",
@@ -585,14 +593,6 @@
       "releaseInfo": "2026-07-26"
     },
     {
-      "id": "tt18259538",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "releaseInfo": "2026-07-25"
-    },
-    {
       "id": "tt43683795",
       "type": "movie",
       "name": "Euphoria: A Look Back",
@@ -623,14 +623,6 @@
       "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground.",
       "poster": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
       "releaseInfo": "2026-07-24"
-    },
-    {
-      "id": "tt33499146",
-      "type": "movie",
-      "name": "The Dink",
-      "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "releaseInfo": "2026-07-23"
     },
     {
       "id": "tt43660866",
@@ -677,7 +669,7 @@
       "type": "movie",
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -945,14 +937,6 @@
       "releaseInfo": "2026-06-26"
     },
     {
-      "id": "tt1333644",
-      "type": "movie",
-      "name": "In the Hand of Dante",
-      "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
-      "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-      "releaseInfo": "2026-06-24"
-    },
-    {
       "id": "tt32565993",
       "type": "movie",
       "name": "The Sheep Detectives",
@@ -1118,14 +1102,6 @@
       "name": "This Tempting Madness",
       "description": "A young woman awakens from a coma grievously injured, memory fractured, her husband arrested. But as she puts together the pieces of her past, she starts to question her own actions — and her perception of reality.",
       "poster": "https://image.tmdb.org/t/p/w500/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
-      "releaseInfo": "2026-06-12"
-    },
-    {
-      "id": "tt42863533",
-      "type": "movie",
-      "name": "Maternal Instinct",
-      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
