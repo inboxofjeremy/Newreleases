@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "Hot Spot",
       "description": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/sJEhuRJmGGuhzSHAHjgWiZGPIv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -62,6 +62,14 @@
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
       "poster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -206,6 +214,14 @@
       "name": "The Whisper Man",
       "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
       "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "releaseInfo": "2026-08-28"
+    },
+    {
+      "id": "tt21285562",
+      "type": "movie",
+      "name": "The Dog Stars",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
@@ -1273,6 +1289,14 @@
       "releaseInfo": "2026-05-31"
     },
     {
+      "id": "tt43122943",
+      "type": "movie",
+      "name": "Instadocs: Alex Murdaugh, Unconvicted",
+      "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
+      "poster": "https://image.tmdb.org/t/p/w500/3hhrFvWvcH6k11j7ZXS2c749Ywp.jpg",
+      "releaseInfo": "2026-05-30"
+    },
+    {
       "id": "tt30343126",
       "type": "movie",
       "name": "Miss You, Love You",
@@ -1695,6 +1719,14 @@
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
       "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tt41614093",
+      "type": "movie",
+      "name": "Check-In",
+      "description": "Two friends visit their recently laid-off pal after losing contact, only to find him acting odd and making some questionable choices.",
+      "poster": "https://image.tmdb.org/t/p/w500/oquTuEKbpYzP3QL4d84zF5MSUHA.jpg",
+      "releaseInfo": "2026-04-23"
     },
     {
       "id": "tmdb:1513734",
