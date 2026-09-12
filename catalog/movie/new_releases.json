@@ -701,7 +701,7 @@
       "type": "movie",
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -1529,14 +1529,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tt40898187",
       "type": "movie",
       "name": "The Roast of Kevin Hart",
@@ -2169,14 +2161,6 @@
       "releaseInfo": "2026-03-16"
     },
     {
-      "id": "tt39182438",
-      "type": "movie",
-      "name": "AEW Revolution 2026",
-      "description": "The 2026 Revolution was a professional wrestling pay-per-view event produced by All Elite Wrestling (AEW) that took place on March 15, 2026, at the Crypto.com Arena in Los Angeles, California, and was headlined by MJF (c) vs. Adam Page in a Texas Death Match for the AEW World Championship.",
-      "poster": "https://image.tmdb.org/t/p/w500/v73D6g0OCAOZSywRKycG6iadDpx.jpg",
-      "releaseInfo": "2026-03-15"
-    },
-    {
       "id": "tt14507394",
       "type": "movie",
       "name": "Hellfire",
@@ -2191,14 +2175,6 @@
       "description": "A rebellious student and a perfectionist overachiever form an unlikely alliance in their race for student body president, discovering unexpected feelings along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
       "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tt0245686",
-      "type": "movie",
-      "name": "Joe Dirt",
-      "description": "Wyatt Smith is a janitor with a mullet hairdo, acid-washed jeans and a dream to find the parents that he lost at the Grand Canyon when he was a belligerent, trailer park-raised eight-year-old. Now, blasting Van Halen in his jacked-up economy car, the irrepressibly optimistic Wyatt hits the road alone in search of his Benjamin Sears.",
-      "poster": "https://image.tmdb.org/t/p/w500/w29Y6dXpIpxVqmXRrTt7mbqs9WG.jpg",
-      "releaseInfo": "2001-04-10"
     }
   ]
 }
