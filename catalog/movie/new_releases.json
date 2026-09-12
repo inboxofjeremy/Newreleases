@@ -49,6 +49,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt41975820",
+      "type": "movie",
+      "name": "Stavros Halkias: Uncle Stav",
+      "description": "In this unruly set, Stavros Halkias imagines becoming a \"dirtbag\" uncle, roasts the health care system and warns of the risks of living your best life.",
+      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
       "id": "tt14119302",
       "type": "movie",
       "name": "Hot Spot",
@@ -294,6 +302,14 @@
       "name": "Spa Weekend",
       "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
       "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt27706593",
+      "type": "movie",
+      "name": "The Rivals of Amziah King",
+      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -2134,6 +2150,14 @@
       "name": "Mark Normand: None Too Pleased",
       "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
       "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
+      "releaseInfo": "2026-03-17"
+    },
+    {
+      "id": "tt34890320",
+      "type": "movie",
+      "name": "Preschool",
+      "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
+      "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
     },
     {
