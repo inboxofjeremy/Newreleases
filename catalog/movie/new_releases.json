@@ -801,6 +801,14 @@
       "releaseInfo": "2026-07-17"
     },
     {
+      "id": "tt10370856",
+      "type": "movie",
+      "name": "They Fight",
+      "description": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
+      "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+      "releaseInfo": "2026-07-17"
+    },
+    {
       "id": "tt43677301",
       "type": "movie",
       "name": "The Odyssey: The Making of an Epic",
@@ -942,6 +950,14 @@
       "name": "The Get Out",
       "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
       "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tt33219707",
+      "type": "movie",
+      "name": "40 Dates and 40 Nights",
+      "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
+      "poster": "https://image.tmdb.org/t/p/w500/eApzPVSmVzRs8GkJX4FSquxi7RN.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1321,14 +1337,6 @@
       "releaseInfo": "2026-06-02"
     },
     {
-      "id": "tt33712666",
-      "type": "movie",
-      "name": "Erupcja",
-      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
-      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
       "id": "tmdb:1638740",
       "type": "movie",
       "name": "WWE Clash in Italy Preshow",
@@ -1593,14 +1601,6 @@
       "releaseInfo": "2026-05-08"
     },
     {
-      "id": "tt12477096",
-      "type": "movie",
-      "name": "Couples Weekend",
-      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
       "id": "tt33100314",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
@@ -1615,14 +1615,6 @@
       "description": "An anxious New York law school dropout stumbles into a job babysitting his psychiatrist's three granddaughters and falls for the girls' mother, an actress in a rocky marriage.",
       "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
       "releaseInfo": "2026-05-08"
-    },
-    {
-      "id": "tt36163614",
-      "type": "movie",
-      "name": "Iron Maiden: Burning Ambition",
-      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
-      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
-      "releaseInfo": "2026-05-07"
     },
     {
       "id": "tt42373968",
@@ -1841,19 +1833,11 @@
       "releaseInfo": "2026-04-17"
     },
     {
-      "id": "tt16112292",
+      "id": "tt30420705",
       "type": "movie",
-      "name": "Glenrothan",
-      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
-      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt13165898",
-      "type": "movie",
-      "name": "Ballistic",
-      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "name": "Little Lorraine",
+      "description": "Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.",
+      "poster": "https://image.tmdb.org/t/p/w500/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
@@ -2095,6 +2079,14 @@
       "description": "Ruby, a world-renowned gemologist, is hired by Prince Luca to restore the crown jewels and design his crown, challenging tradition and complicating his relationship with his mother, the queen.",
       "poster": "https://image.tmdb.org/t/p/w500/hyjbxAfB9XlFogKM7BENqdNMa77.jpg",
       "releaseInfo": "2026-03-28"
+    },
+    {
+      "id": "tt32810474",
+      "type": "movie",
+      "name": "Refuge",
+      "description": "Four estranged friends reunite on a fishing trip, but a missing child and a desperate father's accusation turn reunion into a deadly reckoning",
+      "poster": "https://image.tmdb.org/t/p/w500/kCZa7fDEqvWbaCzji0PcoD52JdU.jpg",
+      "releaseInfo": "2026-03-27"
     },
     {
       "id": "tt38641367",
