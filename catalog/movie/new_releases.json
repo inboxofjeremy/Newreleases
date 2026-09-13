@@ -9,6 +9,14 @@
       "releaseInfo": "2026-09-15"
     },
     {
+      "id": "tmdb:1329016",
+      "type": "movie",
+      "name": "Tony",
+      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt34895535",
       "type": "movie",
       "name": "Nimrods",
@@ -105,7 +113,7 @@
       "releaseInfo": "2026-09-08"
     },
     {
-      "id": "tt37853455",
+      "id": "tmdb:1433367",
       "type": "movie",
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
@@ -121,6 +129,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt44942157",
+      "type": "movie",
+      "name": "Instadocs: The Decoy Plane",
+      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt21452628",
       "type": "movie",
       "name": "The Girl in the River",
@@ -132,7 +148,7 @@
       "id": "tt34379051",
       "type": "movie",
       "name": "By Any Means",
-      "description": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
+      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
       "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
       "releaseInfo": "2026-09-04"
     },
@@ -345,14 +361,6 @@
       "releaseInfo": "2026-08-21"
     },
     {
-      "id": "tt33095251",
-      "type": "movie",
-      "name": "Tony",
-      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
       "id": "tt27844906",
       "type": "movie",
       "name": "Rosebush Pruning",
@@ -545,20 +553,12 @@
       "releaseInfo": "2026-08-09"
     },
     {
-      "id": "tt8820258",
+      "id": "tmdb:675871",
       "type": "movie",
       "name": "Super Troopers 3",
       "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
       "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
       "releaseInfo": "2026-08-07"
-    },
-    {
-      "id": "tt29512655",
-      "type": "movie",
-      "name": "Rage of Stars",
-      "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-      "releaseInfo": "2026-08-06"
     },
     {
       "id": "tt43657327",
@@ -1337,6 +1337,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tt33712666",
+      "type": "movie",
+      "name": "Erupcja",
+      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
+      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
       "id": "tmdb:1638740",
       "type": "movie",
       "name": "WWE Clash in Italy Preshow",
@@ -1601,6 +1609,14 @@
       "releaseInfo": "2026-05-08"
     },
     {
+      "id": "tt12477096",
+      "type": "movie",
+      "name": "Couples Weekend",
+      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
       "id": "tt33100314",
       "type": "movie",
       "name": "Remarkably Bright Creatures",
@@ -1615,6 +1631,14 @@
       "description": "An anxious New York law school dropout stumbles into a job babysitting his psychiatrist's three granddaughters and falls for the girls' mother, an actress in a rocky marriage.",
       "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
       "releaseInfo": "2026-05-08"
+    },
+    {
+      "id": "tt36163614",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "releaseInfo": "2026-05-07"
     },
     {
       "id": "tt42373968",
@@ -1838,6 +1862,22 @@
       "name": "Little Lorraine",
       "description": "Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.",
       "poster": "https://image.tmdb.org/t/p/w500/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt16112292",
+      "type": "movie",
+      "name": "Glenrothan",
+      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
+      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt13165898",
+      "type": "movie",
+      "name": "Ballistic",
+      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
