@@ -1,6 +1,30 @@
 {
   "metas": [
     {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
+      "id": "tt34895535",
+      "type": "movie",
+      "name": "Nimrods",
+      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+      "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
+      "id": "tt32499466",
+      "type": "movie",
+      "name": "Finding Emily",
+      "description": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt32588798",
       "type": "movie",
       "name": "Practical Magic 2",
@@ -15,6 +39,14 @@
       "description": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
       "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "releaseInfo": "2026-09-11"
+    },
+    {
+      "id": "tt36983905",
+      "type": "movie",
+      "name": "The Uprising",
+      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "releaseInfo": "2026-09-10"
     },
     {
       "id": "tt33510831",
@@ -277,7 +309,7 @@
       "type": "movie",
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
@@ -621,7 +653,7 @@
       "type": "movie",
       "name": "Instadocs: The Prediction Games",
       "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
-      "poster": "https://image.tmdb.org/t/p/w500/i7zOhb65F4kxCUuqY1uYfrIpFej.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cFy3ShFy7tJLOrjXRHetQEpTAO5.jpg",
       "releaseInfo": "2026-07-26"
     },
     {
@@ -1929,14 +1961,6 @@
       "releaseInfo": "2026-04-14"
     },
     {
-      "id": "tt37172278",
-      "type": "movie",
-      "name": "Noah Kahan: Out of Body",
-      "description": "After rocketing to global fame, singer-songwriter Noah Kahan returns to his Vermont roots to get back in tune with himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
-      "releaseInfo": "2026-04-13"
-    },
-    {
       "id": "tt39196126",
       "type": "movie",
       "name": "AEW Dynasty",
@@ -2159,22 +2183,6 @@
       "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
       "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
       "releaseInfo": "2026-03-17"
-    },
-    {
-      "id": "tt40542910",
-      "type": "movie",
-      "name": "Inside the Rage Machine",
-      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
-      "releaseInfo": "2026-03-16"
-    },
-    {
-      "id": "tt39345599",
-      "type": "movie",
-      "name": "The Plastic Detox",
-      "description": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
-      "poster": "https://image.tmdb.org/t/p/w500/1FuExEaXy9ejGGm6VHCdirvk6zg.jpg",
-      "releaseInfo": "2026-03-16"
     },
     {
       "id": "tt14507394",
