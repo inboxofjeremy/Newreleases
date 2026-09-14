@@ -25,6 +25,14 @@
       "releaseInfo": "2026-09-15"
     },
     {
+      "id": "tt32499466",
+      "type": "movie",
+      "name": "Finding Emily",
+      "description": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt37968650",
       "type": "movie",
       "name": "The Last Photograph",
@@ -225,6 +233,22 @@
       "releaseInfo": "2026-09-02"
     },
     {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Fall 2: Deadpoint",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43700441",
+      "type": "movie",
+      "name": "Untold Raygun: Breaking Badly",
+      "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+      "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
       "id": "tt36948232",
       "type": "movie",
       "name": "Just Play Dead",
@@ -255,6 +279,14 @@
       "description": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
       "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
       "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt36980377",
+      "type": "movie",
+      "name": "Zip Wire",
+      "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
+      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "releaseInfo": "2026-08-31"
     },
     {
       "id": "tt38066519",
@@ -793,12 +825,28 @@
       "releaseInfo": "2026-07-17"
     },
     {
+      "id": "tt36619926",
+      "type": "movie",
+      "name": "Heartstopper Forever",
+      "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+      "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "releaseInfo": "2026-07-17"
+    },
+    {
       "id": "tt10370856",
       "type": "movie",
       "name": "They Fight",
       "description": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
       "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
       "releaseInfo": "2026-07-17"
+    },
+    {
+      "id": "tt43677301",
+      "type": "movie",
+      "name": "The Odyssey: The Making of an Epic",
+      "description": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "releaseInfo": "2026-07-14"
     },
     {
       "id": "tt38128726",
@@ -1046,6 +1094,14 @@
       "name": "Carolina Caroline",
       "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
       "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Tuner",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -1409,6 +1465,14 @@
       "releaseInfo": "2026-05-22"
     },
     {
+      "id": "tt34611082",
+      "type": "movie",
+      "name": "Ladies First",
+      "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
       "id": "tt42694139",
       "type": "movie",
       "name": "Dua Lipa: Live from Mexico",
@@ -1470,6 +1534,14 @@
       "name": "Mother Mary",
       "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
       "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "releaseInfo": "2026-05-19"
     },
     {
@@ -1687,6 +1759,30 @@
       "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
       "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
       "releaseInfo": "2026-04-28"
+    },
+    {
+      "id": "tt38058112",
+      "type": "movie",
+      "name": "I'll Be Seeing You",
+      "description": "When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director.",
+      "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
+      "releaseInfo": "2026-04-25"
+    },
+    {
+      "id": "tt39315819",
+      "type": "movie",
+      "name": "Immortal Combat",
+      "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+      "releaseInfo": "2026-04-24"
+    },
+    {
+      "id": "tt38575417",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026-04-24"
     },
     {
       "id": "tt31689648",
@@ -2023,6 +2119,22 @@
       "description": "The eccentric town of Savage Wells is looking for a sheriff. Paisley Bell has done the job before and is ready to prove she can do it again. Cade O’Brien, the most famous sheriff in Wyoming Territory, arrives in town, vying for the job as well. Sparks fly as the sheriffs go head-to-head, and the bantering rivals begin to feel like something more than just competitors. But when violent criminals threaten the people they care about, they’ll have to set aside their differences to save the town.",
       "poster": "https://image.tmdb.org/t/p/w500/sVrVzynNg4KMvnx5uN0inzvshm5.jpg",
       "releaseInfo": "2026-04-01"
+    },
+    {
+      "id": "tt40224365",
+      "type": "movie",
+      "name": "Aaron Chen: Funny Garden",
+      "description": "Aussie comic Aaron Chen riffs on the absurdities of life in the U.S., from New York City sidewalk riddles to unexpected news sources, with deadpan wit.",
+      "poster": "https://image.tmdb.org/t/p/w500/gNKrgtuYPR3XeZtdzbDOaZXxGd8.jpg",
+      "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tt40224397",
+      "type": "movie",
+      "name": "Untold: The Death & Life of Lamar Odom",
+      "description": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
+      "releaseInfo": "2026-03-31"
     },
     {
       "id": "tt41103545",
