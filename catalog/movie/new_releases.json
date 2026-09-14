@@ -9,7 +9,7 @@
       "releaseInfo": "2026-09-15"
     },
     {
-      "id": "tmdb:1329016",
+      "id": "tt33095251",
       "type": "movie",
       "name": "Tony",
       "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
@@ -113,7 +113,7 @@
       "releaseInfo": "2026-09-08"
     },
     {
-      "id": "tmdb:1433367",
+      "id": "tt37853455",
       "type": "movie",
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
@@ -553,12 +553,20 @@
       "releaseInfo": "2026-08-09"
     },
     {
-      "id": "tmdb:675871",
+      "id": "tt8820258",
       "type": "movie",
       "name": "Super Troopers 3",
       "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
       "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
       "releaseInfo": "2026-08-07"
+    },
+    {
+      "id": "tt29512655",
+      "type": "movie",
+      "name": "Rage of Stars",
+      "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "releaseInfo": "2026-08-06"
     },
     {
       "id": "tt43657327",
@@ -764,7 +772,7 @@
       "id": "tt32252801",
       "type": "movie",
       "name": "Blue Heron",
-      "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
+      "description": "A family of six's fresh start on 1990s Vancouver Island unravels as their youngest child, Sasha, witnesses the increasingly dangerous behavior of her older brother, Jeremy.",
       "poster": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
       "releaseInfo": "2026-07-21"
     },
@@ -1204,7 +1212,7 @@
       "id": "tt30796568",
       "type": "movie",
       "name": "This Tempting Madness",
-      "description": "A young woman awakens from a coma grievously injured, memory fractured, her husband arrested. But as she puts together the pieces of her past, she starts to question her own actions — and her perception of reality.",
+      "description": "After awakening from a coma with no memory and her husband under arrest, an injured woman pieces together her past, only to suspect she may be responsible for the tragedy.",
       "poster": "https://image.tmdb.org/t/p/w500/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
       "releaseInfo": "2026-06-12"
     },
@@ -2191,22 +2199,6 @@
       "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
       "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
       "releaseInfo": "2026-03-19"
-    },
-    {
-      "id": "tt40145204",
-      "type": "movie",
-      "name": "Mark Normand: None Too Pleased",
-      "description": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
-      "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
-      "releaseInfo": "2026-03-17"
-    },
-    {
-      "id": "tt34890320",
-      "type": "movie",
-      "name": "Preschool",
-      "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
-      "poster": "https://image.tmdb.org/t/p/w500/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-      "releaseInfo": "2026-03-17"
     },
     {
       "id": "tt14507394",
