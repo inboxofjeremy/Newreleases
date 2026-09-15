@@ -141,7 +141,7 @@
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -369,19 +369,11 @@
       "releaseInfo": "2026-08-21"
     },
     {
-      "id": "tt33305867",
-      "type": "movie",
-      "name": "Spa Weekend",
-      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -1585,14 +1577,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt39382052",
-      "type": "movie",
-      "name": "Marty, Life Is Short",
-      "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
-      "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tt7708226",
       "type": "movie",
       "name": "Beast",
@@ -1878,14 +1862,6 @@
       "name": "Everyone Is Lying to You for Money",
       "description": "With any and all things crypto being pushed by celebrities, influencers, and politicians alike, actor-turned-author and director Ben McKenzie decides to investigate. Leveraging his celebrity status to gain access to eager prospectors, McKenzie finds himself unraveling the loosely regulated world of cryptocurrency. This skeptical but evenhanded take on the present and future of what we consider money gives a firsthand account of the chaotic financial frontier of our time.",
       "poster": "https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt35820335",
-      "type": "movie",
-      "name": "Departures",
-      "description": "It’s instant chemistry when Benji encounters Jake at an airport departures gate. Their on-going relationship unfolds through intimate trips to Amsterdam, revealing a complex power dynamic.",
-      "poster": "https://image.tmdb.org/t/p/w500/gIcGPEjQmC6S2HfMHw4zTcAVMJz.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
