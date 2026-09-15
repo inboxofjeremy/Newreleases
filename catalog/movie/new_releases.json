@@ -141,7 +141,7 @@
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -158,6 +158,14 @@
       "name": "The Girl in the River",
       "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
       "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt34379051",
+      "type": "movie",
+      "name": "By Any Means",
+      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -365,7 +373,7 @@
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -807,6 +815,14 @@
       "description": "Two brothers on diverging paths struggle to survive amidst the pressures of their community.",
       "poster": "https://image.tmdb.org/t/p/w500/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
       "releaseInfo": "2026-07-20"
+    },
+    {
+      "id": "tt28638842",
+      "type": "movie",
+      "name": "Borderline",
+      "description": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+      "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "releaseInfo": "2026-07-17"
     },
     {
       "id": "tt34477910",
@@ -1329,6 +1345,14 @@
       "releaseInfo": "2026-06-05"
     },
     {
+      "id": "tt36926359",
+      "type": "movie",
+      "name": "Seven Snipers",
+      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tt42192165",
       "type": "movie",
       "name": "The Murder of Rachel Nickell",
@@ -1409,6 +1433,14 @@
       "releaseInfo": "2026-05-26"
     },
     {
+      "id": "tt2467700",
+      "type": "movie",
+      "name": "Animal Farm",
+      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
       "id": "tt13570066",
       "type": "movie",
       "name": "Desert Warrior",
@@ -1423,6 +1455,22 @@
       "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
       "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
       "releaseInfo": "2026-05-24"
+    },
+    {
+      "id": "tt40865915",
+      "type": "movie",
+      "name": "Josh Johnson: Symphony",
+      "description": "In his first HBO comedy special, comedian Josh Johnson debuts original material about our shared experiences as humans – tackling topics like family, religion, and relationships through his unique point of view and signature creativity.",
+      "poster": "https://image.tmdb.org/t/p/w500/ycJcUb7vvUV4vtHOPAX0zgXxDeV.jpg",
+      "releaseInfo": "2026-05-22"
+    },
+    {
+      "id": "tt41087705",
+      "type": "movie",
+      "name": "Master of the Universe",
+      "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+      "releaseInfo": "2026-05-22"
     },
     {
       "id": "tt34611082",
@@ -1942,6 +1990,22 @@
       "name": "Untold: Jail Blazers",
       "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
       "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tt36052167",
+      "type": "movie",
+      "name": "The Highest Stakes",
+      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tt41592024",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
