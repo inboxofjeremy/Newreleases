@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt29714073",
+      "type": "movie",
+      "name": "Bad Apples",
+      "description": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
+      "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
+      "id": "tt27706593",
+      "type": "movie",
+      "name": "The Rivals of Amziah King",
+      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt27165187",
       "type": "movie",
       "name": "The End of Oak Street",
@@ -39,14 +55,6 @@
       "description": "An ex-DEA operative must return to the mountains of South America in an effort to find his missing niece and nephew, following the brutal murders of their diplomat parents. Enlisting the help of a washed-up junkie war photographer, the only person to have seen the face of the killers, he sets out, determined to find the children and the truth, but soon learns he must also face the ghosts of his past.",
       "poster": "https://image.tmdb.org/t/p/w500/to8YnDGzKvkxKweUI4v8iw6RMCs.jpg",
       "releaseInfo": "2026-09-13"
-    },
-    {
-      "id": "tt32588798",
-      "type": "movie",
-      "name": "Practical Magic 2",
-      "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "releaseInfo": "2026-09-11"
     },
     {
       "id": "tt31349844",
@@ -233,14 +241,6 @@
       "releaseInfo": "2026-09-02"
     },
     {
-      "id": "tt31192372",
-      "type": "movie",
-      "name": "Fall 2: Deadpoint",
-      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "releaseInfo": "2026-09-02"
-    },
-    {
       "id": "tt43700441",
       "type": "movie",
       "name": "Untold Raygun: Breaking Badly",
@@ -313,14 +313,6 @@
       "releaseInfo": "2026-08-28"
     },
     {
-      "id": "tt1756855",
-      "type": "movie",
-      "name": "Coyote vs. Acme",
-      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-      "releaseInfo": "2026-08-28"
-    },
-    {
       "id": "tt43141030",
       "type": "movie",
       "name": "Yellow Mirror",
@@ -366,14 +358,6 @@
       "name": "LEGO Disney Princess: Magical Mayhem",
       "description": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
       "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
-      "id": "tt27706593",
-      "type": "movie",
-      "name": "The Rivals of Amziah King",
-      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -575,14 +559,6 @@
       "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man.",
       "poster": "https://image.tmdb.org/t/p/w500/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
       "releaseInfo": "2026-08-09"
-    },
-    {
-      "id": "tt8820258",
-      "type": "movie",
-      "name": "Super Troopers 3",
-      "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
-      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "releaseInfo": "2026-08-07"
     },
     {
       "id": "tt29512655",
@@ -2105,14 +2081,6 @@
       "releaseInfo": "2026-04-03"
     },
     {
-      "id": "tt32572716",
-      "type": "movie",
-      "name": "The Truth and Tragedy of Moriah Wilson",
-      "description": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
-      "releaseInfo": "2026-04-03"
-    },
-    {
       "id": "tt32161395",
       "type": "movie",
       "name": "The Sheriff",
@@ -2223,14 +2191,6 @@
       "description": "Tee is a Chinese American pottery artist who meets new community center handyman Will. As she learns about her family's traditions through art, can she and Will save the center from closure?",
       "poster": "https://image.tmdb.org/t/p/w500/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg",
       "releaseInfo": "2026-03-21"
-    },
-    {
-      "id": "tt40232255",
-      "type": "movie",
-      "name": "Meal Ticket",
-      "description": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
-      "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
-      "releaseInfo": "2026-03-19"
     },
     {
       "id": "tt14507394",
