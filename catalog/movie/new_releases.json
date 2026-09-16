@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "Tony",
       "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -93,7 +93,7 @@
       "type": "movie",
       "name": "Oasis: Don't Look Back in Anger",
       "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
       "releaseInfo": "2026-09-09"
     },
     {
@@ -166,14 +166,6 @@
       "name": "The Girl in the River",
       "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
       "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
-      "releaseInfo": "2026-09-04"
-    },
-    {
-      "id": "tt34379051",
-      "type": "movie",
-      "name": "By Any Means",
-      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -469,7 +461,7 @@
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-      "poster": "https://image.tmdb.org/t/p/w500/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -588,7 +580,7 @@
       "id": "tt43729889",
       "type": "movie",
       "name": "Storm on Sesame Street",
-      "description": "In the Storm on Sesame Street special, Elmo and his friends work together to get ready for a big storm, learning how to be prepared, have courage, and calm their bodies and minds when things feel scary. After the storm passes, Sesame Street looks different, and everyone pitches in to help their neighbors rebuild their homes. With the help of the neighborhood, including celebrity guests Post Malone and Michelle Buteau, Elmo and Abby set out to make a difference, and discover that small acts of kindness, and support from friends, can make the biggest difference of all.",
+      "description": "As a big storm approaches, Elmo and friends work together to get ready. After it passes, Sesame Street looks different — and everyone pitches in to help.",
       "poster": "https://image.tmdb.org/t/p/w500/okvOQKSkMKmGt9LRV4eJ7ejikQv.jpg",
       "releaseInfo": "2026-08-03"
     },
