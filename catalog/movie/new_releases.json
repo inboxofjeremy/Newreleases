@@ -9,6 +9,14 @@
       "releaseInfo": "2026-09-18"
     },
     {
+      "id": "tt38953026",
+      "type": "movie",
+      "name": "Lion Fist",
+      "description": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
+      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
@@ -55,6 +63,22 @@
       "description": "An ex-DEA operative must return to the mountains of South America in an effort to find his missing niece and nephew, following the brutal murders of their diplomat parents. Enlisting the help of a washed-up junkie war photographer, the only person to have seen the face of the killers, he sets out, determined to find the children and the truth, but soon learns he must also face the ghosts of his past.",
       "poster": "https://image.tmdb.org/t/p/w500/to8YnDGzKvkxKweUI4v8iw6RMCs.jpg",
       "releaseInfo": "2026-09-13"
+    },
+    {
+      "id": "tt33512134",
+      "type": "movie",
+      "name": "Drive Through Fire",
+      "description": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
+      "releaseInfo": "2026-09-11"
+    },
+    {
+      "id": "tt9601292",
+      "type": "movie",
+      "name": "The Fix",
+      "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "releaseInfo": "2026-09-11"
     },
     {
       "id": "tt9395802",
@@ -545,6 +569,14 @@
       "releaseInfo": "2026-08-05"
     },
     {
+      "id": "tt32104007",
+      "type": "movie",
+      "name": "Young Washington",
+      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "releaseInfo": "2026-08-04"
+    },
+    {
       "id": "tt43729889",
       "type": "movie",
       "name": "Storm on Sesame Street",
@@ -661,7 +693,7 @@
       "type": "movie",
       "name": "On the Sea",
       "description": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
-      "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -878,6 +910,22 @@
       "name": "Man of War",
       "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
       "poster": "https://image.tmdb.org/t/p/w500/8N3H6JxSt7v8mR2O3z18abe4Qyr.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tt41605854",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+      "releaseInfo": "2026-07-03"
+    },
+    {
+      "id": "tt39371050",
+      "type": "movie",
+      "name": "Summer's Last Resort",
+      "description": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -1271,6 +1319,22 @@
       "description": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
       "poster": "https://image.tmdb.org/t/p/w500/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg",
       "releaseInfo": "2026-06-04"
+    },
+    {
+      "id": "tt34379307",
+      "type": "movie",
+      "name": "Is God Is",
+      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+      "releaseInfo": "2026-06-02"
+    },
+    {
+      "id": "tt27681354",
+      "type": "movie",
+      "name": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "releaseInfo": "2026-06-02"
     },
     {
       "id": "tt33712666",
@@ -1745,6 +1809,30 @@
       "releaseInfo": "2026-04-20"
     },
     {
+      "id": "tt40336528",
+      "type": "movie",
+      "name": "To Philly with Love",
+      "description": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
+      "releaseInfo": "2026-04-18"
+    },
+    {
+      "id": "tt41378543",
+      "type": "movie",
+      "name": "Ramy Youssef: In Love",
+      "description": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt41561164",
+      "type": "movie",
+      "name": "Paul Smith: Pablo Live",
+      "description": "From one of the UK’s most viral stand-up comedians, in his debut special, “Paul Smith: Pablo Live” is the show you’ve all been waiting for. Filmed live at the 3Olympia Theatre in Dublin, it’s packed full of Smith’s signature, unflinching, laugh out loud comedy. Featuring a mix of his trademark audience roasting, razor-sharp wit and hilarious true stories of his everyday life, from spending money in the most irresponsible way possible, why boys are better than girls and raising kids without leading by example, this is the full, unfiltered Paul Smith experience, and you won't want to miss a minute of it.",
+      "poster": "https://image.tmdb.org/t/p/w500/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tt36733913",
       "type": "movie",
       "name": "Everyone Is Lying to You for Money",
@@ -2055,6 +2143,14 @@
       "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
       "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
       "releaseInfo": "2026-03-24"
+    },
+    {
+      "id": "tt14507394",
+      "type": "movie",
+      "name": "Hellfire",
+      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "releaseInfo": "2026-02-17"
     },
     {
       "id": "tt36934619",
