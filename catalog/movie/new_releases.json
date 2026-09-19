@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt29714073",
-      "type": "movie",
-      "name": "Bad Apples",
-      "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-      "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
       "id": "tt38953026",
       "type": "movie",
       "name": "Lion Fist",
@@ -86,6 +78,14 @@
       "name": "The Echo Chamber",
       "description": "Leo and Ava chase each other—coming close, drifting apart, and searching for their way back. They cannot let go, nor break free. Through the rooms, Ava’s voice echoes across time, carrying to the surface what endures—and what can no longer be held back.",
       "poster": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
+      "releaseInfo": "2026-09-10"
+    },
+    {
+      "id": "tt29714073",
+      "type": "movie",
+      "name": "Bad Apples",
+      "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+      "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
       "releaseInfo": "2026-09-10"
     },
     {
@@ -454,14 +454,6 @@
       "name": "Camp Rock 3",
       "description": "When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.",
       "poster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt29356163",
-      "type": "movie",
-      "name": "PAW Patrol: The Dino Movie",
-      "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
