@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt10794054",
+      "type": "movie",
+      "name": "The Weight",
+      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt38953026",
       "type": "movie",
       "name": "Lion Fist",
@@ -601,6 +609,14 @@
       "releaseInfo": "2026-08-01"
     },
     {
+      "id": "tt37675037",
+      "type": "movie",
+      "name": "Maddie's Secret",
+      "description": "A plucky dishwasher leaps to viral superstardom at a trendy food content creation company. While her life seems picturesque — complete with an adoring husband, ride-or-die best friend and a cupboard full of woman-owned ethically-sourced chili crisp to boot — mounting professional pressures threaten to reawaken a hidden secret from her troubled past.",
+      "poster": "https://image.tmdb.org/t/p/w500/vADal7sH7E9xFr4w2k4V3EPSzF6.jpg",
+      "releaseInfo": "2026-07-31"
+    },
+    {
       "id": "tt42839367",
       "type": "movie",
       "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
@@ -1005,7 +1021,7 @@
       "type": "movie",
       "name": "Chris & Martina: The Final Set",
       "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
-      "poster": "https://image.tmdb.org/t/p/w500/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
