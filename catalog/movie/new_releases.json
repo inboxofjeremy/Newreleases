@@ -1,12 +1,52 @@
 {
   "metas": [
     {
+      "id": "tt33305867",
+      "type": "movie",
+      "name": "Spa Weekend",
+      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+      "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
+      "id": "tt6628920",
+      "type": "movie",
+      "name": "Idiots",
+      "description": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
+      "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
+      "id": "tt8820258",
+      "type": "movie",
+      "name": "Super Troopers 3",
+      "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
+      "id": "tt16478058",
+      "type": "movie",
+      "name": "Best of the Best",
+      "description": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt10794054",
       "type": "movie",
       "name": "The Weight",
       "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
       "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
       "releaseInfo": "2026-09-18"
+    },
+    {
+      "id": "tt40231163",
+      "type": "movie",
+      "name": "Run Hide Fight: Infidels",
+      "description": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+      "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+      "releaseInfo": "2026-09-16"
     },
     {
       "id": "tt38953026",
@@ -29,7 +69,7 @@
       "type": "movie",
       "name": "The End of Oak Street",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -291,7 +331,7 @@
     {
       "id": "tt38066519",
       "type": "movie",
-      "name": "AEW All In: London",
+      "name": "AEW All In 2026: London",
       "description": "All In 2026, also promoted as All In London, was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on August 30, 2026, at Wembley Stadium in London, England. The event featured AEW Men's and Women's World Championship matches earned by the winners of the 2026 Owen Hart Foundation Tournament.",
       "poster": "https://image.tmdb.org/t/p/w500/rYumu3P6c4zzl91Jk1cVI3pt55s.jpg",
       "releaseInfo": "2026-08-30"
@@ -2134,14 +2174,6 @@
       "name": "Jeff Ross: Take a Banana for the Ride",
       "description": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
       "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
-      "releaseInfo": "2026-03-24"
-    },
-    {
-      "id": "tt39389429",
-      "type": "movie",
-      "name": "Hannah Montana 20th Anniversary Special",
-      "description": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series with never-before-seen archival footage, all the while interacting and reminiscing on some of the show's most memorable sets 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
-      "poster": "https://image.tmdb.org/t/p/w500/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
       "releaseInfo": "2026-03-24"
     },
     {
