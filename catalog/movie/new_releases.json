@@ -73,14 +73,6 @@
       "releaseInfo": "2026-09-15"
     },
     {
-      "id": "tt33095251",
-      "type": "movie",
-      "name": "Tony",
-      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "releaseInfo": "2026-09-15"
-    },
-    {
       "id": "tt34895535",
       "type": "movie",
       "name": "Nimrods",
@@ -125,7 +117,7 @@
       "type": "movie",
       "name": "The Echo Chamber",
       "description": "Leo and Ava chase each other—coming close, drifting apart, and searching for their way back. They cannot let go, nor break free. Through the rooms, Ava’s voice echoes across time, carrying to the surface what endures—and what can no longer be held back.",
-      "poster": "https://image.tmdb.org/t/p/w500/xJvbcxyD8BN8tyr0XdlxRP4czzV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
       "releaseInfo": "2026-09-10"
     },
     {
@@ -591,6 +583,14 @@
       "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man.",
       "poster": "https://image.tmdb.org/t/p/w500/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
       "releaseInfo": "2026-08-09"
+    },
+    {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "releaseInfo": "2026-08-07"
     },
     {
       "id": "tt29512655",
