@@ -73,6 +73,14 @@
       "releaseInfo": "2026-09-15"
     },
     {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
       "id": "tt34895535",
       "type": "movie",
       "name": "Nimrods",
@@ -524,7 +532,7 @@
       "id": "tt28370319",
       "type": "movie",
       "name": "The Last Assassins",
-      "description": "The world lives in a permanent winter and is shrouded in a deadly fog. In the distant future, Nobel must take a young girl to her aunt, whom she has never met, after her father has been killed. He has sworn to protect the members of that family, and few remain. When they arrive at an abandoned laboratory, holograms tell the family’s story. But can the digital world become physical? The young woman may be the solution.",
+      "description": "After her father is murdered, a young warrior known as “The Kid” and her guardian cross a violent dystopian future in search of the aunt she has never met. The world is trapped in permanent winter and shrouded in deadly fog, and Nobel is bound by an oath to protect the few remaining members of her family. Their journey leads them to an abandoned laboratory, where holograms reveal secrets from the family’s past. But as the boundary between the digital and physical worlds begins to collapse, the young woman may hold the key to what comes next.",
       "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
       "releaseInfo": "2026-08-11"
     },
@@ -583,14 +591,6 @@
       "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man.",
       "poster": "https://image.tmdb.org/t/p/w500/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
       "releaseInfo": "2026-08-09"
-    },
-    {
-      "id": "tt33095251",
-      "type": "movie",
-      "name": "Tony",
-      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "releaseInfo": "2026-08-07"
     },
     {
       "id": "tt29512655",
@@ -2167,14 +2167,6 @@
       "description": "When a mysterious young woman comes to interview a paranoid man living in rural isolation, he is forced to confront his part in his daughter's murder.",
       "poster": "https://image.tmdb.org/t/p/w500/2uAFDuOCv6jjbRolZQDnVsbjU8n.jpg",
       "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tt39901552",
-      "type": "movie",
-      "name": "Jeff Ross: Take a Banana for the Ride",
-      "description": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
-      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
-      "releaseInfo": "2026-03-24"
     },
     {
       "id": "tt14507394",
