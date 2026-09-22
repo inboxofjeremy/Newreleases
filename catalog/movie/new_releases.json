@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt37971717",
+      "type": "movie",
+      "name": "One Last Shot",
+      "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+      "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
       "id": "tt33305867",
       "type": "movie",
       "name": "Spa Weekend",
@@ -21,7 +29,7 @@
       "type": "movie",
       "name": "Super Troopers 3",
       "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
-      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -44,7 +52,7 @@
       "id": "tt40231163",
       "type": "movie",
       "name": "Run Hide Fight: Infidels",
-      "description": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+      "description": "When radical Islamic terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
       "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
       "releaseInfo": "2026-09-16"
     },
@@ -215,14 +223,6 @@
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
-    },
-    {
-      "id": "tt44942157",
-      "type": "movie",
-      "name": "Instadocs: The Decoy Plane",
-      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
-      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-      "releaseInfo": "2026-09-04"
     },
     {
       "id": "tt21452628",
@@ -1137,14 +1137,6 @@
       "releaseInfo": "2026-06-20"
     },
     {
-      "id": "tt10375624",
-      "type": "movie",
-      "name": "Voicemails for Isabelle",
-      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
       "id": "tt43596160",
       "type": "movie",
       "name": "7 Piano Sketches",
@@ -1377,14 +1369,6 @@
       "releaseInfo": "2026-06-02"
     },
     {
-      "id": "tmdb:1638740",
-      "type": "movie",
-      "name": "WWE Clash in Italy Preshow",
-      "description": "",
-      "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
-      "releaseInfo": "2026-05-31"
-    },
-    {
       "id": "tt43122943",
       "type": "movie",
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
@@ -1430,14 +1414,6 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt13570066",
-      "type": "movie",
-      "name": "Desert Warrior",
-      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -2039,14 +2015,6 @@
       "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
       "poster": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
       "releaseInfo": "2026-04-09"
-    },
-    {
-      "id": "tt36933778",
-      "type": "movie",
-      "name": "Sheng Wang: Purple",
-      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
-      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
-      "releaseInfo": "2026-04-07"
     },
     {
       "id": "tt40224399",
