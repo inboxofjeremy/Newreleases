@@ -225,6 +225,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt44942157",
+      "type": "movie",
+      "name": "Instadocs: The Decoy Plane",
+      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
       "id": "tt21452628",
       "type": "movie",
       "name": "The Girl in the River",
@@ -753,6 +761,14 @@
       "releaseInfo": "2026-07-24"
     },
     {
+      "id": "tt33499146",
+      "type": "movie",
+      "name": "The Dink",
+      "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "releaseInfo": "2026-07-23"
+    },
+    {
       "id": "tt43660866",
       "type": "movie",
       "name": "My Grandfather Charles Manson",
@@ -1137,6 +1153,14 @@
       "releaseInfo": "2026-06-20"
     },
     {
+      "id": "tt10375624",
+      "type": "movie",
+      "name": "Voicemails for Isabelle",
+      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
       "id": "tt43596160",
       "type": "movie",
       "name": "7 Piano Sketches",
@@ -1369,6 +1393,14 @@
       "releaseInfo": "2026-06-02"
     },
     {
+      "id": "tmdb:1638740",
+      "type": "movie",
+      "name": "WWE Clash in Italy Preshow",
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
+      "releaseInfo": "2026-05-31"
+    },
+    {
       "id": "tt43122943",
       "type": "movie",
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
@@ -1414,6 +1446,14 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tt13570066",
+      "type": "movie",
+      "name": "Desert Warrior",
+      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -2017,6 +2057,14 @@
       "releaseInfo": "2026-04-09"
     },
     {
+      "id": "tt36933778",
+      "type": "movie",
+      "name": "Sheng Wang: Purple",
+      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
+      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026-04-07"
+    },
+    {
       "id": "tt40224399",
       "type": "movie",
       "name": "Untold: Chess Mates",
@@ -2049,6 +2097,14 @@
       "releaseInfo": "2026-04-03"
     },
     {
+      "id": "tt40851760",
+      "type": "movie",
+      "name": "McCartney: The Hunt for the Lost Bass",
+      "description": "For over fifty years, the disappearance of Paul McCartney’s original Höfner bass has been one of rock ‘n’ roll’s enduring mysteries. The Hunt for the Lost Bass tells the extraordinary story of this iconic instrument, and the fan powered quest to find it.",
+      "poster": "https://image.tmdb.org/t/p/w500/uC6Zx4uy4C4eGcrJZk7iN34G8Uv.jpg",
+      "releaseInfo": "2026-04-02"
+    },
+    {
       "id": "tt32161395",
       "type": "movie",
       "name": "The Sheriff",
@@ -2079,6 +2135,14 @@
       "description": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
       "poster": "https://image.tmdb.org/t/p/w500/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
       "releaseInfo": "2026-03-31"
+    },
+    {
+      "id": "tt40415728",
+      "type": "movie",
+      "name": "Rory McIlroy: The Masters Wait",
+      "description": "Through years of heartbreak and resilience, Rory McIlroy's pursuit of the Green Jacket at the Masters becomes a reckoning with legacy and the final step toward completing golf's rarest achievement, the career Grand Slam.",
+      "poster": "https://image.tmdb.org/t/p/w500/q8xeCqe55zzb7aTJkEUKlTgByVn.jpg",
+      "releaseInfo": "2026-03-30"
     },
     {
       "id": "tt41103545",
