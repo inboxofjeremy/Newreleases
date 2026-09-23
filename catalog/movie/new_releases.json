@@ -65,12 +65,28 @@
       "releaseInfo": "2026-09-18"
     },
     {
+      "id": "tmdb:1764166",
+      "type": "movie",
+      "name": "Thomas & Friends: Really Helpful Engines",
+      "description": "Thomas is on a mission to prove he’s the most helpful engine on Sodor! When Thomas finds out that Percy and Gordon all have a mission for their day, Thomas goes on a mission to find a big important job to do!",
+      "poster": "https://image.tmdb.org/t/p/w500/kUZTIpouA957XGN44a83VGdOHZ6.jpg",
+      "releaseInfo": "2026-09-17"
+    },
+    {
       "id": "tt40231163",
       "type": "movie",
       "name": "Run Hide Fight: Infidels",
       "description": "When radical Islamic terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
       "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
       "releaseInfo": "2026-09-16"
+    },
+    {
+      "id": "tt36809539",
+      "type": "movie",
+      "name": "After Impact",
+      "description": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+      "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "releaseInfo": "2026-09-15"
     },
     {
       "id": "tt38953026",
@@ -165,7 +181,7 @@
       "type": "movie",
       "name": "The Uprising",
       "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
       "releaseInfo": "2026-09-10"
     },
     {
@@ -729,14 +745,6 @@
       "releaseInfo": "2026-07-26"
     },
     {
-      "id": "tt18259538",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "releaseInfo": "2026-07-25"
-    },
-    {
       "id": "tt43683795",
       "type": "movie",
       "name": "Euphoria: A Look Back",
@@ -887,14 +895,6 @@
       "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
       "poster": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
       "releaseInfo": "2026-07-14"
-    },
-    {
-      "id": "tt33372918",
-      "type": "movie",
-      "name": "The Outer Threat",
-      "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-      "releaseInfo": "2026-07-10"
     },
     {
       "id": "tt43595399",
@@ -1247,22 +1247,6 @@
       "description": "When a woman returns to Texas to help save her aunt's struggling country music bar, she reconnects with her childhood sweetheart turned cowboy and rekindles her lost passion for dancing.",
       "poster": "https://image.tmdb.org/t/p/w500/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
       "releaseInfo": "2026-06-13"
-    },
-    {
-      "id": "tt32293052",
-      "type": "movie",
-      "name": "The Fall of Sir Douglas Weatherford",
-      "description": "In the Scottish village of Arberloch, Kenneth, a grieving tour guide, is devoted to preserving the legacy of the town's sole historical figure—eighteenth-century inventor Sir Douglas Weatherford. But when a fantasy series chooses Arberloch as its filming location, and the town turns its back on Weatherford in favour of fan culture, Kenneth descends into madness.",
-      "poster": "https://image.tmdb.org/t/p/w500/umKvuPWAXEUz9Mz8f23x5fHlW18.jpg",
-      "releaseInfo": "2026-06-12"
-    },
-    {
-      "id": "tt30796568",
-      "type": "movie",
-      "name": "This Tempting Madness",
-      "description": "After awakening from a coma with no memory and her husband under arrest, an injured woman pieces together her past, only to suspect she may be responsible for the tragedy.",
-      "poster": "https://image.tmdb.org/t/p/w500/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
-      "releaseInfo": "2026-06-12"
     },
     {
       "id": "tt42863533",
