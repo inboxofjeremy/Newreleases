@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Heart of the Beast",
@@ -28,7 +36,7 @@
       "id": "tt37971717",
       "type": "movie",
       "name": "One Last Shot",
-      "description": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
+      "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
       "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
       "releaseInfo": "2026-09-22"
     },
@@ -45,7 +53,7 @@
       "type": "movie",
       "name": "Idiots",
       "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -606,14 +614,6 @@
       "name": "Minions & Monsters",
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt36589928",
-      "type": "movie",
-      "name": "Our Hero, Balthazar",
-      "description": "Eager to impress his activist crush, a wealthy New York teenager follows an online connection to Texas, where he's convinced he can stop an act of extreme violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1705,14 +1705,6 @@
       "releaseInfo": "2026-05-08"
     },
     {
-      "id": "tt35519497",
-      "type": "movie",
-      "name": "Fantasy Life",
-      "description": "An anxious New York law school dropout stumbles into a job babysitting his psychiatrist's three granddaughters and falls for the girls' mother, an actress in a rocky marriage.",
-      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
       "id": "tt36163614",
       "type": "movie",
       "name": "Iron Maiden: Burning Ambition",
@@ -1785,28 +1777,12 @@
       "releaseInfo": "2026-05-01"
     },
     {
-      "id": "tt29375937",
-      "type": "movie",
-      "name": "You're Dating a Narcissist!",
-      "description": "An outspoken psychologist, burnt by love, takes an emergency trip to Los Angeles with her best friend to talk her smitten daughter out of marrying a man she is convinced is a narcissist.",
-      "poster": "https://image.tmdb.org/t/p/w500/w7XKRbfOU1pMd8Qphsm2vTGGuVK.jpg",
-      "releaseInfo": "2026-05-01"
-    },
-    {
       "id": "tt13374694",
       "type": "movie",
       "name": "The Story of Everything",
       "description": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
       "poster": "https://image.tmdb.org/t/p/w500/vajGff87GT6JfCi45K4bPquLbom.jpg",
       "releaseInfo": "2026-04-30"
-    },
-    {
-      "id": "tt9661164",
-      "type": "movie",
-      "name": "No Ordinary Heist",
-      "description": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
-      "poster": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
-      "releaseInfo": "2026-04-28"
     },
     {
       "id": "tt38058112",
@@ -2049,14 +2025,6 @@
       "releaseInfo": "2026-04-14"
     },
     {
-      "id": "tt39150120",
-      "type": "movie",
-      "name": "The AI Doc: Or How I Became an Apocaloptimist",
-      "description": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
-      "poster": "https://image.tmdb.org/t/p/w500/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
       "id": "tt39196126",
       "type": "movie",
       "name": "AEW Dynasty",
@@ -2191,38 +2159,6 @@
       "description": "Ruby, a world-renowned gemologist, is hired by Prince Luca to restore the crown jewels and design his crown, challenging tradition and complicating his relationship with his mother, the queen.",
       "poster": "https://image.tmdb.org/t/p/w500/hyjbxAfB9XlFogKM7BENqdNMa77.jpg",
       "releaseInfo": "2026-03-28"
-    },
-    {
-      "id": "tt32810474",
-      "type": "movie",
-      "name": "Refuge",
-      "description": "Four estranged friends reunite on a fishing trip, but a missing child and a desperate father's accusation turn reunion into a deadly reckoning",
-      "poster": "https://image.tmdb.org/t/p/w500/kCZa7fDEqvWbaCzji0PcoD52JdU.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tt38641367",
-      "type": "movie",
-      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
-      "description": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
-      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tt31193382",
-      "type": "movie",
-      "name": "She Dances",
-      "description": "A father and his distant teenage daughter road-trip to a dance competition, confronting their shared grief over a family tragedy.",
-      "poster": "https://image.tmdb.org/t/p/w500/i2cNnJg1pkez7b4B1DUAjUdJ1FD.jpg",
-      "releaseInfo": "2026-03-27"
-    },
-    {
-      "id": "tt32124219",
-      "type": "movie",
-      "name": "Empire of Lies",
-      "description": "When a mysterious young woman comes to interview a paranoid man living in rural isolation, he is forced to confront his part in his daughter's murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/2uAFDuOCv6jjbRolZQDnVsbjU8n.jpg",
-      "releaseInfo": "2026-03-27"
     },
     {
       "id": "tt14507394",
