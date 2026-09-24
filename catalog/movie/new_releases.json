@@ -41,6 +41,14 @@
       "releaseInfo": "2026-09-22"
     },
     {
+      "id": "tt12446086",
+      "type": "movie",
+      "name": "Legend of the White Dragon",
+      "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
       "id": "tt33305867",
       "type": "movie",
       "name": "Spa Weekend",
@@ -53,7 +61,7 @@
       "type": "movie",
       "name": "Idiots",
       "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -109,7 +117,7 @@
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/j2ajSnvBSb0rvDJrlTWTsxsmHWJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -353,14 +361,6 @@
       "releaseInfo": "2026-09-01"
     },
     {
-      "id": "tt33070884",
-      "type": "movie",
-      "name": "The Brink of War",
-      "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-      "releaseInfo": "2026-09-01"
-    },
-    {
       "id": "tt32332915",
       "type": "movie",
       "name": "I Want Your Sex",
@@ -406,6 +406,14 @@
       "name": "Yellow Mirror",
       "description": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
       "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
+      "id": "tt37654096",
+      "type": "movie",
+      "name": "The Last Sunrise",
+      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "releaseInfo": "2026-08-26"
     },
     {
