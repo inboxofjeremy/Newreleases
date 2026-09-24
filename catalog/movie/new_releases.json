@@ -92,7 +92,7 @@
       "id": "tt40231163",
       "type": "movie",
       "name": "Run Hide Fight: Infidels",
-      "description": "When radical Islamic terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
+      "description": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
       "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
       "releaseInfo": "2026-09-16"
     },
@@ -358,6 +358,14 @@
       "name": "The Wrong Girls",
       "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt33070884",
+      "type": "movie",
+      "name": "The Brink of War",
+      "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
       "releaseInfo": "2026-09-01"
     },
     {
@@ -1430,6 +1438,14 @@
       "name": "Instadocs: Alex Murdaugh, Unconvicted",
       "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
       "poster": "https://image.tmdb.org/t/p/w500/3hhrFvWvcH6k11j7ZXS2c749Ywp.jpg",
+      "releaseInfo": "2026-05-30"
+    },
+    {
+      "id": "tt41435072",
+      "type": "movie",
+      "name": "Haunted Harmony Mysteries: Key to the Castle",
+      "description": "When a ghost hunter show comes to town, it's up to Gethsemane and Eamon to solve the unexpected murder of the host, allowing the brand-new spirit to cross-over.",
+      "poster": "https://image.tmdb.org/t/p/w500/l9Pm8DnilY7A1POSOacy1JEYE5Y.jpg",
       "releaseInfo": "2026-05-30"
     },
     {
