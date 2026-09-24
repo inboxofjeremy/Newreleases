@@ -409,14 +409,6 @@
       "releaseInfo": "2026-08-26"
     },
     {
-      "id": "tt37654096",
-      "type": "movie",
-      "name": "The Last Sunrise",
-      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "releaseInfo": "2026-08-26"
-    },
-    {
       "id": "tt43700434",
       "type": "movie",
       "name": "Untold: The Testimony of Vince Young",
@@ -1285,7 +1277,7 @@
       "type": "movie",
       "name": "Maternal Instinct",
       "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
@@ -1614,6 +1606,14 @@
       "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
       "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
       "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "releaseInfo": "2026-05-14"
+    },
+    {
+      "id": "tt29594919",
+      "type": "movie",
+      "name": "The Run",
+      "description": "In a dystopian, post-pandemic world crippled by a global fertility crisis, an aging smuggler struggles to protect a runaway teenager and her newborn baby from ruthless criminals, while trying to complete his run for his vicious employers.",
+      "poster": "https://image.tmdb.org/t/p/w500/A14acuPDW2N9XApJHY9nH5cZvTU.jpg",
       "releaseInfo": "2026-05-14"
     },
     {
