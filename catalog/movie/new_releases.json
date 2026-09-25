@@ -1,11 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt6933238",
+      "type": "movie",
+      "name": "UNABOMBER",
+      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
       "id": "tt34206385",
       "type": "movie",
       "name": "Primetime",
       "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -21,7 +29,7 @@
       "type": "movie",
       "name": "Forgotten Island",
       "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -29,7 +37,7 @@
       "type": "movie",
       "name": "The Love Hypothesis",
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
       "releaseInfo": "2026-09-23"
     },
     {
@@ -77,7 +85,7 @@
       "type": "movie",
       "name": "Best of the Best",
       "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -223,14 +231,6 @@
       "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
       "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
       "releaseInfo": "2026-09-09"
-    },
-    {
-      "id": "tt43700444",
-      "type": "movie",
-      "name": "Untold Mr. T: I Pity the Fool",
-      "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-      "releaseInfo": "2026-09-08"
     },
     {
       "id": "tt41975820",
@@ -598,22 +598,6 @@
       "name": "Gail Daughtry and the Celebrity Sex Pass",
       "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
       "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt39316472",
-      "type": "movie",
-      "name": "Jackass: Best and Last",
-      "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-      "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-      "releaseInfo": "2026-08-11"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1071,14 +1055,6 @@
       "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
       "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
       "releaseInfo": "2026-06-27"
-    },
-    {
-      "id": "tt19035928",
-      "type": "movie",
-      "name": "Lucky Strike",
-      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-      "releaseInfo": "2026-06-26"
     },
     {
       "id": "tt34888871",
@@ -1761,14 +1737,6 @@
       "releaseInfo": "2026-05-05"
     },
     {
-      "id": "tt33071426",
-      "type": "movie",
-      "name": "The Drama",
-      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-      "releaseInfo": "2026-05-05"
-    },
-    {
       "id": "tt39276947",
       "type": "movie",
       "name": "Kentucky Roses",
@@ -2127,22 +2095,6 @@
       "description": "For over fifty years, the disappearance of Paul McCartney’s original Höfner bass has been one of rock ‘n’ roll’s enduring mysteries. The Hunt for the Lost Bass tells the extraordinary story of this iconic instrument, and the fan powered quest to find it.",
       "poster": "https://image.tmdb.org/t/p/w500/uC6Zx4uy4C4eGcrJZk7iN34G8Uv.jpg",
       "releaseInfo": "2026-04-02"
-    },
-    {
-      "id": "tt32161395",
-      "type": "movie",
-      "name": "The Sheriff",
-      "description": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
-      "poster": "https://image.tmdb.org/t/p/w500/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
-      "releaseInfo": "2026-04-02"
-    },
-    {
-      "id": "tt38630826",
-      "type": "movie",
-      "name": "The Sheriffs of Savage Wells",
-      "description": "The eccentric town of Savage Wells is looking for a sheriff. Paisley Bell has done the job before and is ready to prove she can do it again. Cade O’Brien, the most famous sheriff in Wyoming Territory, arrives in town, vying for the job as well. Sparks fly as the sheriffs go head-to-head, and the bantering rivals begin to feel like something more than just competitors. But when violent criminals threaten the people they care about, they’ll have to set aside their differences to save the town.",
-      "poster": "https://image.tmdb.org/t/p/w500/sVrVzynNg4KMvnx5uN0inzvshm5.jpg",
-      "releaseInfo": "2026-04-01"
     },
     {
       "id": "tt40224365",
