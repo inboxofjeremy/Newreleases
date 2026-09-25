@@ -233,6 +233,14 @@
       "releaseInfo": "2026-09-09"
     },
     {
+      "id": "tt43700444",
+      "type": "movie",
+      "name": "Untold Mr. T: I Pity the Fool",
+      "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
       "id": "tt41975820",
       "type": "movie",
       "name": "Stavros Halkias: Uncle Stav",
@@ -273,6 +281,14 @@
       "releaseInfo": "2026-09-08"
     },
     {
+      "id": "tt43600387",
+      "type": "movie",
+      "name": "WWE Sunday Night's Main Event",
+      "description": "The first ever WWE Sunday Night's Main Event takes place on Sunday, September 6, 2026, live from the State Farm Arena in Atlanta, Georgia during Labor Day weekend. The special television event streams live in the U.S. on Peacock starting at 8 p.m. ET.",
+      "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+      "releaseInfo": "2026-09-06"
+    },
+    {
       "id": "tt44942157",
       "type": "movie",
       "name": "Instadocs: The Decoy Plane",
@@ -286,6 +302,14 @@
       "name": "The Girl in the River",
       "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
       "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt32500181",
+      "type": "movie",
+      "name": "Come with Me",
+      "description": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
+      "poster": "https://image.tmdb.org/t/p/w500/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -598,6 +622,22 @@
       "name": "Gail Daughtry and the Celebrity Sex Pass",
       "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
       "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt39316472",
+      "type": "movie",
+      "name": "Jackass: Best and Last",
+      "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1013,7 +1053,7 @@
       "type": "movie",
       "name": "The Get Out",
       "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/55DIb4KFbP1sxthytmWbVESs8Hg.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1055,6 +1095,14 @@
       "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
       "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
       "releaseInfo": "2026-06-27"
+    },
+    {
+      "id": "tt19035928",
+      "type": "movie",
+      "name": "Lucky Strike",
+      "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
+      "releaseInfo": "2026-06-26"
     },
     {
       "id": "tt34888871",
@@ -1737,6 +1785,14 @@
       "releaseInfo": "2026-05-05"
     },
     {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "The Drama",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "releaseInfo": "2026-05-05"
+    },
+    {
       "id": "tt39276947",
       "type": "movie",
       "name": "Kentucky Roses",
@@ -2095,6 +2151,22 @@
       "description": "For over fifty years, the disappearance of Paul McCartney’s original Höfner bass has been one of rock ‘n’ roll’s enduring mysteries. The Hunt for the Lost Bass tells the extraordinary story of this iconic instrument, and the fan powered quest to find it.",
       "poster": "https://image.tmdb.org/t/p/w500/uC6Zx4uy4C4eGcrJZk7iN34G8Uv.jpg",
       "releaseInfo": "2026-04-02"
+    },
+    {
+      "id": "tt32161395",
+      "type": "movie",
+      "name": "The Sheriff",
+      "description": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
+      "poster": "https://image.tmdb.org/t/p/w500/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
+      "releaseInfo": "2026-04-02"
+    },
+    {
+      "id": "tt38630826",
+      "type": "movie",
+      "name": "The Sheriffs of Savage Wells",
+      "description": "The eccentric town of Savage Wells is looking for a sheriff. Paisley Bell has done the job before and is ready to prove she can do it again. Cade O’Brien, the most famous sheriff in Wyoming Territory, arrives in town, vying for the job as well. Sparks fly as the sheriffs go head-to-head, and the bantering rivals begin to feel like something more than just competitors. But when violent criminals threaten the people they care about, they’ll have to set aside their differences to save the town.",
+      "poster": "https://image.tmdb.org/t/p/w500/sVrVzynNg4KMvnx5uN0inzvshm5.jpg",
+      "releaseInfo": "2026-04-01"
     },
     {
       "id": "tt40224365",
