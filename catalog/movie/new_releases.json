@@ -41,6 +41,14 @@
       "releaseInfo": "2026-09-23"
     },
     {
+      "id": "tt32135632",
+      "type": "movie",
+      "name": "LifeHack",
+      "description": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
+      "poster": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
+      "releaseInfo": "2026-09-23"
+    },
+    {
       "id": "tt37971717",
       "type": "movie",
       "name": "One Last Shot",
@@ -1631,14 +1639,6 @@
       "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tt32135632",
-      "type": "movie",
-      "name": "LifeHack",
-      "description": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
-      "poster": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
-      "releaseInfo": "2026-05-15"
     },
     {
       "id": "tt40792117",
