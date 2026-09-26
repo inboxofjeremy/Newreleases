@@ -745,6 +745,14 @@
       "releaseInfo": "2026-07-30"
     },
     {
+      "id": "tt37603783",
+      "type": "movie",
+      "name": "Above & Below",
+      "description": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
+      "poster": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+      "releaseInfo": "2026-07-29"
+    },
+    {
       "id": "tt36415524",
       "type": "movie",
       "name": "The Gentleman Thief",
@@ -1095,6 +1103,14 @@
       "description": "The 2026 Forbidden Door was a professional wrestling pay-per-view (PPV) event and supershow co-produced by the American promotion All Elite Wrestling (AEW), Mexican promotion Consejo Mundial de Lucha Libre (CMLL) and the Japanese promotions New Japan Pro-Wrestling (NJPW) and World Wonder Ring Stardom (Stardom). It was the fifth annual Forbidden Door event and took place on June 28, 2026 at SAP Center at San Jose in San Jose, California, USA.",
       "poster": "https://image.tmdb.org/t/p/w500/wpLMH4rzHzeal7aWxyn9DM2k6mj.jpg",
       "releaseInfo": "2026-06-28"
+    },
+    {
+      "id": "tt42089279",
+      "type": "movie",
+      "name": "WWE Night of Champions 2026",
+      "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
+      "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
+      "releaseInfo": "2026-06-27"
     },
     {
       "id": "tt19035928",
@@ -1654,6 +1670,14 @@
       "name": "The Run",
       "description": "In a dystopian, post-pandemic world crippled by a global fertility crisis, an aging smuggler struggles to protect a runaway teenager and her newborn baby from ruthless criminals, while trying to complete his run for his vicious employers.",
       "poster": "https://image.tmdb.org/t/p/w500/A14acuPDW2N9XApJHY9nH5cZvTU.jpg",
+      "releaseInfo": "2026-05-14"
+    },
+    {
+      "id": "tt9308022",
+      "type": "movie",
+      "name": "Driver's Ed",
+      "description": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
+      "poster": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
       "releaseInfo": "2026-05-14"
     },
     {
