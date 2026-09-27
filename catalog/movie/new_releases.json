@@ -164,7 +164,7 @@
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
-      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. But the honey game is ruthless, and Amziah's rivals threaten to destroy everything he's built.",
       "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-09-15"
     },
@@ -221,7 +221,7 @@
       "type": "movie",
       "name": "The Fix",
       "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-      "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
       "releaseInfo": "2026-09-11"
     },
     {
@@ -1297,6 +1297,14 @@
       "releaseInfo": "2026-06-19"
     },
     {
+      "id": "tt43140112",
+      "type": "movie",
+      "name": "Extreme Makeover: Homer Edition",
+      "description": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+      "poster": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+      "releaseInfo": "2026-06-17"
+    },
+    {
       "id": "tt36958376",
       "type": "movie",
       "name": "Your Fault: London",
@@ -1521,7 +1529,7 @@
       "releaseInfo": "2026-05-28"
     },
     {
-      "id": "tmdb:1684246",
+      "id": "tt41801288",
       "type": "movie",
       "name": "Untold UK: Vinnie Jones",
       "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
@@ -1553,7 +1561,15 @@
       "releaseInfo": "2026-05-26"
     },
     {
-      "id": "tmdb:1675032",
+      "id": "tt40062572",
+      "type": "movie",
+      "name": "AEW Double or Nothing 2026",
+      "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
+      "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
+      "releaseInfo": "2026-05-24"
+    },
+    {
+      "id": "tt40865915",
       "type": "movie",
       "name": "Josh Johnson: Symphony",
       "description": "In his first HBO comedy special, comedian Josh Johnson debuts original material about our shared experiences as humans – tackling topics like family, religion, and relationships through his unique point of view and signature creativity.",
@@ -1742,6 +1758,14 @@
       "name": "Neglected",
       "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
       "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+      "releaseInfo": "2026-05-08"
+    },
+    {
+      "id": "tt32368538",
+      "type": "movie",
+      "name": "Influenced",
+      "description": "Renowned influencer Dzanielle navigates fake friends among the elite, Ozempic-sharting Upper East Siders, only to discover her true self and her first genuine friendship amidst her comedic quest for a million followers.",
+      "poster": "https://image.tmdb.org/t/p/w500/n08ZWeT73Li3wS7Qu5EDfiPth8e.jpg",
       "releaseInfo": "2026-05-08"
     },
     {
