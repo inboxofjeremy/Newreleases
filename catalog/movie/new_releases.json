@@ -1,19 +1,35 @@
 {
   "metas": [
     {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
+      "id": "tt29356163",
+      "type": "movie",
+      "name": "PAW Patrol: The Dino Movie",
+      "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+      "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
       "id": "tt6933238",
       "type": "movie",
       "name": "UNABOMBER",
       "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "releaseInfo": "2026-09-25"
-    },
-    {
-      "id": "tt34206385",
-      "type": "movie",
-      "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -317,7 +333,7 @@
       "type": "movie",
       "name": "Come with Me",
       "description": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
-      "poster": "https://image.tmdb.org/t/p/w500/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l9NTjlassidebSv9sAyaBQSSGEa.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -806,14 +822,6 @@
       "name": "Euphoria: A Look Back",
       "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
       "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
-      "releaseInfo": "2026-07-24"
-    },
-    {
-      "id": "tt31936369",
-      "type": "movie",
-      "name": "On the Sea",
-      "description": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
-      "poster": "https://image.tmdb.org/t/p/w500/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -1729,14 +1737,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt34966562",
-      "type": "movie",
-      "name": "The Christophers",
-      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
-      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tt40898187",
       "type": "movie",
       "name": "The Roast of Kevin Hart",
@@ -2199,14 +2199,6 @@
       "description": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
       "poster": "https://image.tmdb.org/t/p/w500/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
       "releaseInfo": "2026-03-31"
-    },
-    {
-      "id": "tt40415728",
-      "type": "movie",
-      "name": "Rory McIlroy: The Masters Wait",
-      "description": "Through years of heartbreak and resilience, Rory McIlroy's pursuit of the Green Jacket at the Masters becomes a reckoning with legacy and the final step toward completing golf's rarest achievement, the career Grand Slam.",
-      "poster": "https://image.tmdb.org/t/p/w500/q8xeCqe55zzb7aTJkEUKlTgByVn.jpg",
-      "releaseInfo": "2026-03-30"
     },
     {
       "id": "tt14507394",
