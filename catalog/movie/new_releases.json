@@ -27,9 +27,17 @@
     {
       "id": "tt6933238",
       "type": "movie",
-      "name": "UNABOMBER",
+      "name": "Unabomber",
       "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -110,6 +118,14 @@
       "name": "Best of the Best",
       "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
+      "id": "tt39151344",
+      "type": "movie",
+      "name": "If I Go Will They Miss Me",
+      "description": "A poetic, emotionally expansive father-son story about Black family, grace, imagination, and the hope that love can transform even the most fragile relationships into something more healing and beautiful.",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -1281,14 +1297,6 @@
       "releaseInfo": "2026-06-19"
     },
     {
-      "id": "tt43140112",
-      "type": "movie",
-      "name": "Extreme Makeover: Homer Edition",
-      "description": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
-      "poster": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-      "releaseInfo": "2026-06-17"
-    },
-    {
       "id": "tt36958376",
       "type": "movie",
       "name": "Your Fault: London",
@@ -1513,7 +1521,7 @@
       "releaseInfo": "2026-05-28"
     },
     {
-      "id": "tt41801288",
+      "id": "tmdb:1684246",
       "type": "movie",
       "name": "Untold UK: Vinnie Jones",
       "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
@@ -1545,15 +1553,7 @@
       "releaseInfo": "2026-05-26"
     },
     {
-      "id": "tt40062572",
-      "type": "movie",
-      "name": "AEW Double or Nothing 2026",
-      "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
-      "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
-      "releaseInfo": "2026-05-24"
-    },
-    {
-      "id": "tt40865915",
+      "id": "tmdb:1675032",
       "type": "movie",
       "name": "Josh Johnson: Symphony",
       "description": "In his first HBO comedy special, comedian Josh Johnson debuts original material about our shared experiences as humans – tackling topics like family, religion, and relationships through his unique point of view and signature creativity.",
