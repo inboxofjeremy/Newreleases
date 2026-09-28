@@ -49,6 +49,14 @@
       "releaseInfo": "2026-09-25"
     },
     {
+      "id": "tt44171293",
+      "type": "movie",
+      "name": "Spidey and the Avengers: Halloween Team-Up!",
+      "description": "Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick or treaters and plans to ruin Halloween forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+      "releaseInfo": "2026-09-24"
+    },
+    {
       "id": "tt22526100",
       "type": "movie",
       "name": "The Love Hypothesis",
@@ -246,14 +254,6 @@
       "name": "Band of Brothers: Legacy",
       "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
       "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-      "releaseInfo": "2026-09-09"
-    },
-    {
-      "id": "tt36152310",
-      "type": "movie",
-      "name": "Oasis: Don't Look Back in Anger",
-      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
       "releaseInfo": "2026-09-09"
     },
     {
@@ -580,7 +580,7 @@
       "id": "tt39149951",
       "type": "movie",
       "name": "American Doctor",
-      "description": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth.",
+      "description": "United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza and return to the United States to fight for the patients and colleagues they left behind.",
       "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
       "releaseInfo": "2026-08-14"
     },
@@ -677,7 +677,7 @@
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/usN5ZbLQxTBkegFbf8vCuJarfmy.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1129,6 +1129,14 @@
       "releaseInfo": "2026-06-27"
     },
     {
+      "id": "tt20564678",
+      "type": "movie",
+      "name": "Landship",
+      "description": "The Battle of Passchendaele, 1917. For three years the great war has been waging, and the two armies find themselves entrenched along the four-hundred-mile Western Front. At the start of a pivotal allied offensive to break the stalemate, the nine-man crew of a British MKIV Tank set out to destroy a series of heavily defended German bunkers.",
+      "poster": "https://image.tmdb.org/t/p/w500/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
+      "releaseInfo": "2026-06-26"
+    },
+    {
       "id": "tt19035928",
       "type": "movie",
       "name": "Lucky Strike",
@@ -1278,6 +1286,14 @@
       "name": "Citizen Vigilante",
       "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
       "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tt27802226",
+      "type": "movie",
+      "name": "Virginia Woolf's Night & Day",
+      "description": "In 1910 London, independent-minded Katharine Hilbery defies her family's expectations of marriage to pursue a career in astronomy. But when her father pressures her into an unwanted engagement, her resolve is tested. Through new friendships—including a bold suffragette and a thoughtful editor—Katharine begins to question the limits placed on her by society, love, and tradition, ultimately searching for a path that is truly her own.",
+      "poster": "https://image.tmdb.org/t/p/w500/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
