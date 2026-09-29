@@ -9,14 +9,6 @@
       "releaseInfo": "2026-09-29"
     },
     {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "releaseInfo": "2026-09-29"
-    },
-    {
       "id": "tt29356163",
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
@@ -46,6 +38,22 @@
       "name": "Primetime",
       "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "Heart of the Beast",
+      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt36583977",
+      "type": "movie",
+      "name": "Forgotten Island",
+      "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -677,7 +685,7 @@
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/usN5ZbLQxTBkegFbf8vCuJarfmy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1665,14 +1673,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tt28650488",
-      "type": "movie",
-      "name": "The Super Mario Galaxy Movie",
-      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tt40792117",
       "type": "movie",
       "name": "The Crash",
@@ -1822,14 +1822,6 @@
       "name": "A Great Awakening",
       "description": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
       "poster": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
-      "releaseInfo": "2026-05-05"
-    },
-    {
-      "id": "tt33071426",
-      "type": "movie",
-      "name": "The Drama",
-      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -2199,14 +2191,6 @@
       "description": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
       "poster": "https://image.tmdb.org/t/p/w500/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
       "releaseInfo": "2026-04-02"
-    },
-    {
-      "id": "tt38630826",
-      "type": "movie",
-      "name": "The Sheriffs of Savage Wells",
-      "description": "The eccentric town of Savage Wells is looking for a sheriff. Paisley Bell has done the job before and is ready to prove she can do it again. Cade O’Brien, the most famous sheriff in Wyoming Territory, arrives in town, vying for the job as well. Sparks fly as the sheriffs go head-to-head, and the bantering rivals begin to feel like something more than just competitors. But when violent criminals threaten the people they care about, they’ll have to set aside their differences to save the town.",
-      "poster": "https://image.tmdb.org/t/p/w500/sVrVzynNg4KMvnx5uN0inzvshm5.jpg",
-      "releaseInfo": "2026-04-01"
     },
     {
       "id": "tt14507394",
