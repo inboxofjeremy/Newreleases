@@ -109,7 +109,7 @@
       "type": "movie",
       "name": "Idiots",
       "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -1401,14 +1401,6 @@
       "releaseInfo": "2026-06-09"
     },
     {
-      "id": "tt11378946",
-      "type": "movie",
-      "name": "Michael",
-      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-      "releaseInfo": "2026-06-09"
-    },
-    {
       "id": "tt42611070",
       "type": "movie",
       "name": "Confessions II – The Film",
@@ -1543,14 +1535,6 @@
       "description": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
       "poster": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
       "releaseInfo": "2026-05-28"
-    },
-    {
-      "id": "tt41801288",
-      "type": "movie",
-      "name": "Untold UK: Vinnie Jones",
-      "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
-      "poster": "https://image.tmdb.org/t/p/w500/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
-      "releaseInfo": "2026-05-26"
     },
     {
       "id": "tt29942819",
