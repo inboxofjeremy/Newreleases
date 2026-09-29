@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt36983905",
+      "type": "movie",
+      "name": "The Uprising",
+      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
       "id": "tt1756855",
       "type": "movie",
       "name": "Coyote vs. Acme",
@@ -15,6 +23,14 @@
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
       "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
       "releaseInfo": "2026-09-29"
+    },
+    {
+      "id": "tt44766123",
+      "type": "movie",
+      "name": "NAZA",
+      "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+      "poster": "https://image.tmdb.org/t/p/w500/uLsG2CW8oHnmXWdtPyruSegI8rF.jpg",
+      "releaseInfo": "2026-09-25"
     },
     {
       "id": "tt6933238",
@@ -93,7 +109,7 @@
       "type": "movie",
       "name": "Legend of the White Dragon",
       "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -151,6 +167,14 @@
       "description": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
       "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
       "releaseInfo": "2026-09-16"
+    },
+    {
+      "id": "tt39052963",
+      "type": "movie",
+      "name": "Jo Koy: Blue in the Face",
+      "description": "Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt set.",
+      "poster": "https://image.tmdb.org/t/p/w500/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
+      "releaseInfo": "2026-09-15"
     },
     {
       "id": "tt36809539",
@@ -246,14 +270,6 @@
       "name": "Bad Apples",
       "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
       "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-      "releaseInfo": "2026-09-10"
-    },
-    {
-      "id": "tt36983905",
-      "type": "movie",
-      "name": "The Uprising",
-      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "releaseInfo": "2026-09-10"
     },
     {
@@ -1401,6 +1417,14 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tt11378946",
+      "type": "movie",
+      "name": "Michael",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "releaseInfo": "2026-06-09"
+    },
+    {
       "id": "tt42611070",
       "type": "movie",
       "name": "Confessions II – The Film",
@@ -1537,6 +1561,14 @@
       "releaseInfo": "2026-05-28"
     },
     {
+      "id": "tt41801288",
+      "type": "movie",
+      "name": "Untold UK: Vinnie Jones",
+      "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
+      "poster": "https://image.tmdb.org/t/p/w500/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
       "id": "tt29942819",
       "type": "movie",
       "name": "Voidance",
@@ -1655,6 +1687,14 @@
       "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
       "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
       "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tt31216533",
+      "type": "movie",
+      "name": "500 Miles",
+      "description": "A broken family is forced to come together when 16-year-old Finn and his livewire younger brother Charlie run away from trouble at home in England to reach their estranged grandfather on Ireland’s stunning and wild west coast.",
+      "poster": "https://image.tmdb.org/t/p/w500/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+      "releaseInfo": "2026-05-15"
     },
     {
       "id": "tt40792117",
