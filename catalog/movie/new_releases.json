@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "NAZA",
       "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "poster": "https://image.tmdb.org/t/p/w500/uLsG2CW8oHnmXWdtPyruSegI8rF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -153,6 +153,14 @@
       "releaseInfo": "2026-09-22"
     },
     {
+      "id": "tt37542993",
+      "type": "movie",
+      "name": "Daniel and the Fiery Furnace",
+      "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
+      "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt16478058",
       "type": "movie",
       "name": "Best of the Best",
@@ -212,7 +220,7 @@
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
-      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. But the honey game is ruthless, and Amziah's rivals threaten to destroy everything he's built.",
+      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
       "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "releaseInfo": "2026-09-15"
     },
@@ -725,7 +733,7 @@
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/hFLVVF6GSfFkvDlht6iCsCcFjrh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1302,22 +1310,6 @@
       "name": "7 Piano Sketches",
       "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
       "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42941113",
-      "type": "movie",
-      "name": "Land of Wolves",
-      "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42353154",
-      "type": "movie",
-      "name": "Stepfather",
-      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
-      "poster": "https://image.tmdb.org/t/p/w500/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
@@ -2030,22 +2022,6 @@
       "name": "Little Lorraine",
       "description": "Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.",
       "poster": "https://image.tmdb.org/t/p/w500/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt16112292",
-      "type": "movie",
-      "name": "Glenrothan",
-      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
-      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt13165898",
-      "type": "movie",
-      "name": "Ballistic",
-      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
       "releaseInfo": "2026-04-17"
     },
     {
