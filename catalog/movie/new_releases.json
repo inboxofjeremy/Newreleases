@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+      "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
+      "id": "tt31450459",
+      "type": "movie",
+      "name": "Digger",
+      "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
       "id": "tt36983905",
       "type": "movie",
       "name": "The Uprising",
@@ -85,7 +101,7 @@
       "type": "movie",
       "name": "The Love Hypothesis",
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
       "releaseInfo": "2026-09-23"
     },
     {
@@ -381,7 +397,7 @@
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
       "releaseInfo": "2026-09-03"
     },
     {
@@ -701,7 +717,7 @@
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hFLVVF6GSfFkvDlht6iCsCcFjrh.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -805,7 +821,7 @@
       "type": "movie",
       "name": "The Gentleman Thief",
       "description": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -1069,7 +1085,7 @@
       "type": "movie",
       "name": "Man of War",
       "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-      "poster": "https://image.tmdb.org/t/p/w500/8N3H6JxSt7v8mR2O3z18abe4Qyr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
       "releaseInfo": "2026-07-03"
     },
     {
@@ -1117,7 +1133,7 @@
       "type": "movie",
       "name": "40 Dates and 40 Nights",
       "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/eApzPVSmVzRs8GkJX4FSquxi7RN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -2199,22 +2215,6 @@
       "description": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
       "poster": "https://image.tmdb.org/t/p/w500/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
       "releaseInfo": "2026-04-03"
-    },
-    {
-      "id": "tt40851760",
-      "type": "movie",
-      "name": "McCartney: The Hunt for the Lost Bass",
-      "description": "For over fifty years, the disappearance of Paul McCartney’s original Höfner bass has been one of rock ‘n’ roll’s enduring mysteries. The Hunt for the Lost Bass tells the extraordinary story of this iconic instrument, and the fan powered quest to find it.",
-      "poster": "https://image.tmdb.org/t/p/w500/uC6Zx4uy4C4eGcrJZk7iN34G8Uv.jpg",
-      "releaseInfo": "2026-04-02"
-    },
-    {
-      "id": "tt32161395",
-      "type": "movie",
-      "name": "The Sheriff",
-      "description": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
-      "poster": "https://image.tmdb.org/t/p/w500/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
-      "releaseInfo": "2026-04-02"
     },
     {
       "id": "tt14507394",
