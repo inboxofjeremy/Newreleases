@@ -17,6 +17,14 @@
       "releaseInfo": "2026-10-02"
     },
     {
+      "id": "tt43442522",
+      "type": "movie",
+      "name": "LINKIN PARK: UNSHATTER",
+      "description": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in São Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans—capturing the raw, honest story of what it means to start over.",
+      "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
+      "releaseInfo": "2026-09-30"
+    },
+    {
       "id": "tt36983905",
       "type": "movie",
       "name": "The Uprising",
@@ -126,14 +134,6 @@
       "name": "Legend of the White Dragon",
       "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
       "poster": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
-      "releaseInfo": "2026-09-22"
-    },
-    {
-      "id": "tt33305867",
-      "type": "movie",
-      "name": "Spa Weekend",
-      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-      "poster": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -1173,7 +1173,7 @@
       "type": "movie",
       "name": "Lucky Strike",
       "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -1485,7 +1485,7 @@
       "type": "movie",
       "name": "Seven Snipers",
       "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
