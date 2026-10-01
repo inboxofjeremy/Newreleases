@@ -609,14 +609,6 @@
       "releaseInfo": "2026-08-18"
     },
     {
-      "id": "tt35674521",
-      "type": "movie",
-      "name": "Rose of Nevada",
-      "description": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
-      "releaseInfo": "2026-08-18"
-    },
-    {
       "id": "tt39149951",
       "type": "movie",
       "name": "American Doctor",
@@ -1076,7 +1068,7 @@
       "id": "tt43140642",
       "type": "movie",
       "name": "Simpsley",
-      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she’s tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner’s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+      "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she's tempted by the trappings of his affluent lifestyle. But there’s a big fat fly in the ointment: Skinner's clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
       "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
       "releaseInfo": "2026-07-03"
     },
@@ -1125,7 +1117,7 @@
       "type": "movie",
       "name": "The Get Out",
       "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "poster": "https://image.tmdb.org/t/p/w500/55DIb4KFbP1sxthytmWbVESs8Hg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1302,6 +1294,22 @@
       "name": "7 Piano Sketches",
       "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
       "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tt42941113",
+      "type": "movie",
+      "name": "Land of Wolves",
+      "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tt42353154",
+      "type": "movie",
+      "name": "Stepfather",
+      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
+      "poster": "https://image.tmdb.org/t/p/w500/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
@@ -1665,6 +1673,14 @@
       "releaseInfo": "2026-05-19"
     },
     {
+      "id": "tt33301434",
+      "type": "movie",
+      "name": "Mile End Kicks",
+      "description": "Grace Pine, a 24-year-old music critic, moves to Montreal to write a book on Alanis Morissette's Jagged Little Pill, but her plans are complicated when she becomes romantically involved with two members of an indie band she is covering and decides to become their publicist.",
+      "poster": "https://image.tmdb.org/t/p/w500/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
+      "releaseInfo": "2026-05-19"
+    },
+    {
       "id": "tt31195136",
       "type": "movie",
       "name": "Normal",
@@ -1761,14 +1777,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt30304841",
-      "type": "movie",
-      "name": "$POSITIONS",
-      "description": "A man tries to save his family from the throes of poverty by investing their savings into speculative cryptocurrencies. His life soon becomes an anxiety-inducing nightmare as his investment strategy turns into a full-blown gambling addiction.",
-      "poster": "https://image.tmdb.org/t/p/w500/dCLWCSbqcb9bfOixZokehjimIKK.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tt40898187",
       "type": "movie",
       "name": "The Roast of Kevin Hart",
@@ -1830,14 +1838,6 @@
       "name": "Lorne",
       "description": "An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.",
       "poster": "https://image.tmdb.org/t/p/w500/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
-      "releaseInfo": "2026-05-05"
-    },
-    {
-      "id": "tt33305882",
-      "type": "movie",
-      "name": "A Great Awakening",
-      "description": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
-      "poster": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -2009,6 +2009,22 @@
       "releaseInfo": "2026-04-17"
     },
     {
+      "id": "tt16112292",
+      "type": "movie",
+      "name": "Glenrothan",
+      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
+      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
+      "id": "tt13165898",
+      "type": "movie",
+      "name": "Ballistic",
+      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "releaseInfo": "2026-04-17"
+    },
+    {
       "id": "tt40891145",
       "type": "movie",
       "name": "180",
@@ -2167,14 +2183,6 @@
       "description": "Stand & Deliver 2026 was a professional wrestling event produced by World Wrestling Entertainment (WWE) for its NXT brand, held on April 4, 2026, at The Factory at The District in St. Louis, Missouri, marking the first edition to take place outside of WrestleMania week and NXT’s first standalone event to stream on YouTube in the United States. It was headlined by Joe Hendry (c) vs. Ethan Page vs. Ricky Saints vs. Tony D’Angelo in a Fatal Four Way match for the NXT Championship.",
       "poster": "https://image.tmdb.org/t/p/w500/jv5WLIFqutx4FsPU6WlmnZT5ZFA.jpg",
       "releaseInfo": "2026-04-04"
-    },
-    {
-      "id": "tt37605896",
-      "type": "movie",
-      "name": "S4: The Bob Lazar Story",
-      "description": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
-      "poster": "https://image.tmdb.org/t/p/w500/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
-      "releaseInfo": "2026-04-03"
     },
     {
       "id": "tt14507394",
