@@ -1,12 +1,28 @@
 {
   "metas": [
     {
+      "id": "tt36429458",
+      "type": "movie",
+      "name": "Doing Life",
+      "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
       "id": "tt31450459",
       "type": "movie",
       "name": "Digger",
       "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
       "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
       "releaseInfo": "2026-10-02"
+    },
+    {
+      "id": "tt44568097",
+      "type": "movie",
+      "name": "The Widower: 'Til Death Do Us Part",
+      "description": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+      "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "releaseInfo": "2026-09-30"
     },
     {
       "id": "tt43442522",
@@ -68,7 +84,7 @@
       "id": "tt34206385",
       "type": "movie",
       "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
@@ -86,6 +102,14 @@
       "name": "Forgotten Island",
       "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt36980182",
+      "type": "movie",
+      "name": "The Incomer",
+      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -180,8 +204,16 @@
       "id": "tt41007422",
       "type": "movie",
       "name": "Thomas & Friends: Really Helpful Engines",
-      "description": "Thomas is on a mission to prove he’s the most helpful engine on Sodor! When Thomas finds out that Percy and Gordon all have a mission for their day, Thomas goes on a mission to find a big important job to do!",
+      "description": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends.",
       "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
+      "releaseInfo": "2026-09-17"
+    },
+    {
+      "id": "tt44940424",
+      "type": "movie",
+      "name": "Optimus Prime Awakening",
+      "description": "An animated epilogue to The Transformers: The Movie (1986) and the final performance of Peter Cullen.",
+      "poster": "https://image.tmdb.org/t/p/w500/2hPh4j6ISRtaRwg57HmMrnzTW7O.jpg",
       "releaseInfo": "2026-09-17"
     },
     {
@@ -913,11 +945,27 @@
       "releaseInfo": "2026-07-22"
     },
     {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
       "id": "tt15047880",
       "type": "movie",
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
+      "id": "tt32093575",
+      "type": "movie",
+      "name": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -1441,6 +1489,14 @@
       "releaseInfo": "2026-06-08"
     },
     {
+      "id": "tt33474152",
+      "type": "movie",
+      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
+      "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
+      "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
+      "releaseInfo": "2026-06-07"
+    },
+    {
       "id": "tt32298956",
       "type": "movie",
       "name": "The Passenger",
@@ -1511,6 +1567,14 @@
       "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
       "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
       "releaseInfo": "2026-06-02"
+    },
+    {
+      "id": "tmdb:1638740",
+      "type": "movie",
+      "name": "WWE Clash in Italy Preshow",
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
+      "releaseInfo": "2026-05-31"
     },
     {
       "id": "tt43122943",
