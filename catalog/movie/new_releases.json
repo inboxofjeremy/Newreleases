@@ -913,27 +913,11 @@
       "releaseInfo": "2026-07-22"
     },
     {
-      "id": "tt0427340",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "releaseInfo": "2026-07-22"
-    },
-    {
       "id": "tt15047880",
       "type": "movie",
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
-      "id": "tt32093575",
-      "type": "movie",
-      "name": "Scary Movie",
-      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -1297,6 +1281,14 @@
       "releaseInfo": "2026-06-19"
     },
     {
+      "id": "tt43596160",
+      "type": "movie",
+      "name": "7 Piano Sketches",
+      "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
+      "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
       "id": "tt42941113",
       "type": "movie",
       "name": "Land of Wolves",
@@ -1417,6 +1409,14 @@
       "releaseInfo": "2026-06-09"
     },
     {
+      "id": "tt35224721",
+      "type": "movie",
+      "name": "Neglected",
+      "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
+      "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+      "releaseInfo": "2026-06-09"
+    },
+    {
       "id": "tt17490712",
       "type": "movie",
       "name": "Mortal Kombat II",
@@ -1439,14 +1439,6 @@
       "description": "Follows a chaotic night out involving ambushing, worshipping, and pursuit that ultimately leads back to the dance floor.",
       "poster": "https://image.tmdb.org/t/p/w500/r9xJtmh1Lb2xlVWvGIz10Gl1PjY.jpg",
       "releaseInfo": "2026-06-08"
-    },
-    {
-      "id": "tt33474152",
-      "type": "movie",
-      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-      "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
-      "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
-      "releaseInfo": "2026-06-07"
     },
     {
       "id": "tt32298956",
@@ -1519,14 +1511,6 @@
       "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
       "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
       "releaseInfo": "2026-06-02"
-    },
-    {
-      "id": "tmdb:1638740",
-      "type": "movie",
-      "name": "WWE Clash in Italy Preshow",
-      "description": "",
-      "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
-      "releaseInfo": "2026-05-31"
     },
     {
       "id": "tt43122943",
@@ -1761,6 +1745,14 @@
       "releaseInfo": "2026-05-12"
     },
     {
+      "id": "tt7708226",
+      "type": "movie",
+      "name": "Beast",
+      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+      "releaseInfo": "2026-05-12"
+    },
+    {
       "id": "tt36352591",
       "type": "movie",
       "name": "You, Me & Tuscany",
@@ -1775,14 +1767,6 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
-    },
-    {
-      "id": "tt35224721",
-      "type": "movie",
-      "name": "Neglected",
-      "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
-      "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
-      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tt32352280",
