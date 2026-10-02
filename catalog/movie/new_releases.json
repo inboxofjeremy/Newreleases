@@ -177,11 +177,11 @@
       "releaseInfo": "2026-09-18"
     },
     {
-      "id": "tmdb:1764166",
+      "id": "tt41007422",
       "type": "movie",
       "name": "Thomas & Friends: Really Helpful Engines",
       "description": "Thomas is on a mission to prove he’s the most helpful engine on Sodor! When Thomas finds out that Percy and Gordon all have a mission for their day, Thomas goes on a mission to find a big important job to do!",
-      "poster": "https://image.tmdb.org/t/p/w500/kUZTIpouA957XGN44a83VGdOHZ6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
       "releaseInfo": "2026-09-17"
     },
     {
@@ -1297,14 +1297,6 @@
       "releaseInfo": "2026-06-19"
     },
     {
-      "id": "tt43596160",
-      "type": "movie",
-      "name": "7 Piano Sketches",
-      "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
-      "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
       "id": "tt42941113",
       "type": "movie",
       "name": "Land of Wolves",
@@ -1766,14 +1758,6 @@
       "name": "Marty, Life Is Short",
       "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
       "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
-      "id": "tt7708226",
-      "type": "movie",
-      "name": "Beast",
-      "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-      "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
