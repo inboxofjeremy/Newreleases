@@ -25,6 +25,14 @@
       "releaseInfo": "2026-10-02"
     },
     {
+      "id": "tt39150288",
+      "type": "movie",
+      "name": "The Last First: Winter K2",
+      "description": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
+      "poster": "https://image.tmdb.org/t/p/w500/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
+      "releaseInfo": "2026-10-01"
+    },
+    {
       "id": "tt44568097",
       "type": "movie",
       "name": "The Widower: 'Til Death Do Us Part",
@@ -529,6 +537,14 @@
       "releaseInfo": "2026-08-30"
     },
     {
+      "id": "tt27860696",
+      "type": "movie",
+      "name": "Much About Love",
+      "description": "A TV director returns to her theater roots for a Shakespeare festival and runs into an old flame, rekindling a merry war of wits in this modern retelling of \"Much Ado About Nothing.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/47VBOUhDQLiWrePlNPCCgk2kVYO.jpg",
+      "releaseInfo": "2026-08-29"
+    },
+    {
       "id": "tt11561116",
       "type": "movie",
       "name": "The Whisper Man",
@@ -606,6 +622,14 @@
       "name": "Atlas King",
       "description": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
       "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt36543744",
+      "type": "movie",
+      "name": "Bouchra",
+      "description": "Wrestling with writer’s block for her first film, Bouchra, a queer Moroccan jackal living in NYC, starts having difficult yet overdue phone calls with her mother in Casablanca that begin influencing the project. Balancing the precarity of working as an artist, the rift in her cultural identity and an array of romantic interests, Bouchra’s emotional reckoning becomes her path to expression.",
+      "poster": "https://image.tmdb.org/t/p/w500/vphG0OWe7kL0P5xzQJiGNwKZ4EU.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -750,6 +774,14 @@
       "name": "Minions & Monsters",
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
@@ -1046,6 +1078,22 @@
       "name": "Shipwrecked: Nightmare at Sea",
       "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
       "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
+      "id": "tt32377397",
+      "type": "movie",
+      "name": "Mockbuster",
+      "description": "A struggling filmmaker’s opportunity collides with chaos and compromise when Sharknado’s notorious studio, The Asylum, invites him to direct a \"mockbuster.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
+      "id": "tt35051162",
+      "type": "movie",
+      "name": "The Isolate Thief",
+      "description": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+      "poster": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
       "releaseInfo": "2026-07-10"
     },
     {
@@ -1409,6 +1457,14 @@
       "releaseInfo": "2026-06-12"
     },
     {
+      "id": "tt32275326",
+      "type": "movie",
+      "name": "Find Your Friends",
+      "description": "A sinister spin on twenty-something party culture, revealing the darkness beneath the carefree facade. What starts as a wild girls trip turns dangerous when hostile locals escalate tensions and Amber's past trauma surfaces. As the group fractures under toxic dynamics, their fun getaway transforms into a revenge-fueled nightmare.",
+      "poster": "https://image.tmdb.org/t/p/w500/uFdpiH5zh8wMnOckYtwvVDM0SDE.jpg",
+      "releaseInfo": "2026-06-12"
+    },
+    {
       "id": "tt34915693",
       "type": "movie",
       "name": "Blue Film",
@@ -1494,6 +1550,14 @@
       "name": "One Spoon of Chocolate",
       "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There’s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons.",
       "poster": "https://image.tmdb.org/t/p/w500/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tt36926359",
+      "type": "movie",
+      "name": "Seven Snipers",
+      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "poster": "https://image.tmdb.org/t/p/w500/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -2102,6 +2166,22 @@
       "name": "Untold: Jail Blazers",
       "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
       "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tt36052167",
+      "type": "movie",
+      "name": "The Highest Stakes",
+      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tt41592024",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
