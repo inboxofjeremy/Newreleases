@@ -329,6 +329,14 @@
       "releaseInfo": "2026-09-10"
     },
     {
+      "id": "tt29714073",
+      "type": "movie",
+      "name": "Bad Apples",
+      "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+      "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+      "releaseInfo": "2026-09-10"
+    },
+    {
       "id": "tt33510831",
       "type": "movie",
       "name": "Band of Brothers: Legacy",
@@ -694,14 +702,6 @@
       "name": "Don't Say Good Luck",
       "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt6743524",
-      "type": "movie",
-      "name": "Camp Rock 3",
-      "description": "When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.",
-      "poster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1529,14 +1529,6 @@
       "releaseInfo": "2026-06-05"
     },
     {
-      "id": "tt33397980",
-      "type": "movie",
-      "name": "Office Romance",
-      "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-      "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
       "id": "tt32192973",
       "type": "movie",
       "name": "One Spoon of Chocolate",
@@ -2142,14 +2134,6 @@
       "name": "Balls Up",
       "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tt41777632",
-      "type": "movie",
-      "name": "Artemis: To the Moon and Back",
-      "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
-      "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
     },
     {
