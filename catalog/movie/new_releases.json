@@ -121,7 +121,7 @@
       "releaseInfo": "2026-09-25"
     },
     {
-      "id": "tt44171293",
+      "id": "tt37850679",
       "type": "movie",
       "name": "Spidey and the Avengers: Halloween Team-Up!",
       "description": "Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick or treaters and plans to ruin Halloween forever.",
@@ -181,7 +181,7 @@
       "type": "movie",
       "name": "Super Troopers 3",
       "description": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
-      "poster": "https://image.tmdb.org/t/p/w500/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -399,14 +399,6 @@
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
-    },
-    {
-      "id": "tt43600387",
-      "type": "movie",
-      "name": "WWE Sunday Night's Main Event",
-      "description": "The first ever WWE Sunday Night's Main Event takes place on Sunday, September 6, 2026, live from the State Farm Arena in Atlanta, Georgia during Labor Day weekend. The special television event streams live in the U.S. on Peacock starting at 8 p.m. ET.",
-      "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
-      "releaseInfo": "2026-09-06"
     },
     {
       "id": "tt44942157",
@@ -702,6 +694,14 @@
       "name": "Don't Say Good Luck",
       "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "releaseInfo": "2026-08-14"
+    },
+    {
+      "id": "tt6743524",
+      "type": "movie",
+      "name": "Camp Rock 3",
+      "description": "When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.",
+      "poster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1065,14 +1065,6 @@
       "releaseInfo": "2026-07-10"
     },
     {
-      "id": "tt43595399",
-      "type": "movie",
-      "name": "Shipwrecked: Nightmare at Sea",
-      "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-      "releaseInfo": "2026-07-10"
-    },
-    {
       "id": "tt32377397",
       "type": "movie",
       "name": "Mockbuster",
@@ -1297,14 +1289,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
       "id": "tt30827810",
       "type": "movie",
       "name": "I Love Boosters",
@@ -1526,6 +1510,14 @@
       "name": "Signal One",
       "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
       "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tt33397980",
+      "type": "movie",
+      "name": "Office Romance",
+      "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+      "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
@@ -2134,6 +2126,14 @@
       "name": "Balls Up",
       "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "releaseInfo": "2026-04-15"
+    },
+    {
+      "id": "tt41777632",
+      "type": "movie",
+      "name": "Artemis: To the Moon and Back",
+      "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
+      "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
       "releaseInfo": "2026-04-15"
     },
     {
