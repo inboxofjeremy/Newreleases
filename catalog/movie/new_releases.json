@@ -41,6 +41,14 @@
       "releaseInfo": "2026-10-02"
     },
     {
+      "id": "tt36981462",
+      "type": "movie",
+      "name": "Union County",
+      "description": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+      "poster": "https://image.tmdb.org/t/p/w500/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
       "id": "tt39150288",
       "type": "movie",
       "name": "The Last First: Winter K2",
@@ -87,6 +95,14 @@
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
       "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
       "releaseInfo": "2026-09-29"
+    },
+    {
+      "id": "tt43651150",
+      "type": "movie",
+      "name": "AEW All Out 2026",
+      "description": "The 2026 All Out was a professional wrestling pay-per-view (PPV) event produced by All Elite Wrestling (AEW) that took place on September 26, 2026, at the NOW Arena in Hoffman Estates, Illinois, USA. The show was headlined by an AEW World Title match between current Champion Will Ospreay and challenger Jon Moxley.",
+      "poster": "https://image.tmdb.org/t/p/w500/3Id93rTWF7zWT55Y16NtJ1lS1Am.jpg",
+      "releaseInfo": "2026-09-26"
     },
     {
       "id": "tt44766123",
@@ -1065,6 +1081,14 @@
       "releaseInfo": "2026-07-10"
     },
     {
+      "id": "tt43595399",
+      "type": "movie",
+      "name": "Shipwrecked: Nightmare at Sea",
+      "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "releaseInfo": "2026-07-10"
+    },
+    {
       "id": "tt32377397",
       "type": "movie",
       "name": "Mockbuster",
@@ -1286,6 +1310,14 @@
       "name": "Carolina Caroline",
       "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
       "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Tuner",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
