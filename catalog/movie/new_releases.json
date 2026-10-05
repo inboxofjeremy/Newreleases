@@ -121,6 +121,14 @@
       "releaseInfo": "2026-09-25"
     },
     {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
       "id": "tt36980182",
       "type": "movie",
       "name": "The Incomer",
@@ -974,6 +982,14 @@
       "name": "A Toxic Love Story",
       "description": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
       "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "releaseInfo": "2026-07-22"
+    },
+    {
+      "id": "tt6633934",
+      "type": "movie",
+      "name": "Bad Counselors",
+      "description": "After committing a crime on campus, two frat-stars pretend to be Christian camp counselors in order to fulfill court ordered community service.",
+      "poster": "https://image.tmdb.org/t/p/w500/raWg26WVDQeqbTizRjdgJpCHssd.jpg",
       "releaseInfo": "2026-07-22"
     },
     {
