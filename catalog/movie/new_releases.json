@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt32268691",
-      "type": "movie",
-      "name": "Onslaught",
-      "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "releaseInfo": "2026-10-06"
-    },
-    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -133,7 +125,7 @@
       "type": "movie",
       "name": "The Incomer",
       "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/QSHsgR6ZTAbnDkHjRhaxkL3caj.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -415,6 +407,14 @@
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt43600387",
+      "type": "movie",
+      "name": "WWE Sunday Night's Main Event",
+      "description": "The first ever WWE Sunday Night's Main Event takes place on Sunday, September 6, 2026, live from the State Farm Arena in Atlanta, Georgia during Labor Day weekend. The special television event streams live in the U.S. on Peacock starting at 8 p.m. ET.",
+      "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+      "releaseInfo": "2026-09-06"
     },
     {
       "id": "tt44942157",
@@ -2223,22 +2223,6 @@
       "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
       "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
       "releaseInfo": "2026-04-10"
-    },
-    {
-      "id": "tt36933778",
-      "type": "movie",
-      "name": "Sheng Wang: Purple",
-      "description": "Sheng Wang shares his thoughts on edible bras, braving the ghosts in your house and guarding expensive berries from your friends' kids.",
-      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
-      "releaseInfo": "2026-04-07"
-    },
-    {
-      "id": "tt40224399",
-      "type": "movie",
-      "name": "Untold: Chess Mates",
-      "description": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
-      "poster": "https://image.tmdb.org/t/p/w500/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
-      "releaseInfo": "2026-04-07"
     },
     {
       "id": "tt14507394",
