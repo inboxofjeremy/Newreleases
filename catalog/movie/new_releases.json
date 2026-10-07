@@ -1,6 +1,30 @@
 {
   "metas": [
     {
+      "id": "tt37510326",
+      "type": "movie",
+      "name": "The Social Reckoning",
+      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
+      "id": "tt36150957",
+      "type": "movie",
+      "name": "Oasis: Don't Look Back in Anger",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
+      "id": "tt29549490",
+      "type": "movie",
+      "name": "California Schemin'",
+      "description": "After being ridiculed for their Scottish accents, two ambitious musicians reinvent themselves as American rappers and fool the British music industry into a lucrative record deal, only for their elaborate lie to unravel under the weight of instant fame.",
+      "poster": "https://image.tmdb.org/t/p/w500/2tYRbCPZVQD1AjZ6YGMRx71lbDU.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -1905,14 +1929,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt36352591",
-      "type": "movie",
-      "name": "You, Me & Tuscany",
-      "description": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
       "id": "tt40898187",
       "type": "movie",
       "name": "The Roast of Kevin Hart",
@@ -2246,14 +2262,6 @@
       "name": "Trevor Noah: Joy in the Trenches",
       "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
       "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
-      "id": "tt25868520",
-      "type": "movie",
-      "name": "Rise of the Conqueror",
-      "description": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
-      "poster": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
