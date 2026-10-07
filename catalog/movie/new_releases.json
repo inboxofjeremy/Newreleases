@@ -36,7 +36,7 @@
       "id": "tt32298494",
       "type": "movie",
       "name": "Late Fame",
-      "description": "At the very end of the 1970's, post office worker Ed Saxberger wrote a book of poetry that nobody cared about. After an eager and flattering fan appears on his doorstep, Saxberger is beckoned into a coterie of young admirers who anoint him a rediscovered genius. The group of downtown bohemians is led by their \"tragic heroine,\" Gloria. Intoxicated by the attention, and Gloria's alluring presence, Saxberger gradually reckons with the authenticity of his newfound poetic circle.",
+      "description": "At the very end of the 1970s, post office worker Ed Saxberger wrote a book of poetry that nobody cared about. After an eager and flattering fan appears on his doorstep, Saxberger is beckoned into a coterie of young admirers who anoint him a rediscovered genius. The group of downtown bohemians is led by their \"tragic heroine,\" Gloria. Intoxicated by the attention, and Gloria's alluring presence, Saxberger gradually reckons with the authenticity of his newfound poetic circle.",
       "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
       "releaseInfo": "2026-10-06"
     },
@@ -57,11 +57,19 @@
       "releaseInfo": "2026-10-02"
     },
     {
+      "id": "tt33038782",
+      "type": "movie",
+      "name": "Stranglehold",
+      "description": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
       "id": "tt32261958",
       "type": "movie",
       "name": "Verity",
       "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-      "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
       "releaseInfo": "2026-10-02"
     },
     {
@@ -823,6 +831,14 @@
       "description": "Reluctantly sent to a summer retreat for young cancer survivors, a teenager in remission unexpectedly finds deep connections and new beginnings among fellow campers.",
       "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
       "releaseInfo": "2026-08-12"
+    },
+    {
+      "id": "tt43701966",
+      "type": "movie",
+      "name": "Rory Scovel: Show Must Go On",
+      "description": "With a hypothetical home invasion, a biblical reenactment, and his late dad's final wish, Rory Scovel delivers unrelenting laughs in this raucous stand-up special filmed at The Neptune in Seattle, Washington.",
+      "poster": "https://image.tmdb.org/t/p/w500/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+      "releaseInfo": "2026-08-11"
     },
     {
       "id": "tt28370319",
@@ -1806,6 +1822,14 @@
       "name": "Dua Lipa: Live from Mexico",
       "description": "Live from Mexico, a brand new concert film capturing the high-octane finale of the global Radical Optimism Tour at Mexico City's Estadio GNP Seguros",
       "poster": "https://image.tmdb.org/t/p/w500/gTOfJRBUsSfuB2sPYPLPcn8ZPbo.jpg",
+      "releaseInfo": "2026-05-21"
+    },
+    {
+      "id": "tt36615154",
+      "type": "movie",
+      "name": "A Machu Picchu Proposal",
+      "description": "Katie agrees to join her brother Dan and his girlfriend Luciana on a trip to Peru. Dan plans to propose to Luciana in a grand way at Machu Picchu at the end of the week and needs Katie’s Spanish speaking skills to ask Luciana’s Peruvian father for his blessing. However, when Luciana’s friend, Chef Carlos, arrives, he accidentally ruins each proposal attempt. Refusing to give up, Katie does everything in her power to make this proposal happen, until Dan calls it off. Katie must lean into Chef Carlos’ spontaneity to not only save the day and the proposal, and Carlos may just win Katie’s heart too!",
+      "poster": "https://image.tmdb.org/t/p/w500/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
       "releaseInfo": "2026-05-21"
     },
     {
