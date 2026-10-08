@@ -181,7 +181,7 @@
       "type": "movie",
       "name": "Forgotten Island",
       "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -525,7 +525,7 @@
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "poster": "https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "releaseInfo": "2026-09-03"
     },
     {
@@ -2254,6 +2254,14 @@
       "name": "Untold: Jail Blazers",
       "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
       "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+      "releaseInfo": "2026-04-14"
+    },
+    {
+      "id": "tt31418911",
+      "type": "movie",
+      "name": "Special Op: Rent-a-Cop",
+      "description": "After falling in love and leaving Special Ops, special agent Brock Belfry finds himself working security in a small town and ends up escorting a van full of senior citizens to Las Vegas for their summer trip. But the trip will not go smoothly as he realizes that his archenemies have tracked him down and plot to take him out.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKYcWM4RjY0si69Fbyhes1IhIUm.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
