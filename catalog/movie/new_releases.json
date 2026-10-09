@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt31049299",
+      "type": "movie",
+      "name": "Animals",
+      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
       "id": "tt37510326",
       "type": "movie",
       "name": "The Social Reckoning",
@@ -47,6 +55,14 @@
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "releaseInfo": "2026-10-06"
+    },
+    {
+      "id": "tt34798706",
+      "type": "movie",
+      "name": "Extra Geography",
+      "description": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love.",
+      "poster": "https://image.tmdb.org/t/p/w500/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+      "releaseInfo": "2026-10-02"
     },
     {
       "id": "tt36429458",
@@ -1625,6 +1641,14 @@
       "releaseInfo": "2026-06-07"
     },
     {
+      "id": "tt4931958",
+      "type": "movie",
+      "name": "Madfabulous",
+      "description": "When the flamboyant Henry Paget arrives in 1890s North Wales to claim his aristocratic inheritance, his theatrical flair and defiant eccentricities send shockwaves through the upper-class elite, much to the amusement of the local townspeople. Alongside his spirited cousin, Lily, and loyal butler, Gelert, Henry tries to carve out his own identity as the Fifth Marquess, navigating suffocating traditions, scheming relatives, and the long shadow cast by his estranged father.",
+      "poster": "https://image.tmdb.org/t/p/w500/6NRs224nLjg53aSuoRJK20t9zXC.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tt32298956",
       "type": "movie",
       "name": "The Passenger",
@@ -2110,6 +2134,14 @@
       "name": "Finding Satoshi",
       "description": "At the center of Bitcoin lies the greatest unsolved mystery of the digital age. Who created it, and who is Satoshi Nakamoto? Finding Satoshi presents the conclusion reached after a four-year, evidence-based investigation, drawing on original reporting and rare access to key figures in crypto to uncover the human ideas, motivations, and philosophy behind the code that reshaped global finance.",
       "poster": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tt40233113",
+      "type": "movie",
+      "name": "Orangutan",
+      "description": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
+      "poster": "https://image.tmdb.org/t/p/w500/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
       "releaseInfo": "2026-04-22"
     },
     {
