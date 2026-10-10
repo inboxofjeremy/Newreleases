@@ -17,6 +17,14 @@
       "releaseInfo": "2026-10-09"
     },
     {
+      "id": "tt33214716",
+      "type": "movie",
+      "name": "The Florist",
+      "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+      "poster": "https://image.tmdb.org/t/p/w500/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
       "id": "tt36150957",
       "type": "movie",
       "name": "Oasis: Don't Look Back in Anger",
@@ -1967,14 +1975,6 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
-    },
-    {
-      "id": "tt32352280",
-      "type": "movie",
-      "name": "At the Place of Ghosts",
-      "description": "Haunted by the past, siblings Mise’l and Antle are destined to reunite and join forces against a dark spirit that emerges from their shared childhood. Once inseparable, their fractured relationship set by years of silence and a violent episode rooted in homophobia, is tested as they must return to Sk+te’kmujue’kati (the Place of Ghosts) a forest steeped in ancestral memory where time bends. What initiates from trauma soon transforms into an odyssey of healing, as Mise’l and Antle confront their caretaker’s cruelty, the weight of family secrets, and their own deepest fears.",
-      "poster": "https://image.tmdb.org/t/p/w500/lozVkhb2ShU9TTUOvymhYEaQx4d.jpg",
-      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tt32368538",
