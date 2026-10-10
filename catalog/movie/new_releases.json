@@ -33,6 +33,14 @@
       "releaseInfo": "2026-10-09"
     },
     {
+      "id": "tt37660515",
+      "type": "movie",
+      "name": "Barrio Triste",
+      "description": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence.",
+      "poster": "https://image.tmdb.org/t/p/w500/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
       "id": "tt28498219",
       "type": "movie",
       "name": "Matchbox the Movie",
@@ -1545,14 +1553,6 @@
       "releaseInfo": "2026-06-16"
     },
     {
-      "id": "tt34705112",
-      "type": "movie",
-      "name": "Busboys",
-      "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
-      "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
-      "releaseInfo": "2026-06-16"
-    },
-    {
       "id": "tt42277796",
       "type": "movie",
       "name": "Texas Two-Step",
@@ -1975,6 +1975,14 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
+    },
+    {
+      "id": "tt32352280",
+      "type": "movie",
+      "name": "At the Place of Ghosts",
+      "description": "Haunted by the past, siblings Mise’l and Antle are destined to reunite and join forces against a dark spirit that emerges from their shared childhood. Once inseparable, their fractured relationship set by years of silence and a violent episode rooted in homophobia, is tested as they must return to Sk+te’kmujue’kati (the Place of Ghosts) a forest steeped in ancestral memory where time bends. What initiates from trauma soon transforms into an odyssey of healing, as Mise’l and Antle confront their caretaker’s cruelty, the weight of family secrets, and their own deepest fears.",
+      "poster": "https://image.tmdb.org/t/p/w500/lozVkhb2ShU9TTUOvymhYEaQx4d.jpg",
+      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tt32368538",
