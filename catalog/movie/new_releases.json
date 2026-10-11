@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt32588798",
+      "type": "movie",
+      "name": "Practical Magic 2",
+      "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Runner",
+      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
       "id": "tt31049299",
       "type": "movie",
       "name": "Animals",
@@ -13,7 +29,7 @@
       "type": "movie",
       "name": "The Social Reckoning",
       "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -36,8 +52,8 @@
       "id": "tt37660515",
       "type": "movie",
       "name": "Barrio Triste",
-      "description": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence.",
-      "poster": "https://image.tmdb.org/t/p/w500/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
+      "description": "In the 1980s Medellín, Colombia, a group of disaffected teens documents their lives after stealing a TV reporter's camera.",
+      "poster": "https://image.tmdb.org/t/p/w500/jLYeXiwMEJE5rnlczkyEPl0IeaZ.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -1381,7 +1397,7 @@
       "type": "movie",
       "name": "Strung",
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/exO0gvoZUXERxUaejyDchobOvjD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
       "releaseInfo": "2026-06-26"
     },
     {
@@ -2257,14 +2273,6 @@
       "releaseInfo": "2026-04-17"
     },
     {
-      "id": "tt37540875",
-      "type": "movie",
-      "name": "Roommates",
-      "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "poster": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
       "id": "tt18212138",
       "type": "movie",
       "name": "Kill Code",
@@ -2318,14 +2326,6 @@
       "name": "The Highest Stakes",
       "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
       "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
-      "id": "tt41592024",
-      "type": "movie",
-      "name": "Trevor Noah: Joy in the Trenches",
-      "description": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
-      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
       "releaseInfo": "2026-04-14"
     },
     {
