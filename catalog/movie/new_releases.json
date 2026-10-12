@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "The Florist",
       "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
-      "poster": "https://image.tmdb.org/t/p/w500/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -836,7 +836,7 @@
       "id": "tt36590417",
       "type": "movie",
       "name": "Don't Say Good Luck",
-      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical—until she's suddenly facing more drama at home than on the stage.",
       "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "releaseInfo": "2026-08-14"
     },
@@ -2295,38 +2295,6 @@
       "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
       "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tt41777632",
-      "type": "movie",
-      "name": "Artemis: To the Moon and Back",
-      "description": "The inside story of the Artemis II mission - filmed over three and a half years at NASA. How did four astronauts travel to the moon, going deeper into space than ever before?",
-      "poster": "https://image.tmdb.org/t/p/w500/pwk8L6mAirSAhjYz4ATC1FjKSTB.jpg",
-      "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tt40224401",
-      "type": "movie",
-      "name": "Untold: Jail Blazers",
-      "description": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
-      "id": "tt31418911",
-      "type": "movie",
-      "name": "Special Op: Rent-a-Cop",
-      "description": "After falling in love and leaving Special Ops, special agent Brock Belfry finds himself working security in a small town and ends up escorting a van full of senior citizens to Las Vegas for their summer trip. But the trip will not go smoothly as he realizes that his archenemies have tracked him down and plot to take him out.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKYcWM4RjY0si69Fbyhes1IhIUm.jpg",
-      "releaseInfo": "2026-04-14"
-    },
-    {
-      "id": "tt36052167",
-      "type": "movie",
-      "name": "The Highest Stakes",
-      "description": "Five strangers are invited to a luxurious hotel for a high-stakes poker game. What begins as a contest for fortune quickly spirals into something far more dangerous. As tensions rise and secrets surface, the players realize the stakes aren’t just about money—they’re about survival. In a night of escalating peril, trust becomes a weapon, and every choice could seal their fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
-      "releaseInfo": "2026-04-14"
     },
     {
       "id": "tt29218808",
