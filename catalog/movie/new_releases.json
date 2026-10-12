@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "Barrio Triste",
       "description": "In the 1980s Medellín, Colombia, a group of disaffected teens documents their lives after stealing a TV reporter's camera.",
-      "poster": "https://image.tmdb.org/t/p/w500/jLYeXiwMEJE5rnlczkyEPl0IeaZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -159,6 +159,14 @@
       "description": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in São Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans—capturing the raw, honest story of what it means to start over.",
       "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
       "releaseInfo": "2026-09-30"
+    },
+    {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+      "releaseInfo": "2026-09-29"
     },
     {
       "id": "tt36983905",
