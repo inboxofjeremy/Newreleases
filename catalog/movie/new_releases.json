@@ -17,11 +17,19 @@
       "releaseInfo": "2026-10-13"
     },
     {
+      "id": "tt38275278",
+      "type": "movie",
+      "name": "WWE Money in the Bank 2026",
+      "description": "The 2026 Money in the Bank, also promoted as Money in the Bank: New Orleans, is an upcoming professional wrestling premium live event produced by WWE. It will be the 17th annual Money in the Bank event and will take place on Saturday, October 10, 2026, in New Orleans, Louisiana. This will be the first Money in the Bank to be held in October, making it the latest scheduled Money in the Bank in a calendar year, and the first one to be held after SummerSlam.",
+      "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+      "releaseInfo": "2026-10-10"
+    },
+    {
       "id": "tt31049299",
       "type": "movie",
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-      "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -116,7 +124,7 @@
       "id": "tt32261958",
       "type": "movie",
       "name": "Verity",
-      "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
       "releaseInfo": "2026-10-02"
     },
@@ -204,8 +212,8 @@
       "id": "tt44766123",
       "type": "movie",
       "name": "NAZA",
-      "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "description": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -385,14 +393,6 @@
       "releaseInfo": "2026-09-15"
     },
     {
-      "id": "tt38953026",
-      "type": "movie",
-      "name": "Lion Fist",
-      "description": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
-      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "releaseInfo": "2026-09-15"
-    },
-    {
       "id": "tt27706593",
       "type": "movie",
       "name": "The Rivals of Amziah King",
@@ -405,7 +405,7 @@
       "type": "movie",
       "name": "The End of Oak Street",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -959,6 +959,14 @@
       "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it.",
       "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
       "releaseInfo": "2026-08-05"
+    },
+    {
+      "id": "tmdb:1794780",
+      "type": "movie",
+      "name": "Absolute Cinema",
+      "description": "Theodore, a young and passionate rising director, is challenged when he is approached by a producer interested in his enthusiasm for film. As he begins to make his first ever short film, Theodore's true personality arises.",
+      "poster": "https://image.tmdb.org/t/p/w500/60CWEWsOcTsX3KuSOOtQq2CXMqf.jpg",
+      "releaseInfo": "2026-08-04"
     },
     {
       "id": "tt32104007",
@@ -2273,36 +2281,12 @@
       "releaseInfo": "2026-04-17"
     },
     {
-      "id": "tt32394984",
-      "type": "movie",
-      "name": "Brothers Under Fire",
-      "description": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-      "poster": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
       "id": "tt18212138",
       "type": "movie",
       "name": "Kill Code",
       "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
       "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
       "releaseInfo": "2026-04-16"
-    },
-    {
-      "id": "tt8760666",
-      "type": "movie",
-      "name": "Truly Naked",
-      "description": "An introverted teen, who has only ever experienced sex through the lens while working for his father’s pornography business, must step out from behind the camera when a feisty classmate challenges him to embrace a real connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/y23B9EnC0LDw8zMKlpXJauyLH7k.jpg",
-      "releaseInfo": "2026-04-15"
-    },
-    {
-      "id": "tt26735622",
-      "type": "movie",
-      "name": "Balls Up",
-      "description": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "releaseInfo": "2026-04-15"
     },
     {
       "id": "tt29218808",
