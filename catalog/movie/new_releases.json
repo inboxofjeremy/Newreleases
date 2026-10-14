@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt35856037",
+      "type": "movie",
+      "name": "Your Mother Your Mother Your Mother",
+      "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
+      "id": "tt13609648",
+      "type": "movie",
+      "name": "Sense and Sensibility",
+      "description": "A charming, witty, and deeply relatable story of love and sisterhood.",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
       "id": "tt32588798",
       "type": "movie",
       "name": "Practical Magic 2",
@@ -337,6 +353,14 @@
       "releaseInfo": "2026-09-18"
     },
     {
+      "id": "tt39150234",
+      "type": "movie",
+      "name": "The History of Concrete",
+      "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+      "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt16478058",
       "type": "movie",
       "name": "Best of the Best",
@@ -390,6 +414,14 @@
       "name": "After Impact",
       "description": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
+      "id": "tt38953026",
+      "type": "movie",
+      "name": "Lion Fist",
+      "description": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
+      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -1929,22 +1961,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tt31195136",
-      "type": "movie",
-      "name": "Normal",
-      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tt27200708",
-      "type": "movie",
-      "name": "Mother Mary",
-      "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-      "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tt31216533",
       "type": "movie",
       "name": "500 Miles",
@@ -2263,30 +2279,6 @@
       "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
       "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
       "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt40891145",
-      "type": "movie",
-      "name": "180",
-      "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-      "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt39314348",
-      "type": "movie",
-      "name": "A Gorilla Story: Told by David Attenborough",
-      "description": "Veteran naturalist Sir David Attenborough tells the story of a remarkable group of gorillas, from his first encounter in the '70s to the present day.",
-      "poster": "https://image.tmdb.org/t/p/w500/5X6VyjG0YYMbJu94l6xEY2YQvss.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt18212138",
-      "type": "movie",
-      "name": "Kill Code",
-      "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
-      "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
-      "releaseInfo": "2026-04-16"
     },
     {
       "id": "tt29218808",
