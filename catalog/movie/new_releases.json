@@ -37,7 +37,7 @@
       "type": "movie",
       "name": "Love of Your Life",
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-      "poster": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "releaseInfo": "2026-10-14"
     },
     {
@@ -2198,6 +2198,14 @@
       "name": "Orangutan",
       "description": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
       "poster": "https://image.tmdb.org/t/p/w500/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
+      "releaseInfo": "2026-04-22"
+    },
+    {
+      "id": "tt39444813",
+      "type": "movie",
+      "name": "Lainey Wilson: Keepin' Country Cool",
+      "description": "Lainey Wilson redefines what it means to be a modern country star while exploring her struggles and triumphs at a pivotal career moment.",
+      "poster": "https://image.tmdb.org/t/p/w500/axIiOZ0yVD258CTpbw7mTF9h6Ph.jpg",
       "releaseInfo": "2026-04-22"
     },
     {
