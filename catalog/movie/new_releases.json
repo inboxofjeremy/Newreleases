@@ -33,6 +33,14 @@
       "releaseInfo": "2026-10-14"
     },
     {
+      "id": "tt9601292",
+      "type": "movie",
+      "name": "The Fix",
+      "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+      "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
       "id": "tt32588798",
       "type": "movie",
       "name": "Practical Magic 2",
@@ -385,10 +393,18 @@
       "releaseInfo": "2026-09-18"
     },
     {
+      "id": "tt10794054",
+      "type": "movie",
+      "name": "The Weight",
+      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt39151344",
       "type": "movie",
       "name": "If I Go Will They Miss Me",
-      "description": "A poetic, emotionally expansive father-son story about Black family, grace, imagination, and the hope that love can transform even the most fragile relationships into something more healing and beautiful.",
+      "description": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
       "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
       "releaseInfo": "2026-09-18"
     },
@@ -494,14 +510,6 @@
       "name": "Drive Through Fire",
       "description": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
       "poster": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
-      "releaseInfo": "2026-09-11"
-    },
-    {
-      "id": "tt9601292",
-      "type": "movie",
-      "name": "The Fix",
-      "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-      "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
       "releaseInfo": "2026-09-11"
     },
     {
@@ -902,14 +910,6 @@
       "name": "Camp Rock 3",
       "description": "When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.",
       "poster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "releaseInfo": "2026-08-14"
-    },
-    {
-      "id": "tt33269988",
-      "type": "movie",
-      "name": "The Birthday Party",
-      "description": "The late 1970s, somewhere in the Mediterranean: Marcos Timoleon, a tycoon, is throwing a lavish, extravagant birthday party for Sofia on his exclusive private island. The party is a perfect excuse for various people in his life to approach him with their own agendas.",
-      "poster": "https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -1633,14 +1633,6 @@
       "releaseInfo": "2026-06-16"
     },
     {
-      "id": "tt34705112",
-      "type": "movie",
-      "name": "Busboys",
-      "description": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
-      "poster": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
-      "releaseInfo": "2026-06-16"
-    },
-    {
       "id": "tt42277796",
       "type": "movie",
       "name": "Texas Two-Step",
@@ -1798,14 +1790,6 @@
       "name": "In the Grey",
       "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
       "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "releaseInfo": "2026-06-02"
-    },
-    {
-      "id": "tt33712666",
-      "type": "movie",
-      "name": "Erupcja",
-      "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.",
-      "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
       "releaseInfo": "2026-06-02"
     },
     {
@@ -1969,14 +1953,6 @@
       "releaseInfo": "2026-05-19"
     },
     {
-      "id": "tt33301434",
-      "type": "movie",
-      "name": "Mile End Kicks",
-      "description": "Grace Pine, a 24-year-old music critic, moves to Montreal to write a book on Alanis Morissette's Jagged Little Pill, but her plans are complicated when she becomes romantically involved with two members of an indie band she is covering and decides to become their publicist.",
-      "poster": "https://image.tmdb.org/t/p/w500/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
       "id": "tt31216533",
       "type": "movie",
       "name": "500 Miles",
@@ -2094,14 +2070,6 @@
       "name": "Gary",
       "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlight moments of humor, small-town culture and the unpredictable nature of work travel. Their experience offers new perspectives on their friendship.",
       "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
-      "releaseInfo": "2026-05-05"
-    },
-    {
-      "id": "tt39847629",
-      "type": "movie",
-      "name": "Lorne",
-      "description": "An unprecedented, behind-the-scenes glimpse at the man who built the inimitable empire of comedy, shaping television and culture for generations. The documentary features exclusive footage, archival treasures, and candid interviews with the show’s most iconic cast members and writers including Tina Fey, Maya Rudolph, John Mulaney, Andy Samberg, Conan O’Brien, Chris Rock and many more.",
-      "poster": "https://image.tmdb.org/t/p/w500/u1Jdy5JfQpYUFA76hX5qcZyLKXD.jpg",
       "releaseInfo": "2026-05-05"
     },
     {
@@ -2239,62 +2207,6 @@
       "description": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
       "poster": "https://image.tmdb.org/t/p/w500/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
       "releaseInfo": "2026-04-18"
-    },
-    {
-      "id": "tt41378543",
-      "type": "movie",
-      "name": "Ramy Youssef: In Love",
-      "description": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt41561164",
-      "type": "movie",
-      "name": "Paul Smith: Pablo Live",
-      "description": "From one of the UK’s most viral stand-up comedians, in his debut special, “Paul Smith: Pablo Live” is the show you’ve all been waiting for. Filmed live at the 3Olympia Theatre in Dublin, it’s packed full of Smith’s signature, unflinching, laugh out loud comedy. Featuring a mix of his trademark audience roasting, razor-sharp wit and hilarious true stories of his everyday life, from spending money in the most irresponsible way possible, why boys are better than girls and raising kids without leading by example, this is the full, unfiltered Paul Smith experience, and you won't want to miss a minute of it.",
-      "poster": "https://image.tmdb.org/t/p/w500/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt36733913",
-      "type": "movie",
-      "name": "Everyone Is Lying to You for Money",
-      "description": "With any and all things crypto being pushed by celebrities, influencers, and politicians alike, actor-turned-author and director Ben McKenzie decides to investigate. Leveraging his celebrity status to gain access to eager prospectors, McKenzie finds himself unraveling the loosely regulated world of cryptocurrency. This skeptical but evenhanded take on the present and future of what we consider money gives a firsthand account of the chaotic financial frontier of our time.",
-      "poster": "https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt35820335",
-      "type": "movie",
-      "name": "Departures",
-      "description": "It’s instant chemistry when Benji encounters Jake at an airport departures gate. Their on-going relationship unfolds through intimate trips to Amsterdam, revealing a complex power dynamic.",
-      "poster": "https://image.tmdb.org/t/p/w500/gIcGPEjQmC6S2HfMHw4zTcAVMJz.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt30420705",
-      "type": "movie",
-      "name": "Little Lorraine",
-      "description": "Little Lorraine, a North Atlantic seaside town with a population of 60, becomes embroiled in an international cocaine smuggling operation under the noses of multiple governments, distributed in coffins through a network of funeral homes.",
-      "poster": "https://image.tmdb.org/t/p/w500/rUzBqWq7idfMTBLCWs55Hkt9lpq.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt16112292",
-      "type": "movie",
-      "name": "Glenrothan",
-      "description": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
-      "poster": "https://image.tmdb.org/t/p/w500/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
-      "releaseInfo": "2026-04-17"
-    },
-    {
-      "id": "tt13165898",
-      "type": "movie",
-      "name": "Ballistic",
-      "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
-      "releaseInfo": "2026-04-17"
     },
     {
       "id": "tt29218808",
