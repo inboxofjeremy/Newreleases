@@ -305,14 +305,6 @@
       "releaseInfo": "2026-09-25"
     },
     {
-      "id": "tt36980182",
-      "type": "movie",
-      "name": "The Incomer",
-      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
-      "releaseInfo": "2026-09-25"
-    },
-    {
       "id": "tt43730209",
       "type": "movie",
       "name": "Lovebox",
@@ -357,7 +349,7 @@
       "type": "movie",
       "name": "Legend of the White Dragon",
       "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/k0L5ZQP4PjdNziVGvcOeaihXyCc.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -439,6 +431,14 @@
       "description": "An animated epilogue to The Transformers: The Movie (1986) and the final performance of Peter Cullen.",
       "poster": "https://image.tmdb.org/t/p/w500/2hPh4j6ISRtaRwg57HmMrnzTW7O.jpg",
       "releaseInfo": "2026-09-17"
+    },
+    {
+      "id": "tt40231163",
+      "type": "movie",
+      "name": "Run Hide Fight: Infidels",
+      "description": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
+      "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+      "releaseInfo": "2026-09-16"
     },
     {
       "id": "tt39052963",
@@ -614,6 +614,14 @@
       "name": "Instadocs: The Decoy Plane",
       "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
       "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt36980182",
+      "type": "movie",
+      "name": "The Incomer",
+      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -1073,14 +1081,6 @@
       "releaseInfo": "2026-07-31"
     },
     {
-      "id": "tt42839367",
-      "type": "movie",
-      "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "description": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
-      "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
-      "releaseInfo": "2026-07-30"
-    },
-    {
       "id": "tt37603783",
       "type": "movie",
       "name": "Above & Below",
@@ -1393,6 +1393,14 @@
       "releaseInfo": "2026-06-30"
     },
     {
+      "id": "tt32321803",
+      "type": "movie",
+      "name": "The Get Out",
+      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
       "id": "tt33219707",
       "type": "movie",
       "name": "40 Dates and 40 Nights",
@@ -1502,14 +1510,6 @@
       "name": "Ryan Hamilton: This Just Hit Me",
       "description": "Leave it to Ryan Hamilton to get hit by a bus and have the last laugh — whether it's falling for his anesthesiologist or a dispensary trip with his mom.",
       "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
-      "id": "tt33365126",
-      "type": "movie",
-      "name": "Carolina Caroline",
-      "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
       "releaseInfo": "2026-06-23"
     },
     {
@@ -1862,14 +1862,6 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt13570066",
-      "type": "movie",
-      "name": "Desert Warrior",
-      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
