@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "You Can See Everything",
       "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -857,14 +857,6 @@
       "releaseInfo": "2026-08-21"
     },
     {
-      "id": "tt27844906",
-      "type": "movie",
-      "name": "Rosebush Pruning",
-      "description": "When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",
-      "poster": "https://image.tmdb.org/t/p/w500/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
       "id": "tt43676563",
       "type": "movie",
       "name": "Novak Djokovic: The Wolf in Winter",
@@ -894,6 +886,14 @@
       "name": "Toy Story 5",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "releaseInfo": "2026-08-18"
+    },
+    {
+      "id": "tt35674521",
+      "type": "movie",
+      "name": "Rose of Nevada",
+      "description": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
       "releaseInfo": "2026-08-18"
     },
     {
@@ -1993,14 +1993,6 @@
       "releaseInfo": "2026-05-15"
     },
     {
-      "id": "tt42615436",
-      "type": "movie",
-      "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-      "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
-      "releaseInfo": "2026-05-14"
-    },
-    {
       "id": "tt29594919",
       "type": "movie",
       "name": "The Run",
@@ -2182,14 +2174,6 @@
       "name": "Check-In",
       "description": "Two friends visit their recently laid-off pal after losing contact, only to find him acting odd and making some questionable choices.",
       "poster": "https://image.tmdb.org/t/p/w500/oquTuEKbpYzP3QL4d84zF5MSUHA.jpg",
-      "releaseInfo": "2026-04-23"
-    },
-    {
-      "id": "tmdb:1513734",
-      "type": "movie",
-      "name": "The Dreaminess",
-      "description": "During a long and lonely drive, Scott Corbyn when he finds an isolated hotel to spend the night  and meets the mysterious Bethany Belline",
-      "poster": "https://image.tmdb.org/t/p/w500/nRH0WAkLAzIocTeOeiFvlFVYDHq.jpg",
       "releaseInfo": "2026-04-23"
     },
     {
