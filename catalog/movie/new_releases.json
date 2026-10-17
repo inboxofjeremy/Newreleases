@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "You Can See Everything",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
       "id": "tt38672588",
       "type": "movie",
       "name": "Masterplan",
@@ -45,7 +53,7 @@
       "type": "movie",
       "name": "Love of Your Life",
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-      "poster": "https://image.tmdb.org/t/p/w500/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "releaseInfo": "2026-10-14"
     },
     {
@@ -451,7 +459,7 @@
     {
       "id": "tt36809539",
       "type": "movie",
-      "name": "After Impact",
+      "name": "אחרי הפגיעה",
       "description": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "releaseInfo": "2026-09-15"
@@ -1081,6 +1089,14 @@
       "releaseInfo": "2026-07-31"
     },
     {
+      "id": "tt42839367",
+      "type": "movie",
+      "name": "Snoopy Presents: There's No Place Like Home, Snoopy",
+      "description": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
+      "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
+      "releaseInfo": "2026-07-30"
+    },
+    {
       "id": "tt37603783",
       "type": "movie",
       "name": "Above & Below",
@@ -1513,6 +1529,14 @@
       "releaseInfo": "2026-06-23"
     },
     {
+      "id": "tt33365126",
+      "type": "movie",
+      "name": "Carolina Caroline",
+      "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "releaseInfo": "2026-06-23"
+    },
+    {
       "id": "tt33296751",
       "type": "movie",
       "name": "Tuner",
@@ -1862,6 +1886,14 @@
       "name": "Animal Farm",
       "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
       "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+      "releaseInfo": "2026-05-26"
+    },
+    {
+      "id": "tt13570066",
+      "type": "movie",
+      "name": "Desert Warrior",
+      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
