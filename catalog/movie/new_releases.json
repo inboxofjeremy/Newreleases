@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt34379051",
+      "type": "movie",
+      "name": "By Any Means",
+      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+      "releaseInfo": "2026-10-20"
+    },
+    {
       "id": "tt45368240",
       "type": "movie",
       "name": "You Can See Everything",
@@ -765,7 +773,7 @@
       "type": "movie",
       "name": "AEW All In 2026: London",
       "description": "All In 2026, also promoted as All In London, was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on August 30, 2026, at Wembley Stadium in London, England. The event featured AEW Men's and Women's World Championship matches earned by the winners of the 2026 Owen Hart Foundation Tournament.",
-      "poster": "https://image.tmdb.org/t/p/w500/rYumu3P6c4zzl91Jk1cVI3pt55s.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bmoGM3pAj8dTJ0MOlpfcV2GN6jl.jpg",
       "releaseInfo": "2026-08-30"
     },
     {
@@ -2247,14 +2255,6 @@
       "description": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
       "poster": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
       "releaseInfo": "2026-04-21"
-    },
-    {
-      "id": "tt41973417",
-      "type": "movie",
-      "name": "KillTonyMania",
-      "description": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
-      "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
-      "releaseInfo": "2026-04-20"
     },
     {
       "id": "tt29218808",
