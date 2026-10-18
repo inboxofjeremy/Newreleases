@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt10794054",
+      "type": "movie",
+      "name": "The Weight",
+      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "releaseInfo": "2026-10-20"
+    },
+    {
       "id": "tt34379051",
       "type": "movie",
       "name": "By Any Means",
@@ -22,6 +30,14 @@
       "name": "Masterplan",
       "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
       "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
+      "id": "tt28535715",
+      "type": "movie",
+      "name": "Whalefall",
+      "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+      "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -265,14 +281,6 @@
       "releaseInfo": "2026-09-30"
     },
     {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
-      "releaseInfo": "2026-09-29"
-    },
-    {
       "id": "tt36983905",
       "type": "movie",
       "name": "The Uprising",
@@ -430,14 +438,6 @@
       "name": "Best of the Best",
       "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
-      "id": "tt10794054",
-      "type": "movie",
-      "name": "The Weight",
-      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -1089,14 +1089,6 @@
       "releaseInfo": "2026-08-03"
     },
     {
-      "id": "tt43732886",
-      "type": "movie",
-      "name": "WWE SummerSlam 2026: Sunday",
-      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
-      "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
-      "releaseInfo": "2026-08-02"
-    },
-    {
       "id": "tt43732885",
       "type": "movie",
       "name": "WWE SummerSlam 2026: Saturday",
@@ -1454,14 +1446,6 @@
       "name": "40 Dates and 40 Nights",
       "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
       "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
-      "id": "tt41702551",
-      "type": "movie",
-      "name": "Bang My Box: The Robin Byrd Story",
-      "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
-      "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
