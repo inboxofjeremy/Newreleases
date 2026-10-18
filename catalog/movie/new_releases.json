@@ -281,6 +281,14 @@
       "releaseInfo": "2026-09-30"
     },
     {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
       "id": "tt36983905",
       "type": "movie",
       "name": "The Uprising",
@@ -921,14 +929,6 @@
       "releaseInfo": "2026-08-18"
     },
     {
-      "id": "tt35674521",
-      "type": "movie",
-      "name": "Rose of Nevada",
-      "description": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
-      "releaseInfo": "2026-08-18"
-    },
-    {
       "id": "tt39149951",
       "type": "movie",
       "name": "American Doctor",
@@ -1087,6 +1087,14 @@
       "description": "As a big storm approaches, Elmo and friends work together to get ready. After it passes, Sesame Street looks different — and everyone pitches in to help.",
       "poster": "https://image.tmdb.org/t/p/w500/okvOQKSkMKmGt9LRV4eJ7ejikQv.jpg",
       "releaseInfo": "2026-08-03"
+    },
+    {
+      "id": "tt43732886",
+      "type": "movie",
+      "name": "WWE SummerSlam 2026: Sunday",
+      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+      "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
+      "releaseInfo": "2026-08-02"
     },
     {
       "id": "tt43732885",
@@ -1446,6 +1454,14 @@
       "name": "40 Dates and 40 Nights",
       "description": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
       "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tt41702551",
+      "type": "movie",
+      "name": "Bang My Box: The Robin Byrd Story",
+      "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
+      "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
@@ -1831,6 +1847,14 @@
       "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
       "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "releaseInfo": "2026-06-02"
+    },
+    {
+      "id": "tt41300402",
+      "type": "movie",
+      "name": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "description": "Comedy trailblazer Eddie Murphy celebrates his legendary film career in this star-studded tribute filmed live in Los Angeles.",
+      "poster": "https://image.tmdb.org/t/p/w500/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg",
+      "releaseInfo": "2026-05-31"
     },
     {
       "id": "tmdb:1638740",
