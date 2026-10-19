@@ -25,6 +25,14 @@
       "releaseInfo": "2026-10-16"
     },
     {
+      "id": "tt44822485",
+      "type": "movie",
+      "name": "Norm: The Tale of Norm Macdonald",
+      "description": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
+      "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
       "id": "tt38672588",
       "type": "movie",
       "name": "Masterplan",
@@ -150,6 +158,14 @@
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
+      "id": "tt29256561",
+      "type": "movie",
+      "name": "The Beast",
+      "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -449,28 +465,12 @@
       "releaseInfo": "2026-09-18"
     },
     {
-      "id": "tt16478058",
-      "type": "movie",
-      "name": "Best of the Best",
-      "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
       "id": "tt39151344",
       "type": "movie",
       "name": "If I Go Will They Miss Me",
       "description": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
       "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
       "releaseInfo": "2026-09-18"
-    },
-    {
-      "id": "tt41007422",
-      "type": "movie",
-      "name": "Thomas & Friends: Really Helpful Engines",
-      "description": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends.",
-      "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
-      "releaseInfo": "2026-09-17"
     },
     {
       "id": "tt44940424",
@@ -669,7 +669,7 @@
       "type": "movie",
       "name": "The Incomer",
       "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nGnI5tT7qstkld94S8m4c68noZt.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -1073,22 +1073,6 @@
       "releaseInfo": "2026-08-06"
     },
     {
-      "id": "tt43657327",
-      "type": "movie",
-      "name": "Big Chicken: A Fast Food Conspiracy",
-      "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it.",
-      "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-      "releaseInfo": "2026-08-05"
-    },
-    {
-      "id": "tmdb:1794780",
-      "type": "movie",
-      "name": "Absolute Cinema",
-      "description": "Theodore, a young and passionate rising director, is challenged when he is approached by a producer interested in his enthusiasm for film. As he begins to make his first ever short film, Theodore's true personality arises.",
-      "poster": "https://image.tmdb.org/t/p/w500/60CWEWsOcTsX3KuSOOtQq2CXMqf.jpg",
-      "releaseInfo": "2026-08-04"
-    },
-    {
       "id": "tt32104007",
       "type": "movie",
       "name": "Young Washington",
@@ -1257,27 +1241,11 @@
       "releaseInfo": "2026-07-22"
     },
     {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
       "id": "tt32093575",
       "type": "movie",
       "name": "Scary Movie",
       "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
       "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
-      "id": "tt30825738",
-      "type": "movie",
-      "name": "The Mandalorian and Grogu",
-      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -1481,14 +1449,6 @@
       "releaseInfo": "2026-06-30"
     },
     {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "releaseInfo": "2026-06-30"
-    },
-    {
       "id": "tt41859611",
       "type": "movie",
       "name": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
@@ -1503,6 +1463,14 @@
       "description": "The 2026 Night of Champions, also promoted as Night of Champions: Riyadh, was a professional wrestling premium live event produced by World Wrestling Entertainment (WWE) that took place on June 27, 2026, at Kingdom Arena in Riyadh, Saudi Arabia. The event featured the finals of the 2026 King and Queen of the Ring tournaments, along with championship matches for the WWE United States Championship and WWE Women's United States Championship. It was headlined by an Undisputed WWE Championship Triple Threat match between champion Cody Rhodes, Sami Zayn, and Gunther.",
       "poster": "https://image.tmdb.org/t/p/w500/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
       "releaseInfo": "2026-06-27"
+    },
+    {
+      "id": "tt38283916",
+      "type": "movie",
+      "name": "The Reality Experiment",
+      "description": "Eight strangers gather for an unknown experiment at the University for a quick payday. However, things rapidly get out of control as reality itself begins to turn on them.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdPO5XYc43ImZHeEBCSR0NHkspJ.jpg",
+      "releaseInfo": "2026-06-26"
     },
     {
       "id": "tt20564678",
@@ -1537,28 +1505,12 @@
       "releaseInfo": "2026-06-26"
     },
     {
-      "id": "tt42037166",
-      "type": "movie",
-      "name": "Chris & Martina: The Final Set",
-      "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
-      "poster": "https://image.tmdb.org/t/p/w500/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
-      "releaseInfo": "2026-06-26"
-    },
-    {
       "id": "tt31349852",
       "type": "movie",
       "name": "Savage House",
       "description": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
       "poster": "https://image.tmdb.org/t/p/w500/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
       "releaseInfo": "2026-06-26"
-    },
-    {
-      "id": "tt1333644",
-      "type": "movie",
-      "name": "In the Hand of Dante",
-      "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
-      "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-      "releaseInfo": "2026-06-24"
     },
     {
       "id": "tt32565993",
@@ -1713,19 +1665,11 @@
       "releaseInfo": "2026-06-13"
     },
     {
-      "id": "tt32293052",
+      "id": "tt28689422",
       "type": "movie",
-      "name": "The Fall of Sir Douglas Weatherford",
-      "description": "In the Scottish village of Arberloch, Kenneth, a grieving tour guide, is devoted to preserving the legacy of the town's sole historical figure—eighteenth-century inventor Sir Douglas Weatherford. But when a fantasy series chooses Arberloch as its filming location, and the town turns its back on Weatherford in favour of fan culture, Kenneth descends into madness.",
-      "poster": "https://image.tmdb.org/t/p/w500/umKvuPWAXEUz9Mz8f23x5fHlW18.jpg",
-      "releaseInfo": "2026-06-12"
-    },
-    {
-      "id": "tt42863533",
-      "type": "movie",
-      "name": "Maternal Instinct",
-      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+      "name": "49 Miles More",
+      "description": "On their way to an annual reunion with university friends, Max—an unlucky insurance salesman struggling to find his place in life—and his carefree best friend Doug hit an unexpected roadblock when their car breaks down in the middle of nowhere.",
+      "poster": "https://image.tmdb.org/t/p/w500/lqLfe6Ixz1lVGnQeICA8NsZpQTu.jpg",
       "releaseInfo": "2026-06-12"
     },
     {
@@ -1833,14 +1777,6 @@
       "releaseInfo": "2026-06-05"
     },
     {
-      "id": "tt36926359",
-      "type": "movie",
-      "name": "Seven Snipers",
-      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
       "id": "tt42192165",
       "type": "movie",
       "name": "The Murder of Rachel Nickell",
@@ -1937,14 +1873,6 @@
       "releaseInfo": "2026-05-26"
     },
     {
-      "id": "tt2467700",
-      "type": "movie",
-      "name": "Animal Farm",
-      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
       "id": "tt13570066",
       "type": "movie",
       "name": "Desert Warrior",
@@ -1999,38 +1927,6 @@
       "description": "Katie agrees to join her brother Dan and his girlfriend Luciana on a trip to Peru. Dan plans to propose to Luciana in a grand way at Machu Picchu at the end of the week and needs Katie’s Spanish speaking skills to ask Luciana’s Peruvian father for his blessing. However, when Luciana’s friend, Chef Carlos, arrives, he accidentally ruins each proposal attempt. Refusing to give up, Katie does everything in her power to make this proposal happen, until Dan calls it off. Katie must lean into Chef Carlos’ spontaneity to not only save the day and the proposal, and Carlos may just win Katie’s heart too!",
       "poster": "https://image.tmdb.org/t/p/w500/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
       "releaseInfo": "2026-05-21"
-    },
-    {
-      "id": "tt34378301",
-      "type": "movie",
-      "name": "Tom Clancy's Jack Ryan: Ghost War",
-      "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-      "releaseInfo": "2026-05-20"
-    },
-    {
-      "id": "tt39496686",
-      "type": "movie",
-      "name": "World War Bigfoot",
-      "description": "When his platoon is ambushed during WWII, an American medic escapes into the nearby forest, relentlessly pursued by the enemy. While evading capture, he encounters an unbelievable creature, not knowing if it's friend or foe. It will take everything he has to survive as new alliances will be formed and loyalties will be tested.",
-      "poster": "https://image.tmdb.org/t/p/w500/k94AIYLUXkhT6j4nfxdK5s36bXh.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tt41801280",
-      "type": "movie",
-      "name": "Untold UK: Liverpool's Miracle of Istanbul",
-      "description": "At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.",
-      "poster": "https://image.tmdb.org/t/p/w500/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg",
-      "releaseInfo": "2026-05-19"
-    },
-    {
-      "id": "tt41269788",
-      "type": "movie",
-      "name": "Wanda Sykes: Legacy",
-      "description": "Wanda Sykes returns to her alma mater with a fearlessly funny takedown of everything from the state of the world to the cultural clash over washcloths.",
-      "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
-      "releaseInfo": "2026-05-19"
     },
     {
       "id": "tt31216533",
@@ -2191,22 +2087,6 @@
       "description": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
       "poster": "https://image.tmdb.org/t/p/w500/vajGff87GT6JfCi45K4bPquLbom.jpg",
       "releaseInfo": "2026-04-30"
-    },
-    {
-      "id": "tt38058112",
-      "type": "movie",
-      "name": "I'll Be Seeing You",
-      "description": "When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director.",
-      "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
-      "releaseInfo": "2026-04-25"
-    },
-    {
-      "id": "tt39315819",
-      "type": "movie",
-      "name": "Immortal Combat",
-      "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
-      "releaseInfo": "2026-04-24"
     },
     {
       "id": "tt38575417",
