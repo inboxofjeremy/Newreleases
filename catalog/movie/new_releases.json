@@ -17,14 +17,6 @@
       "releaseInfo": "2026-10-20"
     },
     {
-      "id": "tt45368240",
-      "type": "movie",
-      "name": "You Can See Everything",
-      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "releaseInfo": "2026-10-16"
-    },
-    {
       "id": "tt44822485",
       "type": "movie",
       "name": "Norm: The Tale of Norm Macdonald",
@@ -46,6 +38,14 @@
       "name": "Clean Hands",
       "description": "Based on a true story, a veteran narcotics officer turned recovery advocate and his daughter, who struggles with addiction, confront the American drug crisis from opposing sides of the law while navigating their complicated family bond.",
       "poster": "https://image.tmdb.org/t/p/w500/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
+      "id": "tt28535715",
+      "type": "movie",
+      "name": "Whalefall",
+      "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+      "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Love of Your Life",
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-      "poster": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "releaseInfo": "2026-10-14"
     },
     {
@@ -913,22 +913,6 @@
       "releaseInfo": "2026-08-20"
     },
     {
-      "id": "tt32889884",
-      "type": "movie",
-      "name": "Freefall: A Reckoning for Boeing",
-      "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
-      "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-      "releaseInfo": "2026-08-19"
-    },
-    {
-      "id": "tt43698006",
-      "type": "movie",
-      "name": "Kelsey Cook: Happy Hour",
-      "description": "In this candid and clever stand-up special, Kelsey Cook explores \"hangxiety,\" relives a plane bathroom nightmare and breaks down dating a literal Chad.",
-      "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
-      "releaseInfo": "2026-08-18"
-    },
-    {
       "id": "tt29355505",
       "type": "movie",
       "name": "Toy Story 5",
@@ -1262,14 +1246,6 @@
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
-      "id": "tt32093575",
-      "type": "movie",
-      "name": "Scary Movie",
-      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
       "releaseInfo": "2026-07-21"
     },
     {
@@ -1625,14 +1601,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt42278042",
-      "type": "movie",
-      "name": "The Love Heist",
-      "description": "Celebrity stylist Kayli must team up with hotel security chief Mills to track down an iconic piece of fashion history after it goes missing on her watch before the Chicago Costume Gala.",
-      "poster": "https://image.tmdb.org/t/p/w500/upix8bo5uJ5NUamttLvqUZDwzQE.jpg",
-      "releaseInfo": "2026-06-20"
-    },
-    {
       "id": "tt43596160",
       "type": "movie",
       "name": "7 Piano Sketches",
@@ -1783,14 +1751,6 @@
       "description": "Follows a chaotic night out involving ambushing, worshipping, and pursuit that ultimately leads back to the dance floor.",
       "poster": "https://image.tmdb.org/t/p/w500/r9xJtmh1Lb2xlVWvGIz10Gl1PjY.jpg",
       "releaseInfo": "2026-06-08"
-    },
-    {
-      "id": "tt33474152",
-      "type": "movie",
-      "name": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-      "description": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
-      "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
-      "releaseInfo": "2026-06-07"
     },
     {
       "id": "tt4931958",
