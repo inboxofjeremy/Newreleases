@@ -25,6 +25,14 @@
       "releaseInfo": "2026-10-20"
     },
     {
+      "id": "tt46027225",
+      "type": "movie",
+      "name": "Super Scam Me",
+      "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
+      "poster": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+      "releaseInfo": "2026-10-17"
+    },
+    {
       "id": "tt44822485",
       "type": "movie",
       "name": "Norm: The Tale of Norm Macdonald",
@@ -246,14 +254,6 @@
       "name": "Doing Life",
       "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
       "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-      "releaseInfo": "2026-10-02"
-    },
-    {
-      "id": "tt33038782",
-      "type": "movie",
-      "name": "Stranglehold",
-      "description": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
-      "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
       "releaseInfo": "2026-10-02"
     },
     {
@@ -799,14 +799,6 @@
       "description": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
       "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
       "releaseInfo": "2026-09-01"
-    },
-    {
-      "id": "tt36980377",
-      "type": "movie",
-      "name": "Zip Wire",
-      "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-      "releaseInfo": "2026-08-31"
     },
     {
       "id": "tt38066519",
@@ -1727,14 +1719,6 @@
       "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
       "poster": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
       "releaseInfo": "2026-06-16"
-    },
-    {
-      "id": "tt42277796",
-      "type": "movie",
-      "name": "Texas Two-Step",
-      "description": "When a woman returns to Texas to help save her aunt's struggling country music bar, she reconnects with her childhood sweetheart turned cowboy and rekindles her lost passion for dancing.",
-      "poster": "https://image.tmdb.org/t/p/w500/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
-      "releaseInfo": "2026-06-13"
     },
     {
       "id": "tt28689422",
