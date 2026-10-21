@@ -193,14 +193,6 @@
       "releaseInfo": "2026-10-09"
     },
     {
-      "id": "tt36150957",
-      "type": "movie",
-      "name": "Oasis: Don't Look Back in Anger",
-      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
       "id": "tt37660515",
       "type": "movie",
       "name": "Barrio Triste",
@@ -254,6 +246,14 @@
       "name": "Doing Life",
       "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
       "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
+      "id": "tt33038782",
+      "type": "movie",
+      "name": "Stranglehold",
+      "description": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
       "releaseInfo": "2026-10-02"
     },
     {
@@ -801,6 +801,14 @@
       "releaseInfo": "2026-09-01"
     },
     {
+      "id": "tt36980377",
+      "type": "movie",
+      "name": "Zip Wire",
+      "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
+      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "releaseInfo": "2026-08-31"
+    },
+    {
       "id": "tt38066519",
       "type": "movie",
       "name": "AEW All In 2026: London",
@@ -1166,14 +1174,6 @@
       "name": "Mary Beth Barone: Galaxy Brain",
       "description": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
       "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
-      "releaseInfo": "2026-07-28"
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -1721,6 +1721,14 @@
       "releaseInfo": "2026-06-16"
     },
     {
+      "id": "tt42277796",
+      "type": "movie",
+      "name": "Texas Two-Step",
+      "description": "When a woman returns to Texas to help save her aunt's struggling country music bar, she reconnects with her childhood sweetheart turned cowboy and rekindles her lost passion for dancing.",
+      "poster": "https://image.tmdb.org/t/p/w500/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
+      "releaseInfo": "2026-06-13"
+    },
+    {
       "id": "tt28689422",
       "type": "movie",
       "name": "49 Miles More",
@@ -2247,14 +2255,6 @@
       "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
       "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
       "releaseInfo": "2026-04-10"
-    },
-    {
-      "id": "tt14507394",
-      "type": "movie",
-      "name": "Hellfire",
-      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "releaseInfo": "2026-02-17"
     },
     {
       "id": "tt36934619",
