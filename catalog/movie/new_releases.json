@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "You Can See Everything",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "releaseInfo": "2026-10-23"
+    },
+    {
       "id": "tt10794054",
       "type": "movie",
       "name": "The Weight",
@@ -493,7 +501,7 @@
       "type": "movie",
       "name": "Run Hide Fight: Infidels",
       "description": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
-      "poster": "https://image.tmdb.org/t/p/w500/f3iZCUxaTj8zAZRWQZLQZhUIRTl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
       "releaseInfo": "2026-09-16"
     },
     {
@@ -857,6 +865,14 @@
       "releaseInfo": "2026-08-25"
     },
     {
+      "id": "tt36629665",
+      "type": "movie",
+      "name": "Her Private Hell",
+      "description": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "poster": "https://image.tmdb.org/t/p/w500/pyIDpB5iZMRB5PdV9an146QEXAl.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
       "id": "tt2012616",
       "type": "movie",
       "name": "Motor City",
@@ -902,14 +918,6 @@
       "name": "Bouchra",
       "description": "Wrestling with writer’s block for her first film, Bouchra, a queer Moroccan jackal living in NYC, starts having difficult yet overdue phone calls with her mother in Casablanca that begin influencing the project. Balancing the precarity of working as an artist, the rift in her cultural identity and an array of romantic interests, Bouchra’s emotional reckoning becomes her path to expression.",
       "poster": "https://image.tmdb.org/t/p/w500/vphG0OWe7kL0P5xzQJiGNwKZ4EU.jpg",
-      "releaseInfo": "2026-08-21"
-    },
-    {
-      "id": "tt27844906",
-      "type": "movie",
-      "name": "Rosebush Pruning",
-      "description": "When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",
-      "poster": "https://image.tmdb.org/t/p/w500/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
       "releaseInfo": "2026-08-21"
     },
     {
@@ -1028,7 +1036,7 @@
       "id": "tt36834010",
       "type": "movie",
       "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+      "description": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
       "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "releaseInfo": "2026-08-11"
     },
@@ -1334,6 +1342,14 @@
       "name": "The Odyssey: The Making of an Epic",
       "description": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
       "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "releaseInfo": "2026-07-14"
+    },
+    {
+      "id": "tt38128726",
+      "type": "movie",
+      "name": "Stop! That! Train!",
+      "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
+      "poster": "https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
       "releaseInfo": "2026-07-14"
     },
     {
@@ -1953,14 +1969,6 @@
       "releaseInfo": "2026-05-26"
     },
     {
-      "id": "tt13570066",
-      "type": "movie",
-      "name": "Desert Warrior",
-      "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-      "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
       "id": "tt40062572",
       "type": "movie",
       "name": "AEW Double or Nothing 2026",
@@ -2247,22 +2255,6 @@
       "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
       "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tt41614093",
-      "type": "movie",
-      "name": "Check-In",
-      "description": "Two friends visit their recently laid-off pal after losing contact, only to find him acting odd and making some questionable choices.",
-      "poster": "https://image.tmdb.org/t/p/w500/oquTuEKbpYzP3QL4d84zF5MSUHA.jpg",
-      "releaseInfo": "2026-04-23"
-    },
-    {
-      "id": "tmdb:1513734",
-      "type": "movie",
-      "name": "The Dreaminess",
-      "description": "During a long and lonely drive, Scott Corbyn when he finds an isolated hotel to spend the night  and meets the mysterious Bethany Belline",
-      "poster": "https://image.tmdb.org/t/p/w500/nRH0WAkLAzIocTeOeiFvlFVYDHq.jpg",
-      "releaseInfo": "2026-04-23"
     },
     {
       "id": "tt29218808",
