@@ -17,11 +17,27 @@
       "releaseInfo": "2026-10-23"
     },
     {
+      "id": "tmdb:1796707",
+      "type": "movie",
+      "name": "Daylight: A Twilight story",
+      "description": "Aless, an adaptive teenage girl discovers the wonders of the Twilight saga and becomes obsessed with it.",
+      "poster": "https://image.tmdb.org/t/p/w500/yNPpKdl20jAvJLusQr14fjgVGo5.jpg",
+      "releaseInfo": "2026-10-22"
+    },
+    {
       "id": "tt10794054",
       "type": "movie",
       "name": "The Weight",
       "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
       "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "releaseInfo": "2026-10-20"
+    },
+    {
+      "id": "tt34379051",
+      "type": "movie",
+      "name": "By Any Means",
+      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
       "releaseInfo": "2026-10-20"
     },
     {
@@ -121,11 +137,27 @@
       "releaseInfo": "2026-10-13"
     },
     {
-      "id": "tmdb:1302904",
+      "id": "tt32588798",
       "type": "movie",
       "name": "Practical Magic 2",
       "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
       "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Runner",
+      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
+      "id": "tt37818327",
+      "type": "movie",
+      "name": "The Sun Never Sets",
+      "description": "While on an unexpected break from her older, divorced boyfriend, a woman runs into her ex-partner, plunging her into a volatile love triangle that threatens to undo her life.",
+      "poster": "https://image.tmdb.org/t/p/w500/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
       "releaseInfo": "2026-10-13"
     },
     {
@@ -199,6 +231,14 @@
       "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "releaseInfo": "2026-10-08"
+    },
+    {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Fall 2: Deadpoint",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "releaseInfo": "2026-10-06"
     },
     {
       "id": "tt32298494",
@@ -305,6 +345,14 @@
       "releaseInfo": "2026-09-29"
     },
     {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
       "id": "tt29356163",
       "type": "movie",
       "name": "PAW Patrol: The Dino Movie",
@@ -390,6 +438,22 @@
       "name": "One Last Shot",
       "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
       "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
+      "id": "tt12446086",
+      "type": "movie",
+      "name": "Legend of the White Dragon",
+      "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+      "poster": "https://image.tmdb.org/t/p/w500/k0L5ZQP4PjdNziVGvcOeaihXyCc.jpg",
+      "releaseInfo": "2026-09-22"
+    },
+    {
+      "id": "tt33305867",
+      "type": "movie",
+      "name": "Spa Weekend",
+      "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+      "poster": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
@@ -569,7 +633,15 @@
       "releaseInfo": "2026-09-09"
     },
     {
-      "id": "tmdb:1739206",
+      "id": "tt38061210",
+      "type": "movie",
+      "name": "Why Did I Get Married Again?",
+      "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+      "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "releaseInfo": "2026-09-09"
+    },
+    {
+      "id": "tt43700444",
       "type": "movie",
       "name": "Untold Mr. T: I Pity the Fool",
       "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
@@ -577,11 +649,19 @@
       "releaseInfo": "2026-09-08"
     },
     {
-      "id": "tt38061210",
+      "id": "tt41975820",
       "type": "movie",
-      "name": "Why Did I Get Married Again?",
-      "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-      "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "name": "Stavros Halkias: Uncle Stav",
+      "description": "In this unruly set, Stavros Halkias imagines becoming a \"dirtbag\" uncle, roasts the health care system and warns of the risks of living your best life.",
+      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt14119302",
+      "type": "movie",
+      "name": "Hot Spot",
+      "description": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
@@ -609,12 +689,36 @@
       "releaseInfo": "2026-09-08"
     },
     {
-      "id": "tt31349844",
+      "id": "tt43600387",
       "type": "movie",
-      "name": "Runner",
-      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "releaseInfo": "2026-09-07"
+      "name": "WWE Sunday Night's Main Event",
+      "description": "The first ever WWE Sunday Night's Main Event takes place on Sunday, September 6, 2026, live from the State Farm Arena in Atlanta, Georgia during Labor Day weekend. The special television event streams live in the U.S. on Peacock starting at 8 p.m. ET.",
+      "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+      "releaseInfo": "2026-09-06"
+    },
+    {
+      "id": "tt44942157",
+      "type": "movie",
+      "name": "Instadocs: The Decoy Plane",
+      "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt36980182",
+      "type": "movie",
+      "name": "The Incomer",
+      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+      "poster": "https://image.tmdb.org/t/p/w500/nGnI5tT7qstkld94S8m4c68noZt.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt21452628",
+      "type": "movie",
+      "name": "The Girl in the River",
+      "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
+      "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "releaseInfo": "2026-09-04"
     },
     {
       "id": "tt32500181",
@@ -625,15 +729,71 @@
       "releaseInfo": "2026-09-04"
     },
     {
-      "id": "tt34379051",
+      "id": "tt37752275",
       "type": "movie",
-      "name": "By Any Means",
-      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+      "name": "Clash of the Thundermans",
+      "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+      "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "releaseInfo": "2026-09-03"
+    },
+    {
+      "id": "tt28014327",
+      "type": "movie",
+      "name": "Mayday",
+      "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "releaseInfo": "2026-09-03"
+    },
+    {
+      "id": "tt34564059",
+      "type": "movie",
+      "name": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
-      "id": "tmdb:1480574",
+      "id": "tt44322266",
+      "type": "movie",
+      "name": "Turning Point: Generation 9/11",
+      "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43679852",
+      "type": "movie",
+      "name": "LEGO Star Wars: The Mandalorian",
+      "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt35670577",
+      "type": "movie",
+      "name": "Bucking Fastard",
+      "description": "Two sisters, Jean and Joan Holbrooke, are so close to each other that they speak in unison, love the same man, and have the same dreams. They even make the same slip of tongue in unison. We cannot see the world as they see it, but we do see how the world reacts to them – through the courts and the press, through those that want to help and those who want to use them, through the eyes of beasts both tame and wild, and even through their own echoes in the core of the earth.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ae0A2HtLSa0W2xOXvS47HdMz6ri.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43961446",
+      "type": "movie",
+      "name": "9/11: United We Stand -- 25 Years Later",
+      "description": "Explore how sports, music, Broadway and comedy helped Americans rediscover joy and begin to heal in the wake of the 9/11 attacks.",
+      "poster": "https://image.tmdb.org/t/p/w500/2D7gAc7lpMTVAckI55tK5rYjUGo.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43700441",
+      "type": "movie",
+      "name": "Untold Raygun: Breaking Badly",
+      "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+      "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt36948232",
       "type": "movie",
       "name": "Just Play Dead",
       "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
@@ -665,6 +825,70 @@
       "releaseInfo": "2026-09-01"
     },
     {
+      "id": "tt36980377",
+      "type": "movie",
+      "name": "Zip Wire",
+      "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
+      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "releaseInfo": "2026-08-31"
+    },
+    {
+      "id": "tt38066519",
+      "type": "movie",
+      "name": "AEW All In 2026: London",
+      "description": "All In 2026, also promoted as All In London, was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on August 30, 2026, at Wembley Stadium in London, England. The event featured AEW Men's and Women's World Championship matches earned by the winners of the 2026 Owen Hart Foundation Tournament.",
+      "poster": "https://image.tmdb.org/t/p/w500/bmoGM3pAj8dTJ0MOlpfcV2GN6jl.jpg",
+      "releaseInfo": "2026-08-30"
+    },
+    {
+      "id": "tt27860696",
+      "type": "movie",
+      "name": "Much About Love",
+      "description": "A TV director returns to her theater roots for a Shakespeare festival and runs into an old flame, rekindling a merry war of wits in this modern retelling of \"Much Ado About Nothing.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/47VBOUhDQLiWrePlNPCCgk2kVYO.jpg",
+      "releaseInfo": "2026-08-29"
+    },
+    {
+      "id": "tt11561116",
+      "type": "movie",
+      "name": "The Whisper Man",
+      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "releaseInfo": "2026-08-28"
+    },
+    {
+      "id": "tt43141030",
+      "type": "movie",
+      "name": "Yellow Mirror",
+      "description": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
+      "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
+      "id": "tt37654096",
+      "type": "movie",
+      "name": "The Last Sunrise",
+      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
+      "id": "tt43683692",
+      "type": "movie",
+      "name": "2 Big to Rig",
+      "description": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
+      "poster": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
+      "id": "tt43700434",
+      "type": "movie",
+      "name": "Untold: The Testimony of Vince Young",
+      "description": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
+      "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
       "id": "tt36629665",
       "type": "movie",
       "name": "Her Private Hell",
@@ -689,6 +913,30 @@
       "releaseInfo": "2026-08-25"
     },
     {
+      "id": "tt43689138",
+      "type": "movie",
+      "name": "LEGO Disney Princess: Magical Mayhem",
+      "description": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
+      "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt36460398",
+      "type": "movie",
+      "name": "Atlas King",
+      "description": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
+      "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
+      "id": "tt5265480",
+      "type": "movie",
+      "name": "& Sons",
+      "description": "A world-renowned but reclusive novelist, believing he is about to die, summons his estranged sons to his home. But instead of seeking forgiveness for their shattered family, he tells them a wild and unbelievable secret that could rewrite their past.",
+      "poster": "https://image.tmdb.org/t/p/w500/slE4Q17nZe3Bd7PFCrgXXLm6reL.jpg",
+      "releaseInfo": "2026-08-21"
+    },
+    {
       "id": "tt36543744",
       "type": "movie",
       "name": "Bouchra",
@@ -702,14 +950,6 @@
       "name": "Novak Djokovic: The Wolf in Winter",
       "description": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
       "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-      "releaseInfo": "2026-08-20"
-    },
-    {
-      "id": "tt1756855",
-      "type": "movie",
-      "name": "Coyote vs. Acme",
-      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "releaseInfo": "2026-08-20"
     },
     {
@@ -2007,38 +2247,6 @@
       "description": "When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director.",
       "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
       "releaseInfo": "2026-04-25"
-    },
-    {
-      "id": "tt39315819",
-      "type": "movie",
-      "name": "Immortal Combat",
-      "description": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tt38575417",
-      "type": "movie",
-      "name": "Nikki Glaser: Good Girl",
-      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
-      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tt31689648",
-      "type": "movie",
-      "name": "Dirty Hands",
-      "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin’s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they’re going to survive until morning.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg",
-      "releaseInfo": "2026-04-24"
-    },
-    {
-      "id": "tt16431404",
-      "type": "movie",
-      "name": "Apex",
-      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "releaseInfo": "2026-04-24"
     },
     {
       "id": "tt29218808",
