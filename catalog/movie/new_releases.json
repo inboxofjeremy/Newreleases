@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt40311603",
+      "type": "movie",
+      "name": "Ghosts: The Possession of Button House",
+      "description": "It's a matter of life and death for Alison, Mike, Mia and the Ghosts.",
+      "poster": "https://image.tmdb.org/t/p/w500/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+      "releaseInfo": "2026-10-23"
+    },
+    {
       "id": "tt29611136",
       "type": "movie",
       "name": "Wicker",
@@ -181,7 +189,7 @@
       "type": "movie",
       "name": "Instadocs: AI Gone Wild",
       "description": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
-      "poster": "https://image.tmdb.org/t/p/w500/ybMAd7Tkd3T7XlCv4Ps54r1yC1M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
       "releaseInfo": "2026-10-12"
     },
     {
@@ -486,14 +494,6 @@
       "name": "Daniel and the Fiery Furnace",
       "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
       "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
-      "id": "tt39150234",
-      "type": "movie",
-      "name": "The History of Concrete",
-      "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
-      "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -1854,14 +1854,6 @@
       "name": "The Passenger",
       "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
       "poster": "https://image.tmdb.org/t/p/w500/eiVvE3ax5BRoTOihqc591e2IJT9.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
-      "id": "tt21109170",
-      "type": "movie",
-      "name": "Signal One",
-      "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
-      "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
