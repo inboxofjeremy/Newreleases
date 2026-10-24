@@ -17,11 +17,19 @@
       "releaseInfo": "2026-10-23"
     },
     {
+      "id": "tt14371256",
+      "type": "movie",
+      "name": "Klara and the Sun",
+      "description": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+      "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+      "releaseInfo": "2026-10-23"
+    },
+    {
       "id": "tt2056785",
       "type": "movie",
       "name": "Wildwood",
       "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aglN3XoJXVSFsbbwuw081eCA0Ax.jpg",
       "releaseInfo": "2026-10-23"
     },
     {
@@ -1854,6 +1862,14 @@
       "name": "The Passenger",
       "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
       "poster": "https://image.tmdb.org/t/p/w500/eiVvE3ax5BRoTOihqc591e2IJT9.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
+      "id": "tt21109170",
+      "type": "movie",
+      "name": "Signal One",
+      "description": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+      "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
       "releaseInfo": "2026-06-05"
     },
     {
