@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "Wildwood",
       "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "poster": "https://image.tmdb.org/t/p/w500/aglN3XoJXVSFsbbwuw081eCA0Ax.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "releaseInfo": "2026-10-23"
     },
     {
@@ -47,6 +47,14 @@
       "description": "Aless, an adaptive teenage girl discovers the wonders of the Twilight saga and becomes obsessed with it.",
       "poster": "https://image.tmdb.org/t/p/w500/yNPpKdl20jAvJLusQr14fjgVGo5.jpg",
       "releaseInfo": "2026-10-22"
+    },
+    {
+      "id": "tt49317723",
+      "type": "movie",
+      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+      "poster": "https://image.tmdb.org/t/p/w500/xTqzOESz9Loj2SL5Klxf7oahJHb.jpg",
+      "releaseInfo": "2026-10-20"
     },
     {
       "id": "tt10794054",
@@ -497,6 +505,14 @@
       "releaseInfo": "2026-09-22"
     },
     {
+      "id": "tt43746311",
+      "type": "movie",
+      "name": "Garage Sale Mysteries: Murder Takes the Stage",
+      "description": "One of the members of Jennifer Shannon's true-crime book club is murdered during the group's reenactment of the Lizzie Borden case.",
+      "poster": "https://image.tmdb.org/t/p/w500/qUKlHkyHXs3RCBPW3Kto9q722t8.jpg",
+      "releaseInfo": "2026-09-19"
+    },
+    {
       "id": "tt37542993",
       "type": "movie",
       "name": "Daniel and the Fiery Furnace",
@@ -713,6 +729,14 @@
       "releaseInfo": "2026-09-06"
     },
     {
+      "id": "tt43746294",
+      "type": "movie",
+      "name": "Haunted Harmony Mysteries: Prelude to a Wedding",
+      "description": "When Gethsemane is invited to play at a wedding, she and Eamon find themselves involved in the death of a member of the bridal party.",
+      "poster": "https://image.tmdb.org/t/p/w500/cLVKFbVkNfbXnIvZZzzmhr9VMmO.jpg",
+      "releaseInfo": "2026-09-05"
+    },
+    {
       "id": "tt44942157",
       "type": "movie",
       "name": "Instadocs: The Decoy Plane",
@@ -774,6 +798,14 @@
       "name": "Turning Point: Generation 9/11",
       "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
+      "id": "tt43679852",
+      "type": "movie",
+      "name": "LEGO Star Wars: The Mandalorian",
+      "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
@@ -980,7 +1012,7 @@
       "id": "tt39149951",
       "type": "movie",
       "name": "American Doctor",
-      "description": "United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza and return to the United States to fight for the patients and colleagues they left behind.",
+      "description": "United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza in the middle of a genocide comitted by Israel, and return to the United States to fight for the patients and colleagues they left behind.",
       "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
       "releaseInfo": "2026-08-14"
     },
@@ -1046,6 +1078,14 @@
       "name": "The Last Assassins",
       "description": "After her father is murdered, a young warrior known as “The Kid” and her guardian cross a violent dystopian future in search of the aunt she has never met. The world is trapped in permanent winter and shrouded in deadly fog, and Nobel is bound by an oath to protect the few remaining members of her family. Their journey leads them to an abandoned laboratory, where holograms reveal secrets from the family’s past. But as the boundary between the digital and physical worlds begins to collapse, the young woman may hold the key to what comes next.",
       "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
+      "releaseInfo": "2026-08-11"
+    },
+    {
+      "id": "tt38906892",
+      "type": "movie",
+      "name": "Night Nurse",
+      "description": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
+      "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
       "releaseInfo": "2026-08-11"
     },
     {
