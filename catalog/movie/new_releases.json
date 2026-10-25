@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt36583977",
+      "type": "movie",
+      "name": "Forgotten Island",
+      "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "releaseInfo": "2026-10-27"
+    },
+    {
+      "id": "tt21285562",
+      "type": "movie",
+      "name": "The Dog Stars",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "releaseInfo": "2026-10-27"
+    },
+    {
       "id": "tt40311603",
       "type": "movie",
       "name": "Ghosts: The Possession of Button House",
@@ -13,7 +29,7 @@
       "type": "movie",
       "name": "Wicker",
       "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
       "releaseInfo": "2026-10-23"
     },
     {
@@ -53,7 +69,7 @@
       "type": "movie",
       "name": "Hot Wheels Let's Race: Attack of the T-Rex",
       "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTqzOESz9Loj2SL5Klxf7oahJHb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
       "releaseInfo": "2026-10-20"
     },
     {
@@ -501,7 +517,7 @@
       "type": "movie",
       "name": "Super Troopers 3",
       "description": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
-      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hOAjBggD7zWat7nqt7dUUDH5ZRG.jpg",
       "releaseInfo": "2026-09-22"
     },
     {
