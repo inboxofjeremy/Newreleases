@@ -73,6 +73,14 @@
       "releaseInfo": "2026-10-20"
     },
     {
+      "id": "tt37775809",
+      "type": "movie",
+      "name": "The Musical",
+      "description": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
+      "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "releaseInfo": "2026-10-20"
+    },
+    {
       "id": "tt10794054",
       "type": "movie",
       "name": "The Weight",
@@ -238,14 +246,6 @@
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
-      "id": "tt29256561",
-      "type": "movie",
-      "name": "The Beast",
-      "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
-      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -542,6 +542,14 @@
       "name": "Best of the Best",
       "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
+      "id": "tt32827454",
+      "type": "movie",
+      "name": "Tiny Fugitives",
+      "description": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
+      "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -929,6 +937,14 @@
       "releaseInfo": "2026-08-26"
     },
     {
+      "id": "tt43683692",
+      "type": "movie",
+      "name": "2 Big to Rig",
+      "description": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
+      "poster": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
+      "releaseInfo": "2026-08-26"
+    },
+    {
       "id": "tt43700434",
       "type": "movie",
       "name": "Untold: The Testimony of Vince Young",
@@ -1246,6 +1262,14 @@
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "poster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+      "releaseInfo": "2026-07-28"
+    },
+    {
+      "id": "tt32273171",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
@@ -1831,6 +1855,14 @@
       "description": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.",
       "poster": "https://image.tmdb.org/t/p/w500/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
       "releaseInfo": "2026-06-12"
+    },
+    {
+      "id": "tt32648803",
+      "type": "movie",
+      "name": "Honeyjoon",
+      "description": "A grieving Persian-Kurdish mother and her American daughter head to the scenic Azores on conflicting agendas, but their clash of perspectives turns into a path toward healing under the influence of a handsome local guide.",
+      "poster": "https://image.tmdb.org/t/p/w500/k0MGRrDHmJ1RJKwd56f4RHDgF9x.jpg",
+      "releaseInfo": "2026-06-10"
     },
     {
       "id": "tt43339083",
