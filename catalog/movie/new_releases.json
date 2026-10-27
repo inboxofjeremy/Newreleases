@@ -29,7 +29,7 @@
       "type": "movie",
       "name": "The Dog Stars",
       "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
       "releaseInfo": "2026-10-27"
     },
     {
@@ -849,6 +849,14 @@
       "releaseInfo": "2026-09-02"
     },
     {
+      "id": "tt33295642",
+      "type": "movie",
+      "name": "My Notes on Mars",
+      "description": "Margot, a brilliant young scientist with a troubled marriage, disappears inexplicably while hiking with her husband Sam and a group of friends. A few weeks later, she miraculously reappears the day of her own memorial service. Margot is clearly not the same as before the accident. Nevertheless, Sam sees his wife’s miraculous reappearance as a second chance.",
+      "poster": "https://image.tmdb.org/t/p/w500/m9WqXkXMN4A34qPNE0cxlUSUt9x.jpg",
+      "releaseInfo": "2026-09-02"
+    },
+    {
       "id": "tt43961446",
       "type": "movie",
       "name": "9/11: United We Stand -- 25 Years Later",
@@ -919,6 +927,14 @@
       "description": "A TV director returns to her theater roots for a Shakespeare festival and runs into an old flame, rekindling a merry war of wits in this modern retelling of \"Much Ado About Nothing.\"",
       "poster": "https://image.tmdb.org/t/p/w500/47VBOUhDQLiWrePlNPCCgk2kVYO.jpg",
       "releaseInfo": "2026-08-29"
+    },
+    {
+      "id": "tt37654454",
+      "type": "movie",
+      "name": "Boorman and the Devil",
+      "description": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
+      "poster": "https://image.tmdb.org/t/p/w500/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
+      "releaseInfo": "2026-08-28"
     },
     {
       "id": "tt34470118",
@@ -1199,6 +1215,22 @@
       "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
       "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
       "releaseInfo": "2026-08-04"
+    },
+    {
+      "id": "tt43729889",
+      "type": "movie",
+      "name": "Storm on Sesame Street",
+      "description": "As a big storm approaches, Elmo and friends work together to get ready. After it passes, Sesame Street looks different — and everyone pitches in to help.",
+      "poster": "https://image.tmdb.org/t/p/w500/okvOQKSkMKmGt9LRV4eJ7ejikQv.jpg",
+      "releaseInfo": "2026-08-03"
+    },
+    {
+      "id": "tt43732886",
+      "type": "movie",
+      "name": "WWE SummerSlam 2026: Sunday",
+      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+      "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
+      "releaseInfo": "2026-08-02"
     },
     {
       "id": "tt43732885",
@@ -1734,6 +1766,22 @@
       "name": "7 Piano Sketches",
       "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
       "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tt42941113",
+      "type": "movie",
+      "name": "Land of Wolves",
+      "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
+      "releaseInfo": "2026-06-19"
+    },
+    {
+      "id": "tt42353154",
+      "type": "movie",
+      "name": "Stepfather",
+      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
+      "poster": "https://image.tmdb.org/t/p/w500/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
