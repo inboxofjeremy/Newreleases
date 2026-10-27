@@ -9,6 +9,14 @@
       "releaseInfo": "2026-10-28"
     },
     {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "releaseInfo": "2026-10-27"
+    },
+    {
       "id": "tt36583977",
       "type": "movie",
       "name": "Forgotten Island",
@@ -334,14 +342,6 @@
       "name": "Stranglehold",
       "description": "Fed up with their lives, barely eking by in small-town Arkansas, a stripper with dreams and her Army vet husband decide to rob the strip club that employs her.",
       "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
-      "releaseInfo": "2026-10-02"
-    },
-    {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity",
-      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
       "releaseInfo": "2026-10-02"
     },
     {
@@ -1201,22 +1201,6 @@
       "releaseInfo": "2026-08-04"
     },
     {
-      "id": "tt43729889",
-      "type": "movie",
-      "name": "Storm on Sesame Street",
-      "description": "As a big storm approaches, Elmo and friends work together to get ready. After it passes, Sesame Street looks different — and everyone pitches in to help.",
-      "poster": "https://image.tmdb.org/t/p/w500/okvOQKSkMKmGt9LRV4eJ7ejikQv.jpg",
-      "releaseInfo": "2026-08-03"
-    },
-    {
-      "id": "tt43732886",
-      "type": "movie",
-      "name": "WWE SummerSlam 2026: Sunday",
-      "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
-      "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
-      "releaseInfo": "2026-08-02"
-    },
-    {
       "id": "tt43732885",
       "type": "movie",
       "name": "WWE SummerSlam 2026: Saturday",
@@ -1750,22 +1734,6 @@
       "name": "7 Piano Sketches",
       "description": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
       "poster": "https://image.tmdb.org/t/p/w500/3FTym5kbJ8Qc9cpFSz3WxskK5nV.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42941113",
-      "type": "movie",
-      "name": "Land of Wolves",
-      "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
-      "releaseInfo": "2026-06-19"
-    },
-    {
-      "id": "tt42353154",
-      "type": "movie",
-      "name": "Stepfather",
-      "description": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
-      "poster": "https://image.tmdb.org/t/p/w500/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
       "releaseInfo": "2026-06-19"
     },
     {
