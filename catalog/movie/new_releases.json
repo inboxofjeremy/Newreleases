@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt36482679",
+      "type": "movie",
+      "name": "The Only Living Pickpocket in New York",
+      "description": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
+      "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+      "releaseInfo": "2026-10-30"
+    },
+    {
       "id": "tt43655467",
       "type": "movie",
       "name": "Ali G: Who Iz I?",
@@ -13,7 +21,7 @@
       "type": "movie",
       "name": "Verity",
       "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "releaseInfo": "2026-10-27"
     },
     {
@@ -1689,14 +1697,6 @@
       "releaseInfo": "2026-06-24"
     },
     {
-      "id": "tt32565993",
-      "type": "movie",
-      "name": "The Sheep Detectives",
-      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
-      "releaseInfo": "2026-06-24"
-    },
-    {
       "id": "tt42898211",
       "type": "movie",
       "name": "Ryan Hamilton: This Just Hit Me",
@@ -1969,14 +1969,6 @@
       "releaseInfo": "2026-06-05"
     },
     {
-      "id": "tt36926359",
-      "type": "movie",
-      "name": "Seven Snipers",
-      "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "poster": "https://image.tmdb.org/t/p/w500/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
-      "releaseInfo": "2026-06-05"
-    },
-    {
       "id": "tt42192165",
       "type": "movie",
       "name": "The Murder of Rachel Nickell",
@@ -2070,14 +2062,6 @@
       "name": "Voidance",
       "description": "To join the elite ATIC Guard, Alana Toro must pass one final test: enter a simulation, prevent a terrorist attack, and prove her loyalty. Every mistake resets the clock. Every death disappears - except in her memory, where the weight keeps building. The more Alana learns, the more she begins to question the organisation she fought so hard to join.",
       "poster": "https://image.tmdb.org/t/p/w500/Asyz5nXgLX3mg5C10RAd5Oo2PYc.jpg",
-      "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt2467700",
-      "type": "movie",
-      "name": "Animal Farm",
-      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-      "poster": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
       "releaseInfo": "2026-05-26"
     },
     {
@@ -2319,14 +2303,6 @@
       "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "releaseInfo": "2026-05-01"
-    },
-    {
-      "id": "tt13374694",
-      "type": "movie",
-      "name": "The Story of Everything",
-      "description": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
-      "poster": "https://image.tmdb.org/t/p/w500/vajGff87GT6JfCi45K4bPquLbom.jpg",
-      "releaseInfo": "2026-04-30"
     },
     {
       "id": "tt29218808",
