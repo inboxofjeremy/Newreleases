@@ -25,6 +25,14 @@
       "releaseInfo": "2026-10-27"
     },
     {
+      "id": "tt34611096",
+      "type": "movie",
+      "name": "The Stunt Driver",
+      "description": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+      "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "releaseInfo": "2026-10-27"
+    },
+    {
       "id": "tt36583977",
       "type": "movie",
       "name": "Forgotten Island",
@@ -37,7 +45,7 @@
       "type": "movie",
       "name": "The Dog Stars",
       "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "releaseInfo": "2026-10-27"
     },
     {
@@ -445,7 +453,7 @@
       "type": "movie",
       "name": "NAZA",
       "description": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -462,14 +470,6 @@
       "name": "The Deputy",
       "description": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
       "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "releaseInfo": "2026-09-25"
-    },
-    {
-      "id": "tt34206385",
-      "type": "movie",
-      "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
@@ -1847,6 +1847,14 @@
       "description": "When a woman returns to Texas to help save her aunt's struggling country music bar, she reconnects with her childhood sweetheart turned cowboy and rekindles her lost passion for dancing.",
       "poster": "https://image.tmdb.org/t/p/w500/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
       "releaseInfo": "2026-06-13"
+    },
+    {
+      "id": "tt41635253",
+      "type": "movie",
+      "name": "New Toy Story",
+      "description": "When a new action figure accidentally knocks a princess doll over the backyard fence, a group of mismatched toys must work together to bring her home before dark.",
+      "poster": "https://image.tmdb.org/t/p/w500/lY4GSWvOGquJMZEY0e20v7i7Om4.jpg",
+      "releaseInfo": "2026-06-12"
     },
     {
       "id": "tt28689422",
