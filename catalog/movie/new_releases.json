@@ -33,6 +33,14 @@
       "releaseInfo": "2026-10-27"
     },
     {
+      "id": "tt34611096",
+      "type": "movie",
+      "name": "The Stunt Driver",
+      "description": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+      "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "releaseInfo": "2026-10-27"
+    },
+    {
       "id": "tt36583977",
       "type": "movie",
       "name": "Forgotten Island",
@@ -54,14 +62,6 @@
       "name": "Ghosts: The Possession of Button House",
       "description": "It's a matter of life and death for Alison, Mike, Mia and the Ghosts.",
       "poster": "https://image.tmdb.org/t/p/w500/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
-      "releaseInfo": "2026-10-23"
-    },
-    {
-      "id": "tt29611136",
-      "type": "movie",
-      "name": "Wicker",
-      "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
       "releaseInfo": "2026-10-23"
     },
     {
@@ -462,6 +462,14 @@
       "name": "The Deputy",
       "description": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
       "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
