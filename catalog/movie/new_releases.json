@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Shaun the Sheep: The Beast of Mossy Bottom",
       "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-      "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
       "releaseInfo": "2026-10-23"
     },
     {
@@ -87,6 +87,14 @@
       "description": "Aless, an adaptive teenage girl discovers the wonders of the Twilight saga and becomes obsessed with it.",
       "poster": "https://image.tmdb.org/t/p/w500/yNPpKdl20jAvJLusQr14fjgVGo5.jpg",
       "releaseInfo": "2026-10-22"
+    },
+    {
+      "id": "tt37405791",
+      "type": "movie",
+      "name": "Hanging by a Wire",
+      "description": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+      "releaseInfo": "2026-10-21"
     },
     {
       "id": "tt49317723",
@@ -311,6 +319,14 @@
       "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "releaseInfo": "2026-10-08"
+    },
+    {
+      "id": "tt32268691",
+      "type": "movie",
+      "name": "Onslaught",
+      "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
+      "releaseInfo": "2026-10-06"
     },
     {
       "id": "tt31192372",
@@ -950,14 +966,6 @@
       "name": "Boorman and the Devil",
       "description": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
       "poster": "https://image.tmdb.org/t/p/w500/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
-      "releaseInfo": "2026-08-28"
-    },
-    {
-      "id": "tt34470118",
-      "type": "movie",
-      "name": "Rise of the Footsoldier: Retribution",
-      "description": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
-      "poster": "https://image.tmdb.org/t/p/w500/qJ4UV7YnAweTjosfSzDG80j1nd0.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
