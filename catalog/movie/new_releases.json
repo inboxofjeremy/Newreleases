@@ -601,6 +601,14 @@
       "releaseInfo": "2026-09-17"
     },
     {
+      "id": "tt44940424",
+      "type": "movie",
+      "name": "Optimus Prime Awakening",
+      "description": "An animated epilogue to The Transformers: The Movie (1986) and the final performance of Peter Cullen.",
+      "poster": "https://image.tmdb.org/t/p/w500/2hPh4j6ISRtaRwg57HmMrnzTW7O.jpg",
+      "releaseInfo": "2026-09-17"
+    },
+    {
       "id": "tt40231163",
       "type": "movie",
       "name": "Run Hide Fight: Infidels",
@@ -950,6 +958,14 @@
       "name": "Boorman and the Devil",
       "description": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
       "poster": "https://image.tmdb.org/t/p/w500/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
+      "releaseInfo": "2026-08-28"
+    },
+    {
+      "id": "tt34470118",
+      "type": "movie",
+      "name": "Rise of the Footsoldier: Retribution",
+      "description": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ4UV7YnAweTjosfSzDG80j1nd0.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
