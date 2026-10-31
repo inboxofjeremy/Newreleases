@@ -121,14 +121,6 @@
       "releaseInfo": "2026-10-20"
     },
     {
-      "id": "tt34379051",
-      "type": "movie",
-      "name": "By Any Means",
-      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-      "releaseInfo": "2026-10-20"
-    },
-    {
       "id": "tt46027225",
       "type": "movie",
       "name": "Super Scam Me",
@@ -233,7 +225,7 @@
       "releaseInfo": "2026-10-13"
     },
     {
-      "id": "tt32588798",
+      "id": "tmdb:1302904",
       "type": "movie",
       "name": "Practical Magic 2",
       "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
@@ -241,7 +233,7 @@
       "releaseInfo": "2026-10-13"
     },
     {
-      "id": "tt31349844",
+      "id": "tmdb:1377237",
       "type": "movie",
       "name": "Runner",
       "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
@@ -305,36 +297,12 @@
       "releaseInfo": "2026-10-09"
     },
     {
-      "id": "tt36150957",
-      "type": "movie",
-      "name": "Oasis: Don't Look Back in Anger",
-      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
       "id": "tt28498219",
       "type": "movie",
       "name": "Matchbox the Movie",
       "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "releaseInfo": "2026-10-08"
-    },
-    {
-      "id": "tt32268691",
-      "type": "movie",
-      "name": "Onslaught",
-      "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
-      "releaseInfo": "2026-10-06"
-    },
-    {
-      "id": "tt31192372",
-      "type": "movie",
-      "name": "Fall 2: Deadpoint",
-      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "releaseInfo": "2026-10-06"
     },
     {
       "id": "tt32298494",
@@ -422,14 +390,6 @@
       "name": "The Swan: Behind the Mirror",
       "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
       "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
-      "releaseInfo": "2026-09-29"
-    },
-    {
-      "id": "tt36983905",
-      "type": "movie",
-      "name": "The Uprising",
-      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "releaseInfo": "2026-09-29"
     },
     {
@@ -713,15 +673,7 @@
       "releaseInfo": "2026-09-10"
     },
     {
-      "id": "tt29714073",
-      "type": "movie",
-      "name": "Bad Apples",
-      "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-      "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-      "releaseInfo": "2026-09-10"
-    },
-    {
-      "id": "tt33510831",
+      "id": "tmdb:1762506",
       "type": "movie",
       "name": "Band of Brothers: Legacy",
       "description": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
@@ -729,28 +681,20 @@
       "releaseInfo": "2026-09-09"
     },
     {
-      "id": "tt38061210",
+      "id": "tt36150957",
+      "type": "movie",
+      "name": "Oasis: Don't Look Back in Anger",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "releaseInfo": "2026-09-09"
+    },
+    {
+      "id": "tmdb:1522689",
       "type": "movie",
       "name": "Why Did I Get Married Again?",
       "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
       "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
       "releaseInfo": "2026-09-09"
-    },
-    {
-      "id": "tt43700444",
-      "type": "movie",
-      "name": "Untold Mr. T: I Pity the Fool",
-      "description": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-      "releaseInfo": "2026-09-08"
-    },
-    {
-      "id": "tt41975820",
-      "type": "movie",
-      "name": "Stavros Halkias: Uncle Stav",
-      "description": "In this unruly set, Stavros Halkias imagines becoming a \"dirtbag\" uncle, roasts the health care system and warns of the risks of living your best life.",
-      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
-      "releaseInfo": "2026-09-08"
     },
     {
       "id": "tt14119302",
@@ -793,35 +737,11 @@
       "releaseInfo": "2026-09-06"
     },
     {
-      "id": "tt43746294",
-      "type": "movie",
-      "name": "Haunted Harmony Mysteries: Prelude to a Wedding",
-      "description": "When Gethsemane is invited to play at a wedding, she and Eamon find themselves involved in the death of a member of the bridal party.",
-      "poster": "https://image.tmdb.org/t/p/w500/cLVKFbVkNfbXnIvZZzzmhr9VMmO.jpg",
-      "releaseInfo": "2026-09-05"
-    },
-    {
       "id": "tt44942157",
       "type": "movie",
       "name": "Instadocs: The Decoy Plane",
       "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
       "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-      "releaseInfo": "2026-09-04"
-    },
-    {
-      "id": "tt36980182",
-      "type": "movie",
-      "name": "The Incomer",
-      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/nGnI5tT7qstkld94S8m4c68noZt.jpg",
-      "releaseInfo": "2026-09-04"
-    },
-    {
-      "id": "tt21452628",
-      "type": "movie",
-      "name": "The Girl in the River",
-      "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
-      "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -841,28 +761,20 @@
       "releaseInfo": "2026-09-03"
     },
     {
+      "id": "tt34564059",
+      "type": "movie",
+      "name": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "releaseInfo": "2026-09-03"
+    },
+    {
       "id": "tt28014327",
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "releaseInfo": "2026-09-03"
-    },
-    {
-      "id": "tt34564059",
-      "type": "movie",
-      "name": "The Runner",
-      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "releaseInfo": "2026-09-02"
-    },
-    {
-      "id": "tt44322266",
-      "type": "movie",
-      "name": "Turning Point: Generation 9/11",
-      "description": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-      "releaseInfo": "2026-09-02"
     },
     {
       "id": "tt43679852",
@@ -873,19 +785,11 @@
       "releaseInfo": "2026-09-02"
     },
     {
-      "id": "tt35670577",
+      "id": "tt34379051",
       "type": "movie",
-      "name": "Bucking Fastard",
-      "description": "Two sisters, Jean and Joan Holbrooke, are so close to each other that they speak in unison, love the same man, and have the same dreams. They even make the same slip of tongue in unison. We cannot see the world as they see it, but we do see how the world reacts to them – through the courts and the press, through those that want to help and those who want to use them, through the eyes of beasts both tame and wild, and even through their own echoes in the core of the earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ae0A2HtLSa0W2xOXvS47HdMz6ri.jpg",
-      "releaseInfo": "2026-09-02"
-    },
-    {
-      "id": "tt33295642",
-      "type": "movie",
-      "name": "My Notes on Mars",
-      "description": "Margot, a brilliant young scientist with a troubled marriage, disappears inexplicably while hiking with her husband Sam and a group of friends. A few weeks later, she miraculously reappears the day of her own memorial service. Margot is clearly not the same as before the accident. Nevertheless, Sam sees his wife’s miraculous reappearance as a second chance.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9WqXkXMN4A34qPNE0cxlUSUt9x.jpg",
+      "name": "By Any Means",
+      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
@@ -894,7 +798,7 @@
       "name": "9/11: United We Stand -- 25 Years Later",
       "description": "Explore how sports, music, Broadway and comedy helped Americans rediscover joy and begin to heal in the wake of the 9/11 attacks.",
       "poster": "https://image.tmdb.org/t/p/w500/2D7gAc7lpMTVAckI55tK5rYjUGo.jpg",
-      "releaseInfo": "2026-09-02"
+      "releaseInfo": "2026-09-01"
     },
     {
       "id": "tt43700441",
@@ -902,6 +806,14 @@
       "name": "Untold Raygun: Breaking Badly",
       "description": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
       "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+      "releaseInfo": "2026-09-01"
+    },
+    {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Fall 2: Deadpoint",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "releaseInfo": "2026-09-01"
     },
     {
@@ -935,14 +847,6 @@
       "description": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
       "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
       "releaseInfo": "2026-09-01"
-    },
-    {
-      "id": "tt36980377",
-      "type": "movie",
-      "name": "Zip Wire",
-      "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
-      "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-      "releaseInfo": "2026-08-31"
     },
     {
       "id": "tt38066519",
@@ -1261,7 +1165,7 @@
       "type": "movie",
       "name": "WWE SummerSlam 2026: Saturday",
       "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
-      "poster": "https://image.tmdb.org/t/p/w500/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mASBuCwVd01yqacg4dFBAwsWMAh.jpg",
       "releaseInfo": "2026-08-01"
     },
     {
