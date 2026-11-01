@@ -81,6 +81,22 @@
       "releaseInfo": "2026-10-23"
     },
     {
+      "id": "tt33998222",
+      "type": "movie",
+      "name": "Love Language",
+      "description": "After a failed engagement, a woman discovers a talent for writing wedding vows, but her growing success and new romance are complicated when she’s hired to write vows for her former college flame’s wedding.",
+      "poster": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+      "releaseInfo": "2026-10-23"
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "name": "A Talent for Murder",
+      "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "releaseInfo": "2026-10-23"
+    },
+    {
       "id": "tt14371256",
       "type": "movie",
       "name": "Klara and the Sun",
@@ -593,6 +609,14 @@
       "releaseInfo": "2026-09-18"
     },
     {
+      "id": "tt27541205",
+      "type": "movie",
+      "name": "Queen at Sea",
+      "description": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
+      "poster": "https://image.tmdb.org/t/p/w500/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
       "id": "tt39151344",
       "type": "movie",
       "name": "If I Go Will They Miss Me",
@@ -695,6 +719,14 @@
       "description": "An ex-DEA operative must return to the mountains of South America in an effort to find his missing niece and nephew, following the brutal murders of their diplomat parents. Enlisting the help of a washed-up junkie war photographer, the only person to have seen the face of the killers, he sets out, determined to find the children and the truth, but soon learns he must also face the ghosts of his past.",
       "poster": "https://image.tmdb.org/t/p/w500/to8YnDGzKvkxKweUI4v8iw6RMCs.jpg",
       "releaseInfo": "2026-09-13"
+    },
+    {
+      "id": "tt40431884",
+      "type": "movie",
+      "name": "102 Minutes: Inside the Towers",
+      "description": "Offers perspectives from survivors of the World Trade Center, timed to the 25th anniversary of the 9/11 attacks.",
+      "poster": "https://image.tmdb.org/t/p/w500/z17OwhLVB3oMiFZ21Op4fM2QIUP.jpg",
+      "releaseInfo": "2026-09-11"
     },
     {
       "id": "tt33512134",
