@@ -217,6 +217,14 @@
       "releaseInfo": "2026-10-16"
     },
     {
+      "id": "tt39150035",
+      "type": "movie",
+      "name": "The Disciple: A Wu-Tang Fable",
+      "description": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
       "id": "tt35856037",
       "type": "movie",
       "name": "Your Mother Your Mother Your Mother",
@@ -350,6 +358,14 @@
       "name": "Oasis: Don't Look Back in Anger",
       "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
       "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
+      "id": "tt38807889",
+      "type": "movie",
+      "name": "Monster Mia",
+      "description": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
+      "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
