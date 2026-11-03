@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt35856037",
+      "type": "movie",
+      "name": "Your Mother Your Mother Your Mother",
+      "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "releaseInfo": "2026-11-03"
+    },
+    {
+      "id": "tt13609648",
+      "type": "movie",
+      "name": "Sense and Sensibility",
+      "description": "A charming, witty, and deeply relatable story of love and sisterhood.",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "releaseInfo": "2026-11-03"
+    },
+    {
       "id": "tt34206385",
       "type": "movie",
       "name": "Primetime",
@@ -222,22 +238,6 @@
       "name": "The Disciple: A Wu-Tang Fable",
       "description": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
       "poster": "https://image.tmdb.org/t/p/w500/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
-      "releaseInfo": "2026-10-16"
-    },
-    {
-      "id": "tt35856037",
-      "type": "movie",
-      "name": "Your Mother Your Mother Your Mother",
-      "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-      "releaseInfo": "2026-10-16"
-    },
-    {
-      "id": "tt13609648",
-      "type": "movie",
-      "name": "Sense and Sensibility",
-      "description": "A charming, witty, and deeply relatable story of love and sisterhood.",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
