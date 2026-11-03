@@ -651,7 +651,7 @@
     {
       "id": "tt41007422",
       "type": "movie",
-      "name": "Thomas & Friends: Really Helpful Engines",
+      "name": "Thomas & Friends: Railway Stories - Really Helpful Engines",
       "description": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends.",
       "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
       "releaseInfo": "2026-09-17"
@@ -1817,14 +1817,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt39018643",
-      "type": "movie",
-      "name": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-      "description": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
-      "poster": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
       "id": "tt42278042",
       "type": "movie",
       "name": "The Love Heist",
@@ -1990,14 +1982,6 @@
       "name": "Neglected",
       "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
       "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
-      "releaseInfo": "2026-06-09"
-    },
-    {
-      "id": "tt17490712",
-      "type": "movie",
-      "name": "Mortal Kombat II",
-      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
       "releaseInfo": "2026-06-09"
     },
     {
