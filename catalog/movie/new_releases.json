@@ -1,6 +1,30 @@
 {
   "metas": [
     {
+      "id": "tt2321555",
+      "type": "movie",
+      "name": "The Cat in the Hat",
+      "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
+      "id": "tt15799564",
+      "type": "movie",
+      "name": "Wild Horse Nine",
+      "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
+      "id": "tt27041231",
+      "type": "movie",
+      "name": "Musk",
+      "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+      "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
       "id": "tt35856037",
       "type": "movie",
       "name": "Your Mother Your Mother Your Mother",
@@ -334,14 +358,6 @@
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
-      "id": "tt37510326",
-      "type": "movie",
-      "name": "The Social Reckoning",
-      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -2303,22 +2319,6 @@
       "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
       "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
       "releaseInfo": "2026-05-08"
-    },
-    {
-      "id": "tt33100314",
-      "type": "movie",
-      "name": "Remarkably Bright Creatures",
-      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-      "poster": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
-      "id": "tt36163614",
-      "type": "movie",
-      "name": "Iron Maiden: Burning Ambition",
-      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
-      "poster": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
-      "releaseInfo": "2026-05-07"
     },
     {
       "id": "tt29218808",
