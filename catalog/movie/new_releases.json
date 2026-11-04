@@ -25,6 +25,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt13884466",
+      "type": "movie",
+      "name": "Model Citizen",
+      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "releaseInfo": "2026-11-03"
+    },
+    {
       "id": "tt35856037",
       "type": "movie",
       "name": "Your Mother Your Mother Your Mother",
@@ -55,6 +63,14 @@
       "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
       "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
       "releaseInfo": "2026-11-03"
+    },
+    {
+      "id": "tt44825373",
+      "type": "movie",
+      "name": "SCTV: The Greatest Show You've Never Heard Of",
+      "description": "Legendary \"SCTV\" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+      "poster": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+      "releaseInfo": "2026-10-30"
     },
     {
       "id": "tt13611778",
@@ -1037,7 +1053,7 @@
       "type": "movie",
       "name": "Rise of the Footsoldier: Retribution",
       "description": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
-      "poster": "https://image.tmdb.org/t/p/w500/qJ4UV7YnAweTjosfSzDG80j1nd0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
       "releaseInfo": "2026-08-28"
     },
     {
