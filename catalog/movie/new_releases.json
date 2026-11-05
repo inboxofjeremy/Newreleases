@@ -25,6 +25,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt38515310",
+      "type": "movie",
+      "name": "A Dog's Perfect Christmas",
+      "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+      "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "releaseInfo": "2026-11-04"
+    },
+    {
       "id": "tt13884466",
       "type": "movie",
       "name": "Model Citizen",
@@ -1977,14 +1985,6 @@
       "releaseInfo": "2026-06-12"
     },
     {
-      "id": "tt34915693",
-      "type": "movie",
-      "name": "Blue Film",
-      "description": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.",
-      "poster": "https://image.tmdb.org/t/p/w500/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
-      "releaseInfo": "2026-06-12"
-    },
-    {
       "id": "tt32648803",
       "type": "movie",
       "name": "Honeyjoon",
@@ -1998,14 +1998,6 @@
       "name": "Tony Hinchcliffe: Man of the People",
       "description": "Tony Hinchcliffe takes center stage to prove no topic is too taboo and nothing is off-limits — not even the audience — in this razor-sharp special.",
       "poster": "https://image.tmdb.org/t/p/w500/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
-      "releaseInfo": "2026-06-09"
-    },
-    {
-      "id": "tt35224721",
-      "type": "movie",
-      "name": "Neglected",
-      "description": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
-      "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
       "releaseInfo": "2026-06-09"
     },
     {
@@ -2303,30 +2295,6 @@
       "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
       "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
       "releaseInfo": "2026-05-10"
-    },
-    {
-      "id": "tt32352280",
-      "type": "movie",
-      "name": "At the Place of Ghosts",
-      "description": "Haunted by the past, siblings Mise’l and Antle are destined to reunite and join forces against a dark spirit that emerges from their shared childhood. Once inseparable, their fractured relationship set by years of silence and a violent episode rooted in homophobia, is tested as they must return to Sk+te’kmujue’kati (the Place of Ghosts) a forest steeped in ancestral memory where time bends. What initiates from trauma soon transforms into an odyssey of healing, as Mise’l and Antle confront their caretaker’s cruelty, the weight of family secrets, and their own deepest fears.",
-      "poster": "https://image.tmdb.org/t/p/w500/lozVkhb2ShU9TTUOvymhYEaQx4d.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
-      "id": "tt32368538",
-      "type": "movie",
-      "name": "Influenced",
-      "description": "Renowned influencer Dzanielle navigates fake friends among the elite, Ozempic-sharting Upper East Siders, only to discover her true self and her first genuine friendship amidst her comedic quest for a million followers.",
-      "poster": "https://image.tmdb.org/t/p/w500/n08ZWeT73Li3wS7Qu5EDfiPth8e.jpg",
-      "releaseInfo": "2026-05-08"
-    },
-    {
-      "id": "tt12477096",
-      "type": "movie",
-      "name": "Couples Weekend",
-      "description": "What happens when a tree falls in the woods and someone does hear it? Two couples are forced to deal with such a question — and their lives in general — when a New Year's Eve trip to the woods unearths simmering feelings and the secrets they carry threaten to break their seemingly perfect relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
-      "releaseInfo": "2026-05-08"
     },
     {
       "id": "tt29218808",
