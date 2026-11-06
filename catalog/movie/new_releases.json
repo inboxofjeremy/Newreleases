@@ -25,6 +25,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt38058097",
+      "type": "movie",
+      "name": "Club Kid",
+      "description": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+      "releaseInfo": "2026-11-04"
+    },
+    {
       "id": "tt38515310",
       "type": "movie",
       "name": "A Dog's Perfect Christmas",
@@ -70,6 +78,14 @@
       "name": "The History of Concrete",
       "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
       "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+      "releaseInfo": "2026-11-03"
+    },
+    {
+      "id": "tt30850718",
+      "type": "movie",
+      "name": "April X",
+      "description": "When his twin sister April (Lilly Krug) goes missing, Bax (Connor Storrie) searches every corner of their futuristic, post-Soviet cityscape to find her. Ultimately descending into a violent criminal underworld and madness, Bax is forced to confront the cost of identity, love, and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/koNUflGEz6Fdy1GCqpvqBOcIaTP.jpg",
       "releaseInfo": "2026-11-03"
     },
     {
@@ -230,6 +246,14 @@
       "name": "Super Scam Me",
       "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
       "poster": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+      "releaseInfo": "2026-10-17"
+    },
+    {
+      "id": "tt43662087",
+      "type": "movie",
+      "name": "Holiday Touchdown: A Bears Love Story",
+      "description": "When ambitious freelance reporter Avery Clark returns to Chicago to spend Christmas with her mom and new stepdad, she's hoping for a little holiday downtime before her next assignment. Instead, she lands a feel-good story profiling Darlene Donnelly, a beloved Chicago Bears superfan about to celebrate an incredible milestone: attending her 500th game. There's just one catch: Avery knows next to nothing about football or Chicago. Enter Darlene's handsome grandson Matt, a Chicago firefighter and die-hard Bears fan who, with a little gentle nudging from Darlene, agrees to show Avery what being a part of Bears Nation is all about.",
+      "poster": "https://image.tmdb.org/t/p/w500/gEa1lZxMoxWakkcdYll9444Mf88.jpg",
       "releaseInfo": "2026-10-17"
     },
     {
@@ -409,14 +433,6 @@
       "releaseInfo": "2026-10-09"
     },
     {
-      "id": "tt38807889",
-      "type": "movie",
-      "name": "Monster Mia",
-      "description": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
-      "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
       "id": "tt28498219",
       "type": "movie",
       "name": "Matchbox the Movie",
@@ -590,6 +606,14 @@
       "name": "Spidey and the Avengers: Halloween Team-Up!",
       "description": "Spidey and the Avengers' Halloween plans are turned upside down by the mysterious Hallows' Eve, who plays magical tricks on trick or treaters and plans to ruin Halloween forever.",
       "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+      "releaseInfo": "2026-09-24"
+    },
+    {
+      "id": "tt43658408",
+      "type": "movie",
+      "name": "Heartstopper: Ending on a Hi",
+      "description": "After the ending of the hit Netflix series “Heartstopper”, this special combines never-before-seen behind-the-scenes footage, cast and crew interviews, larger cultural commentary, and fan input.",
+      "poster": "https://image.tmdb.org/t/p/w500/sc786qffRbcmyu4NCtiSsg2J5ZJ.jpg",
       "releaseInfo": "2026-09-24"
     },
     {
@@ -929,14 +953,6 @@
       "releaseInfo": "2026-09-04"
     },
     {
-      "id": "tt32500181",
-      "type": "movie",
-      "name": "Come with Me",
-      "description": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
-      "poster": "https://image.tmdb.org/t/p/w500/pJmDaRNtiyuUZvfQpcSgcPlFCZB.jpg",
-      "releaseInfo": "2026-09-04"
-    },
-    {
       "id": "tt37752275",
       "type": "movie",
       "name": "Clash of the Thundermans",
@@ -1213,7 +1229,7 @@
       "type": "movie",
       "name": "Lady",
       "description": "A narcissistic, lonely aristocrat hires an opportunistic filmmaker to document her lavish life, but her desperate bid for fame turns surreal when she literally begins to vanish from sight.",
-      "poster": "https://image.tmdb.org/t/p/w500/fXsTO5Wa11VtIyVMdoQOpeioSVx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1o8JZa6rxw6PaVV3AvnLbXJNMD1.jpg",
       "releaseInfo": "2026-08-14"
     },
     {
@@ -2337,12 +2353,12 @@
       "releaseInfo": "2026-01-16"
     },
     {
-      "id": "tt22006106",
+      "id": "tt31414242",
       "type": "movie",
-      "name": "The Grizzlie Truth",
-      "description": "To die-hard fans of NBA franchise, the Vancouver Grizzlies, like filmmaker Kat Jayme, the team’s abrupt move to Memphis in 2001 is much more than a sore spot, it’s an unsolved mystery and possibly a criminal conspiracy. What begins as a superfan’s investigation into her hometown team’s disappearance, becomes a love letter to the worst professional sports franchise in history, and an exploration of the deep roots of fandom.",
-      "poster": "https://image.tmdb.org/t/p/w500/e33ZSxslhOgxSkC1lAF1cDImh97.jpg",
-      "releaseInfo": "2022-10-01"
+      "name": "The Patient",
+      "description": "An amnesiac hospital patient is issued a life he doesn't remember. But soon he comes to suspect that he’s being manipulated in order to protect a powerful politician implicated in a murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/4m1F4QVXlxr03ZPfd7clXfgFtD1.jpg",
+      "releaseInfo": "2025-12-01"
     }
   ]
 }
