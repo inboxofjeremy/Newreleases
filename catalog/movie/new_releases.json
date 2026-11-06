@@ -433,6 +433,14 @@
       "releaseInfo": "2026-10-09"
     },
     {
+      "id": "tt38807889",
+      "type": "movie",
+      "name": "Monster Mia",
+      "description": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
+      "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
+      "releaseInfo": "2026-10-09"
+    },
+    {
       "id": "tt28498219",
       "type": "movie",
       "name": "Matchbox the Movie",
@@ -950,6 +958,14 @@
       "name": "The Girl in the River",
       "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
       "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "releaseInfo": "2026-09-04"
+    },
+    {
+      "id": "tt32500181",
+      "type": "movie",
+      "name": "Come with Me",
+      "description": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
+      "poster": "https://image.tmdb.org/t/p/w500/pJmDaRNtiyuUZvfQpcSgcPlFCZB.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
