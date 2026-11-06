@@ -413,7 +413,7 @@
       "type": "movie",
       "name": "Monster Mia",
       "description": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
-      "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -917,7 +917,7 @@
       "type": "movie",
       "name": "The Incomer",
       "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-      "poster": "https://image.tmdb.org/t/p/w500/nGnI5tT7qstkld94S8m4c68noZt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
       "releaseInfo": "2026-09-04"
     },
     {
@@ -1573,7 +1573,7 @@
       "type": "movie",
       "name": "Heartstopper Forever",
       "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-      "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/msN87xAXVdHjIcL2aijzY08rOqO.jpg",
       "releaseInfo": "2026-07-17"
     },
     {
@@ -2335,6 +2335,14 @@
       "description": "A rebellious student and a perfectionist overachiever form an unlikely alliance in their race for student body president, discovering unexpected feelings along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
       "releaseInfo": "2026-01-16"
+    },
+    {
+      "id": "tt22006106",
+      "type": "movie",
+      "name": "The Grizzlie Truth",
+      "description": "To die-hard fans of NBA franchise, the Vancouver Grizzlies, like filmmaker Kat Jayme, the team’s abrupt move to Memphis in 2001 is much more than a sore spot, it’s an unsolved mystery and possibly a criminal conspiracy. What begins as a superfan’s investigation into her hometown team’s disappearance, becomes a love letter to the worst professional sports franchise in history, and an exploration of the deep roots of fandom.",
+      "poster": "https://image.tmdb.org/t/p/w500/e33ZSxslhOgxSkC1lAF1cDImh97.jpg",
+      "releaseInfo": "2022-10-01"
     }
   ]
 }
