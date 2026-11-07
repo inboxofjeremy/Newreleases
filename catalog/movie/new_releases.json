@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Cat in the Hat",
       "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
       "releaseInfo": "2026-11-06"
     },
     {
@@ -38,6 +38,14 @@
       "name": "A Dog's Perfect Christmas",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "releaseInfo": "2026-11-04"
+    },
+    {
+      "id": "tt31414242",
+      "type": "movie",
+      "name": "The Patient",
+      "description": "An amnesiac hospital patient is issued a life he doesn't remember. But soon he comes to suspect that he’s being manipulated in order to protect a powerful politician implicated in a murder.",
+      "poster": "https://image.tmdb.org/t/p/w500/4m1F4QVXlxr03ZPfd7clXfgFtD1.jpg",
       "releaseInfo": "2026-11-04"
     },
     {
@@ -2337,14 +2345,6 @@
       "releaseInfo": "2026-05-12"
     },
     {
-      "id": "tt40898187",
-      "type": "movie",
-      "name": "The Roast of Kevin Hart",
-      "description": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
-      "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "releaseInfo": "2026-05-10"
-    },
-    {
       "id": "tt29218808",
       "type": "movie",
       "name": "Infiltrate",
@@ -2367,14 +2367,6 @@
       "description": "A rebellious student and a perfectionist overachiever form an unlikely alliance in their race for student body president, discovering unexpected feelings along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
       "releaseInfo": "2026-01-16"
-    },
-    {
-      "id": "tt31414242",
-      "type": "movie",
-      "name": "The Patient",
-      "description": "An amnesiac hospital patient is issued a life he doesn't remember. But soon he comes to suspect that he’s being manipulated in order to protect a powerful politician implicated in a murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/4m1F4QVXlxr03ZPfd7clXfgFtD1.jpg",
-      "releaseInfo": "2025-12-01"
     }
   ]
 }
