@@ -97,6 +97,14 @@
       "releaseInfo": "2026-11-03"
     },
     {
+      "id": "tt41611921",
+      "type": "movie",
+      "name": "The Holiday Spark",
+      "description": "Firefight Dean enlists illustrator Laura to help plan a holiday party for his firehouse. As they plan the epic party, both begin to question their views on romance and the possibility of love at first spark.",
+      "poster": "https://image.tmdb.org/t/p/w500/imbX2GqQgeX1mAKI297qHdxRlMa.jpg",
+      "releaseInfo": "2026-11-02"
+    },
+    {
       "id": "tt44825373",
       "type": "movie",
       "name": "SCTV: The Greatest Show You've Never Heard Of",
@@ -606,6 +614,14 @@
       "name": "The Deputy",
       "description": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
       "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "releaseInfo": "2026-09-25"
+    },
+    {
+      "id": "tt27739255",
+      "type": "movie",
+      "name": "Charlie Harper",
+      "description": "As an ambitious chef and her struggling partner move to a new city to start fresh, the stark divide in their drives tests the limits of their love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
       "releaseInfo": "2026-09-25"
     },
     {
