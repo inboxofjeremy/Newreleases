@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "Heart of the Beast",
+      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "releaseInfo": "2026-11-10"
+    },
+    {
       "id": "tt2321555",
       "type": "movie",
       "name": "The Cat in the Hat",
@@ -2326,14 +2334,6 @@
       "name": "The Punisher: One Last Kill",
       "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "poster": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-      "releaseInfo": "2026-05-12"
-    },
-    {
-      "id": "tt39382052",
-      "type": "movie",
-      "name": "Marty, Life Is Short",
-      "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
-      "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
       "releaseInfo": "2026-05-12"
     },
     {
