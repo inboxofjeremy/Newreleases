@@ -9,6 +9,30 @@
       "releaseInfo": "2026-11-10"
     },
     {
+      "id": "tt34385184",
+      "type": "movie",
+      "name": "Misty Green",
+      "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "releaseInfo": "2026-11-09"
+    },
+    {
+      "id": "tt10098420",
+      "type": "movie",
+      "name": "Drummer Boy",
+      "description": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
+      "poster": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
+      "id": "tt39219651",
+      "type": "movie",
+      "name": "The 12 Dates of Christmas",
+      "description": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
+      "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
       "id": "tt2321555",
       "type": "movie",
       "name": "The Cat in the Hat",
@@ -407,6 +431,14 @@
       "description": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
       "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
       "releaseInfo": "2026-10-12"
+    },
+    {
+      "id": "tt46970284",
+      "type": "movie",
+      "name": "The Monster She Married",
+      "description": "Groomed since she was a teen, a woman confronts the dark truth about her husband, the man she once trusted as her pediatrician. When another one of his patients is murdered just days before testifying against him, she must break her silence.",
+      "poster": "https://image.tmdb.org/t/p/w500/coCHKzLH088vh7NcwoWQp2JkFhD.jpg",
+      "releaseInfo": "2026-10-10"
     },
     {
       "id": "tt38275278",
