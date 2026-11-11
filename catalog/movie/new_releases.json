@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt38773219",
+      "type": "movie",
+      "name": "Ebenezer",
+      "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "releaseInfo": "2026-11-13"
+    },
+    {
+      "id": "tt38686316",
+      "type": "movie",
+      "name": "Ghost Soldier",
+      "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "releaseInfo": "2026-11-11"
+    },
+    {
       "id": "tt7526136",
       "type": "movie",
       "name": "Heart of the Beast",
@@ -124,7 +140,7 @@
       "id": "tt44825373",
       "type": "movie",
       "name": "SCTV: The Greatest Show You've Never Heard Of",
-      "description": "Legendary \"SCTV\" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+      "description": "Second City Television cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
       "poster": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
       "releaseInfo": "2026-10-30"
     },
@@ -342,6 +358,14 @@
       "name": "The Disciple: A Wu-Tang Fable",
       "description": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
       "poster": "https://image.tmdb.org/t/p/w500/fmPDyVkC6xcvTl0WQOWIwDE0z0S.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
+      "id": "tt32268992",
+      "type": "movie",
+      "name": "Sacrifice",
+      "description": "At a glitzy Greek island charity gala, a down-on-his-luck movie star lands the heroic role of a lifetime when a volcanic doomsday cult takes him hostage.",
+      "poster": "https://image.tmdb.org/t/p/w500/aq09lGYP1rK0tzse4dJRvYK87od.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -2129,6 +2153,14 @@
       "releaseInfo": "2026-06-05"
     },
     {
+      "id": "tt32298956",
+      "type": "movie",
+      "name": "The Passenger",
+      "description": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/eiVvE3ax5BRoTOihqc591e2IJT9.jpg",
+      "releaseInfo": "2026-06-05"
+    },
+    {
       "id": "tt21109170",
       "type": "movie",
       "name": "Signal One",
@@ -2151,14 +2183,6 @@
       "description": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
       "poster": "https://image.tmdb.org/t/p/w500/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg",
       "releaseInfo": "2026-06-04"
-    },
-    {
-      "id": "tt34379307",
-      "type": "movie",
-      "name": "Is God Is",
-      "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "releaseInfo": "2026-06-02"
     },
     {
       "id": "tt41300402",
@@ -2321,52 +2345,12 @@
       "releaseInfo": "2026-05-15"
     },
     {
-      "id": "tt40792117",
-      "type": "movie",
-      "name": "The Crash",
-      "description": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
-      "poster": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
-      "releaseInfo": "2026-05-15"
-    },
-    {
-      "id": "tt42615436",
-      "type": "movie",
-      "name": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-      "description": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-      "poster": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
-      "releaseInfo": "2026-05-14"
-    },
-    {
-      "id": "tt29594919",
-      "type": "movie",
-      "name": "The Run",
-      "description": "In a dystopian, post-pandemic world crippled by a global fertility crisis, an aging smuggler struggles to protect a runaway teenager and her newborn baby from ruthless criminals, while trying to complete his run for his vicious employers.",
-      "poster": "https://image.tmdb.org/t/p/w500/A14acuPDW2N9XApJHY9nH5cZvTU.jpg",
-      "releaseInfo": "2026-05-14"
-    },
-    {
-      "id": "tt9308022",
-      "type": "movie",
-      "name": "Driver's Ed",
-      "description": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
-      "poster": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
-      "releaseInfo": "2026-05-14"
-    },
-    {
       "id": "tt29218808",
       "type": "movie",
       "name": "Infiltrate",
       "description": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
       "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
       "releaseInfo": "2026-04-10"
-    },
-    {
-      "id": "tt14507394",
-      "type": "movie",
-      "name": "Hellfire",
-      "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "releaseInfo": "2026-02-17"
     },
     {
       "id": "tt36934619",
