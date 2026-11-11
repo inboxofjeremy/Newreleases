@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Ebenezer",
       "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "poster": "https://image.tmdb.org/t/p/w500/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "releaseInfo": "2026-11-13"
     },
     {
@@ -1553,6 +1553,14 @@
       "releaseInfo": "2026-07-28"
     },
     {
+      "id": "tt43708434",
+      "type": "movie",
+      "name": "Instadocs: The Prediction Games",
+      "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
+      "poster": "https://image.tmdb.org/t/p/w500/cFy3ShFy7tJLOrjXRHetQEpTAO5.jpg",
+      "releaseInfo": "2026-07-26"
+    },
+    {
       "id": "tt18259538",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
@@ -1565,7 +1573,7 @@
       "type": "movie",
       "name": "Euphoria: A Look Back",
       "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-      "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5NCgwvf1ZdlsVgJrFHQ2fTLsTtk.jpg",
       "releaseInfo": "2026-07-24"
     },
     {
@@ -2217,14 +2225,6 @@
       "releaseInfo": "2026-05-29"
     },
     {
-      "id": "tt41367695",
-      "type": "movie",
-      "name": "Propeller One-Way Night Coach",
-      "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
-      "poster": "https://image.tmdb.org/t/p/w500/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
-      "releaseInfo": "2026-05-28"
-    },
-    {
       "id": "tt41801288",
       "type": "movie",
       "name": "Untold UK: Vinnie Jones",
@@ -2327,6 +2327,14 @@
       "description": "Wanda Sykes returns to her alma mater with a fearlessly funny takedown of everything from the state of the world to the cultural clash over washcloths.",
       "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
       "releaseInfo": "2026-05-19"
+    },
+    {
+      "id": "tt41435250",
+      "type": "movie",
+      "name": "Best Served Cold: A Hannah Swensen Mystery",
+      "description": "When a suspect in a forgery case is murdered and the prosecutor goes missing, Hannah and Chad must uncover how the two cases are connected and solve them in time for the trial.",
+      "poster": "https://image.tmdb.org/t/p/w500/4csEhoQbnMjRUbmKwwlNuIX50rK.jpg",
+      "releaseInfo": "2026-05-16"
     },
     {
       "id": "tt31216533",
