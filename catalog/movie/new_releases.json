@@ -9,6 +9,14 @@
       "releaseInfo": "2026-11-13"
     },
     {
+      "id": "tt35866986",
+      "type": "movie",
+      "name": "How to Rob a Bank",
+      "description": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+      "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+      "releaseInfo": "2026-11-13"
+    },
+    {
       "id": "tt38686316",
       "type": "movie",
       "name": "Ghost Soldier",
@@ -31,6 +39,14 @@
       "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
       "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
       "releaseInfo": "2026-11-09"
+    },
+    {
+      "id": "tt49241977",
+      "type": "movie",
+      "name": "Wolves Up Close with Bertie Gregory",
+      "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
+      "releaseInfo": "2026-11-06"
     },
     {
       "id": "tt39219651",
@@ -853,7 +869,7 @@
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jLT5AWSnBSbBcMixYJxVhbtlbMX.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -943,6 +959,14 @@
       "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
       "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
       "releaseInfo": "2026-09-09"
+    },
+    {
+      "id": "tt34992230",
+      "type": "movie",
+      "name": "The Militia",
+      "description": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
+      "poster": "https://image.tmdb.org/t/p/w500/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
+      "releaseInfo": "2026-09-08"
     },
     {
       "id": "tt43700444",
