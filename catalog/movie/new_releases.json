@@ -17,6 +17,22 @@
       "releaseInfo": "2026-11-13"
     },
     {
+      "id": "tt37675123",
+      "type": "movie",
+      "name": "Allen",
+      "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "releaseInfo": "2026-11-12"
+    },
+    {
+      "id": "tt38420997",
+      "type": "movie",
+      "name": "The Gospel of Christmas",
+      "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+      "poster": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+      "releaseInfo": "2026-11-11"
+    },
+    {
       "id": "tt38686316",
       "type": "movie",
       "name": "Ghost Soldier",
@@ -361,14 +377,6 @@
       "releaseInfo": "2026-10-16"
     },
     {
-      "id": "tt27419420",
-      "type": "movie",
-      "name": "Street Fighter",
-      "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "releaseInfo": "2026-10-16"
-    },
-    {
       "id": "tt39150035",
       "type": "movie",
       "name": "The Disciple: A Wu-Tang Fable",
@@ -455,22 +463,6 @@
       "description": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
       "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
       "releaseInfo": "2026-10-12"
-    },
-    {
-      "id": "tt46659729",
-      "type": "movie",
-      "name": "Clown Panic",
-      "description": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
-      "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
-      "releaseInfo": "2026-10-12"
-    },
-    {
-      "id": "tt46970284",
-      "type": "movie",
-      "name": "The Monster She Married",
-      "description": "Groomed since she was a teen, a woman confronts the dark truth about her husband, the man she once trusted as her pediatrician. When another one of his patients is murdered just days before testifying against him, she must break her silence.",
-      "poster": "https://image.tmdb.org/t/p/w500/coCHKzLH088vh7NcwoWQp2JkFhD.jpg",
-      "releaseInfo": "2026-10-10"
     },
     {
       "id": "tt38275278",
@@ -1649,14 +1641,6 @@
       "releaseInfo": "2026-07-22"
     },
     {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "releaseInfo": "2026-07-21"
-    },
-    {
       "id": "tt32093575",
       "type": "movie",
       "name": "Scary Movie",
@@ -2135,14 +2119,6 @@
       "description": "A grieving Persian-Kurdish mother and her American daughter head to the scenic Azores on conflicting agendas, but their clash of perspectives turns into a path toward healing under the influence of a handsome local guide.",
       "poster": "https://image.tmdb.org/t/p/w500/k0MGRrDHmJ1RJKwd56f4RHDgF9x.jpg",
       "releaseInfo": "2026-06-10"
-    },
-    {
-      "id": "tt43339083",
-      "type": "movie",
-      "name": "Tony Hinchcliffe: Man of the People",
-      "description": "Tony Hinchcliffe takes center stage to prove no topic is too taboo and nothing is off-limits — not even the audience — in this razor-sharp special.",
-      "poster": "https://image.tmdb.org/t/p/w500/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
-      "releaseInfo": "2026-06-09"
     },
     {
       "id": "tt42611070",
