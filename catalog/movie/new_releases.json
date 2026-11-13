@@ -25,6 +25,14 @@
       "releaseInfo": "2026-11-12"
     },
     {
+      "id": "tt15095848",
+      "type": "movie",
+      "name": "Being Heumann",
+      "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+      "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "releaseInfo": "2026-11-12"
+    },
+    {
       "id": "tt38420997",
       "type": "movie",
       "name": "The Gospel of Christmas",
@@ -97,6 +105,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt40564737",
+      "type": "movie",
+      "name": "George Michael: The Faith Tour",
+      "description": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
+      "poster": "https://image.tmdb.org/t/p/w500/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+      "releaseInfo": "2026-11-04"
+    },
+    {
       "id": "tt38058097",
       "type": "movie",
       "name": "Club Kid",
@@ -167,6 +183,14 @@
       "description": "Firefight Dean enlists illustrator Laura to help plan a holiday party for his firehouse. As they plan the epic party, both begin to question their views on romance and the possibility of love at first spark.",
       "poster": "https://image.tmdb.org/t/p/w500/imbX2GqQgeX1mAKI297qHdxRlMa.jpg",
       "releaseInfo": "2026-11-02"
+    },
+    {
+      "id": "tt45922240",
+      "type": "movie",
+      "name": "Barbie in the Nutcracker",
+      "description": "Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
+      "releaseInfo": "2026-11-01"
     },
     {
       "id": "tt44825373",
@@ -337,6 +361,14 @@
       "releaseInfo": "2026-10-17"
     },
     {
+      "id": "tt45858039",
+      "type": "movie",
+      "name": "Seriously Single Too",
+      "description": "Dineo and Noni — besties meant to take on the party scene together — suddenly face their biggest fear when Noni's boyfriend spontaneously propose.",
+      "poster": "https://image.tmdb.org/t/p/w500/ocSY3cX4g6hxy4EkQWXPjrrdzCI.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
       "id": "tt45368240",
       "type": "movie",
       "name": "You Can See Everything",
@@ -463,6 +495,22 @@
       "description": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
       "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
       "releaseInfo": "2026-10-12"
+    },
+    {
+      "id": "tt46659729",
+      "type": "movie",
+      "name": "Clown Panic",
+      "description": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
+      "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+      "releaseInfo": "2026-10-12"
+    },
+    {
+      "id": "tt46970284",
+      "type": "movie",
+      "name": "The Monster She Married",
+      "description": "Groomed since she was a teen, a woman confronts the dark truth about her husband, the man she once trusted as her pediatrician. When another one of his patients is murdered just days before testifying against him, she must break her silence.",
+      "poster": "https://image.tmdb.org/t/p/w500/coCHKzLH088vh7NcwoWQp2JkFhD.jpg",
+      "releaseInfo": "2026-10-10"
     },
     {
       "id": "tt38275278",
@@ -861,7 +909,7 @@
       "type": "movie",
       "name": "The Rivals of Amziah King",
       "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/jLT5AWSnBSbBcMixYJxVhbtlbMX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -1641,6 +1689,14 @@
       "releaseInfo": "2026-07-22"
     },
     {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "releaseInfo": "2026-07-21"
+    },
+    {
       "id": "tt32093575",
       "type": "movie",
       "name": "Scary Movie",
@@ -2119,6 +2175,14 @@
       "description": "A grieving Persian-Kurdish mother and her American daughter head to the scenic Azores on conflicting agendas, but their clash of perspectives turns into a path toward healing under the influence of a handsome local guide.",
       "poster": "https://image.tmdb.org/t/p/w500/k0MGRrDHmJ1RJKwd56f4RHDgF9x.jpg",
       "releaseInfo": "2026-06-10"
+    },
+    {
+      "id": "tt43339083",
+      "type": "movie",
+      "name": "Tony Hinchcliffe: Man of the People",
+      "description": "Tony Hinchcliffe takes center stage to prove no topic is too taboo and nothing is off-limits — not even the audience — in this razor-sharp special.",
+      "poster": "https://image.tmdb.org/t/p/w500/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
+      "releaseInfo": "2026-06-09"
     },
     {
       "id": "tt42611070",
