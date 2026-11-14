@@ -25,6 +25,14 @@
       "releaseInfo": "2026-11-13"
     },
     {
+      "id": "tt47791876",
+      "type": "movie",
+      "name": "Snoopy Presents: 12 Days of Snoopy",
+      "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+      "releaseInfo": "2026-11-12"
+    },
+    {
       "id": "tt37675123",
       "type": "movie",
       "name": "Allen",
@@ -113,6 +121,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt38789002",
+      "type": "movie",
+      "name": "Frequency of Fear",
+      "description": "In September 2024, a covert Israeli operation took aim at decimating Islamist militant group Hezbollah, in which thousands of pagers and walkie-talkies in the possession of its operatives exploded simultaneously in Lebanon.",
+      "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+      "releaseInfo": "2026-11-05"
+    },
+    {
       "id": "tt40564737",
       "type": "movie",
       "name": "George Michael: The Faith Tour",
@@ -150,22 +166,6 @@
       "name": "Your Mother Your Mother Your Mother",
       "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
       "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-      "releaseInfo": "2026-11-03"
-    },
-    {
-      "id": "tt13609648",
-      "type": "movie",
-      "name": "Sense and Sensibility",
-      "description": "A charming, witty, and deeply relatable story of love and sisterhood.",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "releaseInfo": "2026-11-03"
-    },
-    {
-      "id": "tt34206385",
-      "type": "movie",
-      "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "releaseInfo": "2026-11-03"
     },
     {
@@ -673,6 +673,14 @@
       "releaseInfo": "2026-09-30"
     },
     {
+      "id": "tt23148884",
+      "type": "movie",
+      "name": "Funny Money: The Dane Cook Story",
+      "description": "Comedian Dane Cook revisits his climb from stand-up stardom—and a devastating family betrayal that cost him millions—in this candid documentary.",
+      "poster": "https://image.tmdb.org/t/p/w500/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+      "releaseInfo": "2026-09-29"
+    },
+    {
       "id": "tt46060457",
       "type": "movie",
       "name": "The Swan: Behind the Mirror",
@@ -767,14 +775,6 @@
       "description": "After the ending of the hit Netflix series “Heartstopper”, this special combines never-before-seen behind-the-scenes footage, cast and crew interviews, larger cultural commentary, and fan input.",
       "poster": "https://image.tmdb.org/t/p/w500/sc786qffRbcmyu4NCtiSsg2J5ZJ.jpg",
       "releaseInfo": "2026-09-24"
-    },
-    {
-      "id": "tt22526100",
-      "type": "movie",
-      "name": "The Love Hypothesis",
-      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "releaseInfo": "2026-09-23"
     },
     {
       "id": "tt37971717",
