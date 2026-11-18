@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tt32558705",
+      "type": "movie",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
+      "id": "tt11995650",
+      "type": "movie",
+      "name": "I Play Rocky",
+      "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
       "id": "tt29256561",
       "type": "movie",
       "name": "The Beast",
@@ -25,11 +41,19 @@
       "releaseInfo": "2026-11-14"
     },
     {
+      "id": "tt50969289",
+      "type": "movie",
+      "name": "Russell Brand: Open Secret",
+      "description": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
+      "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "releaseInfo": "2026-11-13"
+    },
+    {
       "id": "tt38213251",
       "type": "movie",
       "name": "Heartland",
       "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
       "releaseInfo": "2026-11-13"
     },
     {
@@ -601,14 +625,6 @@
       "releaseInfo": "2026-10-09"
     },
     {
-      "id": "tt37510326",
-      "type": "movie",
-      "name": "The Social Reckoning",
-      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
       "id": "tt33214716",
       "type": "movie",
       "name": "The Florist",
@@ -668,7 +684,7 @@
       "id": "tt34798706",
       "type": "movie",
       "name": "Extra Geography",
-      "description": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood—friendship, boys, studies, and growing up—and embark on their school project, falling in love.",
+      "description": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood—friendship, boys, studies, and growing up—and embark on their school project... falling in love.",
       "poster": "https://image.tmdb.org/t/p/w500/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
       "releaseInfo": "2026-10-02"
     },
@@ -1009,14 +1025,6 @@
       "releaseInfo": "2026-09-15"
     },
     {
-      "id": "tt32499466",
-      "type": "movie",
-      "name": "Finding Emily",
-      "description": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
-      "releaseInfo": "2026-09-15"
-    },
-    {
       "id": "tt37968650",
       "type": "movie",
       "name": "The Last Photograph",
@@ -1221,7 +1229,7 @@
       "type": "movie",
       "name": "Bucking Fastard",
       "description": "Two sisters, Jean and Joan Holbrooke, are so close to each other that they speak in unison, love the same man, and have the same dreams. They even make the same slip of tongue in unison. We cannot see the world as they see it, but we do see how the world reacts to them – through the courts and the press, through those that want to help and those who want to use them, through the eyes of beasts both tame and wild, and even through their own echoes in the core of the earth.",
-      "poster": "https://image.tmdb.org/t/p/w500/xwvvfmWitg2LQH0i6rMjtUa1VtO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6NVZPz2tkFkIYYX1Ji26vesxhR5.jpg",
       "releaseInfo": "2026-09-02"
     },
     {
@@ -2073,22 +2081,6 @@
       "releaseInfo": "2026-06-23"
     },
     {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
-      "id": "tt30827810",
-      "type": "movie",
-      "name": "I Love Boosters",
-      "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
-      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "releaseInfo": "2026-06-23"
-    },
-    {
       "id": "tt42278042",
       "type": "movie",
       "name": "The Love Heist",
@@ -2375,30 +2367,6 @@
       "description": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/a77OcLmarwiBJakOPPC36m58t4L.jpg",
       "releaseInfo": "2026-05-22"
-    },
-    {
-      "id": "tt34611082",
-      "type": "movie",
-      "name": "Ladies First",
-      "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-      "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-      "releaseInfo": "2026-05-22"
-    },
-    {
-      "id": "tt42694139",
-      "type": "movie",
-      "name": "Dua Lipa: Live from Mexico",
-      "description": "Live from Mexico, a brand new concert film capturing the high-octane finale of the global Radical Optimism Tour at Mexico City's Estadio GNP Seguros",
-      "poster": "https://image.tmdb.org/t/p/w500/gTOfJRBUsSfuB2sPYPLPcn8ZPbo.jpg",
-      "releaseInfo": "2026-05-21"
-    },
-    {
-      "id": "tt36615154",
-      "type": "movie",
-      "name": "A Machu Picchu Proposal",
-      "description": "Katie agrees to join her brother Dan and his girlfriend Luciana on a trip to Peru. Dan plans to propose to Luciana in a grand way at Machu Picchu at the end of the week and needs Katie’s Spanish speaking skills to ask Luciana’s Peruvian father for his blessing. However, when Luciana’s friend, Chef Carlos, arrives, he accidentally ruins each proposal attempt. Refusing to give up, Katie does everything in her power to make this proposal happen, until Dan calls it off. Katie must lean into Chef Carlos’ spontaneity to not only save the day and the proposal, and Carlos may just win Katie’s heart too!",
-      "poster": "https://image.tmdb.org/t/p/w500/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
-      "releaseInfo": "2026-05-21"
     },
     {
       "id": "tt29218808",
