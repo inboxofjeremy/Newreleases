@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -15,6 +15,22 @@
       "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
       "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "releaseInfo": "2026-11-20"
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "releaseInfo": "2026-11-18"
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "name": "A Talent for Murder",
+      "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "releaseInfo": "2026-11-17"
     },
     {
       "id": "tt29256561",
@@ -53,7 +69,15 @@
       "type": "movie",
       "name": "Heartland",
       "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "poster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "releaseInfo": "2026-11-13"
+    },
+    {
+      "id": "tt38773219",
+      "type": "movie",
+      "name": "Ebenezer",
+      "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "releaseInfo": "2026-11-13"
     },
     {
@@ -153,6 +177,14 @@
       "releaseInfo": "2026-11-06"
     },
     {
+      "id": "tt43656794",
+      "type": "movie",
+      "name": "Making Marie Antoinette",
+      "description": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
+      "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
       "id": "tt27041231",
       "type": "movie",
       "name": "Musk",
@@ -165,7 +197,7 @@
       "type": "movie",
       "name": "Frequency of Fear",
       "description": "In September 2024, a covert Israeli operation took aim at decimating Islamist militant group Hezbollah, in which thousands of pagers and walkie-talkies in the possession of its operatives exploded simultaneously in Lebanon.",
-      "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg",
       "releaseInfo": "2026-11-05"
     },
     {
@@ -345,14 +377,6 @@
       "releaseInfo": "2026-10-23"
     },
     {
-      "id": "tt14129116",
-      "type": "movie",
-      "name": "A Talent for Murder",
-      "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "releaseInfo": "2026-10-23"
-    },
-    {
       "id": "tt14371256",
       "type": "movie",
       "name": "Klara and the Sun",
@@ -398,6 +422,14 @@
       "name": "The Musical",
       "description": "A frustrated playwright and middle school drama teacher plots revenge against his nemesis, the school principal, by secretly staging an outrageous play to sabotage his chances of winning a prestigious award.",
       "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "releaseInfo": "2026-10-20"
+    },
+    {
+      "id": "tt32827454",
+      "type": "movie",
+      "name": "Tiny Fugitives",
+      "description": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
+      "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
       "releaseInfo": "2026-10-20"
     },
     {
@@ -921,14 +953,6 @@
       "releaseInfo": "2026-09-18"
     },
     {
-      "id": "tt32827454",
-      "type": "movie",
-      "name": "Tiny Fugitives",
-      "description": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
-      "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
       "id": "tt27541205",
       "type": "movie",
       "name": "Queen at Sea",
@@ -1094,6 +1118,14 @@
       "name": "Untold Mr. T: I Pity the Fool",
       "description": "Mr. T took the world by storm as an '80s icon. This documentary reveals the full story behind the mohawk, chains and catchphrase from the man himself.",
       "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+      "releaseInfo": "2026-09-08"
+    },
+    {
+      "id": "tt0772163",
+      "type": "movie",
+      "name": "Company",
+      "description": "A mysterious traveler tells a story that spans generations, drawing together the lives of three wounded souls struggling to choose between vengeance and forgiveness.",
+      "poster": "https://image.tmdb.org/t/p/w500/kWRbJ7OuAlaJsJOF5B10gCmqk8k.jpg",
       "releaseInfo": "2026-09-08"
     },
     {
