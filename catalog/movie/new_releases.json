@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -369,6 +369,14 @@
       "releaseInfo": "2026-10-27"
     },
     {
+      "id": "tt46072491",
+      "type": "movie",
+      "name": "What If Christmas",
+      "description": "Erin has always supported her husband Adam, a heart surgeon, by organizing the hospitals' Christmas charity galas. However, when he moves to a new hospital, her help is no longer needed. Feeling lost and without a purpose back in New York City, her long-suppressed regrets over giving up her dream of pursuing fashion design start bubbling up. When Erin is given a peculiar heart-shaped Christmas ornament, she wakes up in an alternate reality where she's a world-famous fashion designer. As she \"meets\" and attends Christmas events with alternate-universe Adam, she realizes that while her fashion dreams came true, it's lonely at the top. While working on a way to bring more charity and heart to her fashion empire, she learns that her dream life and love were always right in front of her – if only she finds the heart and courage to ask.",
+      "poster": "https://image.tmdb.org/t/p/w500/bUrjqVO5nCW3OYa7QIt7nMXqs6m.jpg",
+      "releaseInfo": "2026-10-25"
+    },
+    {
       "id": "tt40311603",
       "type": "movie",
       "name": "Ghosts: The Possession of Button House",
@@ -485,7 +493,7 @@
       "type": "movie",
       "name": "You Can See Everything",
       "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -1710,6 +1718,14 @@
       "name": "Mary Beth Barone: Galaxy Brain",
       "description": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
       "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+      "releaseInfo": "2026-07-28"
+    },
+    {
+      "id": "tt43492793",
+      "type": "movie",
+      "name": "Wham! 10 Days in China",
+      "description": "In 1985, WHAM! made history as the first Western pop act to perform in communist China. George Michael and Andrew Ridgeley’s concerts in Beijing and Guangzhou were a cultural milestone – East meets West, music meets politics. Now, newly restored footage reveals the untold story of the iconic tour that helped launch WHAM! to global superstardom.",
+      "poster": "https://image.tmdb.org/t/p/w500/l0ButzlJ2amtW8WpPPMI8Jrs5Z0.jpg",
       "releaseInfo": "2026-07-28"
     },
     {
