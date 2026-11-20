@@ -1,10 +1,18 @@
 {
   "metas": [
     {
+      "id": "tt14413964",
+      "type": "movie",
+      "name": "Steps",
+      "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
       "id": "tt32558705",
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
-      "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "releaseInfo": "2026-11-20"
     },
@@ -657,14 +665,6 @@
       "releaseInfo": "2026-10-10"
     },
     {
-      "id": "tt35995947",
-      "type": "movie",
-      "name": "Double Trouble",
-      "description": "Two witty sisters in Vegas get tangled in a holiday heist and join forces with an ex-MI6 guard to outmaneuver a master thief and recover a diamond gauntlet before Christmas.",
-      "poster": "https://image.tmdb.org/t/p/w500/2ecp59fHPF5Uq6vRQ6CJtyx4iAp.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
       "id": "tt31049299",
       "type": "movie",
       "name": "Animals",
@@ -966,14 +966,6 @@
       "name": "Daniel and the Fiery Furnace",
       "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
       "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-      "releaseInfo": "2026-09-18"
-    },
-    {
-      "id": "tt16478058",
-      "type": "movie",
-      "name": "Best of the Best",
-      "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
