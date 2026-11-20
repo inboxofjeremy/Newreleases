@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -13,7 +13,7 @@
       "type": "movie",
       "name": "I Play Rocky",
       "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -145,6 +145,14 @@
       "releaseInfo": "2026-11-10"
     },
     {
+      "id": "tt50806490",
+      "type": "movie",
+      "name": "The Invisible Horse",
+      "description": "Just when Jack begins to think he’s too old for Christmas, he ends up befriending an invisible creature that reminds him of what makes Christmas so magical.",
+      "poster": "https://image.tmdb.org/t/p/w500/r8hrwq16pdEp8z8QshG0994SY8k.jpg",
+      "releaseInfo": "2026-11-09"
+    },
+    {
       "id": "tt34385184",
       "type": "movie",
       "name": "Misty Green",
@@ -181,7 +189,7 @@
       "type": "movie",
       "name": "Wild Horse Nine",
       "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-      "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jc9lhVWASTgkuQiukNNxaivsTns.jpg",
       "releaseInfo": "2026-11-06"
     },
     {
@@ -245,7 +253,7 @@
       "type": "movie",
       "name": "Your Mother Your Mother Your Mother",
       "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg",
       "releaseInfo": "2026-11-03"
     },
     {
@@ -1417,19 +1425,19 @@
       "releaseInfo": "2026-08-25"
     },
     {
-      "id": "tt2012616",
-      "type": "movie",
-      "name": "Motor City",
-      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
-      "releaseInfo": "2026-08-25"
-    },
-    {
       "id": "tt32333324",
       "type": "movie",
       "name": "Batman: Knightfall Part 1: Knightfall",
       "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
       "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "releaseInfo": "2026-08-25"
+    },
+    {
+      "id": "tt2012616",
+      "type": "movie",
+      "name": "Motor City",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
       "releaseInfo": "2026-08-25"
     },
     {
