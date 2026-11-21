@@ -505,14 +505,6 @@
       "releaseInfo": "2026-10-16"
     },
     {
-      "id": "tt45368240",
-      "type": "movie",
-      "name": "You Can See Everything",
-      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-      "releaseInfo": "2026-10-16"
-    },
-    {
       "id": "tt44822485",
       "type": "movie",
       "name": "Norm: The Tale of Norm Macdonald",
@@ -966,6 +958,14 @@
       "name": "Daniel and the Fiery Furnace",
       "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
       "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
+      "releaseInfo": "2026-09-18"
+    },
+    {
+      "id": "tt16478058",
+      "type": "movie",
+      "name": "Best of the Best",
+      "description": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
       "releaseInfo": "2026-09-18"
     },
     {
@@ -1615,6 +1615,14 @@
       "description": "Lorelai loves living in her neighborhood, right next to best friends Jackie and Ella. During girl's night at Jackie's house a home invasion goes terribly wrong when the three women accidentally kill a man.",
       "poster": "https://image.tmdb.org/t/p/w500/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
       "releaseInfo": "2026-08-09"
+    },
+    {
+      "id": "tt30441926",
+      "type": "movie",
+      "name": "Olmo",
+      "description": "When Olmo gets invited to a party by his beautiful neighbor, he will do whatever he can to meet up with her, embarking on a night of laughs and chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/zPVWOGE2kSU7GjGNazkdwhkq6Yn.jpg",
+      "releaseInfo": "2026-08-07"
     },
     {
       "id": "tt29512655",
@@ -2391,14 +2399,6 @@
       "description": "This is the story of Vinnie Jones's rise, fall, and comeback against odds – and red cards – from one of football's most notorious hard men to FA cup winner.",
       "poster": "https://image.tmdb.org/t/p/w500/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg",
       "releaseInfo": "2026-05-26"
-    },
-    {
-      "id": "tt40062572",
-      "type": "movie",
-      "name": "AEW Double or Nothing 2026",
-      "description": "The 2026 Double or Nothing was a professional wrestling pay-per-view produced by All Elite Wrestling (AEW) that took place on May 24, 2026, at Louis Armstrong Stadium in New York City, New York, USA. It featured the first quarter-final matches of the 2026 Owen Hart Foundation Tournaments for both the men and women, as well as the long-anticipated AEW International Championship match between Don Callis Family members Kazuchika Okada (c) and Konosuke Takeshita. The show was headlined by Darby Allin (c) vs. MJF in a Title vs. Hair match for the AEW World Championship, where MJF would have to shave his head bald if he lost.",
-      "poster": "https://image.tmdb.org/t/p/w500/hrjKU3dqlOUQ0aEyDgmnl9WSiY7.jpg",
-      "releaseInfo": "2026-05-24"
     },
     {
       "id": "tt29218808",
