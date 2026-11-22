@@ -37,7 +37,15 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
+      "id": "tt38258118",
+      "type": "movie",
+      "name": "Best Pancakes in the County",
+      "description": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+      "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -78,6 +86,14 @@
       "name": "The Beast",
       "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
       "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "releaseInfo": "2026-11-17"
+    },
+    {
+      "id": "tt33184695",
+      "type": "movie",
+      "name": "Rolling Loud: The Movie",
+      "description": "Desperate to reconnect with his distant son, a father secretly takes him to the chaos of Rolling Loud, only to plunge into a wild, frantic search across the massive hip-hop festival when the 13-year-old vanishes into the crowd.",
+      "poster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
       "releaseInfo": "2026-11-17"
     },
     {
@@ -137,6 +153,14 @@
       "releaseInfo": "2026-11-12"
     },
     {
+      "id": "tt46082332",
+      "type": "movie",
+      "name": "Confession",
+      "description": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
+      "poster": "https://image.tmdb.org/t/p/w500/kPId5qdaCPVOSeZYHaYXFYQmEFy.jpg",
+      "releaseInfo": "2026-11-11"
+    },
+    {
       "id": "tt38420997",
       "type": "movie",
       "name": "The Gospel of Christmas",
@@ -159,6 +183,14 @@
       "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
       "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
       "releaseInfo": "2026-11-11"
+    },
+    {
+      "id": "tt49625485",
+      "type": "movie",
+      "name": "Janelle James: How Romantic",
+      "description": "In her debut hour-long stand-up special, Janelle James sounds off on body counts, bank accounts and why women should wrestle men.",
+      "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+      "releaseInfo": "2026-11-10"
     },
     {
       "id": "tt7526136",
@@ -1012,7 +1044,7 @@
       "id": "tt44940424",
       "type": "movie",
       "name": "Optimus Prime Awakening",
-      "description": "An animated epilogue to The Transformers: The Movie (1986) and the final performance of Peter Cullen.",
+      "description": "After his death, Optimus Prime faces a spiritual trial in the afterlife.",
       "poster": "https://image.tmdb.org/t/p/w500/2hPh4j6ISRtaRwg57HmMrnzTW7O.jpg",
       "releaseInfo": "2026-09-17"
     },
