@@ -45,7 +45,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -229,7 +229,7 @@
       "type": "movie",
       "name": "Misty Green",
       "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
-      "poster": "https://image.tmdb.org/t/p/w500/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
       "releaseInfo": "2026-11-09"
     },
     {
@@ -798,6 +798,14 @@
       "name": "Extra Geography",
       "description": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood—friendship, boys, studies, and growing up—and embark on their school project... falling in love.",
       "poster": "https://image.tmdb.org/t/p/w500/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+      "releaseInfo": "2026-10-02"
+    },
+    {
+      "id": "tt36789083",
+      "type": "movie",
+      "name": "Atonement",
+      "description": "In the early days of the Iraq War, a split-second decision made by a U.S. Marine during a tense standoff devastates an Iraqi family. Years later, aided by a New Yorker journalist, he seeks to reconcile with the family he destroyed.",
+      "poster": "https://image.tmdb.org/t/p/w500/zQPB0tL1sH1r54EDlqMugYqmcuu.jpg",
       "releaseInfo": "2026-10-02"
     },
     {
