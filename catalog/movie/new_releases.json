@@ -29,8 +29,16 @@
       "type": "movie",
       "name": "The Social Reckoning",
       "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
       "releaseInfo": "2026-11-24"
+    },
+    {
+      "id": "tt39316936",
+      "type": "movie",
+      "name": "Clashing Through the Snow",
+      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "releaseInfo": "2026-11-23"
     },
     {
       "id": "tt14413964",
@@ -46,6 +54,14 @@
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
+      "id": "tt48434154",
+      "type": "movie",
+      "name": "Primetime Preacher$",
+      "description": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+      "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -221,7 +237,7 @@
       "type": "movie",
       "name": "The Invisible Horse",
       "description": "Just when Jack begins to think he’s too old for Christmas, he ends up befriending an invisible creature that reminds him of what makes Christmas so magical.",
-      "poster": "https://image.tmdb.org/t/p/w500/r8hrwq16pdEp8z8QshG0994SY8k.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rYVMhHqWYwzuuNpWFp4LZwIg4fj.jpg",
       "releaseInfo": "2026-11-09"
     },
     {
@@ -473,14 +489,6 @@
       "releaseInfo": "2026-10-23"
     },
     {
-      "id": "tt14371256",
-      "type": "movie",
-      "name": "Klara and the Sun",
-      "description": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-      "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-      "releaseInfo": "2026-10-23"
-    },
-    {
       "id": "tt36841161",
       "type": "movie",
       "name": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -613,7 +621,7 @@
       "type": "movie",
       "name": "KATSEYE: Wild Hearts",
       "description": "A celebration to the group's new era and the fans who made it possible. Features exclusive behind-the-scenes footage, Eyekons fan videos, and intimate interviews with the members.",
-      "poster": "https://image.tmdb.org/t/p/w500/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vuqQhyka0VOFWGpTsO9d6H1VRFl.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
