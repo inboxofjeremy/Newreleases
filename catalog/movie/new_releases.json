@@ -25,6 +25,22 @@
       "releaseInfo": "2026-11-25"
     },
     {
+      "id": "tt47597255",
+      "type": "movie",
+      "name": "Rob Lowe: The Outsider",
+      "description": "Traces Lowe's career from his breakout roles in “The Outsiders” and “St. Elmo’s Fire” to his Emmy-nominated performance on “The West Wing” and how he maintained his Hollywood career.",
+      "poster": "https://image.tmdb.org/t/p/w500/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+      "releaseInfo": "2026-11-24"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+      "releaseInfo": "2026-11-24"
+    },
+    {
       "id": "tt29611136",
       "type": "movie",
       "name": "Wicker",
@@ -69,7 +85,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -311,6 +327,14 @@
       "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
       "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
       "releaseInfo": "2026-11-06"
+    },
+    {
+      "id": "tt44568283",
+      "type": "movie",
+      "name": "Snowbody Like You",
+      "description": "A holiday first date ends in a frosty misunderstanding, leaving Peyton and Ethan to go their separate ways. Years later, a Christmas blizzard brings them back together, giving them one more chance to discover if the magic between them was meant to last.",
+      "poster": "https://image.tmdb.org/t/p/w500/nmO4mODklY2h2xyNuMiRKEYXuM5.jpg",
+      "releaseInfo": "2026-11-05"
     },
     {
       "id": "tt38789002",
