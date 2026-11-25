@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt38077943",
+      "type": "movie",
+      "name": "Hexed",
+      "description": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "releaseInfo": "2026-11-25"
+    },
+    {
       "id": "tt34966140",
       "type": "movie",
       "name": "Focker In-Law",
@@ -61,7 +69,7 @@
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
       "description": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -85,7 +93,7 @@
       "type": "movie",
       "name": "I Play Rocky",
       "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sPID7NqwpNdSAEMhazCvidxxeNo.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -149,7 +157,7 @@
       "type": "movie",
       "name": "A Proud Family Wizmas",
       "description": "When Penny Proud’s rant about Wizmas and the commercialization of Christmas causes Santa to quit on Christmas eve, Penny finds herself guilted into putting on the red suit and replacing him. And in the process of delivering Yuletide cheer with the help of Santa’s irreverent elves, she discovers that indeed the Christmas spirit is still alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/11wLgcyi1712tk891oqT1SblmAY.jpg",
       "releaseInfo": "2026-11-14"
     },
     {
@@ -257,19 +265,19 @@
       "releaseInfo": "2026-11-09"
     },
     {
+      "id": "tt34385184",
+      "type": "movie",
+      "name": "Misty Green",
+      "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "releaseInfo": "2026-11-09"
+    },
+    {
       "id": "tt49241977",
       "type": "movie",
       "name": "Wolves Up Close with Bertie Gregory",
       "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
       "poster": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
-      "releaseInfo": "2026-11-06"
-    },
-    {
-      "id": "tt39219651",
-      "type": "movie",
-      "name": "The 12 Dates of Christmas",
-      "description": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
-      "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
       "releaseInfo": "2026-11-06"
     },
     {
@@ -294,6 +302,14 @@
       "name": "Making Marie Antoinette",
       "description": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
       "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+      "releaseInfo": "2026-11-06"
+    },
+    {
+      "id": "tt27041231",
+      "type": "movie",
+      "name": "Musk",
+      "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+      "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
       "releaseInfo": "2026-11-06"
     },
     {
@@ -569,7 +585,7 @@
       "releaseInfo": "2026-10-17"
     },
     {
-      "id": "tmdb:1773759",
+      "id": "tt45858039",
       "type": "movie",
       "name": "Seriously Single Too",
       "description": "Dineo and Noni — besties meant to take on the party scene together — suddenly face their biggest fear when Noni's boyfriend spontaneously propose.",
@@ -593,11 +609,19 @@
       "releaseInfo": "2026-10-16"
     },
     {
-      "id": "tmdb:1452110",
+      "id": "tt36271247",
       "type": "movie",
       "name": "Clean Hands",
       "description": "Based on a true story, a veteran narcotics officer turned recovery advocate and his daughter, who struggles with addiction, confront the American drug crisis from opposing sides of the law while navigating their complicated family bond.",
       "poster": "https://image.tmdb.org/t/p/w500/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+      "releaseInfo": "2026-10-16"
+    },
+    {
+      "id": "tt39150035",
+      "type": "movie",
+      "name": "The Disciple: A Wu-Tang Fable",
+      "description": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/fmPDyVkC6xcvTl0WQOWIwDE0z0S.jpg",
       "releaseInfo": "2026-10-16"
     },
     {
@@ -617,12 +641,12 @@
       "releaseInfo": "2026-10-16"
     },
     {
-      "id": "tt28535715",
+      "id": "tt6262770",
       "type": "movie",
-      "name": "Whalefall",
-      "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-      "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "releaseInfo": "2026-10-14"
+      "name": "Tenzing",
+      "description": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "releaseInfo": "2026-10-15"
     },
     {
       "id": "tt34384900",
@@ -638,6 +662,14 @@
       "name": "Michael Che: Shot in Minnesota",
       "description": "Michael Che takes aim at racism, marriage, free speech and everything in between.",
       "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+      "releaseInfo": "2026-10-13"
+    },
+    {
+      "id": "tt9174288",
+      "type": "movie",
+      "name": "Let's Have Kids!",
+      "description": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
+      "poster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
       "releaseInfo": "2026-10-13"
     },
     {
@@ -697,28 +729,12 @@
       "releaseInfo": "2026-10-10"
     },
     {
-      "id": "tt39150035",
+      "id": "tt38275278",
       "type": "movie",
-      "name": "The Disciple: A Wu-Tang Fable",
-      "description": "This documentary recounts Cilvaringz's unlikely rise from fan to Wu-Tang Clan fame — and how the infamous \"Once Upon a Time in Shaolin\" album came to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/fmPDyVkC6xcvTl0WQOWIwDE0z0S.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
-      "id": "tt35995947",
-      "type": "movie",
-      "name": "Double Trouble",
-      "description": "Two witty sisters in Vegas get tangled in a holiday heist and join forces with an ex-MI6 guard to outmaneuver a master thief and recover a diamond gauntlet before Christmas.",
-      "poster": "https://image.tmdb.org/t/p/w500/2ecp59fHPF5Uq6vRQ6CJtyx4iAp.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
-      "id": "tt34385184",
-      "type": "movie",
-      "name": "Misty Green",
-      "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
-      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
-      "releaseInfo": "2026-10-09"
+      "name": "WWE Money in the Bank 2026",
+      "description": "The 2026 Money in the Bank, also promoted as Money in the Bank: New Orleans, is an upcoming professional wrestling premium live event produced by WWE. It will be the 17th annual Money in the Bank event and will take place on Saturday, October 10, 2026, in New Orleans, Louisiana. This will be the first Money in the Bank to be held in October, making it the latest scheduled Money in the Bank in a calendar year, and the first one to be held after SummerSlam.",
+      "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+      "releaseInfo": "2026-10-10"
     },
     {
       "id": "tt31049299",
@@ -726,14 +742,6 @@
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-      "releaseInfo": "2026-10-09"
-    },
-    {
-      "id": "tt27041231",
-      "type": "movie",
-      "name": "Musk",
-      "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
-      "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
       "releaseInfo": "2026-10-09"
     },
     {
@@ -2287,14 +2295,6 @@
       "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
       "poster": "https://image.tmdb.org/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
       "releaseInfo": "2026-06-17"
-    },
-    {
-      "id": "tt32547691",
-      "type": "movie",
-      "name": "Pressure",
-      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
-      "poster": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
-      "releaseInfo": "2026-06-16"
     },
     {
       "id": "tt42277796",
