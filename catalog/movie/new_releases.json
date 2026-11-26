@@ -17,11 +17,19 @@
       "releaseInfo": "2026-11-25"
     },
     {
+      "id": "tt34385689",
+      "type": "movie",
+      "name": "Paper Tiger",
+      "description": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+      "releaseInfo": "2026-11-25"
+    },
+    {
       "id": "tt36413910",
       "type": "movie",
       "name": "The Mosquito Bowl",
       "description": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
       "releaseInfo": "2026-11-25"
     },
     {
@@ -81,6 +89,14 @@
       "releaseInfo": "2026-11-20"
     },
     {
+      "id": "tt32321285",
+      "type": "movie",
+      "name": "Josephine",
+      "description": "After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
+      "releaseInfo": "2026-11-20"
+    },
+    {
       "id": "tt32558705",
       "type": "movie",
       "name": "The Hunger Games: Sunrise on the Reaping",
@@ -93,7 +109,7 @@
       "type": "movie",
       "name": "Primetime Preacher$",
       "description": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
-      "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pnMVyfJevpBCpElzKglYb8pD3hf.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
