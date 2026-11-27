@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "Wicker",
       "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
       "releaseInfo": "2026-11-24"
     },
     {
@@ -157,7 +157,7 @@
       "type": "movie",
       "name": "A Talent for Murder",
       "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-      "poster": "https://image.tmdb.org/t/p/w500/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eaPfmH83P4yf4gyaWFD4FvvdOcM.jpg",
       "releaseInfo": "2026-11-17"
     },
     {
@@ -414,6 +414,14 @@
       "name": "Primetime",
       "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "releaseInfo": "2026-11-03"
+    },
+    {
+      "id": "tt37542993",
+      "type": "movie",
+      "name": "Daniel and the Fiery Furnace",
+      "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
+      "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
       "releaseInfo": "2026-11-03"
     },
     {
@@ -1079,14 +1087,6 @@
       "description": "One of the members of Jennifer Shannon's true-crime book club is murdered during the group's reenactment of the Lizzie Borden case.",
       "poster": "https://image.tmdb.org/t/p/w500/qUKlHkyHXs3RCBPW3Kto9q722t8.jpg",
       "releaseInfo": "2026-09-19"
-    },
-    {
-      "id": "tt37542993",
-      "type": "movie",
-      "name": "Daniel and the Fiery Furnace",
-      "description": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
-      "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-      "releaseInfo": "2026-09-18"
     },
     {
       "id": "tt16478058",
@@ -2455,22 +2455,6 @@
       "description": "",
       "poster": "https://image.tmdb.org/t/p/w500/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
       "releaseInfo": "2026-05-31"
-    },
-    {
-      "id": "tt43122943",
-      "type": "movie",
-      "name": "Instadocs: Alex Murdaugh, Unconvicted",
-      "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial.",
-      "poster": "https://image.tmdb.org/t/p/w500/3hhrFvWvcH6k11j7ZXS2c749Ywp.jpg",
-      "releaseInfo": "2026-05-30"
-    },
-    {
-      "id": "tt41435072",
-      "type": "movie",
-      "name": "Haunted Harmony Mysteries: Key to the Castle",
-      "description": "When a ghost hunter show comes to town, it's up to Gethsemane and Eamon to solve the unexpected murder of the host, allowing the brand-new spirit to cross-over.",
-      "poster": "https://image.tmdb.org/t/p/w500/l9Pm8DnilY7A1POSOacy1JEYE5Y.jpg",
-      "releaseInfo": "2026-05-30"
     },
     {
       "id": "tt29218808",
