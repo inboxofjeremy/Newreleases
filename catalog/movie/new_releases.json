@@ -53,7 +53,7 @@
       "type": "movie",
       "name": "Wicker",
       "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
       "releaseInfo": "2026-11-24"
     },
     {
@@ -125,7 +125,7 @@
       "type": "movie",
       "name": "I Play Rocky",
       "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8q8AF8xvV1drhACtEL2Iti5gJ8P.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -157,7 +157,7 @@
       "type": "movie",
       "name": "A Talent for Murder",
       "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-      "poster": "https://image.tmdb.org/t/p/w500/eaPfmH83P4yf4gyaWFD4FvvdOcM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
       "releaseInfo": "2026-11-17"
     },
     {
@@ -479,6 +479,14 @@
       "description": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
       "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
       "releaseInfo": "2026-10-30"
+    },
+    {
+      "id": "tt38691481",
+      "type": "movie",
+      "name": "Everest: The Other Side",
+      "description": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.",
+      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
+      "releaseInfo": "2026-10-29"
     },
     {
       "id": "tt43655467",
@@ -804,7 +812,7 @@
       "id": "tt33214716",
       "type": "movie",
       "name": "The Florist",
-      "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+      "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witness to police corruption.",
       "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
       "releaseInfo": "2026-10-09"
     },
@@ -1150,6 +1158,14 @@
       "name": "After Impact",
       "description": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "releaseInfo": "2026-09-15"
+    },
+    {
+      "id": "tt41858262",
+      "type": "movie",
+      "name": "70 Up",
+      "description": "Across seven decades, British viewers watched 14 children grow into adults in films broadcast every seven years. In the series' final installment – with all surviving participants now in their seventies – what do their lives tell us about Britain?",
+      "poster": "https://image.tmdb.org/t/p/w500/fssXQF0BvwvAa8VXKVqRwPTmdVw.jpg",
       "releaseInfo": "2026-09-15"
     },
     {
@@ -2142,6 +2158,14 @@
       "name": "Bang My Box: The Robin Byrd Story",
       "description": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
       "poster": "https://image.tmdb.org/t/p/w500/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+      "releaseInfo": "2026-06-30"
+    },
+    {
+      "id": "tt32261856",
+      "type": "movie",
+      "name": "She's the He!",
+      "description": "To protect their reputations before graduation, two friends pretend to be trans women—only for a comedic stunt to turn into a profound journey of self-discovery when one of them realizes her truth.",
+      "poster": "https://image.tmdb.org/t/p/w500/4pfjoDOoRfJHsK6AwfqUQ6gdauo.jpg",
       "releaseInfo": "2026-06-30"
     },
     {
