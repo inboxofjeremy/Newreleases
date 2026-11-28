@@ -1,11 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt43621069",
+      "type": "movie",
+      "name": "Lilo & Scratch",
+      "description": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
+      "poster": "https://image.tmdb.org/t/p/w500/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+      "releaseInfo": "2026-11-25"
+    },
+    {
       "id": "tt38077943",
       "type": "movie",
       "name": "Hexed",
       "description": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "releaseInfo": "2026-11-25"
+    },
+    {
+      "id": "tt17055444",
+      "type": "movie",
+      "name": "Hershey",
+      "description": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
+      "poster": "https://image.tmdb.org/t/p/w500/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
       "releaseInfo": "2026-11-25"
     },
     {
@@ -53,7 +69,7 @@
       "type": "movie",
       "name": "Wicker",
       "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1LLAI48AJwlWOd6IE6La0OXieBt.jpg",
       "releaseInfo": "2026-11-24"
     },
     {
@@ -81,19 +97,19 @@
       "releaseInfo": "2026-11-23"
     },
     {
+      "id": "tt50200663",
+      "type": "movie",
+      "name": "The Closure",
+      "description": "When fate brings two former lovers back together years after their breakup, one last walk through Cardiff becomes a tender meditation on love, timing, and the quiet courage it takes to let someone become a beautiful memory.",
+      "poster": "https://image.tmdb.org/t/p/w500/oCkT4SXnjI28hKmUowxrQkYqCQn.jpg",
+      "releaseInfo": "2026-11-21"
+    },
+    {
       "id": "tt14413964",
       "type": "movie",
       "name": "Steps",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "releaseInfo": "2026-11-20"
-    },
-    {
-      "id": "tt32321285",
-      "type": "movie",
-      "name": "Josephine",
-      "description": "After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.",
-      "poster": "https://image.tmdb.org/t/p/w500/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
       "releaseInfo": "2026-11-20"
     },
     {
@@ -625,19 +641,19 @@
       "releaseInfo": "2026-10-20"
     },
     {
+      "id": "tt43662087",
+      "type": "movie",
+      "name": "Holiday Touchdown: A Bears Love Story",
+      "description": "Avery writes an article profiling a woman attending her 500th Bears game who only agrees to the story if her grandson serves as Avery's ambassador to Chicago for the holidays.",
+      "poster": "https://image.tmdb.org/t/p/w500/gEa1lZxMoxWakkcdYll9444Mf88.jpg",
+      "releaseInfo": "2026-10-18"
+    },
+    {
       "id": "tt46027225",
       "type": "movie",
       "name": "Super Scam Me",
       "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
       "poster": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg",
-      "releaseInfo": "2026-10-17"
-    },
-    {
-      "id": "tt43662087",
-      "type": "movie",
-      "name": "Holiday Touchdown: A Bears Love Story",
-      "description": "When ambitious freelance reporter Avery Clark returns to Chicago to spend Christmas with her mom and new stepdad, she's hoping for a little holiday downtime before her next assignment. Instead, she lands a feel-good story profiling Darlene Donnelly, a beloved Chicago Bears superfan about to celebrate an incredible milestone: attending her 500th game. There's just one catch: Avery knows next to nothing about football or Chicago. Enter Darlene's handsome grandson Matt, a Chicago firefighter and die-hard Bears fan who, with a little gentle nudging from Darlene, agrees to show Avery what being a part of Bears Nation is all about.",
-      "poster": "https://image.tmdb.org/t/p/w500/gEa1lZxMoxWakkcdYll9444Mf88.jpg",
       "releaseInfo": "2026-10-17"
     },
     {
@@ -839,6 +855,14 @@
       "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "releaseInfo": "2026-10-08"
+    },
+    {
+      "id": "tt45915205",
+      "type": "movie",
+      "name": "Jamie Foxx: Take Care of Yourself",
+      "description": "Jamie Foxx delivers honest self-care comedy in \"Take Care of Yourself.\" He joins the \"Hularious\" lineup with Hannah Berner, Ralph Barbosa, Bill Burr, Chris Distefano, Jim Gaffigan, Zarna Garg, Nikki Glaser, Ilana Glazer and more.",
+      "poster": "https://image.tmdb.org/t/p/w500/lVMY9gUcGpYozb4WVEJTNuUG2fN.jpg",
+      "releaseInfo": "2026-10-07"
     },
     {
       "id": "tt31192372",
